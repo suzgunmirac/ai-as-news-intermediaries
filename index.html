@@ -1,0 +1,737 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI Chatbots as News Intermediaries</title>
+    <meta
+      name="description"
+      content="A 14-day evaluation of commercial AI chatbots answering same-day news questions across languages, regions, citations, retrieval failures, and adversarial false premises."
+    />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="AI Chatbots as News Intermediaries" />
+    <meta
+      property="og:description"
+      content="A 14-day, real-time evaluation of six commercial AI chatbots on same-day BBC News questions across six languages and regions. High accuracy on average; uneven grounding by region; fragile under false premises."
+    />
+    <meta property="og:image" content="assets/fig_model_region_heatmap.png" />
+    <meta property="og:image:alt" content="Heatmap of model × region accuracy showing every model performs worst on Hindi." />
+
+    <!-- Twitter / X card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="AI Chatbots as News Intermediaries" />
+    <meta
+      name="twitter:description"
+      content="14-day real-time evaluation: high accuracy on average, uneven grounding by region, fragile under false premises."
+    />
+    <meta name="twitter:image" content="assets/fig_model_region_heatmap.png" />
+
+    <link rel="stylesheet" href="styles.css?v=2026-05-21e" />
+
+    <style>
+      /* v2-only additions, scoped under .v2 so the original page is unaffected. */
+
+      /* ── Figure gallery ──────────────────────────────────────────────── */
+      .v2 .figures {
+        display: grid;
+        gap: clamp(1.4rem, 3vw, 2.4rem);
+      }
+      .v2 .figure-card {
+        background: var(--paper, #fff);
+        border: 1px solid rgba(31, 31, 29, 0.08);
+        border-radius: 16px;
+        padding: clamp(1.1rem, 2.4vw, 1.8rem);
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.025);
+      }
+      .v2 .figure-card p.figure-eyebrow {
+        margin: 0 0 0.35rem;
+        font-size: 0.78rem;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        color: var(--accent, #0f766e);
+        font-weight: 600;
+      }
+      .v2 .figure-card h3 {
+        margin: 0 0 0.9rem;
+        font-size: clamp(1.05rem, 1.6vw, 1.35rem);
+        line-height: 1.3;
+        color: var(--ink);
+      }
+      .v2 .figure-card img {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        background: #fff;
+      }
+      .v2 .figure-card figcaption {
+        margin-top: 0.85rem;
+        font-size: 0.92rem;
+        color: var(--muted);
+        line-height: 1.55;
+      }
+      .v2 .figure-card figcaption strong {
+        color: var(--ink);
+      }
+      .v2 .figure-card.compact {
+        max-width: 760px;
+        margin: 0 auto;
+      }
+
+      /* ── Tightly grouped two-up row for paired panels ─────────────────── */
+      .v2 .figure-row-two {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: clamp(1.1rem, 2.4vw, 1.8rem);
+      }
+      @media (max-width: 880px) {
+        .v2 .figure-row-two {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      /* ── Inline pull-quote between figures ───────────────────────────── */
+      .v2 .pull-quote {
+        max-width: 760px;
+        margin: 1rem auto 0;
+        padding: 1.15rem 1.4rem;
+        border-left: 3px solid var(--accent, #0f766e);
+        background: var(--accent-soft, #dcefea);
+        border-radius: 0 10px 10px 0;
+        color: var(--ink);
+        font-size: 1rem;
+        line-height: 1.55;
+      }
+      .v2 .pull-quote em {
+        font-style: italic;
+        color: var(--accent-dark, #0a514c);
+      }
+
+      /* ── Author affiliations ─────────────────────────────────────────── */
+      .v2 .author-affil {
+        font-size: 0.78rem;
+        color: var(--faint);
+        vertical-align: super;
+        line-height: 1;
+        margin-left: 0.12em;
+      }
+      .v2 .affiliation-key {
+        font-size: 0.86rem;
+        color: var(--muted);
+        margin-top: 0.55rem;
+        line-height: 1.55;
+      }
+      .v2 .affiliation-key span + span::before {
+        content: " · ";
+        color: var(--faint);
+      }
+
+      /* ── BibTeX block ────────────────────────────────────────────────── */
+      .v2 .cite-block {
+        background: #faf7f0;
+        border: 1px solid rgba(31, 31, 29, 0.08);
+        border-radius: 14px;
+        padding: clamp(1rem, 2.4vw, 1.5rem);
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+        font-size: 0.85rem;
+        color: var(--ink);
+        white-space: pre;
+        overflow-x: auto;
+        line-height: 1.55;
+      }
+
+      /* ── Citation format tabs + plain-text panels ────────────────────── */
+      .v2 .cite-tabs {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.45rem;
+        margin: 0 0 0.95rem;
+      }
+      .v2 .cite-tab {
+        appearance: none;
+        background: transparent;
+        border: 1px solid rgba(31, 31, 29, 0.2);
+        border-radius: 999px;
+        padding: 0.32rem 0.95rem;
+        font: inherit;
+        font-size: 0.86rem;
+        color: var(--muted, #5a5a5a);
+        cursor: pointer;
+        transition: border-color 140ms ease, color 140ms ease, background 140ms ease;
+      }
+      .v2 .cite-tab:hover {
+        color: var(--ink);
+        border-color: #111111;
+      }
+      .v2 .cite-tab[aria-selected="true"] {
+        background: #111111;
+        border-color: #111111;
+        color: #ffffff;
+      }
+      .v2 .cite-tab:focus-visible {
+        outline: 2px solid #111111;
+        outline-offset: 2px;
+      }
+      .v2 .cite-text {
+        background: #faf7f0;
+        border: 1px solid rgba(31, 31, 29, 0.08);
+        border-radius: 14px;
+        padding: clamp(1rem, 2.4vw, 1.5rem);
+        font-size: 0.95rem;
+        line-height: 1.65;
+        color: var(--ink);
+        margin: 0;
+      }
+      .v2 .cite-text a {
+        color: var(--ink);
+        text-decoration: underline;
+        text-decoration-color: rgba(31, 31, 29, 0.3);
+        text-underline-offset: 2px;
+      }
+      .v2 .cite-text a:hover {
+        text-decoration-color: #111111;
+      }
+
+      /* ── Icons inside hero buttons ───────────────────────────────────── */
+      .v2 .btn-icon {
+        display: inline-block;
+        vertical-align: -3px;
+        margin-right: 0.45rem;
+        opacity: 0.85;
+      }
+      .v2 .button:hover .btn-icon { opacity: 1; }
+
+      /* ── Models evaluated table ──────────────────────────────────────── */
+      .v2 .models-table {
+        margin-top: 1.4rem;
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.92rem;
+      }
+      .v2 .models-table th,
+      .v2 .models-table td {
+        text-align: left;
+        padding: 0.55rem 0.85rem;
+        border-bottom: 1px solid rgba(31, 31, 29, 0.07);
+      }
+      .v2 .models-table th {
+        font-size: 0.78rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--faint);
+        font-weight: 600;
+      }
+      .v2 .models-table td:first-child {
+        color: var(--ink);
+        font-weight: 600;
+        white-space: nowrap;
+      }
+      .v2 .models-table td:nth-child(2),
+      .v2 .models-table td:nth-child(3) {
+        color: var(--muted);
+      }
+      .v2 .models-table tr:last-child td {
+        border-bottom: none;
+      }
+      .v2 .models-caption {
+        font-size: 0.86rem;
+        color: var(--muted);
+        margin-top: 0.85rem;
+        line-height: 1.5;
+      }
+    </style>
+  </head>
+  <body class="v2">
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="AI Chatbots as News Intermediaries home">
+        <span class="brand-mark"></span>
+        <span>AI as News Intermediaries</span>
+      </a>
+      <nav class="nav" aria-label="Primary navigation">
+        <a href="#findings">Findings</a>
+        <a href="#examples">Examples</a>
+        <a href="#figures">Figures</a>
+        <a href="#methods">Methods</a>
+        <a href="#cite">Cite</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero section">
+        <div class="hero-copy">
+          <h1>Commercial AI chatbots are becoming news intermediaries. Their performance is high, uneven, and fragile.</h1>
+          <p class="hero-lede">
+            We evaluated six production AI chatbots on same-day BBC News questions across six regional services. The best systems now answer many recent-news questions correctly, but aggregate accuracy masks regional inequity, retrieval dependence, opaque source selection, and vulnerability to misleading premises.
+          </p>
+          <div class="hero-actions" aria-label="Project links">
+            <a class="button primary" href="#findings">Read the findings</a>
+            <a class="button" href="https://arxiv.org/abs/2605.22785" rel="noopener">
+              <svg class="btn-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="14" y2="17"/></svg>
+              <span>Read on arXiv</span>
+            </a>
+            <a class="button" href="https://github.com/suzgunmirac/ai-as-news-intermediaries" rel="noopener">
+              <svg class="btn-icon" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.56 0-.27-.01-1-.02-1.96-3.2.69-3.87-1.54-3.87-1.54-.52-1.32-1.27-1.67-1.27-1.67-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.18 1.76 1.18 1.02 1.75 2.69 1.24 3.34.95.1-.74.4-1.24.73-1.53-2.55-.29-5.23-1.28-5.23-5.7 0-1.26.45-2.29 1.18-3.1-.12-.29-.51-1.46.11-3.04 0 0 .97-.31 3.18 1.18a11.04 11.04 0 015.79 0c2.21-1.49 3.18-1.18 3.18-1.18.62 1.58.23 2.75.11 3.04.74.81 1.18 1.84 1.18 3.1 0 4.43-2.69 5.41-5.25 5.69.41.36.78 1.06.78 2.13 0 1.54-.01 2.78-.01 3.16 0 .31.21.68.8.56C20.21 21.39 23.5 17.08 23.5 12 23.5 5.65 18.35.5 12 .5z"/></svg>
+              <span>Code &amp; data</span>
+            </a>
+            <a class="button" href="#cite">Cite this work</a>
+          </div>
+          <p class="authors">
+            <a href="https://sites.google.com/view/msuzgun" rel="noopener">Mirac Suzgun</a><sup class="author-affil">1</sup>,
+            <a href="https://www.linkedin.com/in/mleshen/" rel="noopener">Emily Shen</a><sup class="author-affil">2</sup>,
+            <a href="https://federicobianchi.io/" rel="noopener">Federico Bianchi</a><sup class="author-affil">3</sup>,
+            <a href="https://www.alexander-spangher.com/" rel="noopener">Alexander Spangher</a><sup class="author-affil">1</sup>,<br />
+            <a href="https://stanford.edu/~icard/" rel="noopener">Thomas Icard</a><sup class="author-affil">1</sup>,
+            <a href="https://dho.stanford.edu/" rel="noopener">Daniel E. Ho</a><sup class="author-affil">1</sup>,
+            <a href="https://web.stanford.edu/~jurafsky/" rel="noopener">Dan Jurafsky</a><sup class="author-affil">1</sup>, and
+            <a href="https://www.james-zou.com/" rel="noopener">James Zou</a><sup class="author-affil">1,3</sup>
+          </p>
+          <p class="affiliation-key">
+            <span><sup>1</sup> Stanford University</span>
+            <span><sup>2</sup> Independent Researcher</span>
+            <span><sup>3</sup> Together AI</span>
+          </p>
+        </div>
+      </section>
+
+      <section class="section stats-strip" aria-label="Headline results">
+        <div class="stat-card">
+          <span class="stat-number">12,600</span>
+          <span class="stat-text">model-question instances across a 14-day real-time evaluation</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number">94-96%</span>
+          <span class="stat-text">multiple-choice accuracy for the strongest systems on same-day news questions</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number">79.3%</span>
+          <span class="stat-text">accuracy on Hindi, the lowest region for every model tested</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number">&gt;70%</span>
+          <span class="stat-text">of errors traced to source divergence or retrieval failure</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number">19-70%</span>
+          <span class="stat-text">adversarial-accuracy spread when questions contained subtle false premises</span>
+        </div>
+      </section>
+
+      <section id="findings" class="section split">
+        <div class="section-heading">
+          <p class="eyebrow">Main finding</p>
+          <h2>Aggregate accuracy is high, but unevenly distributed.</h2>
+        </div>
+        <div class="prose">
+          <p>
+            In clean multiple-choice conditions, the leading chatbots answered questions about events reported hours earlier with high accuracy: Gemini 3 Flash reached 95.6%, Grok 4 reached 95.0%, and Gemini 3 Pro reached 93.7% across the full 14-day study.
+          </p>
+          <p>
+            But the same evaluation shows that reliability is not evenly distributed. The systems struggled most with Hindi news, often retrieving English-language sources such as Wikipedia or English summaries instead of local-language reporting. The result is a pattern of answers that can look plausible globally while being wrong for the specific article-derived fact.
+          </p>
+        </div>
+      </section>
+
+      <section class="section findings-grid" aria-label="Four core findings">
+        <article class="finding-card">
+          <span class="finding-index">01</span>
+          <h3>A substantial advance in real-time factual accuracy</h3>
+          <p>The top four systems exceeded 90% accuracy on recent news questions, a substantial advance over earlier real-time QA benchmarks.</p>
+        </article>
+        <article class="finding-card">
+          <span class="finding-index">02</span>
+          <h3>A regional gap obscured by aggregate accuracy</h3>
+          <p>Hindi accuracy was 79.3%, compared with 88.9&ndash;91.3% for the other five regions, and every model performed worst on Hindi.</p>
+        </article>
+        <article class="finding-card">
+          <span class="finding-index">03</span>
+          <h3>Retrieval is the bottleneck</h3>
+          <p>Source divergence and retrieval failure accounted for more than 70% of errors. When models found the right evidence, they usually extracted the answer.</p>
+        </article>
+        <article class="finding-card">
+          <span class="finding-index">04</span>
+          <h3>Competence does not imply robustness</h3>
+          <p>False-premise variants caused sharp drops: adversarial accuracy ranged from 70.0% for Grok 4 to 19.0% for GPT-5.</p>
+        </article>
+      </section>
+
+      <!-- =================================================================
+           NEW: Inside the benchmark — concrete examples
+           ================================================================= -->
+      <section id="examples" class="section evidence">
+        <div class="section-heading">
+          <p class="eyebrow">Inside the benchmark</p>
+          <h2>What a question looks like.</h2>
+          <p>
+            Each day, the pipeline generates 25 five-option multiple-choice questions per region, each anchored to a specific same-day BBC article. Questions target concrete details that typically survive only in the originating article — exact figures, named sources, locations, and time–place pairs.
+          </p>
+        </div>
+        <figure class="figure-card">
+          <p class="figure-eyebrow">Four representative items, one per script</p>
+          <h3>Each question is answerable only by retrieving an article-specific detail.</h3>
+          <img
+            src="assets/Examples_1.png"
+            alt="Four sample benchmark questions rendered in their original scripts: an English question about US-brokered Ukraine-Russia peace talks; a Turkish question about the date Keçiören became a separate district; an Arabic question about the cumulative number of ISIS detainees transferred from Syria to Iraq; and a Hindi question about the time and location of a Lamborghini crash in Kanpur. The correct answer in each is highlighted in green."
+            loading="lazy"
+          />
+          <figcaption>
+            <strong>English (US &amp; Canada, Feb 9):</strong> the host city of the second round of US-brokered Ukraine–Russia peace talks. <strong>Turkish (Feb 10):</strong> the date Keçiören became a district. <strong>Arabic (Feb 11):</strong> the cumulative number of ISIS-affiliated detainees transferred from Syria to Iraq, attributed to spokesperson Saad Maan. <strong>Hindi (Feb 12):</strong> the time and place on VIP Road of a Lamborghini crash in Kanpur. Distractors are constructed to be plausible yet article-incorrect, so a model that retrieves a topically-related but distinct article will typically pick a wrong option.
+          </figcaption>
+        </figure>
+      </section>
+
+      <!-- =================================================================
+           FIGURE GALLERY — straight from the manuscript
+           ================================================================= -->
+      <section id="figures" class="section evidence">
+        <div class="section-heading centered">
+          <p class="eyebrow">Figures from the paper</p>
+          <h2>Key findings.</h2>
+          <p>
+            Nine figures map the evaluation along five axes. Figures&nbsp;1&ndash;2 give overall accuracy by model and by region, and the model-by-region interaction&mdash;identifying both the headline accuracy level and the Hindi gap that aggregate averages obscure. Figure&nbsp;3 reports the gap between multiple-choice and free-response scoring on a paired-evaluation subset, bounding how much the headline format inflates absolute accuracy. Figures&nbsp;4&ndash;6 examine citation behavior: how often each provider attributes to BBC despite its scraping restrictions, which domains dominate non-English regions (English Wikipedia tops the Hindi panel), and how widely two providers' citation profiles diverge on identical queries. Figure&nbsp;7 quantifies the contribution of live retrieval through a no-search ablation. Figures&nbsp;8&ndash;9 turn to robustness: how accuracy degrades when questions contain subtly false premises, and the dissociation between noticing such premises and recovering the correct answer.
+          </p>
+        </div>
+
+        <div class="figures">
+
+          <!-- Figure 1: model+region accuracy bars (paired) -->
+          <div class="figure-row-two">
+            <figure class="figure-card">
+              <p class="figure-eyebrow">Figure 1a · Model accuracy</p>
+              <h3>Top systems answer 90 – 96% of same-day news questions correctly.</h3>
+              <img
+                src="assets/fig_model_accuracy_bar.png"
+                alt="Bar chart of multiple-choice accuracy by model. Gemini 3 Flash 95.6%, Grok 4 95.0%, Gemini 3 Pro 93.7%, Claude 4.5 Sonnet 90.4%, GPT-5 85.0%, GPT-4o Mini 69.0%."
+                loading="lazy"
+              />
+              <figcaption>
+                <strong>14 days · 12,600 model–question instances · web search enabled.</strong> Bars show mean accuracy across all 14 days and all 6 regions. The right-margin column is mean errors per day out of 150 questions.
+              </figcaption>
+            </figure>
+
+            <figure class="figure-card">
+              <p class="figure-eyebrow">Figure 1b · Regional accuracy</p>
+              <h3>Five regions cluster within 89 – 91%; Hindi is alone, nearly ten points lower.</h3>
+              <img
+                src="assets/fig_region_accuracy_bar.png"
+                alt="Bar chart of accuracy by region. Five regions (US & Canada, Turkish, Russian, Arabic, Afrique) cluster between 88.9% and 91.3%; Hindi sits alone at 79.3% (highlighted in red)."
+                loading="lazy"
+              />
+              <figcaption>
+                <strong>Aggregated across all six models.</strong> Five regions cluster within 88.9 – 91.3%. Hindi falls nearly 10% below the next-lowest region, and the gap persists when GPT-4o Mini is excluded.
+              </figcaption>
+            </figure>
+          </div>
+
+          <!-- Figure 2: model x region heatmap (full width) -->
+          <figure class="figure-card">
+            <p class="figure-eyebrow">Figure 2 · Model × region interaction</p>
+            <h3>Every model performs worst on Hindi.</h3>
+            <img
+              src="assets/fig_model_region_heatmap.png"
+              alt="Heatmap of accuracy by model and region. Cells are shaded from deep teal (high accuracy) through cream (mid) to coral red (low). The Hindi column is visibly warmer than every other column; GPT-4o Mini's row is the warmest overall, with its Hindi cell at 54.3% the deepest coral. Right column shows model averages, bottom row shows region averages."
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>14-day mean accuracy (%) per model–region cell, with ±1 SD across days.</strong> The right column is the row mean; the bottom row is the column mean. Cell shade encodes accuracy: deep teal is high, coral is low. The Hindi column visibly warms for every model, and weaker models (GPT-5, GPT-4o Mini) show wider regional spread than stronger ones — the gap compounds with model capability.
+            </figcaption>
+          </figure>
+
+          <p class="pull-quote">
+            <em>The Hindi gap is not a failure of language comprehension.</em> Models generate fluent Hindi and reason competently in it. The failures are overwhelmingly failures of <em>retrieval and grounding</em>: models pivot to English-language sources covering the same topic but reporting different specific details, and answer faithfully from those substitutes.
+          </p>
+
+          <!-- Figure 3 (new): MC vs FR validation -->
+          <figure class="figure-card">
+            <p class="figure-eyebrow">Figure 3 · Multiple-choice vs. free-response validation</p>
+            <h3>Free-response answers drop accuracy by 16 – 17%, but model rankings are preserved.</h3>
+            <img
+              src="assets/fig_mc_vs_fr.png"
+              alt="Per-model dumbbell chart showing multiple-choice accuracy versus the range of free-response accuracy across three independent LLM judges. Gemini 3 Pro 97 / 82-86; Grok 4 92.7 / 78.7-79.3; Gemini 3 Flash 92.7 / 78.0-78.7; Claude 4.5 Sonnet 93.3 / 75.3-76.7; GPT-5 81.3 / 64.7-66.0; GPT-4o Mini 69.3 / 45.3-47.3. Right-margin column reports the MC minus best-FR-grader gap."
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>MC vs. free-response on a single-day validation set (April 6, 2026; 850 paired items).</strong> Per-model marker = multiple-choice accuracy; slate-blue bracket = the range across three independent LLM judges (Claude Opus 4.7, GPT-5.4, Gemini 3 Pro) grading the free-response variant. The MC-to-FR drop is 16 &ndash; 17% in aggregate; per-model gaps range from 11% (Gemini 3 Pro) to 22% (GPT-4o Mini). Crucially, model <em>rankings</em> are identical under both formats and across all three graders &mdash; so the relative findings reported throughout the paper (the Hindi gap, retrieval dominance, adversarial fragility) are robust to evaluation format, even as absolute accuracy levels should be read as upper bounds on what these systems would achieve in naturalistic open-ended interactions.
+            </figcaption>
+          </figure>
+
+          <!-- Figure 4: BBC citation rate (compact, centered) -->
+          <figure class="figure-card compact">
+            <p class="figure-eyebrow">Figure 4 · Citation behavior</p>
+            <h3>Grok 4 cites the BBC more than four times the rate of any other model evaluated.</h3>
+            <img
+              src="assets/fig_bbc_citation_rates.png"
+              alt="Bar chart of BBC citation rate by model. Grok 4 28.5%, Gemini 3 Flash 6.9%, Gemini 3 Pro 4.1%, GPT-5 0.2%, GPT-4o Mini 0.0%, Claude 4.5 Sonnet 0.0%."
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Rate = responses with any BBC URL among citations.</strong> Three models effectively never cite the BBC (0.0 – 0.2%), even though every benchmark question is generated from a BBC article. The divergence likely reflects differences in scraping policy and licensing compliance as much as retrieval capability — providers that comply with the BBC's <code>robots.txt</code> restrictions cite the BBC less, regardless of how well their retrieval works.
+            </figcaption>
+          </figure>
+
+          <!-- Figure 5: top domains by region (full width 6-panel) -->
+          <figure class="figure-card">
+            <p class="figure-eyebrow">Figure 5 · Anglophone retrieval pivot</p>
+            <h3>For non-English regions, English-language domains often outrank native-language outlets.</h3>
+            <img
+              src="assets/fig_top_domains_by_region.png"
+              alt="Six-panel grid showing the top eight cited domains for each of the six regional query sets, with sources whose primary language differs from the regional service highlighted in slate blue. English Wikipedia dominates Hindi; English BBC and Guardian appear high for Russian and Arabic; only Turkish has a native-language source (T24) at #1."
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Top eight cited domains per region (14-day mean, all models aggregated).</strong> Sources whose primary language differs from the regional service are highlighted in slate blue. English Wikipedia tops the Hindi panel, surpassing every Hindi-language outlet on our index. The same English-pivot pattern is visible (in milder form) across most non-English regions.
+            </figcaption>
+          </figure>
+
+          <!-- Figure 6: per-model spread (dumbbell) -->
+          <figure class="figure-card">
+            <p class="figure-eyebrow">Figure 6 · Citation fingerprints</p>
+            <h3>Different chatbots cite materially different sources for the same query.</h3>
+            <img
+              src="assets/fig_domain_dumbbell.png"
+              alt="Six-panel dumbbell chart showing the per-model citation frequency for each of the eight top domains in each of the six regions. Each row's horizontal span between markers indicates how widely two models' citation profiles diverge for the same query set. Grok 4 reaches the BBC much more often than any other model; only Gemini family cites VertexAI Search; Claude shows distinctive regional preferences."
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Per-model variation in domain reliance, by region.</strong> Same domains as Figure 5; here each marker shape encodes one of the six models. The horizontal span within a row shows how much two providers' citation profiles diverge for an identical query set. Users asking the same question of different chatbots receive answers grounded in materially different source material — a form of information fragmentation specific to AI-mediated access.
+            </figcaption>
+          </figure>
+
+          <p class="pull-quote">
+            Models almost always extract the correct answer when they retrieve the correct source. The binding constraint is the fidelity of the connection between query and evidence — what the paper calls <em>evidence binding</em>.
+          </p>
+
+          <!-- Figure 7: search ablation -->
+          <figure class="figure-card">
+            <p class="figure-eyebrow">Figure 7 · The role of web search</p>
+            <h3>Disabling web search drops accuracy by 31 – 46%.</h3>
+            <img
+              src="assets/fig_websearch_ablation_dumbbell.png"
+              alt="Dumbbell chart showing accuracy for four frontier models with and without web search on US & Canada questions. Filled marker indicates production (search-enabled) accuracy; hollow ring indicates the same model's accuracy with web search disabled. Grok 4 drops from near-perfect to roughly half (a +46 percentage-point gap); GPT-5 drops by +31 percentage points. Right-margin column lists each model's gap."
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Web-search ablation, US &amp; Canada questions (14-day mean).</strong> Filled marker = production (search-enabled); hollow ring = the same model with web search disabled. Without retrieval, no-search baselines fall to 51 – 61%. The top systems' headline accuracy depends almost entirely on effective retrieval &mdash; Grok 4's gain from search is the largest (+46%), GPT-5's the smallest (+31%) &mdash; meaning the practical reliability of these systems is downstream of search infrastructure, not just model capability.
+            </figcaption>
+          </figure>
+
+          <!-- Figure 8: standard vs adversarial -->
+          <figure class="figure-card">
+            <p class="figure-eyebrow">Figure 8 · Adversarial robustness</p>
+            <h3>Subtle false premises drop top systems from 88 – 96% accuracy to as low as 19%.</h3>
+            <img
+              src="assets/fig_standard_vs_adversarial_replicated.png"
+              alt="Slope chart showing standard vs adversarial accuracy for four frontier models. Grok 4 drops from 96.0% to 70.0%, Gemini 3 Pro from 96.0% to 55.0%, Claude 4.5 Sonnet from 92.0% to 46.0%, and GPT-5 from 88.0% to 19.0% — barely above the 16.7% chance baseline on the six-option adversarial set."
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Standard vs. adversarial accuracy on US &amp; Canada questions (4-day mean).</strong> Each connector spans one model's drop when a subtle false premise is injected into otherwise well-formed news questions. The standard-condition spread is 8.0 percentage points (88.0 &ndash; 96.0%); under adversarial framing the spread widens to 51.0 points. GPT-5 falls to 19.0%, barely above the 16.7% chance baseline on the six-option adversarial instrument.
+            </figcaption>
+          </figure>
+
+          <!-- Figure 9: detection vs accuracy (companion to Figure 8) -->
+          <figure class="figure-card">
+            <p class="figure-eyebrow">Figure 9 · Detection–accuracy dissociation</p>
+            <h3>Noticing a false premise and answering correctly are independent capabilities.</h3>
+            <img
+              src="assets/fig_detection_vs_accuracy_replicated.png"
+              alt="Scatter plot of detection rate (x-axis) vs adversarial accuracy (y-axis) for four frontier models, with provider-colored markers, a 16.7% chance line (six-option instrument), and a y=x reference line. Gemini 3 Pro at (80%, 55%); Claude 4.5 Sonnet at (78%, 46%); Grok 4 at (59%, 70%); GPT-5 at (36%, 19%). The misalignment between detection and correct answers is visually obvious."
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>False-premise detection rate vs. adversarial accuracy</strong> (100 adversarial questions per model). Detection requires the model to explicitly flag or correct the injected falsehood in its reasoning; adversarial accuracy is whether the final answer is correct. The two axes <em>dissociate</em>: Claude 4.5 Sonnet detects 78% but answers only 46% correctly, while Grok 4 detects 59% yet answers 70% correctly. Robustness to false premises requires both <em>epistemic vigilance</em> (noticing) and <em>retrieval strength</em> (recovering) — capabilities current systems develop independently.
+            </figcaption>
+          </figure>
+
+        </div>
+      </section>
+
+      <section id="methods" class="section methods">
+        <div class="section-heading">
+          <p class="eyebrow">Study design</p>
+          <h2>A real-time test of production systems, not base models in isolation.</h2>
+        </div>
+        <div class="method-steps">
+          <article>
+            <span>1</span>
+            <h3>Collect same-day news</h3>
+            <p>Each day, the pipeline collected top articles from six BBC regional services: US &amp; Canada, Arabic, Afrique, Hindi, Russian, and Turkish.</p>
+          </article>
+          <article>
+            <span>2</span>
+            <h3>Generate grounded questions</h3>
+            <p>It created 25 five-option factual questions per region per day, targeting concrete details such as figures, locations, quotes, and named entities.</p>
+          </article>
+          <article>
+            <span>3</span>
+            <h3>Evaluate commercial chatbots</h3>
+            <p>Six production chatbots were queried in parallel with native web search enabled, reflecting the retrieval and synthesis systems users actually encounter.</p>
+          </article>
+          <article>
+            <span>4</span>
+            <h3>Analyze reliability</h3>
+            <p>The study measured accuracy, citations, source domains, error mechanisms, search ablation, and robustness to subtle false premises.</p>
+          </article>
+        </div>
+
+        <table class="models-table" aria-label="Models evaluated, with knowledge-cutoff dates and release timelines.">
+          <caption class="models-caption" style="caption-side: top; text-align: left; padding-bottom: 0.4rem;">
+            <strong style="color: var(--ink);">Models evaluated.</strong> All six were queried at temperature 0.0 with each provider's native web search enabled. Knowledge-cutoff dates all precede the 14-day evaluation window (Feb 9 – 22, 2026).
+          </caption>
+          <thead>
+            <tr>
+              <th scope="col">Model</th>
+              <th scope="col">API identifier</th>
+              <th scope="col">Knowledge cutoff</th>
+              <th scope="col">Released</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Gemini 3 Flash</td>
+              <td><code>gemini-3-flash-preview</code></td>
+              <td>Jan 2025</td>
+              <td>Dec 17, 2025</td>
+            </tr>
+            <tr>
+              <td>Gemini 3 Pro</td>
+              <td><code>gemini-3-pro-preview</code></td>
+              <td>Jan 2025</td>
+              <td>Nov 18, 2025</td>
+            </tr>
+            <tr>
+              <td>Grok 4</td>
+              <td><code>grok-4-0709</code></td>
+              <td>Nov 2024</td>
+              <td>Jul 9, 2025</td>
+            </tr>
+            <tr>
+              <td>Claude 4.5 Sonnet</td>
+              <td><code>claude-sonnet-4-5</code></td>
+              <td>Jan 2025</td>
+              <td>Sep 29, 2025</td>
+            </tr>
+            <tr>
+              <td>GPT-5</td>
+              <td><code>gpt-5</code></td>
+              <td>Sep 30, 2024</td>
+              <td>Aug 7, 2025</td>
+            </tr>
+            <tr>
+              <td>GPT-4o Mini</td>
+              <td><code>gpt-4o-mini-search-preview</code></td>
+              <td>Oct 1, 2023</td>
+              <td>Mar 11, 2025</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="section split implications">
+        <div class="section-heading">
+          <p class="eyebrow">Why it matters</p>
+          <h2>AI-mediated news access is becoming infrastructure.</h2>
+        </div>
+        <div class="prose">
+          <p>
+            As more people ask chatbots for news, model choice affects more than answer quality. It affects which sources are surfaced, which languages receive reliable grounding, which publishers receive attribution, and whether users are warned when their question contains a false premise.
+          </p>
+          <p>
+            The study suggests that evaluating AI news systems on aggregate accuracy alone is insufficient. Public-interest evaluation should also measure retrieval fidelity across languages, source attribution, licensing constraints, and robustness to imperfect user questions.
+          </p>
+        </div>
+      </section>
+
+      <section id="limitations" class="section limitations">
+        <div class="section-heading centered">
+          <p class="eyebrow">Important caveats</p>
+          <h2>What this study does and does not claim.</h2>
+        </div>
+        <div class="limit-grid">
+          <article>
+            <h3>Multiple choice is an upper bound</h3>
+            <p>A free-response validation showed a 16 &ndash; 17% drop in absolute accuracy, though model rankings remained stable across all three independent LLM judges.</p>
+          </article>
+          <article>
+            <h3>BBC is a special case</h3>
+            <p>BBC News is prominent and trusted, but access may be shaped by robots.txt, scraping restrictions, and provider licensing arrangements.</p>
+          </article>
+          <article>
+            <h3>Geography may matter</h3>
+            <p>Queries were issued from U.S.-based servers, which may affect search personalization and especially the retrieval of local-language sources.</p>
+          </article>
+          <article>
+            <h3>Systems change quickly</h3>
+            <p>The 14-day evaluation captures a snapshot of production systems whose search and model behavior can shift over time.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="cite" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Cite this work</p>
+          <h2>How to cite this work.</h2>
+        </div>
+        <div class="cite-tabs" role="tablist" aria-label="Citation format">
+          <button type="button" role="tab" id="tab-bibtex" aria-controls="cite-bibtex" aria-selected="true" class="cite-tab">BibTeX</button>
+          <button type="button" role="tab" id="tab-apa" aria-controls="cite-apa" aria-selected="false" class="cite-tab">APA</button>
+          <button type="button" role="tab" id="tab-mla" aria-controls="cite-mla" aria-selected="false" class="cite-tab">MLA</button>
+          <button type="button" role="tab" id="tab-harvard" aria-controls="cite-harvard" aria-selected="false" class="cite-tab">Harvard</button>
+        </div>
+<pre id="cite-bibtex" role="tabpanel" aria-labelledby="tab-bibtex" class="cite-block" aria-label="BibTeX citation"><code>@article{suzgun2026news,
+  title   = {Evaluating Commercial AI Chatbots as News Intermediaries},
+  author  = {Suzgun, Mirac and Shen, Emily and Bianchi, Federico and
+             Spangher, Alexander and Icard, Thomas and Ho, Daniel E. and
+             Jurafsky, Dan and Zou, James},
+  journal = {arXiv preprint arXiv:2605.22785},
+  year    = {2026}
+}</code></pre>
+        <p id="cite-apa" role="tabpanel" aria-labelledby="tab-apa" class="cite-text" hidden>
+          Suzgun, M., Shen, E., Bianchi, F., Spangher, A., Icard, T., Ho, D.&nbsp;E., Jurafsky, D., &amp; Zou, J. (2026). <em>Evaluating commercial AI chatbots as news intermediaries</em> (arXiv:2605.22785). arXiv. <a href="https://arxiv.org/abs/2605.22785" rel="noopener">https://arxiv.org/abs/2605.22785</a>
+        </p>
+        <p id="cite-mla" role="tabpanel" aria-labelledby="tab-mla" class="cite-text" hidden>
+          Suzgun, Mirac, et al. &ldquo;Evaluating Commercial AI Chatbots as News Intermediaries.&rdquo; <em>arXiv</em>, 2026, arXiv:2605.22785, <a href="https://arxiv.org/abs/2605.22785" rel="noopener">arxiv.org/abs/2605.22785</a>.
+        </p>
+        <p id="cite-harvard" role="tabpanel" aria-labelledby="tab-harvard" class="cite-text" hidden>
+          Suzgun, M., Shen, E., Bianchi, F., Spangher, A., Icard, T., Ho, D.E., Jurafsky, D. and Zou, J. (2026) <em>Evaluating Commercial AI Chatbots as News Intermediaries</em>. arXiv:2605.22785. Available at: <a href="https://arxiv.org/abs/2605.22785" rel="noopener">https://arxiv.org/abs/2605.22785</a>.
+        </p>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Evaluating Commercial AI Chatbots as News Intermediaries
+      </p>
+      <p>Suzgun et al., 2026.</p>
+    </footer>
+    <script>
+      (function () {
+        var tabs = document.querySelectorAll('.cite-tab');
+        function activate(target) {
+          tabs.forEach(function (t) {
+            var panel = document.getElementById(t.getAttribute('aria-controls'));
+            var selected = t === target;
+            t.setAttribute('aria-selected', selected ? 'true' : 'false');
+            t.setAttribute('tabindex', selected ? '0' : '-1');
+            if (panel) {
+              if (selected) panel.removeAttribute('hidden');
+              else panel.setAttribute('hidden', '');
+            }
+          });
+        }
+        tabs.forEach(function (t, i) {
+          t.addEventListener('click', function () { activate(t); });
+          t.addEventListener('keydown', function (e) {
+            if (e.key !== 'ArrowRight' && e.key !== 'ArrowLeft') return;
+            e.preventDefault();
+            var next = e.key === 'ArrowRight' ? (i + 1) % tabs.length : (i - 1 + tabs.length) % tabs.length;
+            tabs[next].focus();
+            activate(tabs[next]);
+          });
+        });
+      })();
+    </script>
+  </body>
+</html>
