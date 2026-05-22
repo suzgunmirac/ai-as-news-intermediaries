@@ -1,0 +1,475 @@
+METADATA [9]: index: 9, language: hindi, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, भारत की जीडीपी में 2.3% और देश के कुल निर्यात में 12% हिस्सेदारी टेक्सटाइल और अपैरल इंडस्ट्री की है।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। भारत की टेक्सटाइल और अपैरल इंडस्ट्री देश की जीडीपी (GDP) में कितने प्रतिशत का योगदान देती है?
+(A) 12%
+(B) 4.5%
+(C) 15-20%
+(D) 5%
+(E) 2.3%
+MODEL OUTPUT:
+भारत की वस्त्र और परिधान उद्योग वर्ष 2023-24 में देश के कुल निर्यात में 8.21% का योगदान देता है। ([ministryoftextiles.gov.in](https://ministryoftextiles.gov.in/sites/default/files/MOT%20Annual%20Report%20Hindi%20%2807.11.2024%29.pdf?utm_source=openai)) हालांकि, जीडीपी में इसका योगदान 4.5% है। ([static.pib.gov.in](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/feb/doc2025219505401.pdf?utm_source=openai))
+
+इसलिए, उपलब्ध विकल्पों में से (B) 4.5% सही उत्तर है।
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: hindi, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, देश की 48 सेंट्रल यूनिवर्सिटी, 36 स्टेट यूनिवर्सिटी, 26 डीम्ड यूनिवर्सिटी और 113 प्राइवेट यूनिवर्सिटी सीयूईटी का हिस्सा हैं।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। कॉमन यूनिवर्सिटी एंट्रेंस टेस्ट (CUET) के माध्यम से देश की कितनी सेंट्रल यूनिवर्सिटी के अंडरग्रेजुएट प्रोग्राम में दाखिला लिया जा सकता है?
+(A) 223 सेंट्रल यूनिवर्सिटी
+(B) 48 सेंट्रल यूनिवर्सिटी
+(C) 36 सेंट्रल यूनिवर्सिटी
+(D) 113 सेंट्रल यूनिवर्सिटी
+(E) 26 सेंट्रल यूनिवर्सिटी
+MODEL OUTPUT:
+कॉमन यूनिवर्सिटी एंट्रेंस टेस्ट (CUET) के माध्यम से देशभर की 45 सेंट्रल यूनिवर्सिटी के अंडरग्रेजुएट प्रोग्राम में दाखिला लिया जा सकता है। ([navbharattimes.indiatimes.com](https://navbharattimes.indiatimes.com/india/common-university-entrance-test-cucet-will-be-mandatory-for-undergraduate-courses-in-all-45-central-universities-across-the-country/articleshow/90360806.cms?utm_source=openai))
+
+इसलिए, सही विकल्प (C) है।
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में जानकारी दी गई है कि दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी (7%) भारतीय हैं।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। वैश्विक स्तर पर कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) 12 फ़ीसदी
+(B) 15 फ़ीसदी
+(C) 7 फ़ीसदी
+(D) 10 फ़ीसदी
+(E) 5 फ़ीसदी
+MODEL OUTPUT:
+वैश्विक स्तर पर कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से भारतीयों का प्रतिशत लगभग 10% है। यह आंकड़ा भारतीय मर्चेंट मरीनर्स की वैश्विक संख्या के सापेक्ष है।
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: hindi, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, एआईसीटीई के मुताबिक भारत में साल 2023-24 के बीच कुल 8,264 संस्थान ऐसे थे जो इंजीनियरिंग कोर्सेज़ चला रहे थे।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। AICTE के आंकड़ों के अनुसार, शैक्षणिक सत्र 2023-24 के दौरान भारत में कुल कितने संस्थान डिप्लोमा, अंडरग्रेजुएट और पोस्ट ग्रेजुएट स्तर पर इंजीनियरिंग कोर्स संचालित कर रहे थे?
+(A) 8,475 संस्थान
+(B) 3,079 संस्थान
+(C) 211 संस्थान
+(D) 8,264 संस्थान
+(E) 10,000 संस्थान
+MODEL OUTPUT:
+अखिल भारतीय तकनीकी शिक्षा परिषद (AICTE) के अनुसार, शैक्षणिक सत्र 2023-24 के दौरान भारत में कुल 8,475 संस्थान डिप्लोमा, अंडरग्रेजुएट और पोस्ट ग्रेजुएट स्तर पर इंजीनियरिंग कोर्स संचालित कर रहे थे। ([education.gov.in](https://www.education.gov.in/sites/upload_files/mhrd/files/annual_report_he/AR_Kozhikode_2023_24.pdf?utm_source=openai))
+
+इसलिए, सही उत्तर विकल्प (A) है।
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: hindi, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, ट्रंप ने दावा किया कि मई 2025 में भारत और पाकिस्तान के बीच संघर्ष के दौरान 11 विमान गिराए गए थे और उन्होंने 200% टैरिफ की धमकी देकर इसे रुकवाया।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। राष्ट्रपति ट्रंप ने दावा किया कि उन्होंने मई 2025 में भारत और पाकिस्तान के बीच युद्ध रुकवाया था। उनके दावे के अनुसार, इस संघर्ष के दौरान कितने विमान गिराए गए थे?
+(A) 11 विमान
+(B) 25 विमान
+(C) 5 विमान
+(D) 18 विमान
+(E) 9 विमान
+MODEL OUTPUT:
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने मई 2025 में भारत और पाकिस्तान के बीच संघर्ष विराम में मध्यस्थता करने का दावा किया था। उन्होंने यह भी कहा था कि यदि दोनों देश युद्ध करते हैं, तो वह उन पर 100%, 150%, और 200% तक के टैरिफ लगा देंगे, जिससे उन्होंने दावा किया कि 24 घंटे में युद्ध रुक गया। ([aajtak.in](https://www.aajtak.in/world/story/trump-claims-credit-india-pakistan-ceasefire-gaza-war-nobel-ntc-dskc-2354319-2025-10-13?utm_source=openai))
+
+हालांकि, भारत ने लगातार यह स्पष्ट किया है कि ऑपरेशन सिंदूर और इसके बाद की सीजफायर में अमेरिका की कोई भूमिका नहीं थी। भारत के विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा था कि भारतीय और अमेरिकी नेताओं के बीच उभरते सैन्य हालात पर बातचीत हुई, लेकिन इनमें से किसी भी चर्चा में व्यापार का मुद्दा नहीं उठा। ([dw.com](https://www.dw.com/hi/indian-foreign-ministry-rejects-us-president-donald-trumps-claims/live-72524414?utm_source=openai))
+
+इसलिए, राष्ट्रपति ट्रंप के दावे के अनुसार, संघर्ष के दौरान 7 लड़ाकू विमान गिराए गए थे।
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: hindi, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में स्पष्ट रूप से अमेरिकी विदेश मंत्री का नाम 'मार्को रूबियो' (Marco Rubio) बताया गया है।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। ईरान और अमेरिका के बीच बढ़ते तनाव के संदर्भ में, वर्तमान अमेरिकी विदेश मंत्री कौन हैं जिन्होंने ईरान को अपने नागरिकों के साथ व्यवहार बदलने की शर्त रखी है?
+(A) एंटनी ब्लिंकन
+(B) माइक पोम्पियो
+(C) मार्को रूबियो
+(D) स्कॉट बेसेंट
+(E) सर्जियो गोर
+MODEL OUTPUT:
+अमेरिकी विदेश मंत्री मार्को रुबियो ने ईरान के साथ बातचीत के माध्यम से समस्याओं को हल करने की इच्छा व्यक्त की है। उन्होंने कहा कि राष्ट्रपति डोनाल्ड ट्रम्प ईरान के सर्वोच्च नेता अयातुल्ला अली खमेनेई से मिलने के लिए तैयार हैं, यदि वह मिलना चाहते हैं, ताकि दुनिया में समस्याओं को हल किया जा सके। ([voi.id](https://voi.id/hi/news/558801?utm_source=openai))
+
+इससे यह स्पष्ट होता है कि वर्तमान अमेरिकी विदेश मंत्री मार्को रुबियो हैं, जिन्होंने ईरान के साथ अपने नागरिकों के साथ व्यवहार बदलने की शर्त रखी है।
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: hindi, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, गौरव गोविंद वर्तमान में NIFT के वाराणसी कैंपस में पढ़ा रहे हैं।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। लेख में वर्णित फैशन डिजाइनर गौरव गोविंद, जिन्होंने NIFT कांगड़ा से पढ़ाई की है, वर्तमान में किस NIFT कैंपस में पढ़ा रहे हैं?
+(A) वाराणसी कैंपस
+(B) कांगड़ा कैंपस
+(C) दिल्ली कैंपस
+(D) मुंबई कैंपस
+(E) बेंगलुरु कैंपस
+MODEL OUTPUT:
+गौरव गोविंद, जो NIFT कांगड़ा से पढ़ाई कर चुके हैं, वर्तमान में NIFT कांगड़ा कैंपस में पढ़ा रहे हैं। ([nift.ac.in](https://www.nift.ac.in/kangra/hi?utm_source=openai))
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: hindi, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, सीएस एग्ज़ीक्यूटिव क्लीयर करने के बाद स्टूडेंट को 21 महीने की आर्टिकलशिप करनी ज़रूरी है।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। कंपनी सेक्रेटरी (CS) बनने की प्रक्रिया के दौरान, सीएस एग्जीक्यूटिव क्लियर करने के बाद छात्र को कितने महीने की आर्टिकलशिप (Articleship) करना अनिवार्य है?
+(A) 12 महीने
+(B) 21 महीने
+(C) 24 महीने
+(D) 18 महीने
+(E) 6 महीने
+MODEL OUTPUT:
+कंपनी सेक्रेटरी (CS) बनने के लिए, CS Executive परीक्षा उत्तीर्ण करने के बाद, उम्मीदवारों को 21 महीने की आर्टिकलशिप (Articleship) अनिवार्य रूप से करनी होती है। इस अवधि के दौरान, उम्मीदवारों को कंपनी सचिव के कार्यों में व्यावहारिक प्रशिक्षण प्राप्त होता है, जो उनके पेशेवर विकास के लिए आवश्यक है।
+
+इसलिए, सही उत्तर है:
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: hindi, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, मर्चेंट नेवी में जाने के लिए विज़न 6/6 होना ज़रूरी है।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। मर्चेंट नेवी में शामिल होने के लिए शारीरिक पात्रता के तहत उम्मीदवार की दृष्टि (Vision) कितनी होनी चाहिए?
+(A) 6/9
+(B) 6/12
+(C) 6/6
+(D) 6/18
+(E) चश्मे के साथ 6/6
+MODEL OUTPUT:
+मर्चेंट नेवी में शामिल होने के लिए शारीरिक पात्रता के तहत उम्मीदवार की दृष्टि सामान्यतः 6/6 होनी चाहिए। हालांकि, चश्मे के साथ 6/6 दृष्टि भी स्वीकार्य हो सकती है, बशर्ते चश्मे की पावर प्लस या माइनस 2.5 तक की हो। इसलिए, विकल्प (E) चश्मे के साथ 6/6 दृष्टि उपयुक्त प्रतीत होती है।
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: hindi, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, साल 2025 की IIRF रैंकिंग के मुताबिक़, प्राइवेट यूनिवर्सिटी के तहत चलने वाले टॉप इंजीनियरिंग संस्थानों में सबसे ऊपर बिरला इंस्टीट्यूट ऑफ़ टेक्नोलॉजी एंड साइंस (BITS PILANI) रहा।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। साल 2025 की IIRF रैंकिंग के अनुसार, भारत में प्राइवेट यूनिवर्सिटी के तहत चलने वाले टॉप इंजीनियरिंग संस्थानों में कौन सा संस्थान सबसे ऊपर रहा?
+(A) आईआईटी बॉम्बे
+(B) वीआईटी वेल्लोर
+(C) मणिपाल इंस्टीट्यूट
+(D) बिट्स पिलानी (BITS PILANI)
+(E) एमिटी यूनिवर्सिटी
+MODEL OUTPUT:
+IIRF (Indian Institutional Ranking Framework) रैंकिंग 2025 के अनुसार, भारत में प्राइवेट यूनिवर्सिटी के तहत चलने वाले टॉप इंजीनियरिंग संस्थानों में मणिपाल अकादमी ऑफ हायर एजुकेशन (Manipal Academy of Higher Education) तीसरे स्थान पर रही है। ([livehindustan.com](https://www.livehindustan.com/career/top-university-in-india-as-per-nirf-rankings-2025-check-complete-list-here-201756961798623.html/?utm_source=openai))
+
+इस रैंकिंग में मणिपाल अकादमी ऑफ हायर एजुकेशन के बाद क्रमशः जामिया मिलिया इस्लामिया और दिल्ली विश्वविद्यालय ने चौथा और पांचवां स्थान प्राप्त किया। ([livehindustan.com](https://www.livehindustan.com/career/top-university-in-india-as-per-nirf-rankings-2025-check-complete-list-here-201756961798623.html/?utm_source=openai))
+
+इसलिए, विकल्प (C) मणिपाल इंस्टीट्यूट सही उत्तर है।
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: hindi, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, जो स्टूडेंट तीन विषयों के लिए रजिस्ट्रेशन करेंगे उन्हें एक हज़ार रुपए (1000) फ़ीस देनी होगी।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। सीयूईटी (CUET) के लिए आवेदन करने वाले सामान्य वर्ग के छात्रों को तीन विषयों के लिए कितनी पंजीकरण फीस देनी होगी?
+(A) 500 रुपये
+(B) 1500 रुपये
+(C) 800 रुपये
+(D) 1200 रुपये
+(E) 1000 रुपये
+MODEL OUTPUT:
+सीयूईटी (CUET) के लिए आवेदन करने वाले सामान्य वर्ग के छात्रों के लिए पंजीकरण शुल्क तीन विषयों के लिए 1,200 रुपये है। यह जानकारी सीयूईटी की आधिकारिक वेबसाइट पर उपलब्ध है।
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: hindi, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, सुप्रीम कोर्ट के फ़ैसले के बाद ट्रंप ने 'ट्रेड एक्ट 1974 के सेक्शन 122' (धारा 122) के तहत नए टैरिफ़ लगाने की घोषणा की।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। अमेरिकी सुप्रीम कोर्ट के फ़ैसले के बाद, राष्ट्रपति ट्रंप ने किस विशिष्ट क़ानून की धारा के तहत सभी देशों के सामान पर नया अस्थायी टैरिफ़ लगाने की घोषणा की है?
+(A) इंटरनेशनल इमरजेंसी इकोनॉमिक पावर्स एक्ट (IEPA)
+(B) ट्रेड एक्ट 1974 की धारा 122
+(C) ट्रेड एक्सपैंशन एक्ट 1962 की धारा 232
+(D) ट्रेड एक्ट 1974 की धारा 301
+(E) इंटरनेशनल ट्रेड रिलीफ एक्ट की धारा 105
+MODEL OUTPUT:
+अमेरिकी सुप्रीम कोर्ट ने 20 फरवरी, 2026 को राष्ट्रपति डोनाल्ड ट्रंप द्वारा इंटरनेशनल इमरजेंसी इकोनॉमिक पावर्स एक्ट (IEEPA) के तहत लगाए गए व्यापक टैरिफ को अवैध करार दिया। ([aajtak.in](https://www.aajtak.in/world/story/america-supreme-court-donald-trump-strikes-down-tariffs-ieepa-mnrd-dskc-2475325-2026-02-21?utm_source=openai)) इस फैसले के बाद, राष्ट्रपति ट्रंप ने 1974 के ट्रेड एक्ट की धारा 122 के तहत सभी देशों पर नया अस्थायी 10% टैरिफ लगाने की घोषणा की। ([aajtak.in](https://www.aajtak.in/world/story/trump-signs-global-10-percent-tariff-supreme-court-ruling-ntc-rlch-dskc-2475320-2026-02-21?utm_source=openai))
+
+इसलिए, राष्ट्रपति ट्रंप ने ट्रेड एक्ट 1974 की धारा 122 के तहत सभी देशों के सामान पर नया अस्थायी टैरिफ लगाने की घोषणा की है।
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: hindi, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में डॉक्टर देवी प्रसाद शेट्टी के हवाले से बताया गया है कि अगर भारत को अमेरिका और यूरोप के मानक तक पहुँचना है तो उसे 'क़रीब 20 लाख और नर्सों' की ज़रूरत होगी।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। कार्डियक सर्जन डॉक्टर देवी प्रसाद शेट्टी के अनुसार, यदि भारत को अमेरिका और यूरोप के मानकों (एक डॉक्टर पर चार-पांच नर्स) तक पहुँचना है, तो उसे लगभग कितनी और नर्सों की ज़रूरत होगी?
+(A) 10 लाख
+(B) 39 लाख
+(C) 15 लाख
+(D) 20 लाख
+(E) 50 लाख
+MODEL OUTPUT:
+डॉ. देवी प्रसाद शेट्टी के अनुसार, यदि भारत को अमेरिका और यूरोप के मानकों तक पहुँचना है, तो एक डॉक्टर पर चार-पाँच नर्सों का अनुपात सुनिश्चित करने के लिए देश में लगभग 39 लाख अतिरिक्त नर्सों की आवश्यकता होगी। यह जानकारी नवभारत टाइम्स के एक इंटरव्यू से प्राप्त हुई है। ([navbharattimes.indiatimes.com](https://navbharattimes.indiatimes.com/business/business-news/dr-devi-prasad-shetty-interview-71000-medical-seats-can-be-increased-without-any-cost/articleshow/112240068.cms?utm_source=openai))
+
+इसलिए, सही उत्तर (B) 39 लाख है।
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: hindi, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, भारत की जीडीपी में टेक्सटाइल और अपैरल इंडस्ट्री की हिस्सेदारी 2.3% है।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। भारत की टेक्सटाइल और अपैरल इंडस्ट्री के संदर्भ में, यह क्षेत्र देश की जीडीपी (GDP) में कितने प्रतिशत की हिस्सेदारी रखता है?
+(A) 2.3%
+(B) 4.5%
+(C) 12%
+(D) 15-20%
+(E) 5%
+MODEL OUTPUT:
+भारत का वस्त्र और अपैरल उद्योग राष्ट्रीय अर्थव्यवस्था के महत्वपूर्ण क्षेत्रों में से एक है। वस्त्र मंत्रालय की रिपोर्ट के अनुसार, वर्ष 2023-24 में भारत के कुल निर्यात में हस्तशिल्प सहित वस्त्र और अपैरल (टीएंडए) की हिस्सेदारी 8.21% रही है। ([ministryoftextiles.gov.in](https://ministryoftextiles.gov.in/sites/default/files/MOT%20Annual%20Report%20Hindi%20%2807.11.2024%29.pdf?utm_source=openai))
+
+हालांकि, जीडीपी में इस क्षेत्र की सटीक हिस्सेदारी के बारे में उपलब्ध जानकारी सीमित है। वर्तमान में उपलब्ध आंकड़ों के अनुसार, वस्त्र और अपैरल उद्योग का जीडीपी में योगदान 4.5% से अधिक नहीं है। ([static.pib.gov.in](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/feb/doc2025219505401.pdf?utm_source=openai))
+
+इसलिए, उपलब्ध जानकारी के आधार पर, विकल्प (B) 4.5% सबसे उपयुक्त प्रतीत होता है।
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: hindi, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में शुभम अब्बड़ के हवाले से बताया गया है कि हर वो कंपनी जिसका पेड अप-शेयर कैपिटल '10 करोड़ रुपये या उससे ज़्यादा' है, उसके लिए कंपनी सेक्रेटरी को अपॉइंट करना अनिवार्य है।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। भारत में कंपनी सेक्रेटरी एक्ट के नियमों के अनुसार, किस स्तर की 'पेड अप-शेयर कैपिटल' वाली कंपनियों के लिए कंपनी सेक्रेटरी (CS) नियुक्त करना अनिवार्य है?
+(A) 5 करोड़ रुपये या उससे ज़्यादा
+(B) 10 करोड़ रुपये या उससे ज़्यादा
+(C) 50 करोड़ रुपये या उससे ज़्यादा
+(D) 1 करोड़ रुपये या उससे ज़्यादा
+(E) 25 करोड़ रुपये या उससे ज़्यादा
+MODEL OUTPUT:
+भारत में कंपनी सेक्रेटरी एक्ट के अनुसार, 5 करोड़ रुपये या उससे अधिक की 'पेड अप-शेयर कैपिटल' वाली सार्वजनिक कंपनियों के लिए कंपनी सेक्रेटरी (CS) की नियुक्ति अनिवार्य है। ([bhaskar.com](https://www.bhaskar.com/news/educ-edb-career-in-company-secretary-4915376-nor.html?utm_source=openai))
+
+इसलिए, विकल्प (A) 5 करोड़ रुपये या उससे ज़्यादा सही है।
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "इन 223 विश्वविद्यालयों के अलावा..." यानी कुल 223 विश्वविद्यालय (48 सेंट्रल + 36 स्टेट + 26 डीम्ड + 113 प्राइवेट) इसका हिस्सा हैं।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। सीयूईटी (CUET) के माध्यम से देश के कुल कितने विश्वविद्यालयों (सेंट्रल, स्टेट, डीम्ड और प्राइवेट मिलाकर) में दाख़िला होता है?
+(A) 113
+(B) 150
+(C) 223
+(D) 48
+(E) 300
+MODEL OUTPUT:
+सीयूईटी (CUET) भारत में एक केंद्रीयकृत प्रवेश परीक्षा है, जो केंद्रीय विश्वविद्यालयों में स्नातक स्तर के पाठ्यक्रमों में प्रवेश के लिए आयोजित की जाती है। हालाँकि, राज्य विश्वविद्यालयों, डीम्ड विश्वविद्यालयों और निजी विश्वविद्यालयों में प्रवेश के लिए अलग-अलग प्रक्रियाएँ होती हैं।
+
+मार्च 2023 तक, भारत में कुल 1,078 विश्वविद्यालय थे, जिनमें 464 राज्य विश्वविद्यालय, 128 डीम्ड टू बी विश्वविद्यालय, 54 केंद्रीय विश्वविद्यालय और 432 निजी विश्वविद्यालय शामिल थे। ([jagranjosh.com](https://www.jagranjosh.com/general-knowledge/state-with-most-universities-1726488119-2?utm_source=openai))
+
+इसलिए, सीयूईटी के माध्यम से केवल केंद्रीय विश्वविद्यालयों में प्रवेश होता है, जो कुल विश्वविद्यालयों का एक हिस्सा हैं।
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: hindi, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख है कि "साहिबज़ादा याक़ूब ख़ाँ को फ़्रेंच, जर्मन, इटालियन, रूसी, फ़ारसी और अरबी सहित 10 भाषाओं पर महारत हासिल थी।"
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। साहिबज़ादा याक़ूब ख़ाँ को उनकी भाषाई दक्षता के लिए जाना जाता था। लेख के अनुसार उन्हें कुल कितनी भाषाओं पर महारत हासिल थी?
+(A) 5 भाषाएं
+(B) 10 भाषाएं
+(C) 7 भाषाएं
+(D) 12 भाषाएं
+(E) 3 भाषाएं
+MODEL OUTPUT:
+साहिबज़ादा याक़ूब ख़ाँ के बारे में उपलब्ध स्रोतों में उनकी भाषाई दक्षता के बारे में विशेष जानकारी नहीं मिली। हालाँकि, एक स्रोत में उल्लेख है कि वे संस्कृत, पंजाबी, उर्दू, फारसी, पश्तो सहित विभिन्न भाषाओं के ज्ञाता थे। ([bharatdarshan.co.nz](https://bharatdarshan.co.nz/rachnayen/1549/guru-govind-singh-jayanti?utm_source=openai)) इससे यह संकेत मिलता है कि वे कम से कम पाँच भाषाओं में पारंगत थे।
+
+हालाँकि, चूँकि उपलब्ध जानकारी में उनकी भाषाई दक्षता की सटीक संख्या नहीं दी गई है, इसलिए मैं इस प्रश्न का उत्तर नहीं दे सकता।
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: hindi, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, गांगुली के बल्ले से 239 रन की पारी निकली थी, जो उनका इकलौता दोहरा शतक और सर्वश्रेष्ठ स्कोर रहा।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। सौरव गांगुली के टेस्ट करियर का इकलौता दोहरा शतक और सर्वश्रेष्ठ स्कोर, जो उन्होंने 2007 में पाकिस्तान के ख़िलाफ़ बनाया था, कितने रनों का था?
+(A) 200 रन
+(B) 222 रन
+(C) 250 रन
+(D) 215 रन
+(E) 239 रन
+MODEL OUTPUT:
+सौरव गांगुली ने 2007 में पाकिस्तान के खिलाफ टेस्ट क्रिकेट में अपना एकमात्र दोहरा शतक (200 रन) बनाया था।
+
+इसलिए, सही उत्तर विकल्प (A) है।
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: hindi, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "भारत में एक एस्ट्रोनॉट को औसतन हर महीने 90 हज़ार के आस-पास सैलरी मिलती है।"
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। इकोनॉमिक रिसर्च इंस्टीट्यूट के डेटा के अनुसार, भारत में एक एस्ट्रोनॉट (अंतरिक्ष यात्री) को औसतन हर महीने कितनी सैलरी मिलती है?
+(A) 50 हज़ार रुपये
+(B) 1.5 लाख रुपये
+(C) 2 लाख रुपये
+(D) 75 हज़ार रुपये
+(E) 90 हज़ार रुपये
+MODEL OUTPUT:
+भारत में एक एस्ट्रोनॉट (अंतरिक्ष यात्री) की औसत मासिक सैलरी के बारे में सार्वजनिक रूप से विस्तृत जानकारी उपलब्ध नहीं है। हालांकि, भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) के कर्मचारियों के वेतन संरचना के बारे में कुछ सामान्य जानकारी उपलब्ध है। ISRO के वैज्ञानिक और इंजीनियरों के लिए प्रारंभिक वेतनमान (Pay Band) ₹15,600 से ₹39,100 के बीच होता है, जिसमें ग्रेड पे ₹5,400 शामिल है। इससे अनुमानित प्रारंभिक वेतन ₹56,000 से ₹70,000 के बीच हो सकता है। इसके अलावा, विभिन्न भत्ते और सुविधाएं भी प्रदान की जाती हैं, जो कुल वेतन को बढ़ाती हैं। हालांकि, एस्ट्रोनॉट्स के लिए विशेष वेतनमान और भत्तों के बारे में सार्वजनिक रूप से जानकारी उपलब्ध नहीं है।
+
+इसलिए, उपलब्ध जानकारी के आधार पर, विकल्प (D) 75 हज़ार रुपये सबसे उपयुक्त प्रतीत होता है।
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------

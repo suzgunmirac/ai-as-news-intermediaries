@@ -1,0 +1,260 @@
+METADATA [17]: index: 17, language: turkce, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede BSSM kılavuzlarının, testosteron seviyesi 12 nmol/L'nin altında olan erkeklerin TRT için değerlendirilmesi gerektiğini öne sürdüğü belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. İngiliz Cinsel Tıp Derneği (BSSM) tarafından yorumlanan kılavuzlara göre, erkeklerde testosteron seviyesi hangi değerin altındaysa TRT (testosteron replasman tedavisi) için değerlendirme yapılmalıdır?
+(A) 6 nmol/L
+(B) 8 nmol/L
+(C) 12 nmol/L
+(D) 10 nmol/L
+(E) 15 nmol/L
+MODEL OUTPUT:
+İngiliz Cinsel Tıp Derneği (BSSM) tarafından yayımlanan kılavuzlara göre, erkeklerde testosteron seviyesi 8 nmol/L'nin altındaysa, testosteron replasman tedavisi (TRT) için değerlendirme yapılması önerilmektedir. ([medicana.com.tr](https://www.medicana.com.tr/saglik-rehberi-detay/20935/erkeklerde-testosteron-dusuklugu?utm_source=openai))
+
+Bu bilgiye dayanarak, doğru seçenek (B) 8 nmol/L'dir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, Türkiye'nin uzay limanını Mogadişu'nun 60 kilometre kuzeyinde bulunan Warsheikh kentinde inşa edeceği düşünülmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Türkiye'nin Somali'de inşa etmeye başladığı "Uzay Limanı ve Test Atış Alanı" projesinin hangi kentte kurulacağı ileri sürülmektedir?
+(A) Mogadişu
+(B) Laasqoray
+(C) Puntland
+(D) Shabelle
+(E) Warsheikh
+MODEL OUTPUT:
+Türkiye'nin Somali'de inşa etmeye başladığı "Uzay Limanı ve Test Atış Alanı" projesinin hangi kentte kurulacağına dair mevcut kaynaklarda doğrudan bir bilgi bulunmamaktadır. Ancak, Somali'nin ekvatora yakın konumu ve okyanus kıyısında yer alması, uzay limanı ve test atış alanı için stratejik avantajlar sunmaktadır. ([aa.com.tr](https://www.aa.com.tr/tr/bilim-teknoloji/somaliye-kurulacak-uzay-limaninin-ayrintilari-belli-oldu/3785334?utm_source=openai))
+
+Somali'nin Puntland bölgesi, bu coğrafi avantajları nedeniyle uzay limanı ve test atış alanı için potansiyel bir konum olarak öne çıkmaktadır. Puntland, kuzeydoğuda yer alan ve denize kıyısı bulunan bir bölge olup, bu özellikleriyle uzay fırlatmaları için uygun bir lokasyon olarak değerlendirilebilir.
+
+Sonuç olarak, mevcut bilgiler ışığında, Türkiye'nin Somali'de inşa etmeye başladığı "Uzay Limanı ve Test Atış Alanı" projesinin Puntland bölgesinde kurulması muhtemel görünmektedir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede 2024 yılında bu iki köprünün yıllık net kârının yaklaşık 112 milyon dolar olarak kaydedildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Karayolları Genel Müdürlüğü (KGM) verilerine göre, 2024 yılında 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü'nün toplam yıllık net kârı yaklaşık ne kadardır?
+(A) Yaklaşık 112 milyon dolar
+(B) Yaklaşık 488 milyon dolar
+(C) 5,7 milyar dolar
+(D) Günlük 430 bin dolar
+(E) Yıllık 250 milyon dolar
+MODEL OUTPUT:
+15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü'nün 2024 yılına ait net kâr verilerine ulaşmak için Karayolları Genel Müdürlüğü'nün (KGM) resmi raporlarına başvurmak gerekmektedir. Ancak, mevcut arama sonuçlarında bu spesifik verilere ulaşmak mümkün olmamıştır.
+
+Genel olarak, KGM'nin 2001-2019 yıllarına ait otoyol ve köprü gelirleri raporunda, 2019 yılında köprülerin toplam geliri 2.627.259.927 TL olarak belirtilmiştir. ([kgm.gov.tr](https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Istatistikler/OtoyolMaliBilgilerie/OtoyolVeKopruGelirleri%282001-2019%29.pdf?utm_source=openai)) Bu rakam, 2024 yılı için geçerli olmayıp, sadece bir referans niteliğindedir.
+
+2024 yılına ait net kâr verilerine ulaşmak için KGM'nin resmi web sitesinde güncel raporların yayınlanıp yayınlanmadığını kontrol etmek veya doğrudan KGM ile iletişime geçmek en doğru yaklaşım olacaktır.
+
+Bu nedenle, soruya kesin bir yanıt vermek için gerekli verilere erişimim bulunmamaktadır.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaledeki Hamsili Pilav tablosuna göre, 200 gr kuş üzümünün fiyatı 2019'da ₺4,4 iken 2026'da ₺320 olarak kaydedilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. "Hamsili Pilav" tarifi üzerinden yapılan maliyet analizine göre, hangi malzemenin fiyatı 2019'da ₺4,4 iken 2026'da ₺320'ye yükselmiştir?
+(A) 1 kg hamsi
+(B) 600 gr pirinç
+(C) 200 gr kuş üzümü
+(D) 250 gr yağ
+(E) 300 gr soğan
+MODEL OUTPUT:
+Hamsili pilavın maliyet analizine göre, 2019'da ₺4,4 olan bir malzemenin fiyatı 2026'da ₺320'ye yükselmiştir. Bu, yaklaşık 73 katlık bir artışı ifade etmektedir.
+
+Hamsili pilavın tarifinde kullanılan malzemeler arasında 500 gram hamsi, 500 gram pirinç, 1 baş kuru soğan, 3 yemek kaşığı dolmalık fıstık, 2 yemek kaşığı kuş üzümü, 1 çay kaşığı karabiber, 1 çay kaşığı nane, 1 çay kaşığı tarçın, 1 su bardağı sıvı yağ, 1 tatlı kaşığı tereyağı, ½ demet maydanoz ve mısır unu bulunmaktadır. ([kulturportali.gov.tr](https://www.kulturportali.gov.tr/turkiye/trabzon/neyenir/hamsili-pilav?utm_source=openai))
+
+Bu malzemelerden, 2019'da ₺4,4 olan ve 2026'da ₺320'ye yükselen fiyat artışıyla en uyumlu olan malzeme, 1 kilogram hamsidir. Hamsi, deniz ürünleri arasında fiyat dalgalanmalarına en duyarlı olanlardan biridir ve bu denli yüksek bir fiyat artışı, hamsi fiyatlarındaki dramatik bir artışı yansıtır.
+
+Diğer malzemeler, bu kadar yüksek bir fiyat artışını açıklayacak kadar pahalı değildir. Örneğin, 500 gram pirinç veya 1 baş kuru soğan gibi malzemelerin fiyatları, bu denli büyük bir artışı göstermez.
+
+Sonuç olarak, 2019'da ₺4,4 olan ve 2026'da ₺320'ye yükselen malzeme, 1 kilogram hamsidir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: turkce, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Hrana'nın bu protesto dalgası sırasında en az 6159 kişinin öldüğünü doğruladığı açıkça belirtilmiştir. Bu sayı 5804 protestocu, 92 çocuk ve 214 hükümet mensubundan oluşmaktadır.
+INPUT:
+
+
+Bugün 22 Şubat 2026. İran'da üniversite öğrencilerinin yeniden başlattığı protestolarla ilgili olarak, ABD merkezli İnsan Hakları Aktivistleri Haber Ajansı (Hrana) tarafından teyit edilen toplam ölü sayısı kaçtır?
+(A) 6159
+(B) 3100
+(C) 17000
+(D) 5804
+(E) 6500
+MODEL OUTPUT:
+İran'da üniversite öğrencilerinin yeniden başlattığı protestolarla ilgili olarak, ABD merkezli İnsan Hakları Aktivistleri Haber Ajansı (HRANA) tarafından teyit edilen toplam ölü sayısı 6.872'dir. ([rudaw.net](https://www.rudaw.net/turkish/middleeast/iran/040220261?utm_source=openai))
+
+Bu sayıya göre, seçenekler arasında en yakın rakam (E) 6.500'dür.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: turkce, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Trump'ın, Karakas'ın 50 milyon varile kadar petrol teslim etmeyi kabul ettiğini ve parayı kendisinin yöneteceğini açıkladığı belirtilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Venezuela'daki siyasi kriz ve ABD baskısı sürerken, Başkan Donald Trump'ın açıklamasına göre Karakas yönetimi ABD'ye ne kadar petrol teslim etmeyi kabul etmiştir?
+(A) 100 milyon varil
+(B) 25 milyon varil
+(C) 50 milyon varil
+(D) 75 milyon varil
+(E) 10 milyon varil
+MODEL OUTPUT:
+ABD Başkanı Donald Trump, Venezuela'daki siyasi kriz ve ABD baskısı sürerken, Karakas yönetiminin ABD'ye petrol teslimatı konusunda bir açıklama yapmıştır. Ancak, mevcut kaynaklarda bu teslimatın miktarına dair spesifik bir bilgi bulunmamaktadır. Örneğin, ABD Enerji Bakanı Chris Wright, Venezuela petrolünün "süresiz" olarak satılacağını belirtmiştir. ([cnbce.com](https://www.cnbce.com/haberler/abdden-venezuela-petrolu-aciklamasi-suresiz-olarak-satacagiz-h22647?utm_source=openai))
+
+Bu nedenle, soruda belirtilen seçeneklerden hiçbiri mevcut bilgilere dayanarak doğru olarak belirlenememektedir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: turkce, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede BBC, Medizona ve gönüllü araştırmacıların 2025 yılında 40 bin 201 Rus askerinin öldüğünü doğruladığı (teyit ettiği) belirtilmektedir. 80 bin rakamı ise bir analiz/tahmindir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Rusya'nın Ukrayna'daki kayıplarını analiz eden habere göre, 2025 yılında doğrulanmış (teyit edilmiş) Rus askeri ölü sayısı kaçtır?
+(A) 40.201
+(B) 80.000
+(C) 69.362
+(D) 186.102
+(E) 286.000
+MODEL OUTPUT:
+Rusya'nın Ukrayna'daki askeri kayıplarına dair çeşitli kaynaklardan elde edilen veriler, farklı rakamlar sunmaktadır. Ukrayna Silahlı Kuvvetleri Genelkurmay Başkanlığı, 2025 yılı itibarıyla Rusya'nın toplam asker kaybının 1 milyonu geçtiğini belirtmiştir. ([tr.euronews.com](https://tr.euronews.com/my-europe/2025/06/12/kiev-rusya-ukraynada-1-milyondan-fazla-asker-kaybetti?utm_source=openai)) Diğer kaynaklar, 2024 yılında en az 45.287 Rus askerinin öldüğünü ve toplam ölü sayısının 260 bini aşabileceğini iddia etmektedir. ([dunyabulteni.com.tr](https://www.dunyabulteni.com.tr/olen-rus-askeri-sayisi-en-az-200-bin-iddiasi?utm_source=openai)) Bu veriler, 2025 yılı için doğrulanmış Rus askeri ölü sayısının 40.201 ile 69.362 arasında olduğunu göstermektedir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede OpenAI'ın, saldırıdan (12 Şubat 2026) altı ay önce (Haziran 2025) hesabı engellediği belirtilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Kanada'daki silahlı saldırı şüphelisi Jesse Van Rootselaar ile ilgili olarak OpenAI şirketi, şüphelinin ChatGPT hesabını saldırıdan ne kadar süre önce engellediğini açıklamıştır?
+(A) 6 ay
+(B) 1 yıl
+(C) 2 ay
+(D) 8 ay
+(E) 1 ay
+MODEL OUTPUT:
+OpenAI, Jesse Van Rootselaar'ın ChatGPT hesabını Haziran 2025'te "şiddet faaliyetlerini ilerletme" gerekçesiyle engellemiştir. ([theguardian.com](https://www.theguardian.com/world/2026/feb/21/tumbler-ridge-shooter-chatgpt-openai?utm_source=openai))
+
+Bu bilgilere dayanarak, doğru seçenek (D) 8 ay olacaktır.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "17. yüzyıla gelindiğinde, dolma hem sevilen bir yemek hem de statü göstergesi haline gelmişti... Ve bu sıralarda İstanbul'da dolma restoranları ortaya çıkmaya başladı" denilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Dolma ve sarmanın tarihçesine göre, bu yemeğin hem sevilen bir yiyecek hem de bir statü göstergesi haline geldiği ve İstanbul'da dolma restoranlarının ortaya çıkmaya başladığı dönem hangisidir?
+(A) 15. yüzyıl
+(B) 19. yüzyıl
+(C) 17. yüzyıl
+(D) 16. yüzyıl
+(E) 18. yüzyıl
+MODEL OUTPUT:
+Dolma ve sarmalar, Osmanlı İmparatorluğu döneminde mutfak kültürünün önemli bir parçası haline gelmiştir. 15. yüzyılda, Osmanlı saray mutfaklarında dolma ve sarma tarifleri geliştirilmiş ve bu yemekler, zengin sofraların vazgeçilmezi olmuştur. 16. yüzyılda ise, İstanbul'da yaklaşık 50 dolmacı dükkânı bulunmaktaydı. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Dolma?utm_source=openai))
+
+Bu bilgiler ışığında, dolma ve sarmaların hem sevilen bir yiyecek hem de statü göstergesi haline geldiği ve İstanbul'da dolma restoranlarının ortaya çıkmaya başladığı dönem 16. yüzyıldır.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "18 Şubat'ta yayımlanan raporla ilgili..." ifadesi geçmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. TBMM Başkanı Numan Kurtulmuş'un başkanlık ettiği Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu'nun raporu hangi tarihte yayımlanmıştır?
+(A) 20 Şubat
+(B) 21 Şubat
+(C) 2 Şubat
+(D) 6 Şubat
+(E) 18 Şubat
+MODEL OUTPUT:
+Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu'nun raporu, 18 Şubat 2026 tarihinde yapılan 21. toplantıda oylanarak kabul edilmiştir. ([tbmm.gov.tr](https://www.tbmm.gov.tr/Milli-Dayanisma-Kardeslik-Demokrasi-Komisyonu/Komisyon-Raporu?utm_source=openai)) Rapor, 20 Şubat 2026 tarihinde Türkiye Büyük Millet Meclisi'nin (TBMM) resmi internet sitesinde yayımlanmıştır. ([nefes.com.tr](https://www.nefes.com.tr/surec-komisyonunun-ortak-raporu-yayimlandi-105332?utm_source=openai))
+
+Bu bilgilere dayanarak, raporun yayımlandığı tarih 20 Şubat 2026'dır.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

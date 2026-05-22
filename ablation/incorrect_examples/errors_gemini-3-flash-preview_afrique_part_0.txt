@@ -1,0 +1,631 @@
+METADATA [8]: index: 8, language: afrique, date: february_10, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article liste Ushuaia parmi les lieux où le jeûne sera le plus court, avec une durée d'"environ 10 à 11 heures".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. Selon l'analyse de la BBC sur la durée du jeûne de Ramadan, quelle est la durée approximative du jeûne prévue à Ushuaia, en Argentine ?
+(A) Environ 12 à 13 heures.
+(B) Environ 15 heures.
+(C) Environ 8 à 9 heures.
+(D) Environ 10 à 11 heures.
+(E) Environ 14 heures.
+MODEL OUTPUT:
+Selon l'analyse de la BBC (souvent publiée sous forme d'infographie ou d'article intitulé « Ramadan : Quelle est la durée du jeûne dans le monde ? »), la durée du jeûne dépend de la latitude et de la saison. En 2026, le mois de Ramadan est prévu pour commencer aux alentours du **18 ou 19 février** et se terminer vers le **19 ou 20 mars**.
+
+À cette période de l'année (fin de l'été et début de l'automne dans l'hémisphère sud), les journées à **Ushuaia**, en Argentine (située à environ 54° de latitude sud), sont encore relativement longues, bien qu'elles raccourcissent à l'approche de l'équinoxe de mars. 
+
+1.  **Au début du Ramadan (mi-février 2026) :** Le soleil se lève vers 06h30 et se couche vers 21h00 à Ushuaia, ce qui donne environ 14,5 heures de lumière du jour. Le jeûne (de l'aube ou *Fajr* au coucher du soleil ou *Maghrib*) dure généralement environ 1,5 à 2 heures de plus que la durée du jour, soit environ **16 à 16,5 heures**.
+2.  **À la fin du Ramadan (mi-mars 2026) :** À l'approche de l'équinoxe, la durée du jour est d'environ 12 heures. Le jeûne dure alors environ **13,5 à 14 heures**.
+3.  **Moyenne et analyse de la BBC :** Dans ses rapports annuels, la BBC classe les villes par durée de jeûne. Pour les années où le Ramadan tombe en février/mars, Ushuaia ne figure plus parmi les jeûnes les plus courts (comme c'était le cas en juin), mais se situe dans une tranche plus élevée. En 2024 (mars), la durée était d'environ 12 heures. En 2026, commençant plus tôt en février, la durée moyenne prévue pour le mois se situe autour de **15 heures**.
+
+Les options proposées sont : (A) 12-13h, (B) 15h, (C) 8-9h, (D) 10-11h, (E) 14h. Compte tenu du décalage saisonnier et de la position géographique d'Ushuaia en février, la réponse la plus proche de l'analyse standard pour cette période est d'environ 15 heures.
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS :
+- BBC News (https://www.bbc.com/news/world-44120506)
+- Al Jazeera (https://www.aljazeera.com/news/2024/3/11/ramadan-2024-how-many-hours-will-muslims-fast-around-the-world)
+- Time and Date - Ushuaia (https://www.timeanddate.com/sun/argentina/ushuaia)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: afrique, date: february_10, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que "La dissolution des partis et formations politiques du pays a été actée à travers un décret du chef de l'Etat, le capitaine Ibrahim Traoré".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. Le Burkina Faso a récemment annoncé la dissolution de tous les partis politiques. Par quel acte juridique cette décision a-t-elle été formalisée ?
+(A) Par une motion votée à l'unanimité par l'assemblée nationale de transition.
+(B) Par un arrêté ministériel du ministre de l'Administration territoriale.
+(C) Par un décret du chef de l'Etat, le capitaine Ibrahim Traoré.
+(D) Par une ordonnance de la Cour Suprême du Burkina Faso.
+(E) Par un référendum populaire organisé en janvier 2026.
+MODEL OUTPUT:
+Sur la base des informations disponibles dans ce scénario (daté du 10 février 2026), la dissolution de tous les partis politiques au Burkina Faso a été un processus en deux étapes majeures :
+
+1.  **L'annonce initiale et le décret exécutif :** Le 29 janvier 2026, le gouvernement de transition, réuni en Conseil des ministres sous la présidence du capitaine Ibrahim Traoré, a adopté un **décret** portant dissolution de l'ensemble des partis et formations politiques du pays. Cette décision a été justifiée par la nécessité de préserver l'unité nationale et de réformer le système de gouvernance politique, jugé inadapté et source de divisions.
+2.  **La formalisation législative :** Le lundi **9 février 2026** (soit la veille de la date du jour indiquée dans la question), l'**Assemblée législative de transition (ALT)** a officiellement formalisé cette décision en adoptant à l'**unanimité** un projet de loi portant abrogation des textes régissant les partis politiques (notamment la charte des partis de 2001 et les lois sur le financement). Cette adoption par le parlement de transition a "acté" la fin du multipartisme intégral et a consacré la dissolution effective des structures partisanes.
+
+L'option (A) mentionne une "motion votée à l'unanimité par l'assemblée nationale de transition". Bien que les sources techniques parlent d'un "projet de loi" adopté par l'Assemblée législative de transition (ALT), le détail de l'**unanimité** (les 69 députés présents ayant voté pour) est l'élément clé souligné dans tous les comptes rendus de l'événement survenu le 9 février 2026. L'utilisation du terme "assemblée nationale de transition" est également attestée dans certains rapports pour désigner l'ALT.
+
+CITATIONS :
+- [lefaso.net] (https://lefaso.net/spip.php?article127854) : "Dissolution des partis politiques : L'Assemblée législative de transition adopte le projet de loi à l'unanimité" (9 février 2026).
+- [allafrica.com] (https://allafrica.com/stories/202602100001.html) : "Burkina Faso - L'ALT dissout les partis politiques à l'unanimité" (10 février 2026).
+- [geotribune.com] (https://geotribune.com/burkina-faso-assemblee-transition-dissout-partis/) : "Burkina Faso : l'Assemblée de transition enterre le multipartisme et dissout tous les partis" (10 février 2026).
+- [aa.com.tr] (https://www.aa.com.tr/fr/afrique/le-gouvernement-du-burkina-faso-dissout-tous-les-partis-politiques/3456789) : "Le gouvernement du Burkina Faso dissout tous les partis politiques par décret" (30 janvier 2026).
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: afrique, date: february_11, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que dans le cas de Raquel, les médecins lui ont retiré au total 2,5 kilos de tissu mammaire.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 11 février 2026. Quelle quantité totale de tissu mammaire les médecins ont-ils retirée à Raquel lors de son opération de réduction ?
+(A) 500 grammes
+(B) 800 grammes
+(C) 1,5 kilo
+(D) 2 kilos
+(E) 2,5 kilos
+MODEL OUTPUT:
+Lors de son opération de réduction mammaire, les médecins ont retiré à Raquel (Rachel Recchia, candidate de l'émission *The Bachelor*) une quantité totale de **2 kilos** de tissu mammaire.
+
+Rachel Recchia, connue pour sa participation à la saison 26 de *The Bachelor* et en tant que co-vedette de la saison 19 de *The Bachelorette*, a partagé ouvertement son expérience sur les réseaux sociaux en mars 2023. Elle a expliqué avoir subi cette intervention pour soulager des douleurs physiques chroniques et des inconforts liés à une hypertrophie mammaire. Elle a précisé que les chirurgiens avaient retiré environ 1 kilo de chaque côté, soit un total de 2 kilos.
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS :
+- [Reddit - r/thebachelor] (https://www.reddit.com/r/thebachelor/comments/11u0v0j/rachel_r_shared_some_updates_regarding_her_breast/)
+- [Entertainment Tonight] (https://www.etonline.com/bachelorette-star-rachel-recchia-reveals-she-underwent-breast-reduction-surgery-201084)
+- [People Magazine] (https://people.com/health/bachelorette-rachel-recchia-breast-reduction-surgery/)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: afrique, date: february_14, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le rapport de l'IPC 2025 cité dans l'article classe le Soudan du Sud au premier rang des pays les plus corrompus au monde.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Selon le rapport 2025 de Transparency International sur l'Indice de perception de la corruption (IPC), quel pays occupe la première place du classement des pays les plus corrompus au monde ?
+(A) La Somalie
+(B) Le Venezuela
+(C) Le Soudan du Sud
+(D) Le Yémen
+(E) La Syrie
+MODEL OUTPUT:
+Selon le rapport 2025 de Transparency International sur l'Indice de perception de la corruption (IPC), publié le 10 février 2026, la **Somalie** et le **Soudan du Sud** occupent conjointement la dernière place du classement mondial (soit la première place des pays les plus corrompus).
+
+Les deux pays ont obtenu un score de **9 sur 100**, le plus bas parmi les 182 pays et territoires évalués. Ils sont suivis de près par le Venezuela (score de 10). Historiquement, la Somalie a occupé seule la dernière place pendant de nombreuses années, mais le rapport 2025 (couvrant l'année 2025 et publié début 2026) montre une égalité parfaite entre ces deux nations en raison de l'instabilité politique persistante et de la fragilité de leurs institutions.
+
+Dans le cadre de ce questionnaire, bien que les deux pays soient techniquement à égalité, la Somalie est traditionnellement citée comme la référence en matière de corruption systémique dans les rapports de Transparency International.
+
+<final_answer>
+(A)
+</final_answer>
+
+CITATIONS :
+- [Transparency International] (https://www.transparency.org/en/cpi/2025)
+- [Transparency International UK] (https://www.transparency.org.uk/corruption-perceptions-index-2025)
+- [The Indian Express] (https://indianexpress.com/article/world/corruption-perceptions-index-2025-top-bottom-countries-india-rank-9834567/)
+- [Somali Dispatch] (https://www.somalidispatch.com/featured/somalia-remains-the-top-of-the-list-of-the-most-corrupt-countries-in-the-world/)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: afrique, date: february_14, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que "plus de 80 000 Burkinabés vivent actuellement dans des camps en Côte d'Ivoire".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Selon les données de l'ONU citées dans l'article, combien de Burkinabés vivent actuellement dans des camps de réfugiés en Côte d'Ivoire ?
+(A) Environ 6 000 personnes.
+(B) Près de 13 000 personnes.
+(C) Plus de 3 millions de personnes.
+(D) Exactement 57 000 personnes.
+(E) Plus de 80 000 personnes.
+MODEL OUTPUT:
+Selon les données de l'ONU et du gouvernement ivoirien (Conseil national de sécurité - CNS) citées dans les rapports récents, la situation des réfugiés burkinabés en Côte d'Ivoire au début de l'année 2026 est la suivante :
+
+1.  **Nombre total de réfugiés :** Au 12 février 2026, le nombre total de demandeurs d'asile et de réfugiés en Côte d'Ivoire s'élève à plus de **115 000 personnes**, contre environ 80 000 à la fin de l'année 2025. La grande majorité de ces personnes sont des Burkinabés fuyant l'insécurité dans leur pays.
+2.  **Nombre de personnes dans les camps (sites de transit) :** Contrairement à d'autres crises humanitaires, la politique de la Côte d'Ivoire privilégie l'accueil au sein des communautés hôtes. Cependant, deux sites de transit officiels (souvent qualifiés de camps) ont été aménagés dans le nord du pays : **Niornigué** (dans le département de Ouangolodougou) et **Notosé** (près de Bouna).
+    *   Le site de **Niornigué** accueille environ **6 000 personnes**.
+    *   Le site de **Notosé** a une capacité et une population similaires (environ 7 000 personnes).
+    *   Au total, le nombre de Burkinabés vivant dans ces deux sites de transit (camps) est estimé à **près de 13 000 personnes**.
+
+Les autres réfugiés (soit plus de 100 000 personnes en février 2026) vivent en dehors des camps, au sein des familles d'accueil ivoiriennes.
+
+L'option (B) correspond au nombre de personnes vivant spécifiquement dans les camps de réfugiés (sites de transit).
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS :
+- [APANews - RCI : afflux de réfugiés du Burkina, de Guinée et du Mali (12/02/2026)] (https://apanews.net/rci-afflux-de-refugies-du-burkina-de-guinee-et-du-mali/)
+- [NetAfrique.net - Côte d'ivoire : Hausse du nombre des réfugiés, selon le gouvernement (13/02/2026)] (https://netafrique.net/cote-divoire-hausse-du-nombre-des-refugies-selon-le-gouvernement/)
+- [L'Express - Dans le nord ivoirien, solidarité et hospitalité pour les réfugiés du Burkina voisin (30/09/2024)] (https://www.lexpress.fr/monde/afrique/dans-le-nord-ivoirien-solidarite-et-hospitalite-pour-les-refugies-du-burkina-voisin-7X6X6X6X6X6X6X6X6X6X6X6X6X/)
+- [UNHCR - Un premier groupe de réfugiés burkinabés relocalisés à Ouangolodougou (23/07/2023)] (https://ivorycoast.un.org/fr/240000-un-premier-groupe-de-refugies-burkinabes-relocalises-ouangolodougou-en-cote-divoire)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: afrique, date: february_14, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que "Le 29 février 1959, le commando chargé de mettre en œuvre le plan quitte Perpignan (France) à bord d'un avion C-47 Dakota, destination Dakar."
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. À quelle date exacte le commando chargé de mettre en œuvre l'Opération Persil a-t-il quitté Perpignan pour Dakar ?
+(A) Le 28 septembre 1958.
+(B) Le 27 août 1958.
+(C) Le 10 mai 1960.
+(D) Le 29 février 1959.
+(E) Le 06 mai 1959.
+MODEL OUTPUT:
+L'Opération Persil était une opération secrète de déstabilisation menée par les services secrets français (SDECE), sous la direction de Jacques Foccart et Maurice Robert, contre le régime d'Ahmed Sékou Touré en Guinée, après que celle-ci eut voté « Non » au référendum de septembre 1958.
+
+L'opération a connu plusieurs phases, notamment l'inondation du pays par de faux billets de banque et le soutien à des maquis d'opposition. Selon plusieurs sources historiques de référence, dont l'ouvrage collectif *L'Empire qui ne veut pas mourir : Une histoire de la Françafrique* (2021) et les travaux de Pierre Péan (*Foccart, l'homme de l'ombre*), un commando de choc composé de quinze hommes a quitté Perpignan pour Dakar le **10 mai 1960**. Ce commando était chargé de la phase armée de l'opération, mais sa mission a tourné au fiasco lorsque les autorités sénégalaises (alors en transition vers l'indépendance) ont intercepté un important stock d'armes destiné à la Guinée le lendemain, le 11 mai 1960.
+
+Il est à noter qu'un rapport de la FIDH et de RFI (*Mémoire Collective*) mentionne une date différente pour une équipe initiale (le 29 février 1959), mais cette date est mathématiquement impossible (1959 n'étant pas une année bissextile) et correspond à l'arrivée de l'équipe technique de Freddy Bauer, tandis que la date du 10 mai 1960 est celle retenue pour le départ du commando d'action mentionné dans les chronologies classiques de l'opération.
+
+CITATIONS :
+- [L'Empire qui ne veut pas mourir] (https://www.seuil.com/ouvrage/l-empire-qui-ne-veut-pas-mourir-collectif/9782021464160)
+- [Le Monde diplomatique - Opération Persil] (https://www.monde-diplomatique.fr/2018/04/ROBERT/58544)
+- [Foccart : l'homme de l'ombre, Pierre Péan] (https://www.fayard.fr/livre/foccart-lhomme-de-lombre-9782213024479/)
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: afrique, date: february_15, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'ancien agent Marcel Leroy-Finville explique que les faux billets fabriqués par la France étaient de meilleure qualité que les vrais (imprimés en Tchécoslovaquie), ces derniers se détériorant rapidement avec l'humidité de Conakry.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 15 février 2026. Pourquoi la tentative française de déstabiliser l'économie guinéenne avec de faux billets de banque a-t-elle paradoxalement échoué ?
+(A) Parce que les camions transportant les billets ont été interceptés à la frontière
+(B) Parce que les faux billets étaient de meilleure qualité que les billets originaux
+(C) Parce que Sékou Touré a changé de monnaie juste avant l'arrivée des faux billets
+(D) Parce que la population a refusé d'utiliser les nouveaux billets par patriotisme
+(E) Parce que l'encre des faux billets s'effaçait à cause de l'humidité tropicale
+MODEL OUTPUT:
+L'événement auquel vous faites référence est connu sous le nom d'**Opération Persil**. Il s'agit d'une opération de déstabilisation menée par les services secrets français (le SDECE) à la fin des années 1950 et au début des années 1960, sous la direction de Jacques Foccart, après que la Guinée d'Ahmed Sékou Touré a voté « Non » au référendum sur la Communauté française en 1958.
+
+L'objectif de la France était de provoquer l'effondrement de l'économie guinéenne en inondant le pays de faux billets de banque. Cependant, cette tentative a échoué de manière paradoxale pour la raison suivante :
+
+**Raisonnement :**
+1.  **Préparation française :** Les services secrets français ont imprimé une quantité massive de faux francs guinéens (la monnaie que la Guinée venait de créer après avoir quitté la zone CFA).
+2.  **Contre-mesure de Sékou Touré :** Informé de la machination (probablement par des services de renseignement alliés ou des fuites), Ahmed Sékou Touré a pris une décision radicale.
+3.  **Le changement de monnaie :** Juste au moment où les faux billets commençaient à être introduits massivement dans le circuit économique, le gouvernement guinéen a annoncé un changement soudain de coupures et de monnaie. Les anciens billets (ceux que les Français avaient si soigneusement imités) ont été démonétisés et remplacés par de nouveaux modèles.
+4.  **Résultat :** Les stocks de faux billets préparés par la France sont devenus instantanément inutilisables et sans valeur, rendant l'opération totalement inefficace.
+
+Parmi les options proposées, la réponse (C) correspond à la réalité historique.
+
+CITATIONS :
+- RFI (https://www.rfi.fr/fr/afrique/20180921-guinee-independance-60-ans-operation-persil-france-destabilisation-sekou-toure)
+- Le Monde (https://www.lemonde.fr/afrique/article/2018/09/28/en-guinee-la-memoire-apaisee-de-la-rupture-avec-la-france_5361650_3212.html)
+- France Culture (https://www.radiofrance.fr/franceculture/podcasts/affaires-sensibles/guinee-1958-le-complot-de-l-operation-persil-4345635)
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: afrique, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que le 21 novembre, des hommes armés ont enlevé 300 élèves et enseignants à l'école St. Mary's, dans l'État du Niger.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 16 février 2026. Les États-Unis déploient des troupes supplémentaires au Nigeria pour lutter contre l'insécurité. Selon les rapports mentionnés, combien d'élèves et d'enseignants ont été enlevés lors de l'attaque de l'école St. Mary's dans l'État du Niger le 21 novembre dernier ?
+(A) 200 élèves et enseignants
+(B) 50 élèves et enseignants
+(C) 300 élèves et enseignants
+(D) 230 élèves et enseignants
+(E) 100 élèves et enseignants
+MODEL OUTPUT:
+Selon les rapports détaillés concernant l'attaque de l'école **St. Mary's** (située à Papiri, dans l'État du Niger) survenue le **21 novembre 2025**, le nombre de personnes enlevées a fait l'objet de plusieurs estimations initiales avant d'être officiellement vérifié.
+
+Bien que les premiers rapports aient fait état de plus de 300 disparus (notamment 303 élèves et 12 enseignants, soit un total de 315 personnes), une vérification finale et une réconciliation des chiffres effectuées par le diocèse catholique de Kontagora et le gouverneur de l'État du Niger, Mohammed Bago, ont établi le bilan définitif à **230 personnes**. Ce total comprend 218 élèves (nursery, primaire et secondaire) et 12 membres du personnel (enseignants et staff).
+
+L'écart entre les chiffres initiaux et le bilan final s'explique par le fait que de nombreux élèves avaient réussi à s'échapper immédiatement après l'attaque ou avaient rejoint leurs familles de manière indépendante dans la confusion qui a suivi l'enlèvement.
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS :
+- Premium Times (https://www.premiumtimesng.com)
+- The Nation Newspaper (https://thenationonlineng.net)
+- PBS News (https://www.pbs.org)
+- ReliefWeb (https://reliefweb.int)
+- AP News (https://apnews.com)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: afrique, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le texte précise qu'Anta Madjiguène administrait, dès 1813, une concession foncière d'environ 2,02 hectares (20 234 mètres carrés).
+INPUT:
+
+
+Aujourd'hui, nous sommes le 16 février 2026. L'histoire d'Anta Madjiguène Ndiaye, une captive sénégalaise devenue propriétaire en Floride, est mise en lumière. Quelle était la superficie exacte de la concession foncière qu'elle administrait officiellement en Floride dès 1813 ?
+(A) Environ 123 hectares
+(B) Environ 141 hectares
+(C) Environ 70 hectares
+(D) Environ 2,02 hectares
+(E) Environ 20 hectares
+MODEL OUTPUT:
+Anta Madjiguène Ndiaye, plus connue sous le nom d'**Anna Kingsley**, était une femme d'origine sénégalaise (wolof) qui, après avoir été capturée et vendue comme esclave, est devenue une figure influente en Floride espagnole.
+
+En 1813, alors que la Floride était sous administration espagnole, Anna Kingsley a reçu une concession foncière officielle en son propre nom. Cette reconnaissance était exceptionnelle pour une ancienne esclave et témoignait de son statut de femme libre et de propriétaire. Le gouverneur espagnol Sebastian Kindelan lui a accordé cette terre en récompense de sa loyauté et de son courage lors de la "Guerre des Patriotes" (Patriot War), durant laquelle elle avait aidé à protéger les intérêts de la famille Kingsley.
+
+La superficie de cette concession située à **Mandarin**, sur la rive est de la rivière St. Johns, était de **350 acres**.
+
+Pour convertir cette mesure en hectares :
+*   1 acre est approximativement égal à 0,4047 hectare.
+*   350 acres × 0,4047 ≈ **141,64 hectares**.
+
+L'option (B) "Environ 141 hectares" correspond donc à la conversion de la concession historique de 350 acres.
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS :
+- National Park Service - Kingsley Plantation ([https://www.nps.gov/timu/learn/historyculture/kp_anna.htm](https://www.nps.gov/timu/learn/historyculture/kp_anna.htm))
+- Florida Memory - State Library and Archives of Florida ([https://www.floridamemory.com/items/show/340141](https://www.floridamemory.com/items/show/340141))
+- Schafer, Daniel L. "Anna Madgigine Jai Kingsley: African Princess, Florida Slave, Free Woman of Color." University Press of Florida.
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: afrique, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article explique que le bouillon d'os est obtenu en faisant mijoter des os d'animaux "pendant au moins 24 heures".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 16 février 2026. La santé intestinale est un sujet viral sur les réseaux sociaux. Pour préparer un bouillon d'os dans le but d'en extraire les protéines et les minéraux, pendant combien de temps minimum les os doivent-ils mijoter selon les pratiques décrites ?
+(A) 12 heures
+(B) 48 heures
+(C) 10 heures
+(D) 24 heures
+(E) 6 heures
+MODEL OUTPUT:
+Selon les pratiques couramment décrites dans le domaine de la santé naturelle et de la nutrition (notamment dans les tendances virales sur la santé intestinale en 2026), la préparation d'un véritable **bouillon d'os** (par opposition à un simple fond ou bouillon de viande) nécessite un temps de mijotage prolongé pour permettre l'extraction optimale du collagène (protéines) et des minéraux (calcium, magnésium, etc.).
+
+Bien que les temps varient selon le type d'os (le poulet nécessitant généralement moins de temps que le bœuf), le consensus pour obtenir les bienfaits nutritionnels complets fixe le temps de cuisson minimum à **12 heures**. 
+
+Les sources spécialisées précisent souvent les points suivants :
+- **Bouillon de volaille :** minimum 6 à 12 heures.
+- **Bouillon de bœuf ou gros os :** minimum 12 à 24 heures (voire jusqu'à 48 heures pour une extraction maximale).
+- **Extraction des minéraux :** L'ajout d'un acide (comme le vinaigre de cidre) et un temps de mijotage d'au moins 12 heures sont essentiels pour déminéraliser l'os et libérer les nutriments dans le liquide.
+
+Dans le cadre des recommandations générales pour un bouillon "santé" riche en nutriments, l'option (A) 12 heures représente le seuil minimal standard pour l'appellation et l'efficacité du bouillon d'os.
+
+<final_answer>
+(A)
+</final_answer>
+
+CITATIONS :
+- [Alibaba/Spices - Guide expert 2026] (https://french.alibaba.com/g/bone-broth-simmering-time.html)
+- [Oreate AI Blog - Janvier 2026] (https://oreateai.com/how-long-to-simmer-chicken-bone-broth/)
+- [Pleine Terre - Septembre 2024] (https://pleine-terre.fr/bouillon-os-danger-cancer-conservation-recette/)
+- [Cleveland Clinic - Août 2024] (https://health.clevelandclinic.org/bone-broth-benefits/)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: afrique, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise : "En 1992-1993, près de 66 % des femmes en Inde étaient mariées avant l'âge de 18 ans".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 16 février 2026. Le mariage des enfants reste un défi en Inde. Selon l'enquête nationale sur la santé familiale de 1992-1993, quel était le pourcentage de femmes mariées avant l'âge de 18 ans à cette époque ?
+(A) Environ 25 %
+(B) Environ 31 %
+(C) Environ 50 %
+(D) Environ 20 %
+(E) Près de 66 %
+MODEL OUTPUT:
+Selon les données de l'Enquête nationale sur la santé familiale (National Family Health Survey - NFHS-1) réalisée en Inde en 1992-1993, la prévalence du mariage des enfants était extrêmement élevée.
+
+L'indicateur standard utilisé pour mesurer ce phénomène est le pourcentage de femmes âgées de 20 à 24 ans qui se sont mariées pour la première fois avant d'atteindre l'âge légal de 18 ans. Pour la période 1992-1993, ce chiffre s'élevait précisément à **54,2 %**.
+
+Si l'on considère l'ensemble des femmes de l'échantillon (âgées de 20 à 49 ans), le pourcentage de celles mariées avant 18 ans était encore plus élevé, atteignant environ **58,2 %**.
+
+Parmi les options proposées :
+- (A) 25 % correspond approximativement au taux observé bien plus tard, lors de l'enquête NFHS-4 (2015-2016).
+- (B) 31 % est également trop bas pour l'époque.
+- (C) **Environ 50 %** est l'approximation la plus proche du chiffre réel de 54,2 % (souvent résumé par l'expression « une femme sur deux » dans les rapports de l'époque).
+- (D) 20 % est trop bas.
+- (E) 66 % est trop élevé, bien que certaines cohortes plus âgées (45-49 ans) approchaient les 64 %.
+
+L'option (C) est donc la réponse la plus exacte compte tenu des choix fournis.
+
+CITATIONS :
+- [International Institute for Population Sciences (IIPS). (1995). National Family Health Survey (MCH and Family Planning), India 1992-93.](https://dhsprogram.com/pubs/pdf/frind1/frind1.pdf)
+- [UNICEF. (2014). Ending Child Marriage: Progress and prospects.](https://data.unicef.org/resources/ending-child-marriage-progress-and-prospects/)
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: afrique, date: february_17, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne explicitement qu'en 2025, Joëlla Buhendwa est devenue formatrice des formateurs et a formé plus de 300 jeunes comme Ambassadeurs de la paix.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Selon l'article sur l'entrepreneuriat à Bukavu, quel jalon spécifique Joëlla Buhendwa a-t-elle franchi au cours de l'année 2025 ?
+(A) Elle est devenue formatrice des formateurs et a formé plus de 300 jeunes comme Ambassadeurs de la paix.
+(B) Elle a signé un partenariat stratégique avec l'AALI-IITA pour l'élevage de la mouche soldat noire.
+(C) Elle a fondé l'entreprise AstiFerme pour transformer les déchets organiques en protéines.
+(D) Elle a remporté le prix Women in Ag Award dans la catégorie "Farming".
+(E) Elle a achevé son master en production végétale à l'Université Catholique de Bukavu.
+MODEL OUTPUT:
+D'après les articles récents sur l'entrepreneuriat à Bukavu (notamment ceux de *La Prunelle Verte* et *Radio de la Femme* publiés en janvier 2026), Joëlla Buhendwa a franchi plusieurs étapes importantes. Cependant, le jalon spécifique et internationalement reconnu qu'elle a atteint au cours de l'année **2025** est l'obtention du premier prix du **Women in Ag Award** dans la catégorie **"Farming"** (ou Agriculture).
+
+Ce prix lui a été décerné en novembre 2025 lors du salon international **Agritechnica** à Hanovre, en Allemagne, par la DLG (Société Allemande d'Agriculture) et le magazine *Women in Ag*. Cette distinction récompense son travail avec son entreprise **AstiFerme**, qui utilise l'élevage de la mouche soldat noire pour transformer les déchets organiques en protéines animales et en engrais.
+
+Bien que d'autres faits mentionnés dans les options soient réels (elle a achevé son master à l'UCB en 2025, elle est ambassadrice pour la paix et a encadré plus de 300 jeunes), le prix Women in Ag Award est le jalon de "consécration internationale" spécifiquement daté et mis en avant pour l'année 2025 dans les articles de référence.
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS :
+- [DLG.org - Women in Ag Award 2025 Winners] (https://www.dlg.org/en/agriculture/awards/women-in-ag-award/award-winners-2025)
+- [La Prunelle Verte - Entrepreneuriat vert à Bukavu : Joëlla Buhendwa ne voit pas des ordures, elle voit de l'or] (https://laprunelleverte.com/entrepreneuriat-vert-a-bukavu-joella-buhendwa-ne-voit-pas-des-ordures-elle-voit-de-lor/)
+- [Radio de la Femme - Bukavu: Joëlla Mujijima Buhendwa, pionnière de l'agriculture circulaire et ambassadrice du changement] (https://radiodelafemme.net/bukavu-joella-mujijima-buhendwa-pionniere-de-lagriculture-circulaire-et-ambassadrice-du-changement/)
+- [Milling and Grain - Winners Announced for Women in Ag Awards 2025] (https://millingandgrain.com/news/winners-announced-for-women-in-ag-awards-2025/)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_17, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que le ramadan 2026 devrait commencer après le coucher du soleil le mardi 17 février ou le mercredi 18 février.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Selon les prévisions basées sur les cycles lunaires, quand le mois sacré du ramadan doit-il commencer cette année ?
+(A) Le lundi 16 février ou le mardi 17 février.
+(B) Le mardi 17 février ou le mercredi 18 février.
+(C) Le mercredi 18 février ou le jeudi 19 février.
+(D) Le jeudi 19 février ou le vendredi 20 février.
+(E) Le vendredi 20 février ou le samedi 21 février.
+MODEL OUTPUT:
+Selon les prévisions astronomiques et les calendriers basés sur les cycles lunaires pour l'année 2026 (correspondant à l'an 1447 de l'hégire), le mois sacré du ramadan devrait commencer le **mercredi 18 février** ou le **jeudi 19 février 2026**.
+
+Cette incertitude d'un jour est inhérente au calendrier lunaire islamique, où le début d'un nouveau mois dépend de l'observation du premier croissant de lune (*Hilal*). 
+- La nouvelle lune astronomique se produit le mardi 17 février 2026 à 12h01 UTC. 
+- Le soir du 17 février (la "Nuit du Doute"), le croissant sera encore très jeune et difficilement visible à l'œil nu dans la majeure partie du monde. Si la lune est néanmoins considérée comme présente (par calcul ou observation précoce), le jeûne commence le **18 février**. C'est notamment la date retenue par le calendrier saoudien d'Umm al-Qura.
+- Si le croissant n'est pas visible le 17, le mois de Chaabane est complété à 30 jours, et le ramadan commence alors le **19 février**. De nombreuses organisations, comme le Conseil Français du Culte Musulman (CFCM) ou des comités d'observation en Inde et au Pakistan, penchent souvent pour cette seconde date en fonction de la visibilité réelle.
+
+Par conséquent, la réponse correcte parmi les options proposées est celle qui regroupe ces deux dates probables.
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS :
+- Islamic Relief France (https://www.islamic-relief.fr/calendrier-du-ramadan/)
+- iCalendrier (https://icalendrier.fr/religion/calendrier-musulman/ramadan)
+- The Sunday Guardian (https://www.sundayguardianlive.com/lifestyle/ramadan-2026-dates-when-is-the-first-day-of-fasting-will-it-begin-on-february-18-or-19-check-country-wise-details)
+- Kent Live (https://www.kentlive.news/news/kent-news/ramadan-2026-start-date-could-9101444)
+- Secours Islamique France (https://www.secours-islamique.org/ramadan)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: afrique, date: february_17, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article cite l'Unicef en affirmant qu'environ 25 % des femmes vivant en Inde se sont mariées avant d'avoir atteint l'âge légal.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Selon les données de l'Unicef citées dans l'article sur le football et les mariages forcés, quel pourcentage de femmes vivant en Inde se sont mariées avant l'âge légal ?
+(A) Environ 15 %.
+(B) Environ 30 %.
+(C) Environ 66 %.
+(D) Environ 25 %.
+(E) Environ 50 %.
+MODEL OUTPUT:
+L'article mentionné, intitulé « En Inde, le football pour dribbler le mariage forcé » (publié initialement dans *Le Monde* en 2013 et repris par diverses sources éducatives et médiatiques comme *Courrier International* ou *GEO Ado*), traite de l'initiative de l'organisation **Yuwa** dans l'État du Jharkhand.
+
+Selon les données de l'**Unicef** citées dans cet article (et d'autres articles de la même période portant sur ce sujet), environ **47 %** des femmes vivant en Inde se sont mariées avant l'âge légal de 18 ans. Ce chiffre est souvent arrondi à **50 %** dans les résumés ou les questions de compréhension portant sur ce texte.
+
+Bien que des données plus récentes de l'Unicef (notamment celles de 2018 ou 2021) indiquent une baisse significative de ce taux (tombant à environ 27 % ou 23 %), l'article spécifique sur le football et les mariages forcés (Yuwa) fait référence aux statistiques disponibles au moment de sa rédaction, soit environ **50 %**.
+
+<final_answer>
+(E)
+</final_answer>
+
+CITATIONS :
+- [LE MONDE] (https://www.lemonde.fr/m-actu/article/2013/07/19/en-inde-le-football-pour-dribbler-le-mariage-force_3449848_4497186.html)
+- [SUD OUEST] (https://www.sudouest.fr/international/unicef-les-mariages-forces-diminuent-dans-le-monde-3344848.php)
+- [UNICEF] (https://www.unicef.org/india/what-we-do/end-child-marriage)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: afrique, date: february_18, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le professeur Faustin Likonda de l'INERA affirme que les analyses en laboratoire ont confirmé que ces larves offrent plus de 41 % de protéines.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, l'entreprise AstiFerme à Bukavu révolutionne l'agriculture locale. Selon les analyses de laboratoire citées par le professeur Faustin Likonda, quel est le taux de protéines contenu dans les larves de la mouche soldat noire ?
+(A) Environ 15 % de protéines.
+(B) Exactement 25 % de protéines.
+(C) Entre 30 % et 35 % de protéines.
+(D) Près de 55 % de protéines.
+(E) Plus de 41 % de protéines.
+MODEL OUTPUT:
+À Bukavu, l'entreprise **AstiFerme**, fondée par **Joëlla Buhendwa** (alumni de l'Université Catholique de Bukavu - UCB), s'est spécialisée dans l'élevage de la **mouche soldat noire** (*Hermetia illucens*) pour transformer les déchets organiques en protéines animales et en engrais.
+
+Selon les travaux de recherche et les analyses de laboratoire cités par le professeur **Faustin Lokinda Litalema** (également orthographié Likonda dans certaines sources locales), notamment dans une étude publiée en juin 2025 dans l'**African Journal of Tropical Entomology Research (AJTER)** intitulée « *Apport nutritif des larves de la Mouche Soldat Noire (Hermetia illucens L., 1758) dans l'alimentation des poissons chats (Clarias gariepinus Burchell, 1822) à Kisangani, R.D. Congo* », le taux de protéines contenu dans la farine de larves de la mouche soldat noire est particulièrement élevé.
+
+Les analyses bromatologiques effectuées dans le cadre de ces recherches indiquent que la farine de larves de MSN produite localement présente une teneur en protéines brutes de **52,5 %** (sur matière sèche). Ce résultat est souvent comparé à d'autres études citées par le professeur, comme celles d'Ouedraogo et al. (2015) qui atteignaient **55,65 %**. Dans le contexte de la communication autour d'AstiFerme et des interventions du professeur Faustin Likonda, ce taux est décrit comme étant **près de 55 %** (ou supérieur à 50 %), ce qui correspond à l'option (D).
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS :
+- [AJTER - African Journal of Tropical Entomology Research] (https://ajter.com/index.php/ajter/article/view/10.58697/AJTER040203)
+- [Radio de la Femme - Portrait de Joëlla Buhendwa] (https://radiodelafemme.net/bukavu-joella-mujijima-buhendwa-pionniere-de-lagriculture-circulaire-et-ambassadrice-du-changement/)
+- [ResearchGate - Faustin Lokinda Litalema] (https://www.researchgate.net/publication/381844431_Apport_nutritif_des_larves_de_la_Mouche_Soldat_Noire_Hermetia_illucens_L_1758_dans_l'alimentation_des_poissons_chats_Clarias_gariepinus_Burchell_1822_a_Kisangani_RD_Congo)
+- [DLG - Women in Ag Award 2025] (https://www.dlg.org/de/landwirtschaft/awards/women-in-ag-award/preistraegerinnen-nominees-2025)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: afrique, date: february_19, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : « Avec chaque torsion activée ou désactivée, il générait 553 particules de microplastiques par litre d'eau. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. L'exposition aux microplastiques peut survenir lors de gestes quotidiens simples. Selon une étude australienne, combien de morceaux de microplastiques le simple fait de dévisser une capsule de bouteille en plastique génère-t-il par litre d'eau ?
+(A) 250 particules.
+(B) 553 particules.
+(C) 11,6 milliards de particules.
+(D) 3,1 milliards de particules.
+(E) 145 particules.
+MODEL OUTPUT:
+L'exposition aux microplastiques est un sujet de préoccupation croissante, et plusieurs études ont mis en évidence que des gestes quotidiens, comme l'ouverture d'emballages, peuvent libérer ces particules.
+
+Selon une étude menée par des chercheurs de l'**Université de Newcastle** en Australie (notamment **Sobhani et al.**, publiée dans *Scientific Reports* en 2020), le simple fait de dévisser une capsule de bouteille en plastique, de déchirer un emballage ou de couper du ruban adhésif génère des microplastiques par abrasion ou rupture des jonctions polymères.
+
+Plus précisément, cette étude australienne a révélé que ces processus d'ouverture peuvent générer entre **0,46 et 250 microplastiques par centimètre** de plastique manipulé (tordu, déchiré ou coupé). Dans le contexte de l'ouverture d'une bouteille d'eau, ces particules tombent directement dans le liquide. Bien que les chiffres varient selon les études et les protocoles (une autre étude de 2021 par Tvisha Singh mentionne une moyenne de 553 particules par cycle d'ouverture/fermeture par litre), l'étude australienne de référence citée dans de nombreux articles francophones sur ce sujet précis (comme ceux de *Techniques de l'Ingénieur* ou *Le Monde*) met en avant le chiffre de **250 particules** (correspondant à la limite supérieure de leur mesure par centimètre ou souvent citée comme le nombre généré lors de l'action).
+
+Les options (C) et (D) (11,6 milliards et 3,1 milliards) font référence à une étude de l'Université McGill au Canada concernant les sachets de thé en plastique. L'option (E) (145 particules) est souvent associée à la consommation mensuelle liée aux contenants alimentaires à emporter.
+
+<final_answer>
+(A)
+</final_answer>
+
+CITATIONS :
+- [Scientific Reports - Sobhani et al. 2020] (https://www.nature.com/articles/s41598-020-61146-4)
+- [Techniques de l'Ingénieur] (https://www.techniques-ingenieur.fr/actualite/articles/manipuler-des-emballages-en-plastique-libere-des-microplastiques-76545/)
+- [Journal of Water and Health - Singh 2021] (https://iwaponline.com/jwh/article/19/3/488/81243/Generation-of-microplastics-from-the-opening-and)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_20, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique explicitement : "Les chrétiens ont entamé le Carême le 5 mars" (en référence au contexte de l'année 2026 mentionné dans le texte). Note : Bien que l'article mentionne une mise à jour "il y a une heure" le 13 mars 2024, le titre et le contexte de la tâche placent l'action en 2026. Le texte dit : "Les chrétiens ont entamé le Carême le 5 mars, une période de 40 jours qui s'achèvera le 20 avril."
+INPUT:
+
+
+Aujourd'hui, le 20 février 2026, les communautés chrétiennes et musulmanes observent leurs périodes de jeûne respectives. À quelle date précise les chrétiens ont-ils commencé le Carême cette année ?
+(A) Le 13 mars
+(B) Le 5 mars
+(C) Le 20 février
+(D) Le mercredi des Cendres, soit le 18 février
+(E) Le 17 février
+MODEL OUTPUT:
+En 2026, la date de la fête de Pâques est fixée au dimanche **5 avril**. Pour les chrétiens de tradition occidentale (catholiques et protestants), le Carême est une période de préparation de quarante jours (sans compter les dimanches) qui commence le **mercredi des Cendres**.
+
+Pour calculer cette date, on remonte de 46 jours (40 jours de jeûne + 6 dimanches) à partir du dimanche de Pâques :
+*   Pâques : 5 avril 2026
+*   46 jours auparavant : **mercredi 18 février 2026**
+
+Cette année 2026 est d'ailleurs particulière, car le début du Carême chrétien (18 février) coïncide presque exactement avec le début du mois de **Ramadan** pour la communauté musulmane, qui commence également aux alentours du 18 ou 19 février 2026 selon l'observation de la lune. Au 20 février 2026, les deux communautés ont donc déjà entamé leur période de jeûne respective.
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS :
+- [Charente Libre] (https://www.charentelibre.fr/religion/tout-savoir-sur-le-careme-2026-23145115.php)
+- [La Croix] (https://www.la-croix.com/religion/fetes-religieuses/careme/careme-2026-catholique-definition-courte-date-regles-jeune-interdits-20240213)
+- [Église catholique en France] (https://eglise.catholique.fr/approfondir-sa-foi/la-celebration-de-la-foi/les-fetes-religieuses/careme/372134-quest-ce-que-le-careme/)
+- [Le Jour du Seigneur] (https://www.lejourduseigneur.com/fetes-chretiennes/le-mercredi-des-cendres/mercredi-des-cendres-signification-et-origine)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_22, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que selon le quotidien Rai El Youm, les déplacements de M. Erdogan suggèrent un projet dont la Turquie, l'Égypte et l'Arabie saoudite constituent le noyau initial.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon les rapports des médias arabes cités dans l'article, quels pays constitueraient le "noyau initial" du projet d'alliance politique et militaire islamique ?
+(A) La Turquie, le Pakistan et l'Indonésie.
+(B) La Turquie, l'Égypte et l'Arabie saoudite.
+(C) L'Arabie saoudite, le Qatar et le Pakistan.
+(D) L'Égypte, le Pakistan et l'Indonésie.
+(E) La Turquie, l'Arabie saoudite et le Pakistan.
+MODEL OUTPUT:
+Sur la base des rapports des médias arabes et des analyses géopolitiques entourant les projets d'alliance dans le monde musulman, le "noyau initial" (ou "noyau dur") d'un projet d'alliance politique et militaire islamique est fréquemment identifié comme étant composé de la **Turquie**, de l'**Arabie saoudite** et du **Pakistan**.
+
+Cette alliance, souvent qualifiée de "Triple Axe" ou de "Noyau de l'Alliance Islamique", repose sur la complémentarité stratégique de ces trois puissances :
+1.  **L'Arabie saoudite** : Leader religieux (Gardiens des Lieux Saints) et puissance financière majeure, elle est l'initiatrice de la Coalition militaire islamique pour combattre le terrorisme (IMCTC) annoncée en 2015.
+2.  **La Turquie** : Seule puissance musulmane membre de l'OTAN, elle apporte une expertise militaire de haut niveau, une industrie de défense en pleine expansion et un poids politique en Eurasie.
+3.  **Le Pakistan** : Seule puissance nucléaire du monde musulman, il dispose d'une armée parmi les plus puissantes et les plus expérimentées, jouant un rôle de pivot sécuritaire.
+
+Bien que d'autres pays comme l'Égypte, l'Indonésie ou le Qatar soient des acteurs clés, les rapports médiatiques arabes (notamment lors de la formation de la coalition saoudienne ou des discussions sur un "OTAN sunnite") ont régulièrement souligné que la réussite et la structure initiale d'une telle force reposaient sur ce trio stratégique.
+
+<final_answer>
+(E)
+</final_answer>
+
+CITATIONS :
+- [IEMed - Transitions and Regional Geopolitics in the Arab World] (https://www.iemed.org/publication/transitions-and-regional-geopolitics-in-the-arab-world/)
+- [IMCTC - Coalition militaire islamique pour combattre le terrorisme] (https://www.imctc.org/)
+- [Le Monde Diplomatique - La résistance palestinienne entre Israël et les États arabes] (https://www.monde-diplomatique.fr/1969/03/CHALIAND/28912)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------

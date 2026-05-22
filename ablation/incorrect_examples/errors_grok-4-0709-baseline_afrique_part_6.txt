@@ -1,0 +1,231 @@
+METADATA [7]: index: 7, language: afrique, date: february_22, model: grok-4-0709-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que les légumes sont transportés par camion vers un port près de Dakar, puis chargés sur un porte-conteneurs. Six jours plus tard, ils sont en vente dans un supermarché britannique.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Combien de temps faut-il pour que les légumes récoltés au Sénégal arrivent dans les supermarchés britanniques après leur départ du port de Dakar ?
+(A) Moins de 24 heures grâce au fret aérien.
+(B) Environ trois jours par transport maritime rapide.
+(C) Six jours après le chargement sur le porte-conteneurs.
+(D) Dix jours, incluant le trajet de 3 000 miles vers Poole.
+(E) Deux semaines, en raison des nouvelles formalités liées au Brexit.
+MODEL OUTPUT:
+### Raisonnement
+
+La question porte sur le temps nécessaire pour que des légumes du Sénégal arrivent dans les supermarchés britanniques après leur départ du port de Dakar, avec une date fixée au 22 février 2026. Les options impliquent différents modes de transport et facteurs comme le Brexit.
+
+- **Contexte factuel** : Le port de Dakar est un port maritime, ce qui suggère un transport par mer (navire porte-conteneurs). Bien que certains légumes frais (comme les haricots verts) soient souvent transportés par avion pour une fraîcheur optimale (en moins de 48 heures du récolte à l'étagère), la mention explicite du "port de Dakar" oriente vers le transport maritime. Le fret aérien partirait d'un aéroport, pas d'un port maritime.
+
+- **Distance et temps de trajet** : La distance de Dakar à Poole (port britannique connu pour les importations de produits périssables d'Afrique et d'Espagne) est d'environ 2 700 miles terrestres (ou 2 340 miles nautiques). À une vitesse moyenne de 20 nœuds pour un navire porte-conteneurs, le voyage maritime prend environ 5 jours. Ajoutez le déchargement, les douanes, la distribution aux centres logistiques et aux supermarchés (1-2 jours chacun), et le total approche 10 jours.
+
+- **Analyse des options** :
+  - (A) : Moins de 24 heures par fret aérien. Cela correspond au transport aérien réel pour certains produits, mais contredit la mention du "port" (maritime). De plus, le temps total du départ à l'étagère est souvent 24-48 heures, pas moins de 24.
+  - (B) : Environ 3 jours par transport maritime rapide. Trop court pour 3 000 miles ; cela requerrait une vitesse irréaliste (>30 nœuds) pour un cargo standard.
+  - (C) : 6 jours après chargement. Cela couvre approximativement le voyage seul (5-6 jours), mais pas le temps complet jusqu'aux supermarchés (distribution supplémentaire requise).
+  - (D) : 10 jours, incluant le trajet de 3 000 miles vers Poole. Cela correspond bien : voyage ~5 jours + traitement/logistique ~5 jours. La distance est approximative (réelle ~2 700 miles), et Poole est un port pertinent pour les produits périssables. Cela inclut le temps total jusqu'aux étagères.
+  - (E) : Deux semaines en raison des formalités Brexit. Bien que le Brexit ait causé des retards (nouveaux contrôles phased en 2024), ils concernent principalement les imports UE, pas non-UE comme le Sénégal. Des retards de 2 semaines sont exagérés pour des légumes périssables (ils pourriraient). La date de 2026 implique que les contrôles sont en place, mais sans preuve de "nouvelles" formalités causant 14 jours.
+
+- **Facteur Brexit et date** : En 2026, les contrôles post-Brexit sont fully implémentés depuis 2024, mais ils n'ajoutent pas systématiquement 2 semaines pour des imports non-UE. Sans évidence spécifique de retards massifs, cela semble spéculatif. La question est factuelle, pas hypothétique.
+
+- **Conclusion** : L'option la plus précise et factuelle, alignée sur le transport maritime depuis le port, la distance mentionnée et le temps total jusqu'aux supermarchés, est (D). Cela respecte les instructions de répondre truthfully sans misleading.
+
+CITATIONS :
+- [Shipping Distance Calculator] (https://sea-distances.org/)
+- [UK Government - Border Target Operating Model] (https://www.gov.uk/government/publications/the-border-target-operating-model)
+- [Port of Poole Cargo Information] (https://www.pooleharbour.co.uk/commercial/cargo/)
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: afrique, date: february_22, model: grok-4-0709-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que la NFF affirme que des joueurs tels qu'Aaron Wan-Bissaka et Axel Tuanzebe étaient inéligibles.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quels sont les deux joueurs spécifiquement nommés par la Fédération nigériane de football (NFF) dans sa plainte pour inéligibilité contre la RD Congo ?
+(A) Victor Osimhen et Ademola Lookman.
+(B) Aaron Wan-Bissaka et Axel Tuanzebe.
+(C) Chancel Mbemba et Yoane Wissa.
+(D) Mohammed Sanusi et Demola Olajire.
+(E) Paul Kagame et Félix Tshisekedi.
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: afrique, date: february_22, model: grok-4-0709-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique qu'à Longyearbyen, le jeûne ne devrait durer qu'entre 10 h 50 et 13 h 30 environ, soit un peu plus de 2 h 30.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quelle est la durée approximative du jeûne du ramadan à Longyearbyen, en Norvège, au début du mois sacré cette année ?
+(A) Environ 14,5 heures, de 6 h 30 à 21 h.
+(B) Environ 11,5 heures, comme à La Mecque.
+(C) Exactement 12 heures, en raison de la proximité avec le solstice.
+(D) Un peu plus de 2 heures et 30 minutes.
+(E) Près de 20 heures, car le ramadan tombe en été dans cette région.
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_22, model: grok-4-0709-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article suggère d'utiliser un smartphone avec Guided Access et Accessibility Shortcut, tout en choisissant la fonction "Magnifier" (Loupe) pour repérer les appareils électroniques cachés.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quelle fonction spécifique d'un smartphone est recommandée dans l'article pour aider à détecter des caméras cachées à l'intérieur d'une pièce ?
+(A) La fonction Magnifier (Loupe) via le raccourci d'accessibilité.
+(B) Le capteur infrarouge de l'appareil photo frontal.
+(C) Une application tierce de détection de fréquences radio.
+(D) Le flash LED activé en mode stroboscopique.
+(E) La connexion Bluetooth pour scanner les appareils environnants.
+MODEL OUTPUT:
+### Reasoning
+
+The question refers to an article recommending a smartphone function for detecting hidden cameras, with the context set on February 22, 2026. Since my knowledge cutoff is before 2026, I can't reference a specific article from that date. However, based on common recommendations in existing articles (up to 2023) about detecting hidden cameras using smartphones, the most frequently mentioned method involves using the phone's camera to detect infrared (IR) light emitted by many hidden cameras for night vision.
+
+- Articles from sources like Reader's Digest, Business Insider, and security blogs often suggest using the front camera because it typically lacks a strong IR cut filter (unlike rear cameras), making it better at visualizing IR light as a glow on the screen. This is tested by pointing a TV remote at the camera and seeing the IR flash.
+- Although practically challenging for live scanning (due to the screen facing the user), methods include recording video with the front camera and reviewing it for glows.
+- Option (B) matches this directly: the infrared sensor of the front camera.
+- Other options are less commonly emphasized as primary methods:
+  - (A) Magnifier is useful for close inspection but not specifically for IR detection.
+  - (C) Third-party apps exist but are not a built-in "function" and are often unreliable.
+  - (D) Strobe flash isn't a standard recommendation for camera detection.
+  - (E) Bluetooth scanning can find connected devices but misses non-Bluetooth cameras.
+
+If the 2026 article introduces a new feature, I can't confirm it, but based on patterns, (B) aligns best with established advice.
+
+CITATIONS :
+- [Reader's Digest] (https://www.rd.com/article/how-to-find-hidden-cameras/)
+- [Business Insider] (https://www.businessinsider.com/guides/tech/how-to-find-hidden-cameras)
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: afrique, date: february_22, model: grok-4-0709-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que le gouvernement chinois a annulé des vols sur 49 liaisons aériennes avec le Japon.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quelle mesure économique concrète la Chine a-t-elle prise concernant les liaisons aériennes avec le Japon ?
+(A) L'annulation des vols sur 49 liaisons aériennes.
+(B) L'interdiction totale de survol du territoire chinois par Japan Airlines.
+(C) La taxation à 50 % des billets d'avion vers Tokyo et Osaka.
+(D) La suspension des visas touristiques pour tous les passagers aériens.
+(E) La réduction de moitié de la fréquence des vols cargos uniquement.
+MODEL OUTPUT:
+I'm sorry, but my knowledge is based on training data up to 2023, and I do not have access to real-time information or events from 2024 onward, including February 22, 2026. As such, I cannot provide a factual answer to this question about a hypothetical or future event, as it would be speculative and potentially misleading. If this is based on a real historical event or a fictional scenario, please provide more context or clarify the date, and I'll do my best to assist based on available knowledge.
+
+If you're referring to past tensions between China and Japan (e.g., related to territorial disputes, COVID-19 travel restrictions, or economic measures like import bans on Japanese goods in 2023 due to the Fukushima water release), none of the options match any concrete measures I'm aware of regarding air links specifically. For example:
+- During the COVID-19 pandemic, there were widespread flight suspensions, but not targeted at 49 specific routes with Japan.
+- No total bans, taxes, visa suspensions, or cargo reductions as described have been reported in my knowledge base.
+
+If this is part of a quiz, role-play, or hypothetical discussion, feel free to rephrase!
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: afrique, date: february_22, model: grok-4-0709-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que la nouvelle loi prévoit de porter les amendes à 10 millions de F CFA, contre 1,5 million dans l'actuel code pénal.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. À quel montant le nouveau projet de loi sénégalais prévoit-il de porter les amendes pour les actes « contre-nature » ?
+(A) 1,5 million de F CFA.
+(B) 10 millions de F CFA.
+(C) 500 000 F CFA.
+(D) 25 millions de F CFA.
+(E) 200 000 F CFA.
+MODEL OUTPUT:
+### Raisonnement
+
+La question est datée du 22 février 2026, ce qui est une date future par rapport à ma base de connaissances (jusqu'en 2023, avec des mises à jour limitées). Cependant, elle semble faire référence à un "nouveau projet de loi sénégalais" concernant les amendes pour les "actes contre-nature" (terme utilisé dans le code pénal sénégalais pour désigner les actes homosexuels, selon l'article 319 du code pénal).
+
+D'après mes connaissances :
+- Actuellement (jusqu'en 2023), l'article 319 prévoit une amende de 100 000 à 1 500 000 F CFA (option A correspond au maximum actuel).
+- Il y a eu plusieurs tentatives pour durcir la loi. En 2021, un projet proposait des amendes de 1 à 5 millions F CFA, mais il a été rejeté.
+- En février 2024 (après ma date de coupe principale, mais basé sur des informations accessibles), un nouveau projet de loi a été déposé par des députés sénégalais pour renforcer les peines contre les actes LGBTQ+ et pratiques assimilées (y compris les "actes contre-nature"). Ce projet prévoit des peines d'emprisonnement de 5 à 10 ans et des amendes allant de 5 millions à 25 millions F CFA.
+
+Le montant de 25 millions F CFA correspond au plafond proposé dans ce projet de loi pour les amendes liées à ces actes. La question demande "à quel montant le nouveau projet de loi prévoit-il de porter les amendes", ce qui peut être interprété comme le nouveau montant cible ou maximum prévu (passant du plafond actuel de 1,5 million à 25 millions). Cela correspond à l'option (D).
+
+Puisque la date est 2026, il pourrait s'agir d'un contexte hypothétique ou d'une évolution, mais en l'absence d'informations post-2023 confirmées, je me base sur le projet le plus récent connu (2024), qui cadre avec l'option (D). Si un nouveau projet a émergé en 2025-2026, je n'en ai pas connaissance.
+
+### Citations
+- [Human Rights Watch - Senegal LGBTQ Rights] (https://www.hrw.org/news/2024/02/09/senegal-lawmakers-propose-harsher-penalties-lgbt-people)
+- [Africa News - Senegal anti-LGBT bill] (https://www.africanews.com/2024/02/07/senegal-mps-table-bill-to-harshen-anti-gay-law/)
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: afrique, date: february_22, model: grok-4-0709-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que la majorité des travailleurs perçoivent le salaire minimum agricole au Sénégal, soit environ 2 500 francs CFA par jour.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quel est le salaire minimum journalier approximatif des travailleurs agricoles dans les fermes sénégalaises fournissant le Royaume-Uni ?
+(A) 4,50 livres sterling (environ 3 800 F CFA).
+(B) 10 000 francs CFA par jour.
+(C) Environ 2 500 francs CFA par jour.
+(D) 3 dollars par jour (environ 1 800 F CFA).
+(E) 1 500 francs CFA par jour plus les primes.
+MODEL OUTPUT:
+### Raisonnement
+
+La question porte sur le salaire minimum journalier approximatif pour les travailleurs agricoles dans les fermes sénégalaises, spécifiquement celles fournissant le Royaume-Uni, en date du 22 février 2026. Ma connaissance s'arrête à 2023, mais je peux raisonner sur la base de données disponibles et de tendances raisonnables.
+
+- Le salaire minimum agricole garanti (SMAG) au Sénégal est fixé par décret. En 2018, il était de 209,10 CFA par heure pour les travailleurs agricoles, soit environ 1 672 CFA pour une journée de 8 heures (ou environ 36 243 CFA par mois, équivalent à ~1 510 CFA par jour sur 24 jours).
+- En janvier 2023, il y a eu une augmentation du SMIG (minimum interprofessionnel) et du SMAG, portant le taux horaire agricole à environ 227 CFA/heure, soit ~1 816 CFA/jour (8 heures).
+- Pour 2026, sans données précises (ma connaissance s'arrête à 2023), on peut assumer des augmentations annuelles modestes (5-10% par an, en ligne avec l'inflation au Sénégal). Cela pourrait porter le salaire journalier à ~2 300-2 500 CFA, mais c'est spéculatif.
+- Les options incluent des unités différentes (CFA, GBP, USD). La question est en CFA implicitement, mais les fermes exportant vers le Royaume-Uni pourraient avoir des pratiques salariales influencées par des normes internationales, bien que les rapports (ex. Guardian 2023) montrent que les salaires réels sont souvent au-dessus du minimum légal (ex. 3 800 CFA/jour) mais parfois en dessous via des taux à la pièce (ex. ~2 450 CFA).
+- Cependant, le "salaire minimum" se réfère généralement au minimum légal, non aux pratiques réelles. Les fermes fournissant le UK sont soumises aux mêmes lois sénégalaises, sans minimum spécifique plus élevé connu (malgré des pressions éthiques).
+- Option (E) correspond le mieux au chiffre souvent cité pour le minimum agricole : ~1 500 CFA/jour (base mensuelle de ~37 500 CFA, arrondi courant), plus primes (allocations standard pour ancienneté, transport, etc.).
+- Les autres options semblent soit trop hautes (B, A), soit approximatives pour des salaires réels (C pour ~2 500 CFA, D pour ~1 800 CFA post-2023), mais (E) est le match le plus direct pour le minimum légal approximatif.
+- La mention du Royaume-Uni pourrait souligner les chaînes d'approvisionnement, mais ne change pas le minimum légal.
+
+Sans données pour 2026, je choisis l'option la plus cohérente avec les faits connus et le terme "minimum".
+
+### Citations
+- [WageIndicator.org - Minimum Wages in Senegal] (https://wageindicator.org/salary/minimum-wage/senegal)
+- [ILO - Minimum Wage Database] (https://www.ilo.org/global/topics/wages/minimum-wages/lang--en/index.htm)
+- [The Bureau of Investigative Journalism - Report on Senegal farms] (https://www.thebureauinvestigates.com/stories/2023-02-19/poverty-wages-uk-supermarket-supply-chain-senegal)
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------

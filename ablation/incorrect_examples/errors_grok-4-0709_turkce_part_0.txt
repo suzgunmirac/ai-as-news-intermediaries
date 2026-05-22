@@ -1,0 +1,370 @@
+METADATA [4]: index: 4, language: turkce, date: february_10, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, güçlü bir Güneş patlamasının 4 Şubat'ta (2026) NASA'nın Güneş Dinamikleri Gözlemevi tarafından kayda alındığı ve bunun X-sınıfı olduğu belirtilmektedir.
+INPUT:
+
+
+Bugün 10 Şubat 2026. NASA'nın Güneş Dinamikleri Gözlemevi, "olağandışı olmamakla birlikte yaygın değil" olarak tanımlanan en yoğun X-sınıfı güneş patlamasını hangi gün kayda almıştır?
+(A) 30 Ocak 2026
+(B) 1 Şubat 2026
+(C) 2 Şubat 2026
+(D) 10 Şubat 2026
+(E) 4 Şubat 2026
+MODEL OUTPUT:
+The most intense X-class solar flare mentioned in recent NASA reports was an X8.1 flare recorded by the Solar Dynamics Observatory on February 1, 2026. This is stronger than others like the X4.2 on February 4 or X1.6 on February 2, and it matches the description provided in the query based on NASA's statements about such events being "not common" during solar maximum[[1]](https://discover.swns.com/2026/02/space-scientists-announce-sun-has-fired-four-massive-solar-flares). No stronger flares were reported on the other dates in the options.
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- [NASA Science Blog] (https://science.nasa.gov/blogs/solar-cycle-25/2026/02/02/sun-releases-4-strong-solar-flares)
+- [SWNS Discover] (https://discover.swns.com/2026/02/space-scientists-announce-sun-has-fired-four-massive-solar-flares)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_10, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, Mandelson'ın bakan olduğu dönemde Epstein'e bilgi sızdırdığı iddiaları kapsamında 2008 yılına ait mesajlardan bahsedilmektedir.
+INPUT:
+
+
+Bugün 10 Şubat 2026. Peter Mandelson ile Jeffrey Epstein arasındaki e-posta yazışmalarına göre, Euro'yu kurtarmak için planlanan 500 milyar avroluk paketle ilgili sızıntı hangi yıla aittir?
+(A) 2019
+(B) 2024
+(C) 2025
+(D) 2026
+(E) 2008
+MODEL OUTPUT:
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_11, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede polisin, önce Tumbler Ridge Lisesi'nde 6 kişinin öldürüldüğünü, ardından lise yakınlarındaki bir evde iki kişinin öldürüldüğünü açıkladığı belirtilmektedir.
+INPUT:
+
+
+Bugün 11 Şubat 2026. Kanada'nın British Columbia eyaletinde düzenlenen ve 9 kişinin ölümüyle sonuçlanan silahlı saldırıların ilk durağı neresidir?
+(A) Tumbler Ridge Lisesi
+(B) L'Ecole Polytechnique
+(C) British Columbia Eyalet Meclisi
+(D) Tumbler Ridge kasabasındaki bir müstakil ev
+(E) Münih Güvenlik Konferansı alanı
+MODEL OUTPUT:
+The shootings in Tumbler Ridge, British Columbia, on February 10, 2026, involved connected incidents at a private residence and Tumbler Ridge Secondary School, resulting in 9 deaths (sources vary slightly on the exact count, but align with the query). Based on the details and logical sequence from multiple reports, the shooter appears to have begun at the home (killing two people there) before proceeding to the school, where the mass shooting occurred and the shooter died from a self-inflicted wound. This makes the private residence the first location.
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- [CNN] (https://www.cnn.com/world/live-news/tumbler-ridge-canada-shooting-02-11-26)
+- [BBC] (https://www.bbc.com/news/live/cr5lnzqdr5pt)
+- [Wikipedia] (https://en.wikipedia.org/wiki/2026_Tumbler_Ridge_shooting)
+- [NPR] (https://www.npr.org/2026/02/11/g-s1-109591/shootings-british-columbia-canada)
+- [NYTimes] (https://www.nytimes.com/2026/02/10/world/canada/tumbler-ridge-school-shooting-canada.html)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_12, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, GoFundMe sayfasının Perşembe sabahı itibarıyla 1,2 milyon dolar topladığı belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Bağırsak kanseri nedeniyle hayatını kaybeden oyuncu James Van Der Beek'in ailesi için açılan bağış kampanyasında Perşembe sabahı itibarıyla toplanan miktar ne kadardır?
+(A) 2,4 milyon dolar
+(B) 480 bin dolar
+(C) 1,5 milyon dolar
+(D) 850 bin dolar
+(E) 1,2 milyon dolar
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: turkce, date: february_12, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaledeki fotoğraf altı yazısında, 27 Ocak 2026 tarihinde Kim Jong Un'un kızıyla birlikte füze programı etkinliğine katıldığı belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Kuzey Kore lideri Kim Jong Un'un kızı Kim Ju Ae ile birlikte ülkenin füze programıyla ilgili bir etkinliğe katıldığı ve devlet medyasında fotoğraflarının yayınlandığı tarih hangisidir?
+(A) 20 Aralık 2025
+(B) 24 Haziran 2025
+(C) 12 Şubat 2026
+(D) 27 Ocak 2026
+(E) 18 Kasım 2022
+MODEL OUTPUT:
+The question asks for the date when Kim Jong Un attended a missile program-related event with his daughter Kim Ju Ae, with photos published in state media. Based on web search results, this describes her first public appearance at the launch of a Hwasong-17 ICBM, which occurred on November 18, 2022, with photos released by North Korean state media (KCNA) the following day.
+
+While there have been subsequent appearances at similar events (including in later years like 2023 and beyond in this 2026 context), the phrasing of the question points to this initial, widely reported event as the key one referenced among the options.
+
+<final_answer>
+(E)
+</final_answer>
+
+ALINTILAR:
+- [NBC News] (https://www.nbcnews.com/news/world/kim-jong-uns-daughter-makes-second-public-appearance-rcna58840)[[1]](https://www.nbcnews.com/news/world/kim-jong-uns-daughter-makes-second-public-appearance-rcna58840)
+- [ABC News] (https://abcnews.go.com/International/kim-jong-uns-daughter-tags-missile-launch-raising/story?id=105768408)[[2]](https://abcnews.go.com/International/kim-jong-uns-daughter-tags-missile-launch-raising/story?id=105768408)
+- [New York Times] (https://www.nytimes.com/2022/11/19/world/asia/kim-jong-un-daughter-missile-launch.html)[[3]](https://www.nytimes.com/2022/11/19/world/asia/kim-jong-un-daughter-missile-launch.html)
+- [NPR] (https://www.npr.org/2022/11/19/1137962832/north-korea-kim-jong-un-daughter-missile-launch-site)[[4]](https://www.npr.org/2022/11/19/1137962832/north-korea-kim-jong-un-daughter-missile-launch-site)
+- [NK Leadership Watch] (https://www.nkleadershipwatch.org/kim-family/kim-ju-ae-watch-2022-2023-events)[[5]](https://www.nkleadershipwatch.org/kim-family/kim-ju-ae-watch-2022-2023-events)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: turkce, date: february_13, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Vortexa'ya dayandırılarak "Hürmüz Boğazı'ndan geçen yıl, ortalama günde 20 milyon varilden fazla ham petrol, kondensat... ve yakıt geçti" bilgisi verilmektedir.
+INPUT:
+
+
+Bugün 13 Şubat 2026. Veri analiz firması Vortexa'nın paylaştığı verilere göre, geçtiğimiz yıl Hürmüz Boğazı'ndan günlük ortalama ne kadar ham petrol, kondensat ve yakıt geçişi gerçekleşmiştir?
+(A) Yaklaşık 10 milyon varil
+(B) 20 milyon varilden fazla
+(C) Günde ortalama 15,5 milyon varil
+(D) Yıllık toplam 600 milyon varil
+(E) Küresel petrol arzının tam olarak %25'i
+MODEL OUTPUT:
+### Düşünce Süreci
+
+Soru, 2025 yılı için Hürmüz Boğazı'ndan geçen ham petrol, kondensat ve yakıtın günlük ortalama miktarını Vortexa verilerine göre soruyor. Araştırmalarımda, Vortexa tabanlı verilerde toplam akış (ham petrol + kondensat + yakıt/ürünler) genellikle 20 milyon varil/gün civarında belirtiliyor (örneğin EIA analizleri Vortexa tanker takibine dayalı olarak 2024'te 20 mb/d, 2025 1Ç'de benzer seviyede diyor). Ancak breakdown'larda ham petrol ve kondensat için 15.5 mb/d, rafine ürünler (yakıt) için 4.5 mb/d olarak ayrılıyor, toplam 20 mb/d yapıyor.
+
+Seçeneklerde tam 20 yok, ancak (C) tam olarak 15.5 mb/d'yi belirtiyor ve bu, birçok kaynaktaki ham petrol + kondensat akışına uyuyor (Shale24 raporu gibi). Soru üçünü listelese de, verilerdeki spesifik eşleşme ve seçenekler dikkate alındığında (C) en doğru görünüyor. Diğer seçenekler (örneğin (B) 20'den fazla, ama veriler ~20; (E) %25 ama gerçekte ~%20) uymuyor.
+
+ALINTILAR:
+- [EIA] (https://www.eia.gov/todayinenergy/detail.php?id=65504)
+- [Shale24] (https://www.shale24.com/en/oil-gas/strait-of-hormuz-10-basic-questions-about-its-importance-to-global-energy-and-the-world-economy-n356)
+- [ABC News] (https://www.abc.net.au/news/2025-06-23/strait-of-hormuz-oil-blockage-iran-increase-fuel-prices-aus/105449244)
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_14, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Özgür Özel'in Akın Gürlek'e 480 bin TL tazminat ödemesine karar verildiği belirtilmektedir.
+INPUT:
+
+
+Bugün 14 Şubat 2026. Adalet Bakanı Akın Gürlek'in CHP Genel Başkanı Özgür Özel'e açtığı manevi tazminat davasında, mahkeme Özel'in ne kadar tazminat ödemesine karar vermiştir?
+(A) 75 bin TL
+(B) 260 bin TL
+(C) 480 bin TL
+(D) 300 bin TL
+(E) 400 bin TL
+MODEL OUTPUT:
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: turkce, date: february_15, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede yer alan ABD kaynaklı araştırmaya göre, müşterilerin %5'i şirketlerin cirosunun yaklaşık %80'ini oluşturmaktadır.
+INPUT:
+
+
+Bugün 15 Şubat 2026. ABD'de yapılan bir araştırmaya göre, çevrimiçi bahis ve kumar oynatan şirketlerin cirosunun yaklaşık yüzde kaçını müşterilerin sadece %5'lik bir kesimi oluşturmaktadır?
+(A) %80
+(B) %71
+(C) %50
+(D) %25
+(E) %95
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_18, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaleye göre Mekke'de Ramazan'ın başlangıcında sahur 06:50 civarında, iftar ise 18:20'de olacaktır.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Ramazan ayının başlangıcında Mekke'de sahur ve iftar saatleri yaklaşık olarak nasıl olacaktır?
+(A) 06:30 sahur - 21:00 iftar
+(B) 06:50 sahur - 18:49 iftar
+(C) 05:30 sahur - 19:00 iftar
+(D) 04:30 sahur - 20:00 iftar
+(E) 06:50 sahur - 18:20 iftar
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_19, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "2018'den bir başka yazışmada ise şirket... 'ergenlik öncesi' yaş grubundaki kullanıcıları platformda tutma konusunu ele alıyor" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Meta'ya karşı açılan davada sunulan şirket içi yazışmalara göre, Meta hangi yıldan itibaren "ergenlik öncesi" yaş grubundaki kullanıcıları platformda tutma konusunu ele almaya başlamıştır?
+(A) 2015
+(B) 2017
+(C) 2018
+(D) 2019
+(E) 2022
+MODEL OUTPUT:
+The question refers to internal communications from a lawsuit against Meta, revealing discussions on retaining pre-teen (under 13) users. Based on the search results and details from internal documents presented in the ongoing landmark social media addiction trial (as of February 2026), the earliest year mentioned for Meta starting to address retention of pre-teen users—such as goals to increase time spent by 10-year-olds on Instagram—is 2015.
+
+<final_answer>
+(A)
+</final_answer>
+
+ALINTILAR:
+- [WGLT] (https://www.wglt.org/2026-02-18/zuckerberg-grilled-about-metas-strategy-to-target-teens-and-tweens)[[1]](https://www.wglt.org/2026-02-18/zuckerberg-grilled-about-metas-strategy-to-target-teens-and-tweens)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: turkce, date: february_20, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede ABD medyasının 18 Şubat Çarşamba günü Trump'ın saldırı seçeneklerini görüştüğünü ve ABD'nin 21 Şubat Cumartesi günü erken saatlerde bir saldırı düzenleyebileceğini bildirdiği yer almaktadır.
+INPUT:
+
+
+Bugün 20 Şubat 2026. ABD Başkanı Donald Trump'ın İran'a yönelik "10 gün içinde ne olacağını göreceksiniz" uyarısı, ABD medyasında yer alan hangi olası tarihle ilişkilendirilmektedir?
+(A) 19 Şubat Perşembe
+(B) 17 Şubat Salı
+(C) 6 Şubat Cuma
+(D) 21 Şubat Cumartesi
+(E) Mart ortası
+MODEL OUTPUT:
+Trump'ın İran'a yönelik "10 gün içinde ne olacağını göreceksiniz" uyarısı, arama sonuçlarına göre 19 Şubat 2026 tarihinde yapılmış ve ABD medyasında (örneğin Reuters, CNN, USA Today gibi kaynaklarda) bu tarihle doğrudan ilişkilendirilerek yer almıştır. Bu, seçenek (A) ile uyumludur.
+
+<final_answer>
+(A)
+</final_answer>
+
+ALINTILAR:
+- [Reuters] (https://www.reuters.com/world/middle-east/russia-warns-escalating-iran-tensions-amid-us-military-build-up-2026-02-19)[[1]](https://www.reuters.com/world/middle-east/russia-warns-escalating-iran-tensions-amid-us-military-build-up-2026-02-19)
+- [CNN] (https://www.cnn.com/politics/live-news/trump-administration-news-02-19-26)[[2]](https://www.cnn.com/politics/live-news/trump-administration-news-02-19-26)
+- [USA Today] (https://www.usatoday.com/story/news/politics/2026/02/19/trump-iran-nuclear-deal-10-days/88766474007)[[3]](https://www.usatoday.com/story/news/politics/2026/02/19/trump-iran-nuclear-deal-10-days/88766474007)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: turkce, date: february_21, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Natsal verilerine göre seks yapma sıklığının 1990'da ayda ortalama 5, 2000'de 4 ve 2010'da 3'e düştüğü belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Ulusal Cinsel Davranış ve Tarz Anketleri (Natsal) verilerine göre, 16-44 yaş arası kişilerin seks yapma sıklığı 1990 yılından 2010 yılına kadar nasıl bir değişim göstermiştir?
+(A) Ayda ortalama 5 kezden 4 keze düşmüştür.
+(B) Ayda ortalama 6 kezden 3 keze düşmüştür.
+(C) Ayda ortalama 5 kezden 3 keze düşmüştür.
+(D) Ayda ortalama 4 kezden 2 keze düşmüştür.
+(E) Ayda ortalama 5 kezden 2 keze düşmüştür.
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_21, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaledeki Hamsili Pilav tablosuna göre, 200 gr kuş üzümünün fiyatı 2019'da ₺4,4 iken 2026'da ₺320 olarak kaydedilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. "Hamsili Pilav" tarifi üzerinden yapılan maliyet analizine göre, hangi malzemenin fiyatı 2019'da ₺4,4 iken 2026'da ₺320'ye yükselmiştir?
+(A) 1 kg hamsi
+(B) 600 gr pirinç
+(C) 200 gr kuş üzümü
+(D) 250 gr yağ
+(E) 300 gr soğan
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_22, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede OpenAI'ın, saldırıdan (12 Şubat 2026) altı ay önce (Haziran 2025) hesabı engellediği belirtilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Kanada'daki silahlı saldırı şüphelisi Jesse Van Rootselaar ile ilgili olarak OpenAI şirketi, şüphelinin ChatGPT hesabını saldırıdan ne kadar süre önce engellediğini açıklamıştır?
+(A) 6 ay
+(B) 1 yıl
+(C) 2 ay
+(D) 8 ay
+(E) 1 ay
+MODEL OUTPUT:
+OpenAI, Jesse Van Rootselaar'ın ChatGPT hesabını saldırıdan yaklaşık 8 ay önce yasakladığını açıklamıştır.
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- [Arkansas Democrat Gazette][[1]](https://www.arkansasonline.com/news/2026/feb/22/school-shooters-ai-chats-flagged) (https://www.arkansasonline.com/news/2026/feb/22/school-shooters-ai-chats-flagged)
+- [The Straits Times][[2]](https://www.straitstimes.com/world/united-states/openai-flagged-canada-suspect-8-months-before-mass-shooting) (https://www.straitstimes.com/world/united-states/openai-flagged-canada-suspect-8-months-before-mass-shooting)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_22, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "S&P 500 yüzde 0,45, Dow Jones yüzde 0,07 ve Nasdaq yüzde 0,42 oranında artış gösterdi" bilgisi verilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Trump'ın gümrük vergisi açıklamalarının ardından Wall Street'te endeksler yükselirken, Dow Jones endeksi yüzde kaç oranında artış göstermiştir?
+(A) %0,45
+(B) %0,42
+(C) %0,15
+(D) %0,10
+(E) %0,07
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------

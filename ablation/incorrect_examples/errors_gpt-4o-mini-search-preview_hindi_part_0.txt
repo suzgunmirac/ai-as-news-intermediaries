@@ -1,0 +1,496 @@
+METADATA [0]: index: 0, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, वीडियो में "फ़ॉरेनर फ़्री असम" (Foreigner Free Assam) और "नो मर्सी" (No Mercy) जैसे वाक्य स्क्रीन पर दिखाए गए थे।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। असम बीजेपी के एक्स (X) हैंडल से हटाए गए विवादित वीडियो के संबंध में, वीडियो की स्क्रीन पर विशेष रूप से कौन से वाक्य दिखाए गए थे?
+(A) "फ़ॉरेनर फ़्री असम" और "नो मर्सी"
+(B) "बांग्लादेशी गो बैक" और "असम फॉर असमीज"
+(C) "नो घुसपैठिया" और "जस्टिस फॉर असम"
+(D) "पाकिस्तान जाओ" और "हिंदू राष्ट्र असम"
+(E) "मियां फ्री असम" और "जीरो टॉलरेंस"
+MODEL OUTPUT:
+असम बीजेपी के आधिकारिक 'एक्स' (X) हैंडल से हटाए गए विवादित वीडियो में विशेष रूप से यह दिखाया गया था कि यदि बीजेपी सत्ता में नहीं आती, तो असम में एक विशेष समुदाय का कब्जा हो जाएगा। इस वीडियो में मुस्लिम समुदाय के लोग असम के विभिन्न स्थानों जैसे चाय बागानों, गुवाहाटी हवाईअड्डे, सरकारी ज़मीनों और ऐतिहासिक स्थलों पर कब्जा करते हुए दिखाए गए थे। अंत में यह दावा किया गया था कि असम की 90 प्रतिशत आबादी मुसलमान हो जाएगी। ([timesnowhindi.com](https://www.timesnowhindi.com/india/supreme-court-hears-pil-against-assam-bjp-hate-video-article-152957069?utm_source=openai))
+
+इस वीडियो में स्क्रीन पर विशेष रूप से "बांग्लादेशी गो बैक" और "असम फॉर असमीज" जैसे वाक्य दिखाई दिए थे। ([abplive.com](https://www.abplive.com/news/india/aimim-chief-asaduddin-owaisi-got-angry-on-assam-bjp-video-for-muslims-3014052?utm_source=openai))
+
+इसलिए, सही विकल्प (B) है: "बांग्लादेशी गो बैक" और "असम फॉर असमीज"।
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख है कि चंद्रमाणा गांव में जोगणी माता मंदिर के पास 'ठाकोर वास' मोहल्ला है, जहाँ पुलिस अधिकारी तैनात हैं।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। पाटन जिले के चंद्रमाणा गांव में दलित बारात पर हमले की घटना के बाद, पुलिस ने किस विशिष्ट मोहल्ले में बंदोबस्त किया है जहाँ 'जोगणी माता मंदिर' स्थित है?
+(A) रोहित वास
+(B) दलित मोहल्ला
+(C) चावड़ा वास
+(D) मंदिर मार्ग
+(E) ठाकोर वास
+MODEL OUTPUT:
+पाटन जिले के चंद्रमाणा गांव में दलित दूल्हे पर हमले के बाद, पुलिस ने 'चावड़ा वास' मोहल्ले में सुरक्षा बढ़ाई है, जहां 'जोगणी माता मंदिर' स्थित है।
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में स्पष्ट रूप से बताया गया है कि भारत की जीडीपी में इस इंडस्ट्री की हिस्सेदारी 2.3% है।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। भारत की टेक्सटाइल और अपैरल इंडस्ट्री का देश की जीडीपी (GDP) में कुल कितना प्रतिशत योगदान है?
+(A) 4.5%
+(B) 12%
+(C) 5.0%
+(D) 2.3%
+(E) 3.2%
+MODEL OUTPUT:
+भारत की टेक्सटाइल और अपैरल इंडस्ट्री का देश की जीडीपी में योगदान 4.5% है। ([static.pib.gov.in](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/feb/doc2025219505401.pdf?utm_source=openai))
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में शुभम अब्बड़ के हवाले से बताया गया है कि हर वो कंपनी जिसका पेड अप-शेयर कैपिटल 10 करोड़ रुपये या उससे ज़्यादा है, उसके लिए CS नियुक्त करना अनिवार्य है।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। भारत में कंपनी सेक्रेटरी एक्ट के तहत, किस स्तर की पेड-अप शेयर कैपिटल वाली कंपनी के लिए कंपनी सेक्रेटरी (CS) नियुक्त करना अनिवार्य है?
+(A) 5 करोड़ रुपये या उससे ज़्यादा
+(B) 20 करोड़ रुपये या उससे ज़्यादा
+(C) 15 करोड़ रुपये या उससे ज़्यादा
+(D) 50 करोड़ रुपये या उससे ज़्यादा
+(E) 10 करोड़ रुपये या उससे ज़्यादा
+MODEL OUTPUT:
+भारत में कंपनी सेक्रेटरी एक्ट के अनुसार, 5 करोड़ रुपये या उससे अधिक की पेड-अप शेयर कैपिटल वाली सार्वजनिक कंपनी के लिए एक पूर्णकालिक कंपनी सेक्रेटरी (CS) की नियुक्ति अनिवार्य है। ([bhaskar.com](https://www.bhaskar.com/news/educ-edb-career-in-company-secretary-4915376-nor.html?utm_source=openai))
+
+इसलिए, विकल्प (A) 5 करोड़ रुपये या उससे अधिक सही है।
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, देश की 113 प्राइवेट यूनिवर्सिटी सीयूईटी का हिस्सा हैं।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। सीयूईटी (CUET) के माध्यम से देश के कितने निजी विश्वविद्यालयों (Private Universities) के अंडरग्रेजुएट प्रोग्राम में दाखिला होता है?
+(A) 113 प्राइवेट यूनिवर्सिटी
+(B) 48 प्राइवेट यूनिवर्सिटी
+(C) 36 प्राइवेट यूनिवर्सिटी
+(D) 26 प्राइवेट यूनिवर्सिटी
+(E) 223 प्राइवेट यूनिवर्सिटी
+MODEL OUTPUT:
+सीयूईटी (CUET) के माध्यम से देशभर के 204 विश्वविद्यालयों में अंडरग्रेजुएट प्रोग्राम में दाखिला होता है। इनमें 47 केंद्रीय विश्वविद्यालय, 34 राज्य विश्वविद्यालय, 27 डीम्ड विश्वविद्यालय और 96 निजी विश्वविद्यालय शामिल हैं। ([dainiknavajyoti.com](https://dainiknavajyoti.com/world-of-education/cuet-ug-exam-will-get-one-admission-in-204-universities/article-40388?utm_source=openai))
+
+हालांकि, उपलब्ध विकल्पों में से कोई भी संख्या 204 के बराबर नहीं है। इसलिए, उपलब्ध विकल्पों में से सबसे निकटतम संख्या (E) 223 प्राइवेट यूनिवर्सिटी है।
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में जानकारी दी गई है कि दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी (7%) भारतीय हैं।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) दस फ़ीसदी
+(B) सात फ़ीसदी
+(C) पांच फ़ीसदी
+(D) बारह फ़ीसदी
+(E) पंद्रह फ़ीसदी
+MODEL OUTPUT:
+दुनिया भर में मर्चेंट नेवी के भारतीय नाविकों की संख्या में पिछले कुछ वर्षों में उल्लेखनीय वृद्धि हुई है। 2013 में लगभग 1,08,000 भारतीय नाविक थे, जबकि 2024 में यह संख्या बढ़कर लगभग 2,50,000 हो गई है। ([hindisaamana.com](https://www.hindisaamana.com/demand-for-indian-sailors-is-increasing/?utm_source=openai)) इससे यह संकेत मिलता है कि भारतीय नाविकों की वैश्विक मर्चेंट नेवी में हिस्सेदारी 10 प्रतिशत से अधिक हो सकती है।
+
+हालांकि, उपलब्ध स्रोतों में सटीक प्रतिशत का उल्लेख नहीं है, लेकिन यह वृद्धि दर्शाती है कि भारतीय नाविकों की संख्या वैश्विक मर्चेंट नेवी में महत्वपूर्ण योगदान दे रही है।
+
+इसलिए, उपलब्ध जानकारी के आधार पर, भारतीय मर्चेंट नेवी में नाविकों की हिस्सेदारी 10 प्रतिशत से अधिक होने की संभावना है, जो विकल्प (D) बारह फ़ीसदी के निकट है।
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख है कि जेईई मेन 2026 के लिए 14 लाख से ज़्यादा स्टूडेंट्स ने रजिस्ट्रेशन कराया है।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। जेईई मेन (JEE Main) 2026 की परीक्षा के लिए कुल कितने छात्रों ने पंजीकरण (Registration) कराया है?
+(A) 10 लाख से ज़्यादा
+(B) 12 लाख से ज़्यादा
+(C) 15 लाख से ज़्यादा
+(D) 11 लाख से ज़्यादा
+(E) 14 लाख से ज़्यादा
+MODEL OUTPUT:
+नेशनल टेस्टिंग एजेंसी (NTA) ने जेईई मेन 2026 के लिए पंजीकरण प्रक्रिया 31 अक्टूबर 2025 को शुरू की थी, जो 27 नवंबर 2025 तक चली। ([engineering.careers360.com](https://engineering.careers360.com/hi/articles/nta-jee-mains-2026-january-registration-details?utm_source=openai)) हालांकि, पंजीकरण की कुल संख्या के बारे में आधिकारिक आंकड़े उपलब्ध नहीं हैं। पिछले वर्षों के आंकड़ों के अनुसार, जेईई मेन परीक्षा में पंजीकरण करने वाले छात्रों की संख्या 10 लाख से अधिक रही है। इसलिए, यह संभावना है कि 2026 में भी पंजीकरण करने वाले छात्रों की संख्या 10 लाख से अधिक रही होगी।
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, यह वीडियो 7 फ़रवरी को पोस्ट किया गया था और आलोचना बढ़ने के बाद इसे 8 फ़रवरी को हटा दिया गया।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। असम बीजेपी के एक्स हैंडल पर पोस्ट किए गए उस विवादित वीडियो को, जिसमें मुख्यमंत्री हिमंत बिस्वा सरमा राइफल के साथ दिख रहे थे, किस तारीख को हटाया गया?
+(A) 8 फ़रवरी
+(B) 7 फ़रवरी
+(C) 9 फ़रवरी
+(D) 6 फ़रवरी
+(E) 5 फ़रवरी
+MODEL OUTPUT:
+असम बीजेपी के आधिकारिक सोशल मीडिया अकाउंट पर मुख्यमंत्री हिमंत बिस्वा सरमा का एक विवादित वीडियो पोस्ट किया गया था, जिसमें उन्हें प्रतीकात्मक रूप से मुसलमानों पर गोली चलाते हुए दिखाया गया था। इस वीडियो पर बढ़ते विरोध और हिंसा भड़काने के आरोपों के बाद, इसे हटा दिया गया। ([aajtak.in](https://www.aajtak.in//india//news/story/assam-bjp-controversial-video-himanta-biswa-sarma-muslim-target-allegations-congress-tmc-ntc-ygmr-dskc-2462050-2026-02-09?utm_source=openai))
+
+हालाँकि, उपलब्ध स्रोतों में यह जानकारी नहीं मिलती कि यह वीडियो किस तारीख को हटाया गया था। इसलिए, मैं इस प्रश्न का उत्तर नहीं दे सकता।
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में बताया गया है कि बांग्लादेश की कुल आबादी में अल्पसंख्यक समुदायों की हिस्सेदारी लगभग नौ फ़ीसदी (9%) है।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। बांग्लादेश की कुल आबादी में अल्पसंख्यक समुदायों (Minority Communities) की कुल हिस्सेदारी लगभग कितने प्रतिशत है?
+(A) पंद्रह फ़ीसदी
+(B) पांच फ़ीसदी
+(C) बारह फ़ीसदी
+(D) नौ फ़ीसदी
+(E) सात फ़ीसदी
+MODEL OUTPUT:
+बांग्लादेश में अल्पसंख्यक समुदायों की कुल हिस्सेदारी लगभग 8% है। इसमें हिंदू समुदाय की आबादी 7.95% है, जबकि बौद्ध, ईसाई और अन्य अल्पसंख्यक समुदाय मिलाकर लगभग 0.05% हैं। ([dw.com](https://www.dw.com/hi/sense-of-insecurity-and-fear-among-the-hindu-community-in-bangladesh/a-69922333?utm_source=openai))
+
+इसलिए, बांग्लादेश की कुल आबादी में अल्पसंख्यक समुदायों की हिस्सेदारी लगभग 8% है, जो विकल्प (E) के 7% के निकटतम है।
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में SAJC के डेटा के हवाले से बताया गया है कि 2025 में मुसलमानों की कम से कम 50 गैर-कानूनी हत्याओं का दस्तावेजीकरण किया गया।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। 'साउथ एशिया जस्टिस कैंपेन' (SAJC) के डेटा के अनुसार, साल 2025 में भारत में मुसलमानों की कम से कम कितनी गैर-कानूनी हत्याएं (Illegal Killings) दर्ज की गईं?
+(A) 27 हत्याएं
+(B) 23 हत्याएं
+(C) 50 हत्याएं
+(D) 14 हत्याएं
+(E) 59 हत्याएं
+MODEL OUTPUT:
+साउथ एशिया जस्टिस कैंपेन (SAJC) के डेटा के अनुसार, वर्ष 2025 में भारत में मुसलमानों की कम से कम 27 गैर-कानूनी हत्याएं दर्ज की गईं। यह आंकड़ा मानवाधिकार संगठनों की रिपोर्टों के आधार पर है, जो भारत में अल्पसंख्यक समुदायों के खिलाफ हिंसा की घटनाओं पर प्रकाश डालती हैं।
+
+इसलिए, सही उत्तर विकल्प (A) है।
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में सृष्टि जायसवाल के हवाले से बताया गया है कि शुरुआती स्तर पर फैशन डिजाइनर को सालाना 3 लाख से 6 लाख रुपये तक की सैलरी मिल जाती है।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। जेडी इंस्टीट्यूट ऑफ फैशन टेक्नोलॉजी की प्रवक्ता सृष्टि जायसवाल के अनुसार, शुरुआती स्तर पर एक फैशन डिजाइनर को सालाना कितनी सैलरी मिल सकती है?
+(A) 1 लाख से 3 लाख रुपये
+(B) 5 लाख से 8 लाख रुपये
+(C) 2 लाख से 4 लाख रुपये
+(D) 3 लाख से 6 लाख रुपये
+(E) 4 लाख से 7 लाख रुपये
+MODEL OUTPUT:
+फैशन डिजाइनर की शुरुआती सैलरी विभिन्न कारकों पर निर्भर करती है, जैसे कि संस्थान से शिक्षा, अनुभव, और कार्यस्थल। हालांकि, उपलब्ध जानकारी के अनुसार, एक फैशन डिजाइनर की औसत आय ₹14,834 से ₹82,000 प्रति माह के बीच होती है। ([cg.rajasthan.gov.in](https://cg.rajasthan.gov.in/careerguidance/hi/career/%E0%A4%AB%E0%A5%88%E0%A4%B6%E0%A4%A8-%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%87%E0%A4%A8%E0%A4%B0-fashion-designer/?utm_source=openai)) इसलिए, विकल्प (C) ₹2 लाख से ₹4 लाख रुपये प्रति वर्ष प्रारंभिक सैलरी के रूप में उपयुक्त प्रतीत होता है।
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: hindi, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में ICSI के हवाले से बताया गया है कि फिलहाल इसके अलग-अलग प्रोग्राम में करीब चार लाख (4,00,000) स्टूडेंट पढ़ रहे हैं।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। इंस्टीट्यूट ऑफ कंपनी सेक्रेटरीज ऑफ इंडिया (ICSI) के अनुसार, वर्तमान में इसके अलग-अलग प्रोग्राम में कुल कितने छात्र पढ़ाई कर रहे हैं?
+(A) दो लाख
+(B) तीन लाख
+(C) पांच लाख
+(D) छह लाख
+(E) चार लाख
+MODEL OUTPUT:
+इंस्टीट्यूट ऑफ कंपनी सेक्रेटरीज ऑफ इंडिया (ICSI) के अनुसार, वर्तमान में इसके विभिन्न प्रोग्रामों में कुल 3 लाख से अधिक छात्र पढ़ाई कर रहे हैं। यह आंकड़ा संस्थान की आधिकारिक वेबसाइट पर उपलब्ध जानकारी के आधार पर है।
+
+इसलिए, विकल्प (B) 'तीन लाख' सही उत्तर है।
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: hindi, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, राशिद लतीफ़ ने कहा, "श्रीलंका के राष्ट्रपति ने पाकिस्तान को इस फ़ैसले के लिए शुक्रिया कहा।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। पाकिस्तान ने भारत के खिलाफ टी-20 वर्ल्ड कप मैच के बहिष्कार का फैसला वापस ले लिया है। इस संदर्भ में पूर्व क्रिकेटर राशिद लतीफ़ ने किस देश के राष्ट्रपति का ज़िक्र करते हुए कहा कि उन्होंने इस फैसले के लिए पाकिस्तान का शुक्रिया अदा किया है?
+(A) श्रीलंका
+(B) बांग्लादेश
+(C) संयुक्त अरब अमीरात
+(D) मालदीव
+(E) भारत
+MODEL OUTPUT:
+पाकिस्तान ने भारत के खिलाफ टी-20 वर्ल्ड कप मैच के बहिष्कार का अपना निर्णय वापस ले लिया है। इस संदर्भ में, बांग्लादेश के खेल सलाहकार आसिफ नजरुल ने पाकिस्तान के प्रधानमंत्री शहबाज शरीफ का धन्यवाद करते हुए कहा कि उन्होंने बांग्लादेश के समर्थन में यह कदम उठाया है। ([abplive.com](https://www.abplive.com/news/world/t20-world-cup-2026-bangladesh-pakistan-joined-hands-against-india-asif-nazrul-thanked-islamabad-3085107?utm_source=openai))
+
+इसलिए, सही उत्तर है: (B) बांग्लादेश।
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: hindi, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+आईसीसी के बयान के अनुसार, "यहां (बांग्लादेश में) 20 करोड़ से ज़्यादा क्रिकेट फ़ैंस हैं।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। आईसीसी (ICC) ने पाकिस्तान के साथ बातचीत के बाद बांग्लादेश में क्रिकेट के बाज़ार और प्रशंसकों की संख्या के बारे में क्या आंकड़ा साझा किया है?
+(A) 20 करोड़ से ज़्यादा
+(B) 15 करोड़ से ज़्यादा
+(C) 10 करोड़ से ज़्यादा
+(D) 25 करोड़ से ज़्यादा
+(E) 30 करोड़ से ज़्यादा
+MODEL OUTPUT:
+आईसीसी (ICC) ने पाकिस्तान के साथ बातचीत के बाद बांग्लादेश में क्रिकेट के बाज़ार और प्रशंसकों की संख्या के बारे में कोई सार्वजनिक आंकड़ा साझा नहीं किया है। हालांकि, बांग्लादेश क्रिकेट बोर्ड (BCB) ने भारत में होने वाले टी20 वर्ल्ड कप 2026 के मैचों के लिए सुरक्षा कारणों से भारत में खेलने से इनकार किया है। इसके बाद पाकिस्तान क्रिकेट बोर्ड (PCB) ने आईसीसी के सामने प्रस्ताव रखा है कि वह टी20 वर्ल्ड कप में बांग्लादेश के मैचों की मेज़बानी करने के लिए तैयार है। हालांकि, इसकी संभावना बहुत कम है कि आईसीसी इस प्रस्ताव को स्वीकार करेगी। ([abplive.com](https://www.abplive.com/sports/cricket/will-bangladesh-t20-world-cup-match-be-held-in-pakistan-pcb-makes-special-offer-to-icc-3072751?utm_source=openai))
+
+इसलिए, उपलब्ध जानकारी के आधार पर, बांग्लादेश में क्रिकेट के बाज़ार और प्रशंसकों की संख्या के बारे में कोई विशिष्ट आंकड़ा नहीं है।
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: hindi, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख है, "संयुक्त राष्ट्र के मुताबिक़, इस हिंसा में क़रीब 1,400 लोग मारे गए..."
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। संयुक्त राष्ट्र (UN) के आंकड़ों के अनुसार, जुलाई 2024 में बांग्लादेश में हुई हिंसा के दौरान लगभग कितने लोग मारे गए थे?
+(A) 1,000 लोग
+(B) 1,400 लोग
+(C) 2,900 लोग
+(D) 500 लोग
+(E) 2,000 लोग
+MODEL OUTPUT:
+जुलाई 2024 में बांग्लादेश में हुई हिंसा के दौरान, संयुक्त राष्ट्र के अनुसार, 16 जुलाई से 5 अगस्त 2024 तक के संघर्ष में कम से कम 1,400 लोग मारे गए थे। ([en.wikipedia.org](https://en.wikipedia.org/wiki/July_massacre?utm_source=openai))
+
+इस अवधि के दौरान, बांग्लादेश में आरक्षण विरोधी आंदोलन के कारण व्यापक हिंसा हुई, जिसमें छात्रों, राजनीतिक विरोधियों और नागरिकों की जानें गईं। संघर्ष के दौरान पुलिस, रैपिड एक्शन बटालियन (RAB), सशस्त्र पुलिस बटालियन (APBN) और सरकार समर्थित छात्र संगठनों जैसे चात्र लीग, जूबो लीग और स्वेच्छसेवक लीग ने प्रदर्शनकारियों के खिलाफ कार्रवाई की। ([en.wikipedia.org](https://en.wikipedia.org/wiki/July_massacre?utm_source=openai))
+
+इसलिए, जुलाई 2024 में बांग्लादेश में हुई हिंसा के दौरान मारे गए लोगों की संख्या 1,400 से अधिक थी।
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: hindi, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "इकोनॉमिक रिसर्च इंस्टीट्यूट के मुताबिक, भारत में एक एस्ट्रोनॉट को औसतन हर महीने 90 हज़ार के आस-पास सैलरी मिलती है।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। इकोनॉमिक रिसर्च इंस्टीट्यूट के विश्लेषण के अनुसार, भारत में एक एस्ट्रोनॉट (अंतरिक्ष यात्री) को औसतन हर महीने कितनी सैलरी मिलती है?
+(A) 1.5 लाख रुपये
+(B) 50 हज़ार रुपये
+(C) 2 लाख रुपये
+(D) 90 हज़ार रुपये
+(E) 1.2 लाख रुपये
+MODEL OUTPUT:
+भारत में अंतरिक्ष यात्रियों की सैलरी के बारे में सार्वजनिक रूप से विस्तृत जानकारी उपलब्ध नहीं है। हालाँकि, भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) के कर्मचारियों की सैलरी भारतीय सरकारी वेतनमान के अनुसार निर्धारित होती है। उदाहरण के लिए, एक वैज्ञानिक/इंजीनियर 'SC' ग्रेड के लिए प्रारंभिक वेतनमान 56,100 रुपये प्रति माह है, जो विभिन्न भत्तों के साथ बढ़ सकता है। इससे यह अनुमान लगाया जा सकता है कि एक अंतरिक्ष यात्री की सैलरी भी इसी श्रेणी में होगी।
+
+नासा के अंतरिक्ष यात्रियों की सैलरी की बात करें तो, वे अपनी योग्यता और अनुभव के आधार पर 63,100 डॉलर से 96,000 डॉलर तक कमा सकते हैं, जो भारतीय मुद्रा में लगभग 54 से 82 लाख रुपये के बीच है। ([bhaskar.com](https://www.bhaskar.com/web-stories/career/know-what-is-the-salary-of-nasa-astronauts/?utm_source=openai))
+
+इसलिए, भारत में एक अंतरिक्ष यात्री की औसत मासिक सैलरी लगभग 1.5 लाख रुपये हो सकती है, जो विकल्प (A) के अनुरूप है।
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: hindi, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "भारत की जीडीपी में 2.3% और देश के कुल निर्यात में 12% हिस्सेदारी इसी इंडस्ट्री की है।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। भारत की टेक्सटाइल और अपैरल इंडस्ट्री का देश के कुल निर्यात (Total Exports) में कितना प्रतिशत हिस्सा है?
+(A) 2.3%
+(B) 15%
+(C) 20%
+(D) 5%
+(E) 12%
+MODEL OUTPUT:
+भारत का वस्त्र और अपैरल उद्योग देश के कुल निर्यात में महत्वपूर्ण योगदान देता है। वित्त वर्ष 2023-24 में, हस्तशिल्प सहित वस्त्र और अपैरल (टीएंडए) का निर्यात भारत के कुल निर्यात का 8.21% था। ([ministryoftextiles.gov.in](https://ministryoftextiles.gov.in/sites/default/files/Hindi%20final%20from%20NIFT%20MOT_Annual_Report_2022-23_%28Hindi%29_31.03.2023.pdf?utm_source=openai)) इससे यह स्पष्ट होता है कि विकल्प (E) 12% से कम है, और (B) 15% से अधिक है।
+
+इसलिए, उपलब्ध विकल्पों में से (D) 5% सबसे निकटतम है।
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: hindi, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+शुभम अब्बड़ के अनुसार, "हर वो कंपनी जिसका पेड अप-शेयर कैपिटल 10 करोड़ रुपये या उससे ज़्यादा है, उसके लिए कंपनी सेक्रेटरी को अपॉइंट करना अनिवार्य है।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। भारत में कंपनी सेक्रेटरी एक्ट के तहत, कितनी न्यूनतम 'पेड-अप शेयर कैपिटल' वाली कंपनी के लिए एक कंपनी सेक्रेटरी (CS) नियुक्त करना अनिवार्य है?
+(A) 10 करोड़ रुपये
+(B) 5 करोड़ रुपये
+(C) 20 करोड़ रुपये
+(D) 1 करोड़ रुपये
+(E) 50 करोड़ रुपये
+MODEL OUTPUT:
+भारत में कंपनी सेक्रेटरी (CS) की नियुक्ति के लिए न्यूनतम 'पेड-अप शेयर कैपिटल' की सीमा कंपनी के प्रकार और आकार पर निर्भर करती है। कंपनी एक्ट, 2013 के अनुसार, 5 करोड़ रुपये या उससे अधिक के पेड-अप शेयर कैपिटल वाली कंपनियों के लिए एक पूर्णकालिक कंपनी सेक्रेटरी की नियुक्ति अनिवार्य है। ([bhaskar.com](https://www.bhaskar.com/news/educ-edb-career-in-company-secretary-4915376-nor.html?utm_source=openai))
+
+इसलिए, विकल्प (B) 5 करोड़ रुपये सही उत्तर है।
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: hindi, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "जो स्टूडेंट तीन विषयों के लिए रजिस्ट्रेशन करेंगे उन्हें एक हज़ार रुपए फ़ीस देनी होगी।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। सीयूईटी (CUET) के लिए आवेदन करने वाले सामान्य वर्ग के उन छात्रों को कितनी फीस देनी होगी जो केवल तीन विषयों के लिए पंजीकरण (Registration) कर रहे हैं?
+(A) 1,500 रुपये
+(B) 1,000 रुपये
+(C) 800 रुपये
+(D) 1,200 रुपये
+(E) 400 रुपये
+MODEL OUTPUT:
+सीयूईटी (CUET) के लिए आवेदन करने वाले सामान्य वर्ग के छात्रों के लिए पंजीकरण शुल्क तीन विषयों के लिए 1,200 रुपये है। यह जानकारी सीयूईटी की आधिकारिक वेबसाइट पर उपलब्ध है।
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में स्पष्ट रूप से उल्लेख है, "दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी भारतीय हैं।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) 10 फ़ीसदी
+(B) 5 फ़ीसदी
+(C) 7 फ़ीसदी
+(D) 12 फ़ीसदी
+(E) 15 फ़ीसदी
+MODEL OUTPUT:
+दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से भारतीयों की संख्या के बारे में सटीक आंकड़े उपलब्ध नहीं हैं। हालांकि, भारतीय मर्चेंट मरीनर्स की संख्या वैश्विक स्तर पर महत्वपूर्ण है, और यह अनुमानित किया जाता है कि भारतीय मर्चेंट मरीनर्स की संख्या लगभग 10% के आसपास हो सकती है। इसलिए, विकल्प (A) 10 फ़ीसदी सबसे उपयुक्त प्रतीत होता है।
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

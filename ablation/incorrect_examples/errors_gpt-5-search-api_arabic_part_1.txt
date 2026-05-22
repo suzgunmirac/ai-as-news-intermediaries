@@ -1,0 +1,644 @@
+METADATA [15]: index: 15, language: arabic, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يقول تيندال إن الإعجاب عادة لا تكون له عواقب سلبية تُذكر على الصحة الجسدية والنفسية، بينما الولع أشد وقعاً ويؤدي لإهمال النفس والتحليل القهري لكل إشارة.
+INPUT:
+
+
+اليوم هو 15 فبراير/ شباط 2026. يوضح عالم النفس إيان تيندال الفرق بين "الإعجاب" و"الولع العاطفي". ما الذي يميز الإعجاب التقليدي عن الولع وفقاً لتيندال؟
+(A) الإعجاب لا يسبب عواقب سلبية تذكر على الصحة الجسدية والنفسية.
+(B) الإعجاب يتطلب دائماً وجود علاقة جنسية بين الطرفين.
+(C) الإعجاب يستمر لفترة أطول بكثير من الولع العاطفي.
+(D) الإعجاب لا يحدث إلا في سن المراهقة فقط.
+(E) الإعجاب يعتمد كلياً على "عدم اليقين" لكي يستمر.
+MODEL OUTPUT:
+لم أجد أي مصدر موثوق يشير إلى أن عالم النفس “إيان تيندال” (Ian Tindall) قدم تمييزًا شناعيًا بين “الإعجاب التقليدي” و”الولع العاطفي” بشكل نصي؛ ربما يكون الموضوع من تأليفك أو من مصدر غير معروف على الإنترنت. لكن بناءً على ما هو شائع في الأبحاث النفسية حول الفرق بين الإعجاب (liking) والولع أو الانفتان (infatuation)، يمكننا تحليل الخيارات:
+
+- الخيار (B): “الإعجاب يتطلب دائماً وجود علاقة جنسية بين الطرفين.” هذا غير صحيح؛ الإعجاب قد يكون دون علاقة جنسية أو دون رغبة فيها.  
+- الخيار (D): “الإعجاب لا يحدث إلا في سن المراهقة فقط.” هذا أيضًا غير صحيح؛ الإعجاب يمكن أن يحدث في أي عمر.  
+- الخيار (E): “الإعجاب يعتمد كلياً على ‘عدم اليقين’ لكي يستمر.” هذا غير منطقي؛ الإعجاب غالبًا يستند إلى معرفة أو تقدير، وليس إلى غموض دائم.  
+- الخيار (A): “الإعجاب لا يسبب عواقب سلبية تذكر على الصحة الجسدية والنفسية.” هذا غير مضمون؛ حتى الإعجاب قد يؤدي إلى أحلام مستحيلة، خيبة أمل، قلق، إلخ، لكن غالبًا لا يكون كما في الانفتان الذي قد يكون ملحوظًا أكثر في التأثيرات السلبية.  
+- الخيار (C): “الإعجاب يستمر لفترة أطول بكثير من الولع العاطفي.” هذا الأقرب لما تجده في الأدبيات: الانفتان عادة يكون مؤقتًا، شديد الإرهاق أو الهوس، وقد يختفي أو يترقق، بينما الإعجاب يمكن أن يكون ثابتًا ومستمرًا إذا تطوّرت العلاقة بعمق وتفاهم.
+
+بناءً عليه، لو كان “إيان تيندال” يتفق مع التفريق الذي تجده في علم النفس: الإعجاب أقل حدة لكن أكثر دوامًا، أما الولع فهو سريع، شديد، لكنه غالبًا قصير الأمد. لذلك الخيار (C) هو الأنسب.
+
+<final_answer>
+(C)
+</final_answer>
+
+الاستشهادات:
+- “Infatuation” — ويكيبيديا (تعريف الانفتان ومقارنته بالحب والعاطفة قصيرة الأمد)  
+- “Five Key Differences Between Love and Infatuation” — myTherapyNYC (توضح أن الانفتان مؤقت، بينما الحب أو الإعجاب أكثر استقرارًا)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: arabic, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال بوضوح أن "آل سيف، الذي يخلف الوزير خالد الفالح، يملك خلفية متميزة بوصفه تكنوقراطياً ومصرفياً".
+INPUT:
+
+
+اليوم هو 17 فبراير 2026. في إطار التعديل الوزاري السعودي الأخير، من هو المسؤول الذي خلفه فهد آل سيف في منصب وزير الاستثمار؟
+(A) خالد الفالح.
+(B) كريس رايت.
+(C) جمال بنّون.
+(D) جهاد العبيد.
+(E) فهد آل سيف (نفسه).
+MODEL OUTPUT:
+من خلال المصادر الحديثة، تم استبدال **خالد الفالح** (Khalid Al-Falih) بمنصب وزير الاستثمار في المملكة العربية السعودية في التعديل الوزاري الذي صدر في **12 فبراير 2026**، والشخص الذي خلفه هو **فهد بن عبدالجليل بن علي السيف** (Fahd bin Abduljalil bin Ali Al-Saif). ([thenationalnews.com](https://www.thenationalnews.com/news/gulf/2026/02/12/saudi-arabia-replaces-investment-minister-in-cabinet-reshuffle//?utm_source=openai))
+
+إذاً، من بين الخيارات التي طرحت:
+
+(A) خالد الفالح – هذا هو الشخص الذي تمت إزالته من المنصب  
+(B) كريس رايت – لا علاقة له بالمنصب  
+(C) جمال بنّون – غير صحيح  
+(D) جهاد العبيد – غير صحيح  
+(E) فهد آل سيف (نفسه) – هذا هو الجواب الصحيح لأنه الذي تولّى المنصب بعد فهد آل سيف السابق الذي هو خالد الفالح  
+
+وبالتالي الخيار الصحيح هو:
+
+<final_answer>
+(E)
+</final_answer>
+
+الاستشهادات:
+- Saudi investment minister among dozens in sweeping reshuffle | The National ([thenationalnews.com](https://www.thenationalnews.com/news/gulf/2026/02/12/saudi-arabia-replaces-investment-minister-in-cabinet-reshuffle//?utm_source=openai))  
+- Saudi Arabia replaces its investment minister | L'Orient Today ([today.lorientlejour.com](https://today.lorientlejour.com/article/1494824/saudi-arabia-replaces-its-investment-minister.html?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: arabic, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال أن السلطات المغربية اضطرت إلى "إجلاء حوالي 180 ألفاً من سُكان القصر الكبير (حوالي 70 في المئة من سكان المدينة)".
+INPUT:
+
+
+اليوم هو 17 فبراير 2026. كم عدد سكان مدينة القصر الكبير المغربية الذين اضطرت السلطات لإجلائهم كإجراء احترازي بسبب الفيضانات في أواخر يناير الماضي؟
+(A) 10 آلاف شخص.
+(B) 70 ألف شخص.
+(C) حوالي 180 ألف شخص.
+(D) 300 ألف شخص.
+(E) 2,201 شخص.
+MODEL OUTPUT:
+لقد اضطرت السلطات لإجلاء حوالي **50,000** شخص من مدينة القصر الكبير كإجراء احترازي بسبب الفيضانات في أواخر يناير. ([unn.ua](https://unn.ua/en/news/morocco-evacuates-50000-people-due-to-flood-threat-in-ksar-el-kebir?utm_source=openai))
+
+<final_answer>
+(A)
+</final_answer>
+
+الاستشهادات:
+- UNN: Morocco evacuates 50,000 people due to flood threat in Ksar el-Kebir ([رابط](https://unn.ua/en/news/morocco-evacuates-50000-people-due-to-flood-threat-in-ksar-el-kebir)) ([unn.ua](https://unn.ua/en/news/morocco-evacuates-50000-people-due-to-flood-threat-in-ksar-el-kebir?utm_source=openai))  
+- Maghrebi.org: Morocco: 50,000 evacuated after floods threaten northern city ([رابط](https://maghrebi.org/2026/02/04/morocco-50000-evacuated-after-floods-threaten-northern-city/)) ([maghrebi.org](https://maghrebi.org/2026/02/04/morocco-50000-evacuated-after-floods-threaten-northern-city/?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: arabic, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يوضح المقال أنه "مع الأسعار الحالية التي تقارب 65 دولاراً، تبدو البلاد أقل جاذبية للاستثمار" مقارنة بسعر 100 دولار سابقاً.
+INPUT:
+
+
+اليوم هو 17 فبراير 2026. وفقاً للمقال الاقتصادي حول فنزويلا، ما هو السعر الحالي التقريبي لبرميل النفط الذي يجعل الاستثمار في البلاد أقل جاذبية مقارنة بفترة رئاسة تشافيز؟
+(A) 100 دولار.
+(B) 80 دولاراً.
+(C) 32 دولاراً.
+(D) 45 دولاراً.
+(E) يقارب 65 دولاراً.
+MODEL OUTPUT:
+بناءً على المقالات الاقتصادية الحديثة، السعر الحالي التقريبي لبرميل النفط الذي يجعل الاستثمار في فنزويلا أقل جاذبية مقارنة بفترة رئاسة تشافيز هو حوالي **80 دولاراً** للبرميل. ([ainvest.com](https://www.ainvest.com/news/assessing-100-billion-venezuela-oil-investment-promise-2601/?utm_source=openai))
+
+منطق الاستنتاج:
+
+- وفقاً لتحليل “Venezuela’s Oil Sector Privatization: Opportunity and Risk” من Kevin Crowther، تكلفة التعادل (breakeven) لمشروعات النفط في فنزويلا تُقدَّر بـ **حوالي 80 دولاراً للبرميل**. ([kevincrowther.com](https://kevincrowther.com/news/venezuelas-oil-sector-privatization-opportunity-and-risk/?utm_source=openai))  
+- كما أشارت مقالة “Asssessing the $100 Billion Venezuela Oil Investment Promise” إلى أن المشاريع في فنزويلا ستحتاج إلى أن يكون السعر أعلى من **80 دولاراً للبرميل** لتكون مُربحة مُقارنةً بالتكلفة الحالية. ([ainvest.com](https://www.ainvest.com/news/assessing-100-billion-venezuela-oil-investment-promise-2601/?utm_source=openai))  
+
+لذلك، الخيار الصحيح هو:
+
+<final_answer>
+(B)
+</final_answer>
+
+الاستشهادات:
+- Kevin Crowther (Venezuela’s Oil Sector Privatization: Opportunity and Risk)  
+- AInvest (Assessing the $100 Billion Venezuela Oil Investment Promise)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: arabic, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+ذكر ليث في حديثه: "كنت أصوم بما يُعرف بـ (صوم العصافير) أي نصف يوم تقريباً".
+INPUT:
+
+
+اليوم هو 17 فبراير 2026. في تقرير تشجيع الأطفال على الصيام، ماذا يقصد الطفل "ليث" بمصطلح "صوم العصافير" الذي كان يمارسه في بداياته؟
+(A) صيام نصف يوم تقريباً.
+(B) الصيام عن الطعام فقط دون الشراب.
+(C) الصيام لمدة ساعة واحدة كل يوم بالتدرج.
+(D) الصيام من صلاة الفجر حتى صلاة الظهر فقط.
+(E) الامتناع عن الحلويات والسكريات خلال نهار رمضان.
+MODEL OUTPUT:
+وفقًا لما ورد في عدة مصادر تربوية حول مفهوم "صيام العصافير"، المقصود به أن يبدأ الطفل الصيام بشكل تدريجي ومنخفض الشدة، غالبًا من ساعة إلى ساعتين فقط كفترة أولى كي يعتاد عليها، وليس بالضرورة صيام كامل أو لفترة زمنية كبيرة من النهار. ([nn.najah.edu](https://nn.najah.edu/OXQ/?utm_source=openai))
+
+إذًا، الخيار الأقرب لهذا الوصف هو:
+
+<final_answer>
+(C)
+</final_answer>
+
+الاستشهادات:
+- كيف أدرب طفلي على الصيام ومتى؟ (النجاح الإخباري) ([nn.najah.edu](https://nn.najah.edu/OXQ/?utm_source=openai))  
+- "صيام العصافير" سلوك تربوي لتشجيع الأطفال على الصيام | Sayidaty ([sayidaty.net](https://www.sayidaty.net/node/1084471/%D8%B1%D9%85%D8%B6%D8%A7%D9%86/%D8%B9%D9%86-%D8%B1%D9%85%D8%B6%D8%A7%D9%86/%D8%B5%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7%D9%81%D9%8A%D8%B1-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D9%84%D8%AA%D8%B4%D8%AC%D9%8A%D8%B9-%D8%B7%D9%81%D9%84%D9%83-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: arabic, date: february_18, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+ذكر المقال أن دولاً مثل سوريا، تركيا، سنغافورة، مصر، الأردن، ليبيا، والجزائر أعلنت الخميس أول أيام رمضان لتعذر رؤية الهلال أو لأسباب فلكية.
+INPUT:
+
+
+اليوم هو 18 فبراير 2026. بناءً على التقارير الواردة حول رؤية هلال رمضان لعام 1447 هجرية، أي من مجموعات الدول التالية أعلنت أن يوم الخميس هو أول أيام شهر الصيام؟
+(A) السعودية، الإمارات، قطر، والكويت
+(B) اليمن، البحرين، فلسطين، والعراق
+(C) مصر، الأردن، الجزائر، وسوريا
+(D) لبنان، السودان، سلطنة عمان، وإيران
+(E) المغرب، موريتانيا، إندونيسيا، وتركيا
+MODEL OUTPUT:
+من المصادر المتاحة:
+
+- السعودية أعلنت أن يوم الأربعاء 18 فبراير 2026 هو أول أيام رمضان 1447 هـ بعد رؤية الهلال. ([mtv.com.lb](https://www.mtv.com.lb/en/news/Local/1654081/saudi-arabia-declares-wednesday-the-start-of-ramadan?utm_source=openai))  
+- الإمارات أعلنت أيضاً بدء الصيام يوم الأربعاء 18 فبراير. ([english.ahram.org.eg](https://english.ahram.org.eg/NewsContentP/1/562560/Egypt/Egypt-announces-Ramadan-starts-Thursday.aspx?utm_source=openai))  
+- قطر كذلك أعلنت اليوم نفسه. ([english.ahram.org.eg](https://english.ahram.org.eg/NewsContentP/1/562560/Egypt/Egypt-announces-Ramadan-starts-Thursday.aspx?utm_source=openai))  
+- الكويت أيضاً من بين الدول التي أعلنت ذلك. ([english.ahram.org.eg](https://english.ahram.org.eg/NewsContentP/1/562560/Egypt/Egypt-announces-Ramadan-starts-Thursday.aspx?utm_source=openai))  
+
+بالتالي، الإجابة الصحيحة هي المجموعة (A).
+
+<final_answer>
+(A)
+</final_answer>
+
+الاستشهادات:
+- Egypt announces Ramadan starts Thursday – Ahram Online (يذكر أن السعودية، الإمارات، قطر، والكويت أعلنوا أن يوم الأربعاء 18 فبراير هو أول يوم رمضان) ([english.ahram.org.eg](https://english.ahram.org.eg/NewsContentP/1/562560/Egypt/Egypt-announces-Ramadan-starts-Thursday.aspx?utm_source=openai))  
+- Saudi Officials Begin Ramadan on Wednesday – Saudi Press Agency وغيرها من التقارير المتعلقة بالسعودية والإمارات etc. ([timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/world/middle-east/ramadan-2026-moon-sighted-in-saudi-arabia-ksa-supreme-court-calls-muslims-to-spot-crescent-on-february-17-first-day-of-fasting-from-feb-18/articleshow/128455843.cms?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: arabic, date: february_18, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+ذكرت المجموعة أنها سجلت بلاغات عن اختفاء أكثر من 80 امرأة، وتحققت من 26 حالة منها على أنها اختطاف.
+INPUT:
+
+
+اليوم هو 18 فبراير 2026. كم عدد حالات الاختطاف التي تمكنت مجموعة "اللوبي النسوي السوري" من التحقق منها بين النساء المفقودات؟
+(A) 26 حالة
+(B) 41 حالة
+(C) 42 حالة
+(D) 80 حالة
+(E) حالة واحدة فقط
+MODEL OUTPUT:
+العدد هو: (C) 42 حالة
+
+المنطق:
+
+- تقرير “وزارة الداخلية السورية” أفاد بأن اللجنة المعنية تحققّت في **42 بلاغًا** عن حوادث اختفاء أو اختطاف نساء مفقودات، وأكد أن 41 منها **ليست** حالات اختطاف فعلية بينما حالة واحدة فقط كانت اختطافًا حقيقيًا. ([almodon.com](https://www.almodon.com/media/2025/11/03/%D8%A3%D9%88%D9%82%D9%81%D9%88%D8%A7-%D8%AE%D8%B7%D9%81-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D9%88%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D9%87%D8%A8-%D8%AA%D9%86%D8%B6%D9%85-%D9%84%D9%84%D8%AD%D9%85%D9%84%D8%A9?utm_source=openai))  
+- هذا يعني أن عدد حالات الاختطاف التي تحقّق فيها اللوبي النسوي السوري (كجزء من التقارير الواردة إلى الحكومة وتوثيق البلاغات) مربوطًا برقم 42 بلاغًا، رغم أن 41 منها لم تُصدق كاختطاف. ([almodon.com](https://www.almodon.com/media/2025/11/03/%D8%A3%D9%88%D9%82%D9%81%D9%88%D8%A7-%D8%AE%D8%B7%D9%81-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D9%88%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D9%87%D8%A8-%D8%AA%D9%86%D8%B6%D9%85-%D9%84%D9%84%D8%AD%D9%85%D9%84%D8%A9?utm_source=openai))  
+
+<final_answer>
+(C)
+</final_answer>
+
+الاستشهادات:
+- "وزارة الداخلية السورية: 41 حالة اختطاف مزيفة" (المدن)  
+- الخبر بعنوان "وزارة الداخلية تردّ: ليست حالات خطف" يوضح أن من أصل 42 بلاغاً حالة واحدة فقط صحيحة.
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: arabic, date: february_18, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+عندما تتحول الشمس إلى عملاق أحمر وتنتفخ، فإن أي غلاف جوي متبقٍ سيكتسب لوناً قرمزياً داكناً.
+INPUT:
+
+
+اليوم هو 18 فبراير 2026. وفقاً لفين بوريدج، ما هو اللون الذي سيكتسبه أي غلاف جوي متبقٍ على الأرض بعد حوالي خمسة مليارات عام؟
+(A) قرمزي داكن
+(B) أبيض مصفر شديد الحرارة
+(C) أزرق عميق وساطع
+(D) برتقالي ضبابي يشبه الضباب الدخاني
+(E) أسود تماماً بسبب نفاد وقود الشمس
+MODEL OUTPUT:
+أنا لم أجد مصدرًا موثوقًا باسمه "فين بوريدج" (ربما هناك لبس في الاسم)، ولا توجد توقعات علمية مؤكدة تقول أن الأرض بعد خمسة مليارات سنة ستبقى لها غلاف جوي يُكسبه لونًا محددًا معروفًا بهذا الاسم. لكن يمكنني عرض ما قالته المصادر العلمية حول ما قد يحدث للجوّ الأرضي مع تحول الشمس إلى عملاق أحمر بعد نحو 5 مليار سنة، ومن ثم تفسير اللون الأكثر احتمالًا.
+
+---
+
+## ماذا سيحدث للغلاف الجوي بعد حوالي 5 مليارات سنة؟
+
+- في هذا الزمن، الشمس ستصبح عملاقًا أحمر (Red Giant)، مما يجعل سطوعها يهتزّر نحو **الأحمر والبرتقالي**. ([space.com](https://www.space.com/22471-red-giant-stars.html?utm_source=openai))  
+- حرارة الأرض سترتفع بشدة، وقد تبدأ المحيطات بالتبخر، ومعظم الغلاف الجوي قد يتبخر أو يُفقد إلى الفضاء. ([dl1.en-us.nina.az](https://www.dl1.en-us.nina.az/Future_of_Earth.html?utm_source=openai))  
+- إذا بقي بعض الغلاف الجوي، فإنه سيكون مدفوعًا بتكوينات الغاز من الصخور المنصهرة والتبخر (غازاتٍ مرتبطة بكربون وثاني أكسيد وغيره) وسيكون ملوثًا للغاية، وربما سميكًا جدًا. ([dl1.en-us.nina.az](https://www.dl1.en-us.nina.az/Future_of_Earth.html?utm_source=openai))  
+
+---
+
+## ما اللون الأكثر احتمالًا إذا بقي غلاف جوي؟
+
+عندما يكون مصدر الضوء أسخن أو أكثر احمرارًا، ويتعرض الضوء إلى كمية هائلة من الغازات والغبار، فإن الأطوال الموجية القصيرة (الأزرق، البنفسجي) تُشتّت أو تُمتص أكثر من الأطوال الموجية الطويلة مثل الأحمر والبرتقالي.
+
+لذلك:
+
+- السماء ستكون **مائلة للّون البرتقالي أو الأحمر المائل إلى الأصفر**، قد تبدو مثل “ضباب برتقالي” أو سماء محمرة.  
+- قد لا تكون السماء "حمراء قاتمة" بالكامل إذا ظل هناك بعض انتشار للضوء؛ لكنها ستكون بعيدة جدًا عن لون السماء الزرقاء التي نعرفها اليوم.
+
+---
+
+## الخلاصة: أي خيار أقرب؟
+
+من بين الخيارات المعطاة:
+
+(A) قرمزي داكن  
+(B) أبيض مصفر شديد الحرارة  
+(C) أزرق عميق وساطع  
+(D) برتقالي ضبابي يشبه الضباب الدخاني  
+(E) أسود تماماً بسبب نفاد وقود الشمس
+
+الخيار الأنسب تبعًا لما نعرفه هو:
+
+**(D) برتقالي ضبابي يشبه الضباب الدخاني**
+
+---
+
+<final_answer>
+(D)
+</final_answer>
+
+---
+
+الاستشهادات:
+- Space.com – مستقبل الشمس وتحولها إلى عملاق أحمر بعد نحو خمسة مليارات سنة ([space.com](https://www.space.com/22471-red-giant-stars.html?utm_source=openai))  
+- Future of Earth – كيف سيصبح الغلاف الجوي وظروف سطح الأرض في مرحلة عملاق أحمر ([dl1.en-us.nina.az](https://www.dl1.en-us.nina.az/Future_of_Earth.html?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: arabic, date: february_18, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+اضطرت السلطات إلى إجلاء حوالي 180 ألفاً من سكان القصر الكبير، وهو ما يمثل حوالي 70 في المئة من سكان المدينة.
+INPUT:
+
+
+اليوم هو 18 فبراير 2026. كم عدد الأشخاص الذين اضطرت السلطات المغربية لإجلائهم من مدينة القصر الكبير كإجراء احترازي بسبب الفيضانات؟
+(A) 10 آلاف شخص بواسطة المروحيات
+(B) 15 ألف شخص من المتضررين مباشرة
+(C) 140 ألف شخص من أصحاب المساكن المنهارة
+(D) 300 ألف شخص من إقليم سيدي قاسم
+(E) حوالي 180 ألف شخص
+MODEL OUTPUT:
+بناءً على المصادر الحديثة، السلطات المغربية أخلت حوالي **143,164** شخصًا من منازلهم في المناطق الشمالية من البلاد بسبب الفيضانات. ([apnews.com](https://apnews.com/article/f286b572a5f3029e99149b04c85b6c08?utm_source=openai))
+
+إذاً الجواب الأقرب في الخيارات هو:
+
+<final_answer>
+(C)
+</final_answer>
+
+الاستشهادات:
+- AP News (Morocco evacuates 140,000 people...) ([apnews.com](https://apnews.com/article/f286b572a5f3029e99149b04c85b6c08?utm_source=openai))  
+- AL-Monitor (Storm Leonardo displaces 140,000 as heavy floods hit northern Morocco) ([al-monitor.com](https://www.al-monitor.com/originals/2026/02/storm-leonardo-displaces-140000-heavy-floods-hit-northern-morocco?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: arabic, date: february_18, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+انفصلت الجزر عن موريشيوس في عام 1965 عندما كانت الأخيرة لا تزال مستعمرة بريطانية.
+INPUT:
+
+
+اليوم هو 18 فبراير 2026. متى انفصلت جزر تشاغوس رسمياً عن دولة موريشيوس لتصبح إقليماً بريطانياً في ما وراء البحار؟
+(A) عام 1814
+(B) عام 1965
+(C) عام 1967
+(D) عام 1968
+(E) عام 1971
+MODEL OUTPUT:
+لقد انفصلت جزر تشاغوس رسميًا عن موريشيوس وأُعلنت كإقليم بريطاني ما وراء البحار (British Overseas Territory) في عام **1965**، وذلك حين أصدرت المملكة المتحدة أمرًا في المجلس (Order in Council) يُعرف باسم "British Indian Ocean Territory Order 1965" ([freemovement.org.uk](https://freemovement.org.uk/how-the-chagossians-won-the-right-to-register-as-british/?utm_source=openai)).
+
+<final_answer>
+(A)
+</final_answer>
+
+الاستشهادات:
+- Free Movement: “To secure the islands … the UK detached the Chagos Islands from Mauritius … designating them as the British Indian Ocean Territory …” (Free Movement) ([freemovement.org.uk](https://freemovement.org.uk/how-the-chagossians-won-the-right-to-register-as-british/?utm_source=openai))  
+- Lord’s Library: “The islands became British territory … In 1965, the islands were designated as the British Indian Ocean Territory (BIOT) through an order in council …” ([lordslibrary.parliament.uk](https://lordslibrary.parliament.uk/uk-mauritius-treaty-on-the-chagos-archipelago/?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: arabic, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+تقول شارلوت: "لقد مارست العلاج الوظيفي... مثل الفن وصناعة الفخار وكتابة الأغاني، وهكذا عدت إلى الموسيقى".
+INPUT:
+
+
+اليوم هو 19 فبراير/شباط 2026. ما هو النشاط الذي مارسته "شارلوت" ضمن العلاج الوظيفي في المستشفى وساعدها على العودة إلى الموسيقى؟
+(A) العزف على البيانو
+(B) الرقص التعبيري
+(C) كتابة الأغاني
+(D) الرسم الزيتي
+(E) التمثيل المسرحي
+MODEL OUTPUT:
+في قصة “Charlotte” التي تعافت من التهاب السحايا وواجهت صعوبات في الحركة والكلام، النشاط الذي مارسـته ضمن العلاج الوظيفي والذي ساعدها على العودة للموسيقى كان:
+
+(ح) العزف على لوحة المفاتيح (“playing the keyboard”) ([nordoff-robbins.org.uk](https://www.nordoff-robbins.org.uk/stories/charlottes-story/?utm_source=openai))
+
+<final_answer>अ</final_answer>
+
+الاستشهادات:
+- Nordoff-Robbins — Charlotte’s story (والتي تذكر كيف استعادت شغفها بالموسيقى من خلال العزف والغناء) ([nordoff-robbins.org.uk](https://www.nordoff-robbins.org.uk/stories/charlottes-story/?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: arabic, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال أن الشرطة تعمل على تقييم شكوى بشأن "مزاعم مشاركة الأمير السابق 'لمواد سريّة' مع المدان بجرائم جنسية جيفري إبستين".
+INPUT:
+
+
+اليوم هو 19 فبراير/شباط 2026. ما هي التهمة المحددة التي تعمل شرطة مقاطعة وادي التيمز على تقييمها بخصوص الأمير السابق أندرو؟
+(A) مشاركة "مواد سريّة" مع جيفري إبستين
+(B) غسيل أموال عبر مؤسسات خيرية عامة
+(C) التستر على جرائم جنسية دولية
+(D) استخدام طائرات حكومية لأغراض شخصية
+(E) الرشوة مقابل منح ألقاب ملكية
+MODEL OUTPUT:
+الشرطة تعمل حالياً مع سلطات الادعاء على تقييم ما إذا كانت هناك أدلة كافية لفتح تحقيق جنائي في تهمة **سوء السلوك في المنصب العام** (Misconduct in Public Office) ضد الأمير أندرو. ([theguardian.com](https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates?page=with%3Ablock-6996ea908f08c7c058a5914f&utm_source=openai))
+
+خياراتك:
+(A) مشاركة "مواد سريّة" مع جيفري إبستين — هذا جزء من الادعاءات التي يُبحث فيها، لكنه ليس التهمة المحددة التي تحقّق الشرطة حالياً. ([uk.news.yahoo.com](https://uk.news.yahoo.com/police-making-progress-probe-claims-173003590.html?utm_source=openai))  
+(B) غسيل أموال عبر مؤسسات خيرية عامة — لا توجد دلائل في الأخبار تشير إلى أن هذه هي التهمة قيد التقييم.  
+(C) التستر على جرائم جنسية دولية — هذا غير مذكور أساساً كالتهمة التي تُقيّمها الشرطة الآن؛ التحقيق مرتبط بمشاركة معلومات سرية وسوء السلوك العام.  
+(D) استخدام طائرات حكومية لأغراض شخصية — لم يُذكر هذا كجزء من التحقيق في المصادر الحالية.  
+(E) الرشوة مقابل منح ألقاب ملكية — هذه التهمة لا تظهر في التقارير المرتبطة بالوضع.
+
+<final_answer>
+(C)  
+</final_answer>
+
+التوضيح: الشرطة تحقق حالياً بتهمة **سوء السلوك في المنصب العام** والتي تعني أن الشخص قد استغل منصبه للتصرف بطريقة غير مشروعة أو مهينة للثقة العامة. ([theguardian.com](https://www.theguardian.com/uk-news/live/2026/feb/19/police-arrest-former-prince-andrew-mountbatten-windsor-sandringham-latest-updates?page=with%3Ablock-6996ea908f08c7c058a5914f&utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: arabic, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+ذكر المقال أن الرئيس الجديد لحركة حماس سيتولى منصبه لمدة عام واحد عند إعلانه، وذلك في ظل إجراء انتخابات سرية لاختيار قائد مؤقت.
+INPUT:
+
+
+اليوم هو 20 فبراير/ شباط 2026. وفقاً للمسؤول الفلسطيني المطلع، ما هي المدة التي سيتولاها القائد المؤقت الجديد لحركة حماس عند إعلانه؟
+(A) ستة أشهر فقط
+(B) لمدة عام واحد
+(C) لمدة عامين كاملين
+(D) حتى نهاية الحرب الحالية في قطاع غزة
+(E) حتى انعقاد مجلس الشورى العام القادم
+MODEL OUTPUT:
+لم أجد حتى الآن مصدرًا موثوقًا يؤكد تصريحًا لفلسطيني مطلع يقول إن القائد المؤقت الجديد لحماس سيتولى الحكم **لفترة محددة مثل ستة أشهر أو سنة أو عامين**. كما أنني لم أجد تأكيدًا بأنه سيكون حتى **انعقاد مجلس الشورى العام القادم**.
+
+أقرب ما وجدت هو أن الحركة تستعد لإجراء **انتخابات داخلية لاختيار قيادة جديدة** وأن هذه الانتخابات لن تُجرى **قبل انتهاء الحرب الحالية في قطاع غزة**. ([arabic.euronews.com](https://arabic.euronews.com/2025/12/28/hamas-is-preparing-to-elect-its-new-leadership-who-are-the-most-prominent-candidates-fo?utm_source=openai))
+
+بناءً عليه، الخيار الأقرب للصحّة بناءً على المعلومات المتاحة هو:
+
+<final_answer>
+(D)
+</final_answer>
+
+الاستشهادات:
+- يورونيوز: «حماس تستعد لانتخاب قيادتها الجديدة.. من هم أبرز المرشحين لرئاسة الحركة؟» ([arabic.euronews.com](https://arabic.euronews.com/2025/12/28/hamas-is-preparing-to-elect-its-new-leadership-who-are-the-most-prominent-candidates-fo?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: arabic, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+ذكر الكاتب توماس جيرمين أنه ادعى إحراز المركز الأول في بطولة لا وجود لها أطلق عليها اسم "بطولة الهوت دوغ الدولية في داكوتا الجنوبية لعام 2026".
+INPUT:
+
+
+اليوم هو 20 فبراير/ شباط 2026. في التجربة التي قام بها الصحفي التقني لخداع أنظمة الذكاء الاصطناعي، ما هو الاسم الذي أطلقه على البطولة الوهمية التي ادعى الفوز بها؟
+(A) بطولة العالم لأكل الساندويتشات 2025
+(B) تحدي الصحفيين التقنيين العالمي للطعام
+(C) دوري داكوتا الجنوبية للهوت دوغ
+(D) بطولة الهوت دوغ الدولية في داكوتا الجنوبية لعام 2026
+(E) مسابقة داكوتا الشمالية الدولية للهوت دوغ
+MODEL OUTPUT:
+لا توجد معلومات موثوقة أو دلائل حتى الآن تُشير إلى أن صحفيًا تقنيًا قد ادعى الفوز ببطولة وهمية بهذا الوصف، وبالتالي لا يمكن تأكيد أي من الخيارات المطروحة بناءً على المصادر المتاحة.  
+
+إذا كنت تحتاج، أستطيع محاولة البحث الأعمق لمعرفة إن وُجدت تقارير جديدة حول هذه المسألة.  
+
+<final_answer>لا يوجد معلومات كافية</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: arabic, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+ذكر المقال أن دراسة حديثة وجدت أن 58 في المئة من الناس لا يحاولون الدخول على الروابط التي يقدمها مستعرض الذكاء الاصطناعي عند البحث على محرك غوغل.
+INPUT:
+
+
+اليوم هو 20 فبراير/ شباط 2026. وفقاً لدراسة حديثة استشهد بها المقال، ما هي نسبة الأشخاص الذين لا يحاولون الدخول على الروابط التي يقدمها مستعرض الذكاء الاصطناعي عند البحث على محرك غوغل؟
+(A) 42 في المئة
+(B) 50 في المئة
+(C) 58 في المئة
+(D) 74 في المئة
+(E) 99 في المئة
+MODEL OUTPUT:
+بناءً على الدراسة التي أجرتها Pew Research Center، فإن نسبة الأشخاص الذين **لا يحاولون الدخول على الروابط التي يقدمها مستعرض الذكاء الاصطناعي (AI Overview)** — أي الذين لم ينقروا على الروابط داخل الملخصات — هي تقريباً **99 في المئة** مقدّرين بأن فقط 1 بالمئة هم الذين ينقرون على الروابط داخل الملخصات. ([pewresearch.org](https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/?utm_source=openai))
+
+إذاً، الخيار الصحيح هو:
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: arabic, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+بحسب النظام الداخلي لحماس، تتألف قيادتها السياسية من 18 عضواً: ستة يمثلون غزة، وستة يمثلون الضفة الغربية والسجناء، وستة يمثلون حماس في الخارج.
+INPUT:
+
+
+اليوم هو 20 فبراير/ شباط 2026. وفقاً للنظام الداخلي لحركة حماس، مما تتألف قيادتها السياسية وكيف يتم توزيع تمثيل أعضائها؟
+(A) 15 عضواً: 5 لغزة، 5 للضفة، 5 للخارج
+(B) 18 عضواً: 6 لغزة، 6 للضفة والسجناء، 6 للخارج
+(C) 21 عضواً: 7 لغزة، 7 للضفة، 7 للخارج
+(D) 12 عضواً: 4 لغزة، 4 للضفة، 4 للخارج
+(E) 24 عضواً: 8 لغزة، 8 للضفة، 8 للخارج
+MODEL OUTPUT:
+وفقًا لمصادر موثوقة، تشكّل القيادة السياسية لحركة حماس — Politburo — من 15 عضوًا يُنتخبون بواسطة مجلس الشورى. ([ecfr.eu](https://ecfr.eu/special/mapping_palestinian_politics/politburo/?utm_source=openai))  
+لا توجد معلومات تؤكد تقسيم تمثيل الأعضاء إلى حصص متساوية من غزة والضفة والمهجر أو الخارج بهذا الشكل المنظم الوارد في الخيارات. ([ecfr.eu](https://ecfr.eu/special/mapping_palestinian_politics/politburo/?utm_source=openai))  
+
+بناءً على ذلك، لا يتطابق أي من الخيارات (A) أو (B) أو (C) أو (D) أو (E) مع هذا التركيب المؤكد.  
+
+<final_answer>  
+(E)  
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: arabic, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال أن مصر والأردن وليبيا والجزائر وسوريا وتركيا وإندونيسيا أعلنت الخميس أول أيام رمضان، بينما أعلنت السعودية والإمارات وقطر وغيرها الأربعاء.
+INPUT:
+
+
+اليوم هو 21 فبراير/ شباط 2026. أي من الدول التالية أعلنت أن يوم الخميس (19 فبراير) هو أول أيام شهر رمضان لعام 2026؟
+(A) السعودية والإمارات والكويت
+(B) قطر والبحرين واليمن
+(C) العراق ولبنان والسودان
+(D) فلسطين والإمارات والبحرين
+(E) مصر والأردن وليبيا
+MODEL OUTPUT:
+لقد أعلنت الدول التالية أن **يوم الخميس 19 فبراير 2026** هو أول أيام شهر رمضان:
+
+- عمان ([dialoguepakistan.com](https://dialoguepakistan.com/en/world/oman-confirms-19-february-as-first-day-of-ramadan-2026?utm_source=openai))  
+- تركيا ([khaberni.com](https://www.khaberni.com/news/782261-3-islamic-countries-announce-thursday-february-19-2026-as-the-first-day-of-ramadan?utm_source=openai))  
+- سنغافورة ([khaberni.com](https://www.khaberni.com/news/782261-3-islamic-countries-announce-thursday-february-19-2026-as-the-first-day-of-ramadan?utm_source=openai))  
+- أستراليا ([legit.ng](https://www.legit.ng/world/asia/1696920-ramadan-2026-list-countries-officially-confirmed-day-fasting/?utm_source=openai))  
+
+أما الدول التي ذكرت الخيارات في السؤال:
+
+- السعودية أعلنت أن أول يوم رمضان هو **الأربعاء 18 فبراير 2026** ([english.aawsat.com](https://english.aawsat.com/gulf/5241844-saudi-arabia-declares-wednesday-first-day-ramadan?utm_source=openai))  
+- الإمارات أيضاً أعلنت بدء الصيام يوم الأربعاء ([english.aawsat.com](https://english.aawsat.com/gulf/5241844-saudi-arabia-declares-wednesday-first-day-ramadan?utm_source=openai))  
+- الكويت أيضاً أعلنت يوم الأربعاء ([en.haberler.com](https://en.haberler.com/the-crescent-division-in-ramadan-some-countries-2212953?utm_source=openai))  
+
+إذًا الخيار الذي يتضمن دولًا أعلن فيها **الخميس 19 فبراير** كأول يوم هو:
+
+<final_answer>
+(D)
+</final_answer>
+
+الاستشهادات:
+- Gulf News: UAE, Saudi Arabia, Oman announce crescent ([hindustantimes.com](https://www.hindustantimes.com/lifestyle/festivals/ramadan-2026-moon-sighting-uae-saudi-arabia-oman-announce-crescent-most-asian-countries-to-begin-fasting-februray-19-101771338133666.html/?utm_source=openai))  
+- Khaberni: 3 Islamic Countries Announce Thursday February 19 … Oman, Turkey, Singapore ([khaberni.com](https://www.khaberni.com/news/782261-3-islamic-countries-announce-thursday-february-19-2026-as-the-first-day-of-ramadan?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: arabic, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يشير التحليل إلى تقدير بأن العدد الإجمالي للقتلى في عام 2025 سيصل إلى 80 ألفاً، مما يجعله العام الأكثر دموية.
+INPUT:
+
+
+اليوم هو 21 فبراير/ شباط 2026. وفقاً لتحليل بي بي سي، ما هو العدد الإجمالي المتوقع للقتلى الروس في أوكرانيا خلال عام 2025؟
+(A) 40,201 جندي
+(B) 80,000 جندي
+(C) 69,362 جندي
+(D) 200,000 جندي
+(E) 186,102 جندي
+MODEL OUTPUT:
+لا توجد معلومات موثوقة من تحليل بي بي سي تقول إن عدد القتلى الروس المتوقع في أوكرانيا لعام 2025 هو أي من الخيارات المذكورة؛ الخيارات جميعها أقل بكثير من التقديرات الأكثر انتشارًا التي تشير إلى أن عدد القتلى يُحتمل أن يكون أعلى بكثير.
+
+من أبرز التقديرات:
+
+- تحليل "بي بي سي الروسية" و"ميديا زونا" وصل إلى تحديد أسماء أكثر من 143,000 جندي روسي قُتلوا حتى أكتوبر 2025، مع أن العدد الفعلي غالبًا أكبر بكثير بسبب الكشف الجزئي للبيانات. ([english.nv.ua](https://english.nv.ua/russian-war/bbc-report-russian-volunteer-casualties-in-ukraine-reach-30-of-total-confirmed-deaths-50557042.html?utm_source=openai))  
+- حسب تقرير CSIS وبمصادر أخرى، عدد القتلى الروس يقدَّر ما بين 288,000 إلى 409,000 حتى أوائل عام 2026. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Casualties_of_the_Russo-Ukrainian_war?utm_source=openai))  
+
+بناءً على ذلك، من بين الخيارات المطروحة:
+
+(A) 40,201  
+(B) 80,000  
+(C) 69,362  
+(D) 200,000  
+(E) 186,102  
+
+أقرب تقدير بناءً على ما نشر من تحليل بي بي سي هو خيار **(E) 186,102 جندي تقريبًا**، لكنه لا يطابق تقديراتهم الدقيقة لعام 2025، بل هذا الرقم أقل من التقديرات التي تتراوح عادة بين مئتي ألف وأعلى.
+
+إذا كان لا بد من اختيار أحد الخيارات بناءً على أقرب ما ورد:
+
+<final_answer>  
+(E)  
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: arabic, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال أن وكالة الأنباء العُمانية أصدرت بياناً يوم 12 فبراير/شباط الماضي أكدت فيه أن الخميس هو غرة رمضان بناءً على الحسابات الفلكية.
+INPUT:
+
+
+اليوم هو 21 فبراير/ شباط 2026. متى أصدرت سلطنة عُمان بيانها الذي أعلنت فيه مسبقاً أن غرة شهر رمضان ستكون يوم الخميس؟
+(A) 18 فبراير
+(B) 17 فبراير
+(C) 15 فبراير
+(D) 10 فبراير
+(E) 12 فبراير
+MODEL OUTPUT:
+بيان سلطنة عُمان الذي أعلنت فيه أن غرة شهر رمضان ستكون يوم الخميس صدر في **11 فبراير 2026**. ([khaberni.com](https://www.khaberni.com/news/781649-sultanate-of-oman-sets-the-date-for-the-first-day-of-ramadan-2026?utm_source=openai))
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: arabic, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال بوضوح أن ويتكوف قال إن ترامب أعطاه هو وكوشنر تعليمات تشمل "عدم التخصيب" و"إعادة المواد المخصّبة".
+INPUT:
+
+
+اليوم هو 22 فبراير/ شباط 2026. صرح ستيف ويتكوف، المبعوث الأمريكي الخاص، بأن الرئيس دونالد ترامب أعطاه هو وجاريد كوشنر "تعليمات" محددة قبل بدء المفاوضات مع الجانب الإيراني. ما هي هذه التعليمات بدقة؟
+(A) ضرورة "عدم التخصيب" و"إعادة المواد المخصّبة" إلى خارج إيران.
+(B) السماح بـ "تخصيب رمزي" مقابل وقف البرنامج الصاروخي الباليستي.
+(C) تعليق التخصيب لمدة عشر سنوات مقابل رفع العقوبات النفطية الشاملة.
+(D) السماح بالتخصيب للأغراض المدنية فقط تحت إشراف الوكالة الدولية للطاقة الذرية.
+(E) تفكيك جميع أجهزة الطرد المركزي المتطورة ونقلها إلى دولة ثالثة.
+MODEL OUTPUT:
+تم الكشف عبر تصريحات ستيف ويتكوف أن الرئيس دونالد ترامب قد أعطاه هو و جاريد كوشنر "تعليمات واضحة" قبل بدء المفاوضات مع إيران، والتي تضمنت **ضرورة أن تكون إيران خالية تمامًا من التخصيب النووي** (أي "تخصيب صفر")، إلى جانب مطالبة بإعادة المواد المخصّبة إلى خارج إيران. ([channel8.com](https://channel8.com/english/news/53385?utm_source=openai))
+
+بناءً عليه، الخيار الذي ينطبق تمامًا على هذه التعليمات هو:
+
+<final_answer>
+(E)
+</final_answer>
+
+الاستشهادات:
+- Al Jazeera (“Iran ‘must stop and eliminate’ nuclear enrichment … – meaning … that is what President Trump has asked me to do.”) ([aljazeera.com](https://www.aljazeera.com/news/2025/4/15/iran-must-stop-and-eliminate-nuclear-enrichment-says-us-envoy-witkoff?utm_source=openai))  
+- The Times of Israel (“They cannot have centrifuges. They have to down-blend all of their fuel … send it to a far away place … An enrichment program can never exist … that’s our red line.”) ([timesofisrael.com](https://www.timesofisrael.com/witkoff-iran-must-dismantle-uranium-enrichment-facilities-ship-material-far-away/?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------

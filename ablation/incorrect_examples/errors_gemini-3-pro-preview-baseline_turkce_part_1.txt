@@ -1,0 +1,472 @@
+METADATA [9]: index: 9, language: turkce, date: february_11, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, "11 Şubat tarihli Resmi Gazete'de yayımlanan Erdoğan imzalı kararın başında..." ifadesiyle kararın bugün yayımlandığı belirtilmektedir.
+INPUT:
+
+
+Bugün 11 Şubat 2026. Cumhurbaşkanı Erdoğan'ın kabine değişikliği kararı hangi tarihte Resmi Gazete'de yayımlanarak yürürlüğe girmiştir?
+(A) 4 Haziran 2023
+(B) 8 Ekim 2024
+(C) 10 Şubat 2026
+(D) 27 Ocak 2025
+(E) 11 Şubat 2026
+MODEL OUTPUT:
+Bu soruda, "Bugün 11 Şubat 2026" ifadesi bir çeldirici olarak kullanılmıştır. Yakın tarihteki en kapsamlı ve bilinen kabine değişikliği (yeni kabinenin kurulması), 28 Mayıs 2023 tarihinde gerçekleştirilen Cumhurbaşkanlığı seçimlerinin ardından yapılmıştır. 
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, yeni Cumhurbaşkanlığı Kabinesi'ni 3 Haziran 2023 akşamı açıklamış ve bakanların atama kararları **4 Haziran 2023** tarihli ve 32211 sayılı Resmi Gazete'de yayımlanarak yürürlüğe girmiştir. Diğer seçeneklerdeki tarihlerde gerçekleşmiş böyle kapsamlı bir kabine ataması/değişikliği kararı bulunmamaktadır.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_11, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede polisin, önce Tumbler Ridge Lisesi'nde 6 kişinin öldürüldüğünü, ardından lise yakınlarındaki bir evde iki kişinin öldürüldüğünü açıkladığı belirtilmektedir.
+INPUT:
+
+
+Bugün 11 Şubat 2026. Kanada'nın British Columbia eyaletinde düzenlenen ve 9 kişinin ölümüyle sonuçlanan silahlı saldırıların ilk durağı neresidir?
+(A) Tumbler Ridge Lisesi
+(B) L'Ecole Polytechnique
+(C) British Columbia Eyalet Meclisi
+(D) Tumbler Ridge kasabasındaki bir müstakil ev
+(E) Münih Güvenlik Konferansı alanı
+MODEL OUTPUT:
+Bu soru, gelecekteki bir tarihe (11 Şubat 2026) işaret eden ve gerçekte yaşanmamış kurgusal bir senaryoyu veya belirli bir kurgusal eseri (kitap, film, dizi vb.) temel alıyor gibi görünmektedir. Gerçek tarihte Kanada'nın British Columbia eyaletine bağlı Tumbler Ridge kasabasında 9 kişinin ölümüyle sonuçlanan böyle bir toplu silahlı saldırı olayı yaşanmamıştır (British Columbia'da 9 kişinin öldüğü en bilinen olay 1996'daki Vernon katliamıdır ve bu olay Vernon'da bir evde başlamıştır). 
+
+Ancak, sorunun kurgusu ve sunulan seçeneklerin yapısı değerlendirildiğinde
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: turkce, date: february_11, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Amerikalı yetkililerin, Trump'ın gönderme olasılığı olan gemilerin Asya'daki USS George Washington ve ABD'nin doğu kıyısındaki USS George H.W. Bush olabileceğini söylediği aktarılmaktadır.
+INPUT:
+
+
+Bugün 11 Şubat 2026. ABD Başkanı Donald Trump'ın İran'a yönelik uyarıları kapsamında Ortadoğu'ya göndermeyi düşündüğü uçak gemileri hangileridir?
+(A) USS Gerald R. Ford ve USS Nimitz
+(B) USS George Washington ve USS George H.W. Bush
+(C) USS Abraham Lincoln ve USS Ronald Reagan
+(D) USS Dwight D. Eisenhower ve USS Carl Vinson
+(E) USS Theodore Roosevelt ve USS Harry S. Truman
+MODEL OUTPUT:
+Bu soru, muhtemelen sistem tarihinizdeki bir yazım hatasından dolayı "11 Şubat 2026" olarak belirtilmiş olsa da, ABD Başkanı Donald Trump'ın 2025 yılının başlarında (Şubat 2025) İran'a yönelik artan gerilimler ve uyarılar kapsamında Ortadoğu'ya sevk etmeyi planladığı/görevlendirdiği uçak gemisi grubuna atıfta bulunmaktadır. 
+
+Trump yönetimi, bölgedeki caydırıcılığı artırmak ve İran'a net bir mesaj vermek amacıyla **USS Theodore Roosevelt** ve halihazırda bölgede görev yapan **USS Harry S. Truman** uçak gemisi taarruz gruplarının Ortadoğu'da konuşlandırılmasını gündeme getirmiştir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: turkce, date: february_11, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, "Ev sahibi İtalya ise yedisi bronz 11 madalya ile en çok madalya alan ikinci ülke" bilgisi verilmektedir.
+INPUT:
+
+
+Bugün 11 Şubat 2026. İtalya'da devam eden Kış Olimpiyatları'nda, TSİ 06:30 itibarıyla toplam 11 madalya ile en çok madalya alan ikinci ülke hangisidir?
+(A) Norveç
+(B) ABD
+(C) Kanada
+(D) Almanya
+(E) İtalya
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_11, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, "8 Aralık 2025'te son bir yılda ülkelerine dönen Suriyelilerin sayısını 578 bin olarak açıkladı" bilgisi yer almaktadır.
+INPUT:
+
+
+Bugün 11 Şubat 2026. Ali Yerlikaya'nın 8 Aralık 2025 tarihinde yaptığı açıklamaya göre, son bir yılda ülkelerine dönen Suriyeli sayısı kaçtır?
+(A) 578 bin
+(B) 608 bin
+(C) 641 bin
+(D) 1 milyon 625 bin
+(E) 2,5 milyon
+MODEL OUTPUT:
+Soruda belirtilen "8 Aralık 2025" tarihi ve "Bugün 11 Şubat 2026" kurgusu, gerçek zaman çizelgesinde tam 2 yıl öncesine, yani **8 Aralık 2023** tarihine ve bugünün tarihi olan 11 Şubat 2024'e işaret etmektedir. 
+
+İçişleri Bakanı Ali Yerlikaya, 8 Aralık 2023 tarihinde TBMM Genel Kurulunda bakanlığının bütçe görüşmeleri sırasında yaptığı konuşmada, sınır ötesinde oluşturulan güvenli bölgelere bugüne kadar gönüllü, güvenli ve onurlu bir şekilde geri dönüş yapan Suriyeli sayısının **608 bin** olduğunu açıklamıştır. 
+
+Bu nedenle doğru seçenek (B)'dir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: turkce, date: february_11, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, "Dünyanın en önemli arkeolojik keşiflerinden birini yapacak olan Carter aslında, 15 yaşında okulu bırakmıştı ve hiçbir resmi eğitim almamıştı" denilmektedir.
+INPUT:
+
+
+Bugün 11 Şubat 2026. Tutankamon'un mezarını keşfeden arkeolog Howard Carter, eğitim hayatıyla ilgili hangi kararı almıştır?
+(A) 17 yaşında Mısır'da çizimci olarak çalışmaya başlamıştır.
+(B) 20 yıl boyunca saha deneyimi kazanmak için üniversiteye gitmemiştir.
+(C) Didlington Hall malikanesinde özel arkeoloji eğitimi almıştır.
+(D) 15 yaşında okulu bırakmıştır.
+(E) 18 yaşında Mısır Antik Eserler Servisi'ne girmiştir.
+MODEL OUTPUT:
+Howard Carter'ın hayatı ve kariyeri incelendiğinde, çocukluğunda sağlık sorunları yaşadığı için örgün eğitiminin oldukça sınırlı kaldığı bilinmektedir. Babası yetenekli bir ressamdı ve Carter'a çizim yapmayı öğretti. Carter, eğitim hayatıyla ilgili en keskin kararlardan birini alarak **15 yaşında okulu bırakmış** ve babasının yanında sanat/çizim üzerine çalışmaya başlamıştır. Bu yeteneği sayesinde 17 yaşına geldiğinde Mısır Keşif Fonu (Egypt Exploration Fund) tarafından hiyeroglifleri ve mezar resimlerini kopyalaması için (çizimci/tracer olarak) Mısır'a gönderilmiştir. 
+
+Üniversiteye hiç git
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_11, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede komisyonun adı "Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu" olarak geçmektedir.
+INPUT:
+
+
+Bugün 11 Şubat 2026. TBMM bünyesinde kurulan ve "Terörsüz Türkiye" süreci bağlamında çalışmalarını yürüten komisyonun tam adı nedir?
+(A) Barış ve Demokratik Toplum Komisyonu
+(B) PKK Fesih ve Silah Bırakma İzleme Komisyonu
+(C) Anayasa Uzlaşma ve Umut Hakkı Komisyonu
+(D) Kürt Sorunu Çözüm ve İstişare Komisyonu
+(E) Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu
+MODEL OUTPUT:
+Bu soru, MHP Genel Başkanı Devlet Bahçeli'nin 22 Ekim 2024 tarihindeki TBMM grup toplantısında yaptığı tarihi çağrı (terörün tamamen bitirilmesi, PKK'nın lağvedilmesi ve "Umut Hakkı" tartışmaları) sonrasında, siyasi kulislerde ve medyada kaleme alınan geleceğe dönük (projeksiyon/senaryo) yazılarından birine dayanmaktadır. 
+
+Cumhur İttifakı'nın siyasi söyleminde "Kürt sorunu" veya "Barış" gibi ifadeler yerine "Terör sorunu" ve "Bin yıllık kardeşlik" vurgusu ön plandadır. Bu nedenle, "Terörsüz Türkiye" hedefiyle TBMM
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaleye göre, 30 km hız limiti olan yerlerde 86 km hızla gidenlerin ehliyetlerine 60 gün el konulacağı açıkça belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Yeni yasalaşan trafik düzenlemesine göre, hız limitinin 30 km/saat olduğu okul ve hastane önlerinde 86 km/saat hızla giden bir sürücüye uygulanacak yaptırım aşağıdakilerden hangisidir?
+(A) Ehliyetine 30 gün süreyle el konulacaktır.
+(B) Ehliyetine 60 gün süreyle el konulacaktır.
+(C) Ehliyetine 90 gün süreyle el konulacaktır.
+(D) 46 bin lira para cezası kesilecek ve ehliyeti iptal edilecektir.
+(E) Ehliyetine 60 gün el konulacak ve araç 30 gün trafikten men edilecektir.
+MODEL OUTPUT:
+2024).
+Article 51/2-c: Exceeding the speed limit by more than 50%.
+Penalty: Administrative fine (6,439 TL in 2024) and 15 penalty points.
+If done 5 times within 1 year, the driver's license is suspended for 1 year.
+If the driver's license is suspended for 1 year, it's not 30, 60, or 90 days.
+Wait, Article 51 doesn't have a 30, 60, or 90-day suspension for a first-time speeding offense.
+However, Article 118: Exceeding 100 penalty points results
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, GoFundMe sayfasının Perşembe sabahı itibarıyla 1,2 milyon dolar topladığı belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Bağırsak kanseri nedeniyle hayatını kaybeden oyuncu James Van Der Beek'in ailesi için açılan bağış kampanyasında Perşembe sabahı itibarıyla toplanan miktar ne kadardır?
+(A) 2,4 milyon dolar
+(B) 480 bin dolar
+(C) 1,5 milyon dolar
+(D) 850 bin dolar
+(E) 1,2 milyon dolar
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede İçişleri Bakanlığına Ali Yerlikaya'nın yerine Mustafa Çiftçi'nin, Adalet Bakanlığına ise Yılmaz Tunç'un yerine Akın Gürlek'in atandığı belirtilmektedir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Cumhurbaşkanı Erdoğan tarafından kabinede yapılan son değişiklikle, İçişleri ve Adalet Bakanlıklarına atanan isimler sırasıyla kimlerin yerine göreve getirilmiştir?
+(A) Ali Yerlikaya ve Yılmaz Tunç
+(B) Davut Gül ve Bülent Turan
+(C) Bekir Bozdağ ve Abdülhamit Gül
+(D) Yılmaz Tunç ve Ali Yerlikaya
+(E) Süleyman Soylu ve Bekir Bozdağ
+MODEL OUTPUT:
+Bu soruyu yanıtlarken, Cumhurbaşkanı Recep Tayyip Erdoğan'ın Mayıs 2023 seçimlerinin ardından kurduğu ve günümüz itibarıyla bilinen en güncel kabinesindeki (Cumhurbaşkanlığı Kabinesi) değişiklikleri dikkate almamız gerekir. 
+
+Haziran 2023'te açıklanan yeni kabinede:
+- **İçişleri Bakanlığı** görevine Ali Yerlikaya atanmış ve bu görevi **Süleyman Soylu**'dan devralmıştır.
+- **Adalet Bakanlığı** görevine ise Yılmaz Tunç atanmış ve bu görevi **Bekir Bozdağ**'dan devralmıştır.
+
+Soru, atanan yeni isimlerin "sırasıyla kimlerin yerine göreve getirildiğini" sorduğu için doğru sıralama Süleyman Soylu ve Bekir Bozdağ olmalıdır.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, çıkan kavgada CHP Şanlıurfa Milletvekili Mahmut Tanal'ın burnunun kanadığının görüldüğü belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Akın Gürlek'in Adalet Bakanı olarak yemin etmesi sırasında TBMM Genel Kurulu'nda çıkan kavgada, hangi milletvekilinin burnunun kanadığı bildirilmiştir?
+(A) CHP Grup Başkanvekili Murat Emir
+(B) CHP Şanlıurfa Milletvekili Mahmut Tanal
+(C) AKP Grup Başkanvekili Abdülhamit Gül
+(D) CHP Genel Başkanı Özgür Özel
+(E) TBMM Başkanvekili Bekir Bozdağ
+MODEL OUTPUT:
+Akın Gürlek'in Adalet Bakanı olarak atanmasının ardından TBMM Genel Kurulu'nda gerçekleştirilen yemin töreni sırasında, muhalefet milletvekillerinin protestoları nedeniyle tansiyon yükselmiş ve milletvekilleri arasında arbede yaşanmıştır. Çıkan bu kavgada aldığı darbe sonucu burnu kanayan isim **CHP Grup Başkanvekili Murat Emir** olmuştur. 
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Erdoğan'ın 12 Şubat'ta "AKP'nin Genişletilmiş İl Başkanları Toplantısı'nda" konuştuğu belirtilmektedir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Cumhurbaşkanı Erdoğan, Meclis'teki yemin töreninde yaşanan gerginliğin ardından Özgür Özel'e hitaben yaptığı konuşmayı hangi toplantı kapsamında gerçekleştirmiştir?
+(A) TBMM Grup Toplantısı
+(B) Kabine Toplantısı sonrası basın açıklaması
+(C) Cumhurbaşkanlığı Külliyesi'ndeki muhtarlar buluşması
+(D) İstanbul Büyükada'daki "Millet İradesine Sahip Çıkıyor" mitingi
+(E) AKP'nin Genişletilmiş İl Başkanları Toplantısı
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+
+**Gerekçe ve Düşünce Süreci:**
+Soruda bahsedilen "Meclis'teki yemin töreninde yaşanan gerginlik" ve Cumhurbaşkanı Erdoğan'ın muhalefete (ve özellikle CHP yönetimine/Özgür Özel'e) yönelik eleştirileri, genellikle siyasi mesajların en yoğun verildiği ve doğrudan muhalefet liderlerinin hedef alındığı **TBMM Grup Toplantıları** kapsamında gerçekleştirilmektedir. Cumhurbaşkanı Erdoğan, Meclis açılışları, yemin törenleri veya genel kurulda yaşanan siyasi tartışmaların ve gerginliklerin ardından partisinin milletvekillerine hitap ettiği haftalık AK Parti TBMM Grup Toplant
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede TSK unsurlarının sınırlarından yaklaşık 6 bin 450 kilometre uzaktaki Almanya'ya gittiği belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. NATO'nun Steadfast Dart 26 tatbikatı kapsamında Türk Silahlı Kuvvetleri (TSK) unsurları, sınırlarından yaklaşık kaç kilometre uzağa intikal etmiştir?
+(A) 6 bin 450 kilometre
+(B) 2 bin kilometre
+(C) 10 bin kilometre
+(D) 1 bin 500 kilometre
+(E) 800 bin kilometre
+MODEL OUTPUT:
+Bu soru, gelecekteki kurgusal bir senaryoyu veya belirli bir analitik metni (muhtemelen bir savunma sanayii veya strateji makalesini) temel alan bir okuduğunu anlama veya senaryo sorusudur. 
+
+Seçenekler incelendiğinde, (B), (C), (D) ve (E) seçenekleri (2 bin, 10 bin, 1.500, 800 bin) oldukça yuvarlak ve genel sayılarken; **(A) seçeneğindeki "6 bin 450 kilometre"** ifadesi son derece spesifik bir değerdir. Bu tür metne dayalı sorularda, genellikle metin içinde geçen ve dikkat ölçen bu tarz spes
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Almanya Savunma Bakanı Boris Pistorius'un, ülkesinin misyonun ilk aşamasına dört Eurofighter savaş uçağı ve havada yakıt ikmal unsurlarıyla katılacağını söylediği belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. NATO'nun yeni başlattığı "Arktik Muhafızı" misyonu kapsamında Almanya'nın sağlayacağı askeri katkının detayları nelerdir?
+(A) 30 binden fazla asker ve amfibi hücum gemileri sağlayacaktır.
+(B) Norfolk'taki Müşterek Kuvvetler Komutanlığı'nın yönetimini üstlenecektir.
+(C) Grönland kıyılarında devriye gezecek iki adet fırkateyn gönderecektir.
+(D) Dört Eurofighter savaş uçağı ve havada yakıt ikmal unsurlarıyla katılacaktır.
+(E) Arktik Dayanıklılık tatbikat serisinin tüm lojistik maliyetini karşılayacaktır.
+MODEL OUTPUT:
+Bu soru, gelecekteki bir tarihe (12 Şubat 2026) işaret eden hipotetik bir senaryoya veya bir savaş oyunu/strateji simülasyonuna dayanmaktadır. Bu tür senaryolarda doğru cevaba, ülkelerin gerçek askeri kapasiteleri ve NATO içindeki standart rolleri analiz edilerek ulaşılabilir:
+
+- **(A) Seçeneği:** Almanya donanmasının (Deutsche Marine) envanterinde amfibi hücum gemileri (LHD/LHA) bulunmamaktadır. Ayrıca tek bir misyon için 30 binden fazla asker konuşlandırmak, Alman ordusunun (Bundeswehr) mevcut mevcudu ve yapısı göz önüne alındığında gerçekçi değildir.
+- **(B) Seçeneği:** Norfolk'taki Müşterek Kuvvetler Komutanlığı (JFC Norfolk), geleneksel olarak ABD Donanması'na bağlı 2. Filo komutanı (bir ABD amirali) tarafından yönetilmektedir. Almanya'nın bu komutayı devralması NATO'nun mevcut komuta yapısına uymaz.
+- **(C) Seçeneği:** Grönland, Danimarka'ya bağlı özerk bir bölgedir ve kıyı devriyesi ile savunması Danimarka Silahlı Kuvvetleri'nin (Arktisk Kommando) sorumluluğundadır.
+- **(E) Seçeneği:** NATO tatbikatlarında "tüm lojistik maliyetin" tek bir ülke tarafından karşılanması, NATO'nun maliyet paylaşımı (her ülkenin kendi birliğinin masrafını karşılaması) prensibine aykırıdır.
+- **(D) Seçeneği:** Alman Hava Kuvvetleri (Luftwaffe), NATO'nun hava polisliği misyonlarına (örneğin İzlanda veya Baltık ülkeleri) ve Arktik tatbikatlarına genellikle 4 ila 6 adet **Eurofighter** savaş uçağı ve Çok Uluslu MRTT Filosu'ndan (MMF) sağlanan **havada yakıt ikmal uçaklarıyla** (A330 MRTT) katılmaktadır. Bu seçenek, Almanya'nın gerçek askeri envanteri ve NATO operasyonlarındaki standart rolüyle birebir örtüşmektedir.
+
+Bu askeri ve stratejik gerçekler doğrultusunda, Almanya'nın sağlayabileceği en mantıklı ve tutarlı katkı D seçeneğinde verilmiştir.
+
+<final_answer>
+(D
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, insan hakları aktivistlerine göre güvenlik güçlerinin müdahalesinde en az 6 bin 490 protestocunun öldürüldüğü belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. İran Devrimi'nin 47. yılı kutlamaları sürerken, insan hakları aktivistlerinin verilerine göre son protestolarda hayatını kaybedenlerin sayısı en az kaçtır?
+(A) 1979 protestocu
+(B) 32 protestocu
+(C) 47 protestocu
+(D) 12 bin protestocu
+(E) 6 bin 490 protestocu
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, şüphelilerin Gürcistan'a kaçmaya çalıştıkları sırada İstanbul Havalimanı'nda yakalandıkları belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. İstanbul'daki Özbek kadın cinayetlerinin şüphelileri olan D.A.U.T. ve G.A.K. nerede yakalanmışlardır?
+(A) Gürcistan'a kaçmaya çalıştıkları sırada İstanbul Havalimanı'nda.
+(B) Cinayetin işlendiği Ümraniye'deki evin yakınındaki bir parkta.
+(C) Cesetleri attıkları Şişli'deki çöp konteynerinin başında.
+(D) Sınırı geçtikten hemen sonra Gürcistan'ın Batum kentinde.
+(E) Saklandıkları 58 yaşındaki E.K.'nin evinde.
+MODEL OUTPUT:
+Bu olay, İstanbul'da Özbekistan uyruklu kadınların öldürülmesiyle ilgili yürütülen soruşturma kapsamında basına yansıyan spesifik bir asayiş haberidir. 
+
+Cinayet büro amirliği ekiplerinin yürüttüğü çalışmalarda, cinayet şüphelisi olarak aranan D.A.U.T. ve G.A.K.'nin izi sürülmüş ve şahısların saklandıkları adres tespit edilmiştir. Yapılan operasyon sonucunda şüpheliler, 58 yaşındaki E.K. isimli şahsın evinde saklanırken kıskıvrak yakalanarak gözaltına alınmışlardır. 
+
+<final_answer>
+(E)
+</final
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede ambulans, itfaiye gibi araçlara yol vermeyenlere 46 bin lira ceza kesileceği ve ehliyetlerine 30 gün el konulacağı belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Yeni trafik yasasına göre, geçiş üstünlüğü olan ambulans, itfaiye gibi araçlara yol vermeyen sürücülere uygulanacak para cezası ve ehliyet kısıtlaması nedir?
+(A) 15 bin lira para cezası ve ehliyete 15 gün el koyma.
+(B) 46 bin lira para cezası ve ehliyete 30 gün el koyma.
+(C) 140 bin lira para cezası ve aracın 30 gün trafikten men edilmesi.
+(D) 180 bin lira para cezası ve ehliyete 60 gün el koyma.
+(E) 16 bin lira para cezası ve psikoteknik değerlendirme raporu.
+MODEL OUTPUT:
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaledeki fotoğraf altı yazısında, 27 Ocak 2026 tarihinde Kim Jong Un'un kızıyla birlikte füze programı etkinliğine katıldığı belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Kuzey Kore lideri Kim Jong Un'un kızı Kim Ju Ae ile birlikte ülkenin füze programıyla ilgili bir etkinliğe katıldığı ve devlet medyasında fotoğraflarının yayınlandığı tarih hangisidir?
+(A) 20 Aralık 2025
+(B) 24 Haziran 2025
+(C) 12 Şubat 2026
+(D) 27 Ocak 2026
+(E) 18 Kasım 2022
+MODEL OUTPUT:
+Kuzey Kore lideri Kim Jong Un'un kızı Kim Ju Ae'nin kamuoyunun karşısına ilk kez çıktığı ve devlet medyasında fotoğraflarının yayımlandığı olay, 18 Kasım 2022 tarihinde gerçekleşmiştir. Bu tarihte Kim Jong Un, kızıyla birlikte Hwasong-17 kıtalararası balistik füzesinin (ICBM) fırlatma testine katılmış ve ertesi gün Kuzey Kore devlet medyası (KCNA) bu etkinliğe ait fotoğrafları tüm dünyayla paylaşmıştır. 
+
+Bu nedenle doğru tarih 18 Kasım 2022'dir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, mahkemenin Özel'in Gürlek'e 480 bin TL tazminat ödemesine karar verdiği belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Adalet Bakanı Akın Gürlek'in, kendisine "seyyar giyotin" diyen Özgür Özel'e karşı açtığı ve kazandığı manevi tazminat davasında mahkeme ne kadar tazminata hükmetmiştir?
+(A) 480 bin TL
+(B) 75 bin TL
+(C) 1,2 milyon TL
+(D) 370 bin TL
+(E) 140 bin TL
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: turkce, date: february_12, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Türkiye'nin bu görevi 1 Temmuz 2025'te üstlendiği belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Türkiye, NATO taahhütleri kapsamında Müttefik Reaksiyon Kuvveti (ARF) bünyesindeki Amfibi Görev Kuvveti Komutanlığı görevini ne zaman üstlenmiştir?
+(A) 1 Ocak 2026
+(B) 1 Temmuz 2025
+(C) 7 Şubat 2026
+(D) 10 Şubat 2026
+(E) 1 Temmuz 2024
+MODEL OUTPUT:
+Türkiye, NATO taahhütleri kapsamında Müttefik Reaksiyon Kuvveti (Allied Reaction Force - ARF) bünyesindeki Amfibi Görev Kuvveti Komutanlığı görevini **1 Temmuz 2024** tarihinden itibaren bir yıl süreyle üstlenmiştir. 
+
+Milli Savunma Bakanlığı (MSB) tarafından Temmuz 2024'te yapılan basın bilgilendirme toplantısında, NATO'nun yeni kuvvet yapısı olan ARF içindeki bu önemli görevin Türkiye tarafından devralındığı resmi olarak duyurulmuştur.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------

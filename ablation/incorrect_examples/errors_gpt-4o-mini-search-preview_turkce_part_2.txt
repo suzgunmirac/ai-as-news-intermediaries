@@ -1,0 +1,505 @@
+METADATA [14]: index: 14, language: turkce, date: february_15, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede yer alan verilere göre, ankete katılan annelerin %22'si bu tür jestlerin kendilerini değerli hissettiren şeylerin başında geldiğini söylemiştir.
+INPUT:
+
+
+Bugün 15 Şubat 2026. "Kalıcı Aşk" (Enduring Love) projesi kapsamında yapılan ankete göre, annelerin yüzde kaçı günlük hayattaki küçük jestlerin kendilerini en çok takdir edilmiş hissettiren şey olduğunu söylemiştir?
+(A) %5
+(B) %10
+(C) %15
+(D) %18
+(E) %22
+MODEL OUTPUT:
+Maalesef, "Kalıcı Aşk" (Enduring Love) projesi kapsamında yapılan ve annelerin günlük hayattaki küçük jestlerin kendilerini en çok takdir edilmiş hissettiren şey olduğunu belirten bir anketin sonuçlarına dair spesifik bir bilgiye ulaşamadım. Ancak, Ipsos tarafından gerçekleştirilen bir araştırmada, annelerin kendilerini en çok takdir edilmiş hissettikleri anların, küçük jestler ve günlük hayattaki basit zevklerde bulunduğu vurgulanmıştır. ([ipsosisay.com](https://www.ipsosisay.com/tr-tr/a%C5%9Fk%C4%B1n-halleri-ipsos-ara%C5%9Ft%C4%B1rmalar%C4%B1?utm_source=openai))
+
+Bu bulgulara dayanarak, annelerin kendilerini en çok takdir edilmiş hissettikleri anların küçük jestler ve günlük hayattaki basit zevkler olduğu sonucuna varabiliriz.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: turkce, date: february_15, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Bloomberg'in Kasım 2025'te bildirdiğine göre, Ukrayna'nın yıllık yaklaşık dört milyon İHA üretmesinin beklendiği ifade edilmektedir.
+INPUT:
+
+
+Bugün 15 Şubat 2026. Bloomberg'in Kasım 2025 tarihli haberine dayandırılan verilere göre, Ukrayna'nın yıllık yaklaşık kaç milyon adet insansız hava aracı (İHA) üretmesi beklenmektedir?
+(A) 1 milyon
+(B) 4 milyon
+(C) 10 milyon
+(D) 2 milyon
+(E) 5 milyon
+MODEL OUTPUT:
+Ukrayna'nın insansız hava aracı (İHA) üretimiyle ilgili olarak, Kasım 2025 tarihli Bloomberg haberine dayanarak, yıllık üretim miktarının yaklaşık 10 milyon adet olduğu belirtilmiştir. Bu bilgiye göre, doğru seçenek (C) 10 milyon olacaktır.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_15, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede yer alan ankete göre halkın %22'si prensesin kraliçe rolüne "uygun" olduğunu düşünürken, %44'ü uygun olmadığını düşünmektedir.
+INPUT:
+
+
+Bugün 15 Şubat 2026. Norveç'te NRK tarafından yayımlanan bir ankete göre, halkın yüzde kaçı Veliaht Prenses Mette-Marit'in kraliçe rolüne "uygun" olduğunu düşünmektedir?
+(A) %60.9
+(B) %72
+(C) %44
+(D) %38
+(E) %22
+MODEL OUTPUT:
+Norveç'te NRK tarafından yayımlanan bir ankete göre, halkın yüzde 72'si Veliaht Prenses Mette-Marit'in kraliçe rolüne uygun olduğunu düşünmektedir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_16, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Dr. Steenson, bu yaş grubundaki erkek çocukların her gün 140-500 fazla kalori tükettiğini belirtmiştir.
+INPUT:
+
+
+Bugün 16 Şubat 2026. İngiliz Beslenme Vakfı'ndan Dr. Simon Steenson'ın paylaştığı verilere göre, dört yaşın üzerindeki fazla kilolu ve obez erkek çocuklar her gün ortalama kaç fazla kalori tüketmektedir?
+(A) 160-290
+(B) 200-400
+(C) 100-300
+(D) 250-600
+(E) 140-500
+MODEL OUTPUT:
+Verilen bilgiler doğrultusunda, İngiliz Beslenme Vakfı'ndan Dr. Simon Steenson'ın paylaştığı verilere göre, dört yaşın üzerindeki fazla kilolu ve obez erkek çocukların her gün ortalama olarak 160-290 fazla kalori tükettikleri belirtilmiştir. Bu nedenle doğru seçenek (A) 160-290'dır.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_16, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede 2024 yılında dünya genelinde 652,676 meme küçültme ameliyatı yapıldığı bilgisi verilmiştir.
+INPUT:
+
+
+Bugün 16 Şubat 2026. Uluslararası Estetik Cerrahi Derneği'nin verilerine göre, 2024 yılında dünya genelinde toplam kaç adet meme küçültme ameliyatı yapılmıştır?
+(A) 652,676
+(B) 115,647
+(C) 67,000
+(D) 25,000
+(E) 652,000
+MODEL OUTPUT:
+Uluslararası Estetik Plastik Cerrahi Derneği'nin (ISAPS) 2024 yılına ait raporuna göre, dünya genelinde toplam 37,9 milyon estetik işlem gerçekleştirilmiştir. Bu işlemlerin 17,4 milyonu cerrahi, 20,5 milyonu ise cerrahi olmayan uygulamalardır. Ancak, bu raporda meme küçültme ameliyatlarının sayısına dair spesifik bir bilgi bulunmamaktadır. Diğer estetik işlemler arasında liposuction (yağ aldırma), meme protezi, göz kapağı ameliyatı ve karın germe gibi operasyonlar öne çıkmaktadır. ([gokhansemerci.com](https://www.gokhansemerci.com/tr/blog/dunyada-en-cok-tercih-edilen-estetik-islemler-isaps-2024-guncel-verileriyle?utm_source=openai))
+
+Bu nedenle, 2024 yılında dünya genelinde gerçekleştirilen meme küçültme ameliyatlarının sayısını belirlemek için doğrudan bir kaynak bulunmamaktadır.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: turkce, date: february_16, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede bu ifadenin California Valisi Gavin Newsom'a ait olduğu belirtilmiştir.
+INPUT:
+
+
+Bugün 16 Şubat 2026. Münih Güvenlik Konferansı bağlamındaki bir etkinlikte "Donald Trump geçicidir. Üç yıl içinde gidecek" ifadesini kullanan Amerikalı siyasetçi kimdir?
+(A) Marco Rubio
+(B) JD Vance
+(C) Todd Blanche
+(D) Gavin Newsom
+(E) Thomas Massie
+MODEL OUTPUT:
+Münih Güvenlik Konferansı'nda "Donald Trump geçicidir. Üç yıl içinde gidecek" ifadesini kullanan Amerikalı siyasetçi, ABD Başkan Yardımcısı JD Vance'tir. Vance, 2025 yılında Münih Güvenlik Konferansı'nda Avrupa devletlerine yönelik sert suçlamalarda bulunmuş ve Trump'ın politikalarını eleştirmiştir. ([dw.com](https://www.dw.com/tr/m%C3%BCnih-g%C3%BCvenlik-konferans%C4%B1-trump%C4%B1n-g%C3%B6lgesinde-ba%C5%9Flad%C4%B1/a-71598381?utm_source=openai))
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_16, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Bloomberg'in bildirdiğine göre Ukrayna'nın yıllık yaklaşık dört milyon İHA üretmesinin beklendiği ifade edilmiştir.
+INPUT:
+
+
+Bugün 16 Şubat 2026. Bloomberg'in Kasım 2025 tarihli raporuna göre, Ukrayna'nın yıllık yaklaşık kaç milyon adet insansız hava aracı (İHA) üretmesi beklenmektedir?
+(A) Bir milyon
+(B) İki milyon
+(C) Üç milyon
+(D) On binlerce
+(E) Dört milyon
+MODEL OUTPUT:
+Bloomberg'in Kasım 2025 tarihli raporuna göre, Ukrayna'nın yıllık insansız hava aracı (İHA) üretimi yaklaşık bir milyon adet olarak beklenmektedir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: turkce, date: february_16, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Brezilya'nın 115,647 ameliyatla ilk sırada yer aldığı belirtilmiştir.
+INPUT:
+
+
+Bugün 16 Şubat 2026. 2024 yılında dünya genelinde yapılan meme küçültme ameliyatları istatistiklerine göre, 115,647 operasyonla ilk sırada yer alan ülke hangisidir?
+(A) ABD
+(B) Fransa
+(C) Almanya
+(D) Brezilya
+(E) Türkiye
+MODEL OUTPUT:
+Verilen seçenekler arasında, 2024 yılında dünya genelinde 115.647 meme küçültme ameliyatı gerçekleştiren ülke hakkında spesifik bir bilgi bulunmamaktadır. Ancak, estetik cerrahi işlemlerinin popülaritesi ve sayısı ülkeden ülkeye değişiklik göstermektedir. Örneğin, Türkiye, estetik cerrahi alanında sunduğu ekonomik fiyatlarla dikkat çekmektedir ve meme küçültme ameliyatları uluslararası düzeyde rağbet görmektedir. ([dr-fatihdagdelen.com](https://dr-fatihdagdelen.com/meme-kucultme-fiyatlari-2025/?utm_source=openai))
+
+Diğer yandan, ABD'de meme kanseri teşhisi konulan kadın sayısının 2024 yılında 310.720 olması beklenmektedir. ([yukselurun.com](https://www.yukselurun.com/meme-kanseriyle-mucadelede-buyuk-adimlar-2024-istatistikleri/?utm_source=openai)) Bu, meme kanseri tedavisi ve ilgili cerrahi işlemlerin ABD'de yaygın olduğunu göstermektedir.
+
+Ancak, spesifik olarak 115.647 meme küçültme ameliyatının gerçekleştirildiği ülke hakkında kesin bir bilgi bulunmamaktadır.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: turkce, date: february_17, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, 25 şüphelinin adreslerine 17 Şubat gecesi TSİ 02.00'de eşzamanlı operasyonlar düzenlendiği açıkça belirtilmiştir.
+INPUT:
+
+
+Bugün 17 Şubat 2026. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen ve aralarında Kaan Tangöze ile Murat Dalkılıç gibi ünlü isimlerin de bulunduğu uyuşturucu operasyonuyla ilgili yapılan açıklamaya göre, operasyonlar tam olarak ne zaman gerçekleştirilmiştir?
+(A) 17 Şubat gecesi TSİ 02.00'de
+(B) 16 Şubat akşamı TSİ 22.00'de
+(C) 17 Şubat sabahı TSİ 08.00'de
+(D) 15 Şubat gece yarısı TSİ 00.00'da
+(E) 17 Şubat öğlen TSİ 12.00'de
+MODEL OUTPUT:
+İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen ve aralarında Kaan Tangöze ile Murat Dalkılıç gibi ünlü isimlerin de bulunduğu uyuşturucu operasyonu, 17 Şubat 2026 tarihinde sabah saatlerinde gerçekleştirilmiştir. ([tr.euronews.com](https://tr.euronews.com/2026/02/17/unlulere-yonelik-operasyon-murat-dalkilic-ve-kaan-tangoze-gozaltinda?utm_source=openai))
+
+Bu bilgilere dayanarak, doğru seçenek (C) 17 Şubat sabahı TSİ 08.00'de olacaktır.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: turkce, date: february_17, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Baba Akın Ertaş, mesajın Filipinler'in ülke kodu olan +63 ile başlayan bir numaradan WhatsApp üzerinden gönderildiğini söylemiştir.
+INPUT:
+
+
+Bugün 17 Şubat 2026. Zeren Ertaş'ın ölümüyle ilgili davada, anne Serpil Ertaş'a gönderilen tehdit mesajının hangi ülke koduyla başlayan bir numaradan geldiği bildirilmiştir?
+(A) +63
+(B) +90
+(C) +44
+(D) +1
+(E) +33
+MODEL OUTPUT:
+Zeren Ertaş'ın ölümüne ilişkin davada, anne Serpil Ertaş'a gönderilen tehdit mesajının hangi ülke koduyla başlayan bir numaradan geldiğiyle ilgili spesifik bir bilgiye ulaşamadım. Ancak, genel olarak, tehdit ve dolandırıcılık amacıyla yabancı ülke kodlarına sahip numaraların kullanıldığı bilinmektedir. Örneğin, Filipinli şantajcılar genellikle +63 alan kodlu numaraları kullanmaktadır. ([isiber.com](https://www.isiber.com/whatsapp-santaj?utm_source=openai))
+
+Bu bağlamda, seçenekler arasında +63 alan kodu Filipinler'e aittir. Ancak, Zeren Ertaş'ın davasıyla ilgili spesifik bir bilgi bulunmadığı için, bu soruya kesin bir yanıt vermek mümkün değildir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: turkce, date: february_17, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, görüntülerin geminin Umman kıyıları açıklarında, İran'dan yaklaşık 700 km uzaklıkta bulunduğunu tespit ettiği belirtilmiştir. (240 km mesafesi Umman kıyılarına olan uzaklığıdır).
+INPUT:
+
+
+Bugün 17 Şubat 2026. BBC Verify tarafından incelenen uydu görüntülerine göre, ABD uçak gemisi USS Abraham Lincoln'ün İran kıyılarından yaklaşık ne kadar uzaklıkta olduğu tespit edilmiştir?
+(A) 240 km
+(B) 500 km
+(C) 700 km
+(D) 1000 km
+(E) 50 km
+MODEL OUTPUT:
+BBC Verify tarafından incelenen uydu görüntülerine göre, ABD uçak gemisi USS Abraham Lincoln'ün İran kıyılarından yaklaşık 500 km uzaklıkta olduğu tespit edilmiştir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_17, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Türkiye oyunlara sekiz sporcuyla katılıyor" ifadesi yer almaktadır (6 kayak, 2 buz pateni).
+INPUT:
+
+
+Bugün 17 Şubat 2026. 2026 Milan-Cortina Kış Olimpiyatları'na Türkiye toplam kaç sporcu ile katılım sağlamaktadır?
+(A) 8
+(B) 7
+(C) 6
+(D) 11
+(E) 15
+MODEL OUTPUT:
+Türkiye, 2026 Milano-Cortina Kış Olimpiyatları'na toplam 9 sporcu ile katılacaktır. Bu sporcular, buz pateni, kayak ve para kayak branşlarında mücadele edecektir. Kısa kulvar sürat pateni (short track) branşında Furkan Akar ve Denis Örs, kayaklı koşu branşında kadınlarda İrem Dursun ve erkeklerde Abdullah Yılmaz, alp disiplini branşında kadınlarda Ada Hasırcı ve erkeklerde Thomas Kaan Önol Lang, kayakla atlama branşında ise Fatih Arda İpcioğlu ve Muhammed Ali Bedir yer alacaktır. ([aa.com.tr](https://www.aa.com.tr/tr/spor/turkiye-2026-kis-olimpiyatlarinda-9-sporcuyla-madalya-arayacak/3804773?utm_source=openai))
+
+Bu bilgiler ışığında, soruya verilen seçenekler arasında doğru cevap bulunmamaktadır.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: turkce, date: february_17, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Filistin Yönetimi'ne A Bölgesi olarak bilinen Filistin kentsel alanları (bölgenin yaklaşık yüzde 20'si) üzerinde tam kontrol verildi" denilmektedir.
+INPUT:
+
+
+Bugün 17 Şubat 2026. 1993 Oslo Anlaşmaları çerçevesinde, Filistin Yönetimi'ne tam kontrol verilen ve "A Bölgesi" olarak bilinen alanlar Batı Şeria'nın yaklaşık yüzde kaçını oluşturmaktadır?
+(A) %10
+(B) %20
+(C) %60
+(D) %80
+(E) %5
+MODEL OUTPUT:
+1993 Oslo Anlaşmaları çerçevesinde, Batı Şeria üç bölgeye ayrılmıştır:
+
+- **A Bölgesi**: Batı Şeria'nın yaklaşık %18'ini kapsar ve burada Filistin Yönetimi tam kontrol sahibidir. ([sondakika.com](https://www.sondakika.com/haber/haber-gazze-ateskesi-sonrasi-bati-seria-ya-dikkat-19245391/?utm_source=openai))
+
+- **B Bölgesi**: Batı Şeria'nın yaklaşık %22'sini oluşturur. Bu bölgede Filistin Yönetimi sivil idareden sorumlu iken, güvenlik kontrolü İsrail ile paylaşılmaktadır. ([sondakika.com](https://www.sondakika.com/haber/haber-gazze-ateskesi-sonrasi-bati-seria-ya-dikkat-19245391/?utm_source=openai))
+
+- **C Bölgesi**: Batı Şeria'nın yaklaşık %60'ını kapsar ve burada hem sivil hem de güvenlik kontrolü tamamen İsrail'e aittir. ([sondakika.com](https://www.sondakika.com/haber/haber-gazze-ateskesi-sonrasi-bati-seria-ya-dikkat-19245391/?utm_source=openai))
+
+Bu bilgilere dayanarak, A Bölgesi'nin Batı Şeria'nın yaklaşık %18'ini oluşturduğunu söyleyebiliriz.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: turkce, date: february_17, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Dr. Steenson, fazla kilolu ve obez erkek çocukların her gün 140-500 fazla kalori tükettiğini belirtmiştir.
+INPUT:
+
+
+Bugün 17 Şubat 2026. İngiliz Beslenme Vakfı'ndan Dr. Simon Steenson'ın paylaştığı verilere göre, dört yaşın üzerindeki fazla kilolu ve obez erkek çocuklar her gün ortalama ne kadar fazla kalori tüketmektedir?
+(A) 160-290 kalori
+(B) 100-300 kalori
+(C) 140-500 kalori
+(D) 500-1000 kalori
+(E) 200-400 kalori
+MODEL OUTPUT:
+Dr. Simon Steenson'ın İngiliz Beslenme Vakfı'ndaki verilerine göre, dört yaş ve üzerindeki fazla kilolu ve obez erkek çocuklar, her gün ortalama 160-290 kalori daha fazla tüketmektedir. ([yesimozturk.com](https://www.yesimozturk.com/upload/Beslenme/pdf/Obez%20Hasta%20Y%C3%B6netimi.pdf?utm_source=openai))
+
+Bu bilgilere dayanarak, doğru seçenek:
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: turkce, date: february_17, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "BBC Türkçe'nin ulaştığı taslak rapor 60 sayfa" bilgisi verilmiştir.
+INPUT:
+
+
+Bugün 17 Şubat 2026. BBC Türkçe'nin ulaştığı ve Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu tarafından hazırlanan taslak rapor toplam kaç sayfadan oluşmaktadır?
+(A) 50 sayfa
+(B) 100 sayfa
+(C) 60 sayfa
+(D) 45 sayfa
+(E) 75 sayfa
+MODEL OUTPUT:
+BBC Türkçe'nin ulaştığı ve Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu tarafından hazırlanan taslak raporun toplam sayfa sayısı hakkında doğrudan bir bilgiye ulaşamadım. Ancak, raporun detayları ve içeriği hakkında daha fazla bilgi edinmek için Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu'nun resmi web sitesini ziyaret edebilir veya doğrudan komisyonla iletişime geçebilirsiniz.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: turkce, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, Suriye Feminist Lobisi'nin (SFL) 80'den fazla kadının kaybolduğuna dair ihbar aldığını ancak bu vakaların 26'sının kaçırılma olduğunu doğruladıkları açıkça belirtilmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Suriye Feminist Lobisi (SFL) tarafından paylaşılan verilere göre, Aralık 2024'ten bu yana ailelerden ve medyadan gelen 80'den fazla kayıp ihbarından kaç tanesinin kaçırılma vakası olduğu doğrulanmıştır?
+(A) 26
+(B) 80
+(C) 42
+(D) 16
+(E) 20
+MODEL OUTPUT:
+Suriye Feminist Lobisi'nin (SFL) Aralık 2024'ten bu yana ailelerden ve medyadan gelen 80'den fazla kayıp ihbarından kaç tanesinin kaçırılma vakası olarak doğrulandığına dair spesifik bir bilgiye ulaşılamadı. Ancak, Suriye İçişleri Bakanlığı Sözcüsü Nureddin el-Baba, yıl başından 10 Eylül 2025'e kadar bildirilen 42 kaçırılma ihbarından 41'inin asılsız olduğunu açıklamıştır. ([odatv.com](https://www.odatv.com/dunya/suriyede-42-kacirilma-ihbarindan-41i-asilsiz-120121763?utm_source=openai)) Bu veriye dayanarak, SFL'nin doğruladığı kaçırılma vakalarının sayısının 20 civarında olması muhtemeldir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: turkce, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Habere göre, komisyonda yapılan oylamada rapor 47 evet, iki hayır (TİP ve EMEP) ve bir çekimser (CHP'li Türkan Elçi) oy ile kabul edilmiştir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. TBMM'de kurulan 'Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu'nun nihai raporu için yapılan oylamada sonuç ne olmuştur?
+(A) 47 evet, 1 hayır, 2 çekimser
+(B) 47 evet, 2 hayır, 1 çekimser
+(C) 45 evet, 3 hayır, 2 çekimser
+(D) 49 evet, 1 hayır, 0 çekimser
+(E) 40 evet, 5 hayır, 5 çekimser
+MODEL OUTPUT:
+Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu, 18 Şubat 2026 tarihinde gerçekleştirdiği 21. toplantısında hazırladığı raporu oylamıştır. Oylama sonucunda rapor, 47 kabul, 2 ret ve 1 çekimser oyla kabul edilmiştir. Ret oyları TİP ve EMEP'li üyelerden, çekimser oy ise CHP'li Türkan Elçi'den gelmiştir. ([nefes.com.tr](https://www.nefes.com.tr/surec-raporu-komisyonda-kabul-edildi-104747?utm_source=openai))
+
+Bu sonuç, raporun 47 evet, 2 hayır ve 1 çekimser oyla kabul edildiğini göstermektedir. Bu da seçenek (A) olan "47 evet, 1 hayır, 2 çekimser" seçeneğine en yakın sonuçtur.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: turkce, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Savcılar, sanığın kız arkadaşının yüksek irtifada yapılan bir kayak turu için uygun olmayan "yumuşak snowboard botlarını" kullanmasına izin verdiğini iddia etmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Avusturya'da Grossglockner dağında kız arkadaşını ölüme terk etmekle suçlanan Thomas P. hakkında savcıların hazırladığı hata listesinde, ekipmanla ilgili hangi spesifik detay yer almaktadır?
+(A) Yetersiz acil durum kamp ekipmanı alınması
+(B) İki saat geç yola çıkılması
+(C) Uygun olmayan yumuşak snowboard botlarının kullanılmasına izin verilmesi
+(D) Alüminyum kurtarma battaniyesi kullanılmaması
+(E) Yanlış rota planlaması yapılması
+MODEL OUTPUT:
+Thomas P.'nin kız arkadaşını ölüme terk etme suçlamasıyla ilgili olarak, savcılığın hazırladığı hata listesinde toplam dokuz ihmal bulunmaktadır. Bu hatalardan biri, tırmanışa iki saat geç başlanmasıdır. Diğer hatalar arasında yetersiz acil durum bivak ekipmanının alınması, uygun olmayan yumuşak snowboard botlarının kullanılmasına izin verilmesi ve planlama hataları da bulunmaktadır. ([trthaber.com](https://www.trthaber.com/haber/dunya/avusturyanin-en-yuksek-daginda-kiz-arkadasini-olume-terk-eden-dagci-yargilaniyor-934766.html?utm_source=openai))
+
+Bu bilgilere dayanarak, doğru seçenek (B) "İki saat geç yola çıkılması"dır.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: turkce, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Haberde Türkiye ile birlikte Mısır, Suudi Arabistan, Katar, Birleşik Arap Emirlikleri, Endonezya, Ürdün ve Pakistan'ın (toplam 8 ülke) açıklamaya katıldığı belirtilmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. İsrail'in Batı Şeria'daki 'fiili ilhak' sürecini kınayan ortak açıklamaya Türkiye ile birlikte toplam kaç ülke katılmıştır?
+(A) 5
+(B) 8
+(C) 10
+(D) 12
+(E) 15
+MODEL OUTPUT:
+İsrail Meclisi'nin Batı Şeria'nın ilhakına ilişkin kararına karşı Türkiye'nin de dahil olduğu 10 ülke, Arap Birliği ve İslam İşbirliği Teşkilatı (İİT) ortak bir açıklama yapmıştır. ([sondakika.com](https://www.sondakika.com/dunya/haber-arap-birligi-ve-turkiye-den-israil-e-ortak-tepki-18879910/?utm_source=openai)) Bu açıklamaya katılan ülkeler şunlardır:
+
+- Bahreyn
+- Mısır
+- Endonezya
+- Ürdün
+- Nijerya
+- Filistin
+- Katar
+- Suudi Arabistan
+- Türkiye
+- Birleşik Arap Emirlikleri
+
+Bu listeye göre, Türkiye ile birlikte toplam 12 ülke bu ortak açıklamaya katılmıştır.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+John Harp, Lucy'nin arkasındaki duvarda görülen tuğlanın "Alevli Alamo" (Flaming Alamo) türü olduğunu teşhis etmiştir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. İstismara uğrayan Lucy adlı kız çocuğunun kurtarılmasında kilit rol oynayan ve tuğla uzmanı John Harp tarafından teşhis edilen tuğla türünün adı nedir?
+(A) Alevli Alamo
+(B) Kızıl Alamo
+(C) Teksas Tuğlası
+(D) Yanan Taş
+(E) Çöl Tuğlası
+MODEL OUTPUT:
+Verilen seçenekler arasında, "Alevli Alamo" ve "Kızıl Alamo" tuğla türleri, "Alamo" terimiyle ilişkilidir. "Alamo" terimi, Teksas'ta bulunan ve tarihi öneme sahip bir yapıyı ifade eder. Bu nedenle, "Alevli Alamo" ve "Kızıl Alamo" seçenekleri, tuğla türleriyle ilgili olabilir.
+
+Diğer seçenekler olan "Teksas Tuğlası", "Yanan Taş" ve "Çöl Tuğlası" da tuğla türleri olarak düşünülebilir.
+
+Ancak, "Alevli Alamo" ve "Kızıl Alamo" seçenekleri, "Alamo" terimiyle ilişkilendirildiğinden, bu seçeneklerin doğru olma olasılığı daha yüksektir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------

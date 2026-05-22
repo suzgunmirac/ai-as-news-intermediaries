@@ -1,0 +1,9 @@
+category,n,pct
+Retrieval Failure with Forced Guessing,581,38.8
+Source Divergence Under Real-World Report Conflict,490,32.7
+Answer Formatting / Option Mapping Failure,137,9.2
+Inference Override / Over-Reasoning Instead of Extraction,123,8.2
+Event / Entity Misbinding,67,4.5
+Reading Comprehension / Option Interpretation Failure,49,3.3
+Temporal Misalignment / Chronology Tracking Failure,27,1.8
+Qualifier Binding Error (Unit/Currency/Year/Version),23,1.5

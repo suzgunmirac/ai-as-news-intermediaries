@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# API keys / secrets — never commit
+config.env
+*.env.local
+.secrets
+.credentials
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Local agent state
+.claude/
+CLAUDE.md
+
+# Unencrypted website source. Tracked since the paper is public and the site is served openly.
+
+notes/
+manuscript/
+original-error-analysis/
+
+# Local-only staging area for stale, working, or snapshot artifacts that
+# should not ship in the public release (manuscript LaTeX, working notes,
+# one-off reconciliation snapshots, etc.). Anything in here stays local.
+legacy/

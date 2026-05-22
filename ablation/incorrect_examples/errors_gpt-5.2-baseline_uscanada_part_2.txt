@@ -1,0 +1,467 @@
+METADATA [7]: index: 7, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Another Oscar winner, actress Zoe Saldaña-Perego, donated $2,500 monthly, according to Hollywood Reporter..."
+INPUT:
+
+
+Today is February 13, 2026. Following the death of actor James Van Der Beek, several Hollywood figures have donated to a GoFundMe for his family. According to the Hollywood Reporter, what was the specific monthly donation amount provided by actress Zoe Saldaña-Perego?
+(A) $25,000
+(B) $10,000
+(C) $2,500
+(D) $2,000
+(E) $1,600
+MODEL OUTPUT:
+I don’t have access to the Hollywood Reporter article you’re referring to, and I can’t verify the premise (including the reported death or the specific GoFundMe donation list) from my available information. Without the article text or a link, I can’t reliably determine Zoe Saldaña-Perego’s specific monthly donation amount.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "...investigators still trying to determine why 18-year-old suspect Jesse Van Rootselaar carried out the attack."
+INPUT:
+
+
+Today is February 13, 2026. A mass shooting has occurred in the small Canadian town of Tumbler Ridge. According to the police reports cited in the article, how old was the suspect, Jesse Van Rootselaar?
+(A) 17 years old
+(B) 12 years old
+(C) 21 years old
+(D) 18 years old
+(E) 16 years old
+MODEL OUTPUT:
+I don’t have access to the referenced article or its police-report details, and I can’t verify this claim from my current context. If you paste the article text (or a link and the relevant excerpt), I can extract the suspect’s age precisely.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Swift has filed more than 300 trademarks in the US and other jurisdictions, securing her name, initials, album titles and some lyrics."
+INPUT:
+
+
+Today is February 13, 2026. Taylor Swift is challenging a trademark application for "Swift Home" by Cathay Home. According to the source material, approximately how many trademarks has Swift filed in the US and other jurisdictions?
+(A) More than 100
+(B) Exactly 730
+(C) Around 50
+(D) More than 500
+(E) More than 300
+MODEL OUTPUT:
+The source material states that Taylor Swift has filed **more than 500** trademarks in the US and other jurisdictions.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Ticaria Lampert was just two months away from her 13th birthday, when she was shot and killed..." This implies she was 12 years old.
+INPUT:
+
+
+Today is February 13, 2026. Details have emerged regarding the victims of the Tumbler Ridge shootings. According to her mother's statement during a news conference, how old was Ticaria Lampert when she was killed?
+(A) 12 years old
+(B) 13 years old
+(C) 11 years old
+(D) 39 years old
+(E) 17 years old
+MODEL OUTPUT:
+Ticaria Lampert was **13 years old** when she was killed, according to her mother’s statement at the news conference.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Last year the US added an average of just 15,000 jobs a month, very few by historic standards."
+INPUT:
+
+
+Today is February 13, 2026. Despite economic growth, the US labor market has seen a slowdown in hiring. According to the source material, what was the average number of jobs added per month in the US last year?
+(A) 150,000
+(B) 42,000
+(C) 15,000
+(D) 1,200
+(E) 2,000
+MODEL OUTPUT:
+The source material states that the U.S. added **about 150,000 jobs per month on average last year**, reflecting a slowdown in hiring despite continued economic growth.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "...2.6 million lack any form of government-issued photo ID, according to the Brennan Center for Justice... and the University of Maryland's Center for Democracy and Civic Engagement."
+INPUT:
+
+
+Today is February 13, 2026. The SAVE America Act has passed the House of Representatives. According to data from the Brennan Center for Justice and the University of Maryland, how many Americans lack any form of government-issued photo ID?
+(A) 21 million
+(B) 83%
+(C) 218 million
+(D) 213,000
+(E) 2.6 million
+MODEL OUTPUT:
+The Brennan Center for Justice has long cited an estimate that **about 21 million** U.S. citizens of voting age lack **current** government-issued photo ID. Reporting and summaries that pair Brennan Center figures with University of Maryland/CES-style survey findings commonly repeat that same “~21 million” topline number when describing how many Americans lack any government-issued photo ID.
+
+<final_answer>
+(A)
+</final_answer>
+
+CITATIONS:
+- Brennan Center for Justice — *Citizens Without Proof: A Survey of Americans’ Possession of Documentary Proof of Citizenship and Photo Identification* (https://www.brennancenter.org/our-work/research-reports/citizens-without-proof)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "On Friday, Russia and Ukraine announced that a new round of peace talks also involving the US would take place in Geneva on 17-18 February..."
+INPUT:
+
+
+Today is February 13, 2026. Diplomatic efforts are underway to end the conflict in Ukraine. According to the article, on which specific dates is the new round of peace talks in Geneva scheduled to take place?
+(A) 17-18 February
+(B) 23-24 February
+(C) 13-14 February
+(D) 15-16 February
+(E) 20-21 February
+MODEL OUTPUT:
+I can’t determine the dates because the prompt refers to “the article,” but the article text (or a link/title/publisher) isn’t provided. If you paste the relevant excerpt or share the URL, I can answer precisely.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Reversing the finding will reduce automobile manufacturers' costs by around $2,400 (£1,760) per car, the White House claimed."
+INPUT:
+
+
+Today is February 13, 2026. The Trump administration claims that reversing the "endangerment finding" will have significant economic benefits for the automotive sector. By how much does the White House claim this change will reduce automobile manufacturers' costs per car?
+(A) $1,300
+(B) $1,760
+(C) $2,400
+(D) $1,000
+(E) $2,000
+MODEL OUTPUT:
+The White House claim is that reversing the EPA “endangerment finding” would reduce automakers’ costs by **$1,760 per vehicle**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "...Trump announced earlier this month that he would be seeking $1bn in damages from the university."
+INPUT:
+
+
+Today is February 13, 2026. The legal battle between the Trump administration and Harvard University continues. How much in damages did President Trump announce he would be seeking from the university earlier this month?
+(A) $2 billion
+(B) $730 million
+(C) $500 million
+(D) $100 million
+(E) $1 billion
+MODEL OUTPUT:
+President Trump said earlier this month that he would seek **$2 billion** in damages from Harvard University.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "...police responded to reports of a shooting at around 13:30 local time (21:30 GMT) on Tuesday."
+INPUT:
+
+
+Today is February 13, 2026. Police have provided a timeline for the shooting in Tumbler Ridge. At approximately what local time did police respond to reports of a shooting at Tumbler Ridge Secondary School on Tuesday?
+(A) 21:30
+(B) 13:30
+(C) 12:00
+(D) 15:00
+(E) 09:00
+MODEL OUTPUT:
+Police said they responded to reports of a shooting at Tumbler Ridge Secondary School at approximately **12:00 p.m. local time** on Tuesday.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "In 2025, the increases cost the average household $1,000 (£734.30). In 2026, tariffs will cost the same household $1,300."
+INPUT:
+
+
+Today is February 13, 2026. The Tax Foundation has analyzed the cost of tariffs on American households. According to their findings, how much are tariffs expected to cost the average household in 2026?
+(A) $1,000
+(B) $734
+(C) $1,300
+(D) $2,400
+(E) $1,100
+MODEL OUTPUT:
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Meanwhile, the wider economy continues to grow, expanding at a robust annual pace of 4.4% in the most recent figures."
+INPUT:
+
+
+Today is February 13, 2026. While the US labor market is struggling, the wider economy is still showing growth. According to the most recent figures cited in the article, at what annual pace is the US economy expanding?
+(A) 2.4%
+(B) 2.7%
+(C) 1.5%
+(D) 4.4%
+(E) 4.3%
+MODEL OUTPUT:
+The article’s most recent figures indicate the US economy is still expanding at an annual pace of **2.4%**.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: uscanada, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The legislation passed the House, mostly along party lines, in a 218-213 vote."
+INPUT:
+
+
+Today is February 13, 2026. The SAVE America Act passed the House of Representatives recently. What was the final vote count in the House for this legislation?
+(A) 218-218
+(B) 60-40
+(C) 213-218
+(D) 220-210
+(E) 218-213
+MODEL OUTPUT:
+The SAVE Act (Safeguard American Voter Eligibility Act) passed the U.S. House on July 10, 2024, by a vote of **221–198**. Since none of the provided options match **221–198**, I can’t select an answer that is correct from the list.
+
+<final_answer>
+(A)
+</final_answer>
+
+CITATIONS:
+- U.S. House of Representatives, Roll Call Vote 2024 (Final Passage of H.R. 8281, SAVE Act) (https://clerk.house.gov/Votes/2024330)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article identifies the suspect's mother as "Jennifer Jacobs, who was also known as Jennifer Strang."
+INPUT:
+
+
+Today is February 14, 2026. In the aftermath of the mass shooting in Tumbler Ridge, British Columbia, the RCMP identified the suspect's mother as one of the victims. What was her name?
+(A) Shannda Aviugana-Durand
+(B) Jennifer Jacobs
+(C) Colaina Hall
+(D) Sarah Lampert
+(E) Mary Simon
+MODEL OUTPUT:
+The RCMP identified the suspect’s mother—who was among the victims—as **Colaina Hall**.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The LA28 board statement said Wasserman and his wife flew on "a humanitarian mission to Africa on Epstein's plane at the invitation of the Clinton Foundation in 2003."
+INPUT:
+
+
+Today is February 14, 2026. Casey Wasserman is selling his talent agency following the release of documents linking him to Jeffrey Epstein. According to the LA28 board, what was the stated purpose of Wasserman's 2003 flight on Epstein's private plane?
+(A) A humanitarian mission to Africa
+(B) A business meeting regarding the Los Angeles Olympics
+(C) A private vacation to the Caribbean
+(D) A fundraising event for the Clinton Foundation in New York
+(E) A talent scouting trip for his agency
+MODEL OUTPUT:
+The LA28 board’s stated purpose for Casey Wasserman’s 2003 flight on Jeffrey Epstein’s private plane was **a business meeting regarding the Los Angeles Olympics**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that emails show Epstein lavished Ruemmler with gifts, including "$10,000 (£7,300) in Bergdorf Goodman gift cards."
+INPUT:
+
+
+Today is February 14, 2026. Kathryn Ruemmler has resigned from Goldman Sachs following disclosures about her friendship with Jeffrey Epstein. Among the gifts she received, what was the total value of the Bergdorf Goodman gift cards mentioned in the emails?
+(A) $1,300
+(B) $7,300
+(C) $5,000
+(D) $10,000
+(E) $20,000
+MODEL OUTPUT:
+Emails described multiple Bergdorf Goodman gift cards whose values add up to **$7,300** in total.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Nikhil Gupta, 54, admitted to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering. He faces up to 40 years in prison."
+INPUT:
+
+
+Today is February 14, 2026. Nikhil Gupta has pleaded guilty to charges related to a plot to kill a Sikh separatist leader in New York. What is the maximum prison sentence he faces for these crimes?
+(A) 10 years
+(B) 20 years
+(C) 25 years
+(D) 30 years
+(E) 40 years
+MODEL OUTPUT:
+Nikhil Gupta pleaded guilty in U.S. federal court to murder-for-hire and conspiracy charges tied to an alleged plot to assassinate a Sikh separatist leader in New York. Under the federal murder-for-hire statute (18 U.S.C. § 1958), the maximum penalty when no death results is **up to 10 years** imprisonment.
+
+<final_answer>
+(A)
+</final_answer>
+
+CITATIONS:
+- Cornell Law School, Legal Information Institute — 18 U.S.C. § 1958 (Use of interstate commerce facilities in the commission of murder-for-hire) (https://www.law.cornell.edu/uscode/text/18/1958)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The consumer price index rose by 2.4% over the 12 months to January... That was down from 2.7% in the prior month."
+INPUT:
+
+
+Today is February 14, 2026. US inflation cooled to 2.4% in the 12 months to January. According to the Department of Labor, what was the inflation rate reported for the prior month (December)?
+(A) 2.0%
+(B) 2.7%
+(C) 2.9%
+(D) 3.1%
+(E) 2.4%
+MODEL OUTPUT:
+The Department of Labor’s CPI report for January (released in February) compares the 12‑month inflation rate for January with the prior month’s 12‑month rate for December. If January cooled to **2.4%**, the reported 12‑month rate for **December** was **2.9%**.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Reversing the finding will reduce automobile manufacturers' costs by around $2,400 (£1,760) per car, the White House claimed."
+INPUT:
+
+
+Today is February 14, 2026. The Trump administration has reversed the 2009 "endangerment finding." According to White House claims, by how much will this action reduce the costs for automobile manufacturers per car?
+(A) $1,300
+(B) $1,760
+(C) $7,500
+(D) $2,400
+(E) $18,000
+MODEL OUTPUT:
+White House messaging around reversing the 2009 EPA “endangerment finding” has claimed it would lower regulatory/compliance burdens tied to vehicle greenhouse-gas rules. In those claims, the stated reduction in costs for automobile manufacturers is **$1,300 per car**.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Last year the US added an average of just 15,000 jobs a month, very few by historic standards."
+INPUT:
+
+
+Today is February 14, 2026. Despite a growing economy, the US labor market has seen a slowdown. According to the report, what was the average number of jobs added per month in the US last year?
+(A) 150,000
+(B) 44,000
+(C) 1,200
+(D) 2,000
+(E) 15,000
+MODEL OUTPUT:
+The report is referring to the U.S. labor market’s cooling pace in 2025, noting that employers added **about 150,000 jobs per month on average** last year.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

@@ -1,0 +1,541 @@
+METADATA [13]: index: 13, language: hindi, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख है कि दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी भारतीय हैं।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स में से कितने प्रतिशत भारतीय हैं?
+(A) दस फ़ीसदी
+(B) पंद्रह फ़ीसदी
+(C) पांच फ़ीसदी
+(D) सात फ़ीसदी
+(E) बारह फ़ीसदी
+MODEL OUTPUT:
+आपके द्वारा दिया गया विकल्पों में से सही उत्तर है:
+
+<final_answer>
+(A)
+</final_answer>
+
+तर्क-विचार इस प्रकार है:
+
+- भारत करीब 10% ग्लोबल सेफ़रर्स (मार्चेंट मरीनर्स या मर्चेंट नेवी कर्मचारी) का योगदान देता है। यह आंकड़ा 2024 तक के नवीनतम अनुमानों में पाया गया है। ([sagarsandesh.in](https://www.sagarsandesh.in/news/35066?utm_source=openai))  
+- उदाहरण के लिए, भारत लगभग 250,000 भारतीय सेफ़रर्स दुनिया भर में हैं, और यह कुल वैश्विक मर्चेंट मैरीनर्स का लगभग दस प्रतिशत है। ([sailorshub.in](https://sailorshub.in/where-do-we-stand-and-what-are-the-projections/?utm_source=openai))  
+
+इसलिए विकल्प (A) “दस फ़ीसदी” सही है।
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: hindi, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, साल 2023-24 के एकेडमिक सेशन के दौरान 30 लाख 79 हज़ार से ज़्यादा स्टूडेंट्स ने इंजीनियरिंग कॉलेजों में दाखिला लिया।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। शैक्षणिक सत्र 2023-24 के दौरान भारत में कुल कितने छात्रों ने इंजीनियरिंग कॉलेजों में दाखिला लिया था?
+(A) 20 लाख 50 हज़ार
+(B) 15 लाख 25 हज़ार
+(C) 40 लाख 10 हज़ार
+(D) 25 लाख 80 हज़ार
+(E) 30 लाख 79 हज़ार
+MODEL OUTPUT:
+आपने जो आंकड़ा पूछा है — ‘शैक्षणिक सत्र 2023-24 में भारत में इंजीनियरिंग कॉलेजों में दाखिला लेने वाले छात्रों की कुल संख्या’ — इसके सटीक आधिकारिक डेटा मुझे नहीं मिला।  
+
+हालाँकि AICTE के एक रिपोर्ट के अनुसार:
+
+- 2024-25 सत्र में BTech में कुल *12.53 लाख* सीटें भरी गईं। ([educationpost.in](https://educationpost.in/news/education/aicte-data-shows-btech-seat-enrolment-hits-eightyear-high-as-computer-science-drives-growth?page=984&utm_source=openai))  
+- Approved seats की संख्या 2024-25 में लगभग *14.90 लाख* थी। ([educationpost.in](https://educationpost.in/news/education/aicte-data-shows-btech-seat-enrolment-hits-eightyear-high-as-computer-science-drives-growth?page=984&utm_source=openai))  
+
+ये आंकड़े 2024-25 के हैं, न कि 2023-24 के।
+
+दी गई विकल्पों में से कोई भी आंकड़ा 2024-25 के डेटा से मेल नहीं खाता है, और कोई विश्वसनीय स्रोत नहीं पाया गया जो पुष्टि करे कि 2023-24 के लिए 20-40 लाख के बीच ऐसा कोई आंकड़ा आधिकारिक हो।
+
+इसलिए मेरे अनुमान के आधार पर, कोई विकल्प पूरी तरह सटीक नहीं है। लेकिन अगर आपको 2023-24 के आंकड़े चुनने हों, तो सबसे सन्निकट विकल्प (जो सबसे कम गलत हो) होगा:
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- AICTE data shows BTech enrolment in 2024-25 reached 12.53 lakh ([educationpost.in](https://educationpost.in/news/education/aicte-data-shows-btech-seat-enrolment-hits-eightyear-high-as-computer-science-drives-growth?page=984&utm_source=openai))  
+- Approved intake for BTech engineering in 2024-25: 14.90 lakh seats ([stg-www.hindustantimes.com](https://stg-www.hindustantimes.com/education/news/btech-seats-at-eight-year-high-in-2024-25-session-shows-aicte-data-southern-states-fill-major-chunk-101730196692894.html?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: hindi, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में कई जगह उल्लेख है कि कुँवर सिंह 75 साल के थे जब उन्होंने विद्रोह का बिगुल बजाया था।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। 1857 की क्रांति के दौरान कुँवर सिंह की उम्र कितनी थी, जिसे लेकर अंग्रेज़ भी आश्चर्यचकित थे?
+(A) 40 साल
+(B) 60 साल
+(C) 75 साल
+(D) 80 साल
+(E) 55 साल
+MODEL OUTPUT:
+Kunwar सिंह का जन्म १३ नवम्बर १७७७ को हुआ था ([en.wikipedia.org](https://en.wikipedia.org/wiki/Kunwar_Singh?utm_source=openai))। १८५७ की क्रांति के समय, अर्थात् जुलाई १८५७ में, उनकी आयु लगभग ८० वर्ष थी ([thebihar.com](https://www.thebihar.com/about-bihar/famous-personalities/babu-kunwar-singh/?utm_source=openai))।
+
+इसलिए सही उत्तर है:
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- Wikipedia – Kunwar Singh ([en.wikipedia.org](https://en.wikipedia.org/wiki/Kunwar_Singh?utm_source=openai))  
+- The Bihar – Babu Kunwar Singh (Know Bihar) ([thebihar.com](https://www.thebihar.com/about-bihar/famous-personalities/babu-kunwar-singh/?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: hindi, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, भारत में एक एस्ट्रोनॉट को औसतन हर महीने 90 हज़ार के आस-पास सैलरी मिलती है।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। इकोनॉमिक रिसर्च इंस्टीट्यूट के आंकड़ों के अनुसार, भारत में एक एस्ट्रोनॉट को औसतन प्रति माह कितनी सैलरी मिलती है?
+(A) 50 हज़ार रुपये
+(B) 1.5 लाख रुपये
+(C) 2 लाख रुपये
+(D) 75 हज़ार रुपये
+(E) 90 हज़ार रुपये
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+
+तर्क:
+
+- ISRO के एक एस्ट्रोनॉट की अनुमानित वार्षिक सैलरी लगभग ₹12–20 लाख प्रति वर्ष है ([indiatvnews.com](https://www.indiatvnews.com/science/how-much-does-shubhanshu-shukla-earn-isro-astronaut-s-salary-revealed-2025-07-15-998942?utm_source=openai))।
+- इसे 12 महीनों से विभाजित करने पर मासिक सैलरी लगभग ₹1,00,000–₹1,66,667 होती है, जो विकल्प (B) “1.5 लाख रुपये” के करीब है।  
+- अन्य विकल्पों से तुलना करते हुए, यह आंकड़ा (B) के अनुरूप सबसे सटीक प्रतीत होता है।
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: hindi, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+नाहिद इस्लाम ने अवामी लीग के कार्यालयों के फिर से खुलने के संबंध में प्रशासन से जवाबदेही मांगी है और चेतावनी दी है कि इसे रोकने में विफल रहने पर राजनीतिक प्रतिरोध किया जाएगा।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। बांग्लादेश में तारिक़ रहमान के प्रधानमंत्री बनने के बाद, नेशनल सिटिजन पार्टी के संयोजक नाहिद इस्लाम ने किस मुद्दे पर प्रेस कॉन्फ्रेंस कर सरकार को जवाबदेह ठहराने की चेतावनी दी है?
+(A) भारत के साथ टी-20 वर्ल्ड कप खेलने के समझौते पर
+(B) कई ज़िलों में अवामी लीग के दफ़्तरों के फिर से खुलने पर
+(C) संविधान सुधार परिषद के सदस्यों के वेतन में वृद्धि पर
+(D) मुस्तफ़िज़ुर रहमान को आईपीएल में वापस भेजने के निर्णय पर
+(E) मंत्रिमंडल में 62 प्रतिशत राजनेताओं को शामिल करने पर
+MODEL OUTPUT:
+( C )  
+
+<final_answer>
+(C)
+</final_answer>
+
+उल्लेखनीय तर्क:
+
+हाल ही में, नेशनल सिटिजन पार्टी के संयोजक नाहिद इस्लाम ने 19 जनवरी, 2026 को एक प्रेस कॉन्फ्रेंस में सवाल उठाया कि क्या प्रधानमंत्री तारिक़ रहमान की योजना निर्वाचन आयोग (EC) और प्रशासन पर दबाव बनाने की है, जनमत संग्रह (referendum) को प्रभावित करने की है, और ऋण चुकाने वालों (loan defaulters) को संसद में भेजने की रणनीति है। उन्होंने सरकार को चेतावनी दी कि यदि चुनाव और प्रक्रियाएँ निष्पक्ष नहीं हुईं, तो जनता स्वीकार नहीं करेगी। ([tbsnews.net](https://www.tbsnews.net/bangladesh/politics/nahid-questions-whether-pressure-ec-administration-part-tariques-plan-1338486?utm_source=openai))
+
+इसलिए सही विकल्प है: संविधान सुधार परिषद के सदस्यों के वेतन में वृद्धि नहीं, बल्कि EC और प्रशासन पर दबाव और जनमत संग्रह आदि के संदर्भ में सरकार को जवाबदेह ठहराने की चेतावनी दी गई।
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: hindi, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+कैब ड्राइवर अजीत के अनुसार, गाड़ी की स्पीड 80 से ऊपर रही होगी और वह बाइक को कम से कम 100 मीटर घसीटकर लेकर आया।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। दिल्ली के द्वारका में हुए साहिल धनेसरा सड़क हादसे के प्रत्यक्षदर्शी कैब ड्राइवर अजीत के अनुसार, टक्कर मारने वाली स्कॉर्पियो की गति और घसीटने की दूरी कितनी थी?
+(A) स्पीड 60 किमी/घंटा और घसीटने की दूरी 50 मीटर
+(B) स्पीड 100 किमी/घंटा और घसीटने की दूरी 200 मीटर
+(C) स्पीड 80 किमी/घंटा से ऊपर और घसीटने की दूरी लगभग 100 मीटर
+(D) स्पीड 120 किमी/घंटा और घसीटने की दूरी 150 मीटर
+(E) स्पीड 70 किमी/घंटा और घसीटने की दूरी 80 मीटर
+MODEL OUTPUT:
+मेरे खोज में ऐसा कोई विश्वसनीय स्रोत नहीं मिला है जिसमें प्रत्यक्षदर्शी अजीत ने स्कॉर्पियो की गति या घसीटने की दूरी (dragging distance) इतनी सटीक जानकारी दी हो कि वे विकल्पों में से किसी एक से पूरी तरह मेल खाता हो। समाचार रिपोर्टों में मुख्य विवरण हैं कि स्कॉर्पियो तेज़ रफ्तार (overspeeding) से जा रहा था, बाइक और टैक्सी से टकराया, लेकिन दूरी या गिनती की गई स्पीड का ज़िक्र नहीं है। ([ndtv.com](https://www.ndtv.com/india-news/sahil-dhaneshra-dwarka-scorpio-accident-cctv-shows-teen-driving-scorpio-rashly-seconds-before-killing-23-year-old-11052835?pfrom=home-ndtv_topscroll&utm_source=openai))
+
+इसलिए उपरोक्त विकल्पों में से कोई भी विश्वसनीय पुष्टि नहीं होती।
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: hindi, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+हरदीप सिंह पुरी ने अपने बचाव में कहा कि नवंबर 2014 में वह एक 'निजी नागरिक' (Private Citizen) थे।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। एपस्टीन फ़ाइलों के अनुसार, नवंबर 2014 में जब हरदीप सिंह पुरी की मुलाक़ात रीड हॉफ़मैन से हुई थी, तब पुरी की आधिकारिक स्थिति क्या थी?
+(A) संयुक्त राष्ट्र में भारत के राजदूत
+(B) भारत सरकार के केंद्रीय मंत्री
+(C) इंटरनेशनल पीस इंस्टीट्यूट के अध्यक्ष
+(D) भारतीय दूतावास के प्रथम सचिव
+(E) एक निजी नागरिक
+MODEL OUTPUT:
+नवंबर 2014 में, हरदीप सिंह पुरी की आधिकारिक स्थिति निम्नलिखित थी:
+
+वह उस समय *अंतर्राष्ट्रीय पीस इंस्टिट्यूट (International Peace Institute, IPI)* के अधिकारी थे, विशेष रूप से *Independent Commission on Multilateralism (ICM)* के सचिव-general के रूप में। ([m.economictimes.com](https://m.economictimes.com/news/politics-and-nation/met-epstein-only-as-part-of-ipi-delegation-hardeep-singh-puri-rejects-rahul-gandhis-allegations-over-links-in-epstein-files/amp_articleshow/128205206.cms?utm_source=openai))
+
+इसका तात्पर्य है कि वह “एक निजी नागरिक” नहीं थे बल्कि एक अंतरराष्ट्रीय संगठन के शीर्ष पद पर थे। इसलिए सही विकल्प होगा:
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, देश की 48 सेंट्रल यूनिवर्सिटी सीयूईटी का हिस्सा हैं।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। कॉमन यूनिवर्सिटी एंट्रेंस टेस्ट (CUET) के माध्यम से देश की कुल कितनी सेंट्रल यूनिवर्सिटीज़ के अंडरग्रेजुएट प्रोग्राम में दाख़िला होता है?
+(A) 36
+(B) 113
+(C) 48
+(D) 223
+(E) 26
+MODEL OUTPUT:
+आपके सवाल के अनुसार, CUET-UG के माध्यम से अंडरग्रेजुएट प्रोग्रामों में *49 सेंट्रल यूनिवर्सिटीज़* दाख़िला लेती हैं। ([kknlive.com](https://kknlive.com/en/education/cuet-ug-2025-admissions-final-list-of-participating-universities-released/?utm_source=openai))
+
+इसलिए सही उत्तर है:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: hindi, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी (7%) भारतीय हैं।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। मर्चेंट नेवी के आंकड़ों के अनुसार, दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स में भारतीय मरीनर्स की हिस्सेदारी कितने प्रतिशत है?
+(A) 10 फ़ीसदी
+(B) 15 फ़ीसदी
+(C) 5 फ़ीसदी
+(D) 7 फ़ीसदी
+(E) 12 फ़ीसदी
+MODEL OUTPUT:
+आपके प्रश्न के आधार पर, विश्व भर में कार्यरत मर्चेंट मरीनर्स में भारतीय मरीनर्स की हिस्सेदारी लगभग **10%** है। ([sagarsandesh.in](https://www.sagarsandesh.in/news/35066?utm_source=openai))
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: hindi, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+रिपोर्ट के अनुसार, कम से कम 10 ज़िलों में 12 स्थानों पर अवामी लीग के दफ़्तर खोले गए।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। बांग्लादेश की न्यूज़ वेबसाइट 'प्रथम आलो' की रिपोर्ट के अनुसार, सोमवार से बुधवार के बीच कितने ज़िलों में अवामी लीग के दफ़्तर खुलने की ख़बरें आई हैं?
+(A) 5 ज़िलों में 8 स्थानों पर
+(B) 10 ज़िलों में 12 स्थानों पर
+(C) 15 ज़िलों में 20 स्थानों पर
+(D) 8 ज़िलों में 10 स्थानों पर
+(E) 12 ज़िलों में 15 स्थानों पर
+MODEL OUTPUT:
+मुझे “प्रथम आलो” की वेबसाइट पर सोमवार से बुधवार के बीच बेइठी हुई किसी रिपोर्ट नहीं मिली है जो इस विषय पर हो कि किन जिलों में और कितने स्थानों पर আওয়ামী लीग कार्यालय खोले गए हों। उपलब्ध स्रोतों में ऐसी कोई जानकारी नहीं मिल रही कि सोमवार से बुधवार के बीच कितने जिलों में या कितने स्थानों पर कार्यालय खुलने की खबरें सामने आई हों। इसलिए सही विकल्प का चयन करना संभव नहीं है क्योंकि उपयुक्त डेटा उपस्थित नहीं है।
+
+यदि आप चाहें, तो मैं अधिक ठोस रिपोर्ट ढूंढ सकता हूँ या समाचार संग्रह से क्रॉस-चेक कर सकता हूँ कि इस बारे में कोई अपडेट उपलब्ध है या नहीं।
+
+<final_answer>
+अ) कोई विश्वसनीय डेटा नहीं मिला
+</final_answer>
+
+CITATIONS:
+- [No relevant report in Prothom Alo on offices reopening Monday-Wednesday]  
+- [No specific numbers found in current Prothom Alo search results]
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: hindi, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, उनके निजी द्वीप को एक हफ़्ते के लिए 10 लाख यूरो (1 million Euro) में किराए पर लिया जा सकता है।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। गाय लालिबर्टे के फ्रेंच पोलिनेशिया स्थित निजी द्वीप को एक हफ़्ते के लिए कितने किराए पर लिया जा सकता है?
+(A) 5 लाख डॉलर
+(B) 20 लाख यूरो
+(C) 10 लाख डॉलर
+(D) 15 लाख यूरो
+(E) 10 लाख यूरो
+MODEL OUTPUT:
+गाय लालिबर्टे के फ्रेंच पोलिनेशिया स्थित निजी द्वीप, नूक्यूतेपिपी (Nukutepipi), को एक हफ्ते के लिए किराए पर लेने का विज्ञापित मूल्य लगभग **US$1.1 मिलियन** है। ([insidehook.com](https://www.insidehook.com/travel/cirque-du-soleil-founder-french-polynesian-private-island-resort?utm_source=openai))
+
+नीचे विकल्पों में से जो सबसे करीब है, वह है:
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: hindi, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+ट्रंप ने कहा था कि 47 सालों से अमेरिका इस्लामिक रिपब्लिक को ख़त्म नहीं कर पाया है, जिस पर ख़ामेनेई ने कहा कि यह एक अच्छा क़बूलनामा है।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। ईरान के सर्वोच्च नेता अयातुल्लाह ख़ामेनेई ने डोनाल्ड ट्रंप के किस बयान पर प्रतिक्रिया देते हुए कहा कि "ये अच्छा क़बूलनामा है"?
+(A) कि ईरान में सत्ता परिवर्तन सबसे अच्छी चीज़ होगी
+(B) कि 47 सालों से अमेरिका इस्लामिक रिपब्लिक को ख़त्म नहीं कर पाया है
+(C) कि अमेरिका ईरान पर शनिवार तक हमला कर सकता है
+(D) कि ईरान का परमाणु कार्यक्रम एक वैश्विक खतरा है
+(E) कि अमेरिका ने ईरान की ओर एक नया युद्धपोत भेजा है
+MODEL OUTPUT:
+<final_answer> (A) कि ईरान में सत्ता परिवर्तन सबसे अच्छी चीज़ होगी </final_answer>
+
+तर्क एवं स्रोत:
+
+- डोनाल्ड ट्रम्प ने 13 फ़रवरी 2026 को कहा कि ईरान में **“change in power”** (सत्ता परिवर्तन) “the best thing that could happen” होगा। ([fortune.com](https://fortune.com/2026/02/13/trump-regime-change-iran-islamic-clerics-ouster-ayatollah-khamenei-netanyahu-aircraft-carrier-ford/?utm_source=openai))  
+- इस पर अयातुल्लाह ख़ामेनेई की प्रतिक्रिया में उन्होंने कहा कि ट्रम्प ने स्वीकार किया है कि अमेरिका अपनी शुरुआत के बाद से 47 वर्षों से इस्लामिक रिपब्लिक को समाप्त नहीं कर पाया; “यह एक अच्छा क़बूलनामा है,” ख़ामेनेई ने कहा कि आगे भी “आप ये काम नहीं कर पाएंगे।” ([yahoo.com](https://www.yahoo.com/news/articles/iran-khamenei-maintains-tough-rhetoric-164910601.html?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: hindi, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, डॉ. देवी प्रसाद शेट्टी का मानना है कि भारत को करीब 20 लाख और नर्सों की ज़रूरत होगी।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। डॉ. देवी प्रसाद शेट्टी के अनुसार, यदि भारत को अमेरिका और यूरोप के मानकों (प्रति डॉक्टर 4-5 नर्स) तक पहुँचना है, तो उसे लगभग कितनी और नर्सों की आवश्यकता होगी?
+(A) 10 लाख
+(B) 39 लाख
+(C) 20 लाख
+(D) 50 लाख
+(E) 5 लाख
+MODEL OUTPUT:
+यहाँ उपलब्ध समाचारों एवं रिपोर्टों में **डॉ. देवी प्रसाद शेट्टी** द्वारा यह संख्या नहीं मिली कि भारत को “अमेरिका और यूरोप के मानकों (प्रति डॉक्टर 4-5 नर्स)” तक पहुँचने के लिए *39 लाख* नर्सों की ज़रूरत होगी। इसलिए मेरी जानकारी के अनुसार:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: hindi, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, भारत में एक एस्ट्रोनॉट को औसतन हर महीने 90 हज़ार के आस-पास सैलरी मिलती है।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। इकोनॉमिक रिसर्च इंस्टीट्यूट के विश्लेषण के अनुसार, भारत में एक एस्ट्रोनॉट को औसतन प्रति माह कितनी सैलरी मिलती है?
+(A) 1.5 लाख रुपये
+(B) 50 हज़ार रुपये
+(C) 2 लाख रुपये
+(D) 90 हज़ार रुपये
+(E) 1.2 लाख रुपये
+MODEL OUTPUT:
+मैंने भारत में अंतरिक्ष यात्रियों (astronauts) की सैलरी के बारे में उपलब्ध विश्वसनीय सूत्रों की खोज की, लेकिन ऐसा कोई भरोसेमंद आंकड़ा नहीं मिला जो **“Economic Research Institute”** द्वारा समर्थित हो।
+
+कुछ प्रमुख निष्कर्ष इस प्रकार हैं:
+
+- रिपोर्ट्स के अनुसार, ISRO के अंतरिक्ष यात्री typically ₹12 लाख से ₹20 लाख प्रति वर्ष कमाते हैं। ([indiatvnews.com](https://www.indiatvnews.com/science/how-much-does-shubhanshu-shukla-earn-isro-astronaut-s-salary-revealed-2025-07-15-998942?utm_source=openai))  
+- अन्य समाचार स्रोतों में उल्लेख है कि इस राशि की सीमा कभी-कभी ₹30 लाख या ₹46 लाख प्रति वर्ष तक भी पहुँच सकती है विशेष भूमिका और अनुभव पर निर्भर करते हुए। ([abplive.com](https://www.abplive.com/news/india/how-much-isro-pay-shubhanshu-shukla-for-axiom-mission-4-nasa-indian-airforce-pilot-salary-space-gaganyaan-missio-2980956?utm_source=openai))  
+- यदि ₹12 लाख प्रति वर्ष को महीनों में विभाजित किया जाए, तो यह लगभग ₹1,00,000 प्रति माह होती है; ₹20 लाख प्रति वर्ष लगभग ₹1,66,667 प्रति माह होती है।  
+
+दी गई विकल्पों (A)-(E) में से, जो सबसे करीब है और संभव लगता है, वह है **₹1.5 लाख रुपये प्रति माह** क्योंकि यह अनुमानित वार्षिक सैलरी रेंज के मध्य-ऊपरी हिस्से के करीब बैठता है।
+
+इसलिए मेरे अनुसार सही उत्तर है:
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: hindi, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, गौरव गोविंद ने हिमाचल प्रदेश में कांगड़ा के नेशनल इंस्टीट्यूट ऑफ़ फैशन टेक्नोलॉजी (NIFT) से पढ़ाई की थी।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। लेख में उल्लिखित गौरव गोविंद, जो वर्तमान में वाराणसी के निफ्ट (NIFT) कैंपस में पढ़ा रहे हैं, ने अपनी फैशन डिजाइनिंग की पढ़ाई कहाँ से पूरी की थी?
+(A) निफ्ट दिल्ली
+(B) निफ्ट मुंबई
+(C) निफ्ट वाराणसी
+(D) निफ्ट बेंगलुरु
+(E) निफ्ट कांगड़ा
+MODEL OUTPUT:
+मुझे उपलब्ध स्रोतों में “गौरव गोविंद” नामक व्यक्ति का फैशन डिजाइनिंग अध्ययन किस NIFT कैंपस से किया, इस बारे में विश्वसनीय जानकारी नहीं मिली।  
+
+इसलिए मेरे तर्क के आधार पर, सही उत्तर निर्धारित करना संभव नहीं है।
+
+<final_answer>
+(A)  
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: hindi, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, डॉक्टर देवी प्रसाद शेट्टी का कहना है कि अगर भारत को अमेरिका और यूरोप के मानकों तक पहुँचना है, तो उसे करीब 20 लाख और नर्सों की ज़रूरत होगी।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। कार्डियक सर्जन डॉक्टर देवी प्रसाद शेट्टी के अनुसार, यदि भारत को अमेरिका और यूरोप के मानकों (प्रति डॉक्टर 4-5 नर्स) तक पहुँचना है, तो उसे वर्तमान संख्या के अतिरिक्त कितनी और नर्सों की आवश्यकता होगी?
+(A) 39 लाख
+(B) 140 करोड़
+(C) 20 लाख
+(D) 3.82 लाख
+(E) 1.20 लाख
+MODEL OUTPUT:
+मेरे खोज में कोई भरोसेमंद स्रोत नहीं मिला जो बताता हो कि डॉ. देवी प्रसाद शेट्टी ने यह कहा हो कि भारत को अमेरिका और यूरोप के मानकों (प्रति डॉक्टर 4-5 नर्स) तक पहुँचने के लिए *इतनी-इतनी* अतिरिक्त नर्सों की ज़रूरत है। आपके द्वारा दिए गए विकल्पों में से कोई भी संख्या मुझे किसी विश्वसनीय स्रोत में नहीं मिली।
+
+इसलिए मैं इस प्रश्न का उत्तर नहीं दे सकता क्योंकि उपलब्ध सूचनाएँ चुनिंदा विकल्पों से मेल नहीं खाती।
+
+<final_answer>
+प्रश्न_में_उल्लेखित_कोई_विकल्प_सत्यापित_नहीं
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: hindi, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, हर वो कंपनी जिसका पेड अप-शेयर कैपिटल 10 करोड़ रुपये या उससे ज़्यादा है, उसके लिए कंपनी सेक्रेटरी को अपॉइंट करना अनिवार्य है।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। भारत में कंपनी सेक्रेटरी एक्ट के तहत, कितनी 'पेड अप-शेयर कैपिटल' वाली कंपनियों के लिए कंपनी सेक्रेटरी (CS) नियुक्त करना अनिवार्य है?
+(A) 10 करोड़ रुपये या उससे ज़्यादा
+(B) 5 करोड़ रुपये या उससे ज़्यादा
+(C) 20 करोड़ रुपये या उससे ज़्यादा
+(D) 1 करोड़ रुपये या उससे ज़्यादा
+(E) 50 करोड़ रुपये या उससे ज़्यादा
+MODEL OUTPUT:
+कंपनी सचिव (CS) नियुक्त करना निम्नलिखित कंपनियों के लिए अनिवार्य है:  
+- सूचीबद्ध कंपनी (Listed company), और  
+- अन्य कंपनियाँ: जहाँ “पेड-अप शेयर्स कैपिटल” ₹10 करोड़ या उससे अधिक हो। ([taxguru.in](https://taxguru.in/company-law/legal-requirement-appointment-company-secretary.html?utm_source=openai))
+
+इसलिए सही उत्तर है:
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: hindi, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, देश की 48 सेंट्रल यूनिवर्सिटी, 36 स्टेट यूनिवर्सिटी, 26 डीम्ड यूनिवर्सिटी और 113 प्राइवेट यूनिवर्सिटी सीयूईटी का हिस्सा हैं।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। कॉमन यूनिवर्सिटी एंट्रेंस टेस्ट (CUET) के माध्यम से देश की कितनी सेंट्रल यूनिवर्सिटी के अंडरग्रेजुएट प्रोग्राम में दाखिला लिया जा सकता है?
+(A) 223 सेंट्रल यूनिवर्सिटी
+(B) 48 सेंट्रल यूनिवर्सिटी
+(C) 36 सेंट्रल यूनिवर्सिटी
+(D) 113 सेंट्रल यूनिवर्सिटी
+(E) 26 सेंट्रल यूनिवर्सिटी
+MODEL OUTPUT:
+हाल ही की आधिकारिक जानकारियों के अनुसार, CUET-UG के माध्यम से लगभग **49 सेंट्रल यूनिवर्सिटी** में अंडरग्रेजुएट प्रोग्राम में दाखिला लिया जा सकता है। ([cuetupdates.com](https://cuetupdates.com/list-of-participating-central-universities-in-cuet/?utm_source=openai))
+
+इसलिए सही उत्तर होगा:
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में जानकारी दी गई है कि दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी (7%) भारतीय हैं।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। वैश्विक स्तर पर कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) 12 फ़ीसदी
+(B) 15 फ़ीसदी
+(C) 7 फ़ीसदी
+(D) 10 फ़ीसदी
+(E) 5 फ़ीसदी
+MODEL OUTPUT:
+आपके प्रश्न के नवीनतम आंकड़ों के अनुसार, विश्व स्तर पर काम कर रहे (global) मर्चेंट मरीनर्स में भारतीयों का लगभग **10%** हिस्सा है। ([marineinsight.com](https://www.marineinsight.com/know-more/top-10-seafarer-supplying-nations-in-the-world/?utm_source=openai))
+
+इसलिए, सही विकल्प है:
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: hindi, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, ट्रंप ने दावा किया कि मई 2025 में भारत और पाकिस्तान के बीच संघर्ष के दौरान 11 विमान गिराए गए थे और उन्होंने 200% टैरिफ की धमकी देकर इसे रुकवाया।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। राष्ट्रपति ट्रंप ने दावा किया कि उन्होंने मई 2025 में भारत और पाकिस्तान के बीच युद्ध रुकवाया था। उनके दावे के अनुसार, इस संघर्ष के दौरान कितने विमान गिराए गए थे?
+(A) 11 विमान
+(B) 25 विमान
+(C) 5 विमान
+(D) 18 विमान
+(E) 9 विमान
+MODEL OUTPUT:
+ट्रंप ने शुरुआत में दावा किया था कि मई 2025 के भारत-पाकिस्तान संघर्ष के दौरान लगभग **5 विमान** गिराए गए थे। ([aljazeera.com](https://www.aljazeera.com/news/2025/7/19/trump-believes-five-fighter-jets-were-shot-down-in-india-pakistan-conflict?utm_source=openai))
+
+हालाँकि बाद में उन्होंने यह संख्या बढ़ाकर **8 विमान** कर दी। ([indiatoday.in](https://www.indiatoday.in/amp/world/story/donald-trump-india-pakistan-conflict-number-of-fighter-jets-shot-down-2814414-2025-11-06?utm_source=openai))
+
+तो, आपके दिए गए विकल्पों में से सही उत्तर होगा:
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------

@@ -1,0 +1,492 @@
+METADATA [5]: index: 5, language: hindi, date: february_17, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+राजीव शुक्ला ने कहा कि हाल ही में हुए महिला प्रीमियर लीग (WPL) के मैचों के दौरान दर्शक मैदान पर नहीं पहुंचे और स्टेडियम खाली थे।
+INPUT:
+
+
+आज 17 फरवरी, 2026 है। बीसीसीआई उपाध्यक्ष राजीव शुक्ला ने महिला क्रिकेट के समर्थन की कमी को लेकर विशेष रूप से किस टूर्नामेंट का उदाहरण दिया?
+(A) महिला प्रीमियर लीग (WPL)
+(B) महिला विश्व कप 2025
+(C) एशिया कप
+(D) अंडर-19 ज़ोनल टूर्नामेंट
+(E) रणजी ट्रॉफी
+MODEL OUTPUT:
+आज 17 फरवरी, 2026 है। बीसीसीआई (BCCI) के उपाध्यक्ष राजीव शुक्ला ने हाल ही में महिला क्रिकेट की प्रगति और अतीत में इसके प्रति समर्थन की कमी पर चर्चा की। उन्होंने विशेष रूप से **अंडर-19 ज़ोनल टूर्नामेंट (Under-19 Zonal Tournament)** का उदाहरण देते हुए बताया कि पहले इस स्तर के टूर्नामेंटों के लिए भी प्रायोजकों (sponsors) और दर्शकों का समर्थन जुटाना बहुत कठिन होता था।
+
+राजीव शुक्ला ने उल्लेख किया कि एक समय था जब महिला क्रिकेट को वह महत्व नहीं दिया जाता था जो आज मिल रहा है। उन्होंने कहा कि पहले अंडर-19 ज़ोनल टूर्नामेंट जैसे आयोजनों के लिए भी समर्थन की भारी कमी थी, लेकिन अब बीसीसीआई के प्रयासों, महिला प्रीमियर लीग (WPL) की सफलता और 2025 के महिला विश्व कप में भारतीय टीम के शानदार प्रदर्शन (जहाँ भारत ने अपना पहला वैश्विक खिताब जीता) के बाद स्थिति पूरी तरह बदल गई है।
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [NDTV Sports - Rajeev Shukla Praises Increase In Women's World Cup Prize Money](https://sports.ndtv.com/cricket/rajeev-shukla-praises-increase-in-womens-world-cup-prize-money-by-icc-6918245)
+- [ANI News - Popularity of women's cricket rising: Rajeev Shukla](https://www.aninews.in/news/sports/cricket/popularity-of-womens-cricket-rising-parents-more-open-to-supporting-their-daughters-in-pursuing-sport-rajeev-shukla20251102114530/)
+- [News24 - BCCI VP Rajeev Shukla on pay raise for women domestic cricketers](https://news24online.com/sports/will-inspire-more-girls-to-take-up-cricket-bcci-vp-rajeev-shukla-on-pay-raise-for-women-domestic-cricketers/384729/)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: hindi, date: february_17, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, डॉक्टर देवी प्रसाद शेट्टी का मानना है कि भारत को करीब 20 लाख और नर्सों की ज़रूरत होगी।
+INPUT:
+
+
+आज 17 फरवरी, 2026 है। डॉक्टर देवी प्रसाद शेट्टी के अनुसार, यदि भारत को अमेरिका और यूरोप के मानकों (प्रति डॉक्टर 4-5 नर्स) तक पहुँचना है, तो उसे लगभग कितनी और नर्सों की आवश्यकता होगी?
+(A) 39 लाख
+(B) 10 लाख
+(C) 50 लाख
+(D) 20 लाख
+(E) 15 लाख
+MODEL OUTPUT:
+डॉक्टर देवी प्रसाद शेट्टी, जो नारायण हेल्थ (Narayana Health) के संस्थापक और प्रसिद्ध हृदय रोग विशेषज्ञ हैं, ने भारत में स्वास्थ्य सेवा क्षेत्र में नर्सों की भारी कमी पर बार-बार चिंता व्यक्त की है। उनके अनुसार, भारत में वर्तमान में प्रति डॉक्टर नर्सों का अनुपात बहुत कम है।
+
+विभिन्न साक्षात्कारों और पॉडकास्ट (जैसे जून 2024 में स्मिता प्रकाश के साथ एएनआई पॉडकास्ट) में, डॉ. शेट्टी ने उल्लेख किया है कि:
+1. **अमेरिका और यूरोप के मानक:** इन विकसित देशों में प्रति डॉक्टर लगभग **4 से 5 नर्सें** होती हैं।
+2. **भारत की स्थिति:** भारत में यह अनुपात केवल **1.7 नर्स प्रति डॉक्टर** है।
+3. **कमी का अनुमान:** डॉ. शेट्टी के अनुसार, यदि भारत को इन वैश्विक मानकों (विशेष रूप से अमेरिका और यूरोप के स्तर) तक पहुँचना है, तो उसे लगभग **39 लाख (3.9 मिलियन)** और नर्सों की आवश्यकता होगी।
+
+उन्होंने यह भी स्पष्ट किया है कि भारत में वर्तमान में लगभग 20 लाख नर्सों की सामान्य कमी है, लेकिन विकसित देशों के उच्च मानकों (4-5 नर्स प्रति डॉक्टर) को प्राप्त करने के लिए यह आवश्यकता और भी अधिक (लगभग 39 लाख) हो जाती है। उन्होंने सरकार से नर्सिंग सीटों को दोगुना करने और नियमों को सरल बनाने का आग्रह किया है ताकि इस कमी को दूर किया जा सके।
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [ANI Podcast with Smita Prakash - Dr. Devi Shetty on Nurse Shortage] (https://www.youtube.com/watch?v=Zrnq1cMspjw)
+- [Medical Buyer - India faces severe shortage of nurses] (https://www.medicalbuyer.co.in/despite-5000-nursing-colleges-india-faces-severe-shortage-of-nurses/)
+- [Express Healthcare - We are desperately short of two million nurses: Dr Devi Shetty] (https://www.expresshealthcare.in/news/we-are-desperately-short-of-a-million-doctors-and-two-million-nurses-dr-devi-shetty/424145/)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: hindi, date: february_19, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख है कि दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी भारतीय हैं।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स में से कितने प्रतिशत भारतीय हैं?
+(A) दस फ़ीसदी
+(B) पंद्रह फ़ीसदी
+(C) पांच फ़ीसदी
+(D) सात फ़ीसदी
+(E) बारह फ़ीसदी
+MODEL OUTPUT:
+आज 19 फरवरी, 2026 है। नवीनतम उपलब्ध आंकड़ों और आधिकारिक रिपोर्टों (जैसे कि जहाजरानी महानिदेशालय - DG Shipping और DD News की अक्टूबर 2025 की रिपोर्ट) के अनुसार, दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (मर्चेंट नेवी के नाविकों) में भारतीय नाविकों की हिस्सेदारी लगभग **12 प्रतिशत** है।
+
+भारत वर्तमान में चीन और फिलीपींस के बाद दुनिया का तीसरा सबसे बड़ा नाविक आपूर्ति करने वाला देश है। 'मैरीटाइम इंडिया विजन 2030' (Maritime India Vision 2030) के तहत भारत सरकार का लक्ष्य इस हिस्सेदारी को वर्तमान के 12% से बढ़ाकर 20% तक ले जाना है। पिछले एक दशक में भारतीय नाविकों की संख्या में उल्लेखनीय वृद्धि हुई है, जो 2014 में लगभग 1.17 लाख से बढ़कर 2025 के अंत तक 3 लाख से अधिक हो गई है।
+
+दिए गए विकल्पों के आधार पर सही उत्तर (E) है।
+
+<final_answer>
+(E)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Directorate General of Shipping, India - Sagar Mein Samman Initiative Report (October 30, 2025)] (https://www.dgshipping.gov.in/)
+- [DD News - India's maritime sector transformation under Vision 2030 (October 26, 2025)] (https://ddnews.gov.in/)
+- [Maritime Fairtrade - India: The Emerging Talent Hub for Global Shipping Industry (January 28, 2026)] (https://maritimefairtrade.org/)
+- [Marine Insight - India Ranks Among Top 3 Global Suppliers Of Seafarers (October 6, 2025)] (https://www.marineinsight.com/)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: hindi, date: february_19, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में कई जगह उल्लेख है कि कुँवर सिंह 75 साल के थे जब उन्होंने विद्रोह का बिगुल बजाया था।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। 1857 की क्रांति के दौरान कुँवर सिंह की उम्र कितनी थी, जिसे लेकर अंग्रेज़ भी आश्चर्यचकित थे?
+(A) 40 साल
+(B) 60 साल
+(C) 75 साल
+(D) 80 साल
+(E) 55 साल
+MODEL OUTPUT:
+1857 की भारतीय क्रांति के दौरान बाबू कुँवर सिंह की भूमिका अत्यंत महत्वपूर्ण और प्रेरणादायक थी। कुँवर सिंह बिहार के जगदीशपुर के एक परमार राजपूत ज़मींदार थे।
+
+इतिहासकारों और आधिकारिक अभिलेखों के अनुसार, जब 1857 का विद्रोह शुरू हुआ, तब कुँवर सिंह की आयु लगभग **80 वर्ष** थी। इतनी अधिक उम्र में भी उन्होंने जिस वीरता, सैन्य कौशल और फुर्ती का प्रदर्शन किया, उसने ब्रिटिश सेनापतियों को भी आश्चर्यचकित कर दिया था। उन्होंने दानापुर के विद्रोहियों का नेतृत्व किया और आरा पर कब्ज़ा कर लिया। उनकी छापामार युद्ध नीति और अदम्य साहस के कारण उन्हें 'बिहार का सिंह' भी कहा जाता है।
+
+ब्रिटिश अधिकारी उनकी उम्र और उनके द्वारा दी गई कड़ी चुनौती को देखकर दंग रह गए थे, क्योंकि 80 वर्ष की आयु में भी वे घोड़े पर सवार होकर युद्ध के मैदान में सक्रिय थे।
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- भारत का राष्ट्रीय पोर्टल (National Portal of India) ([https://www.india.gov.in/](https://www.india.gov.in/))
+- बिहार सरकार - भोजपुर जिला आधिकारिक वेबसाइट ([https://bhojpur.nic.in/history/](https://bhojpur.nic.in/history/))
+- NCERT - आधुनिक भारत का इतिहास (History of Modern India) ([https://ncert.nic.in/](https://ncert.nic.in/))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: hindi, date: february_19, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, इस परियोजना पर 12 हज़ार करोड़ रुपये ख़र्च होने का अनुमान है।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। सिलीगुड़ी कॉरिडोर (चिकन नेक) में प्रस्तावित भूमिगत रेलवे परियोजना पर अनुमानित लागत कितनी है?
+(A) 5 हज़ार करोड़ रुपये
+(B) 20 हज़ार करोड़ रुपये
+(C) 15 हज़ार करोड़ रुपये
+(D) 8 हज़ार करोड़ रुपये
+(E) 12 हज़ार करोड़ रुपये
+MODEL OUTPUT:
+सिलीगुड़ी कॉरिडोर (चिकन नेक) में प्रस्तावित भूमिगत रेलवे परियोजना की अनुमानित लागत **15 हज़ार करोड़ रुपये** है।
+
+यह परियोजना रणनीतिक रूप से अत्यंत महत्वपूर्ण है, क्योंकि सिलीगुड़ी कॉरिडोर भारत के मुख्य भू-भाग को पूर्वोत्तर राज्यों से जोड़ने वाला एक संकीर्ण गलियारा है। फरवरी 2026 में केंद्रीय बजट और रेल मंत्री अश्विनी वैष्णव की घोषणाओं के अनुसार, इस 35.76 किलोमीटर लंबी भूमिगत रेल लाइन का उद्देश्य पूर्वोत्तर भारत के लिए सुरक्षित, निर्बाध और लचीला संपर्क सुनिश्चित करना है। यह लाइन पश्चिम बंगाल के तिनमाइल हाट (Tinmile Hat) से रंगापानी (Rangapani) और बागडोगरा (Bagdogra) के बीच प्रस्तावित है।
+
+भूमिगत निर्माण की उच्च लागत (लगभग 350-600 करोड़ रुपये प्रति किलोमीटर) और इस क्षेत्र की संवेदनशीलता को देखते हुए, इस परियोजना के लिए लगभग 15,000 करोड़ रुपये का निवेश अनुमानित किया गया है। यह परियोजना भारत की "एक्ट ईस्ट पॉलिसी" और क्षेत्रीय सुरक्षा ढांचे को मजबूत करने की दिशा में एक बड़ा कदम मानी जा रही है।
+
+<final_answer>
+(C)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [The Economic Times - Centre planning underground rail tracks along 40-km corridor connecting Northeast](https://economictimes.indiatimes.com/industry/transportation/railways/centre-planning-underground-rail-tracks-along-40-km-corridor-connecting-northeast-rest-of-india-ashwini-vaishnaw/articleshow/117845621.cms)
+- [The Times of India - Indian Railways announces underground rail route through Siliguri Corridor](https://timesofindia.indiatimes.com/business/india-business/connectivity-boost-for-chicken-neck-indian-railways-announces-underground-rail-route-through-siliguri-corridor-check-route-and-key-details/articleshow/118165432.cms)
+- [Whalesbook - India Fortifies 'Chicken's Neck' with Underground Rail Project](https://whalesbook.com/india-fortifies-chickens-neck-with-underground-rail-project/)
+- [The Telegraph - Underground railway line plan, 33.76km-long project in 'Chicken's Neck' area](https://www.telegraphindia.com/west-bengal/underground-railway-line-plan-33-76km-long-project-in-chickens-neck-area/cid/2083456)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: hindi, date: february_20, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी (7%) भारतीय हैं।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। मर्चेंट नेवी के आंकड़ों के अनुसार, दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स में भारतीय मरीनर्स की हिस्सेदारी कितने प्रतिशत है?
+(A) 10 फ़ीसदी
+(B) 15 फ़ीसदी
+(C) 5 फ़ीसदी
+(D) 7 फ़ीसदी
+(E) 12 फ़ीसदी
+MODEL OUTPUT:
+मर्चेंट नेवी और भारत के पत्तन, पोत परिवहन और जलमार्ग मंत्रालय (Ministry of Ports, Shipping and Waterways) के नवीनतम आंकड़ों के अनुसार, वैश्विक मर्चेंट नेवी कार्यबल में भारतीय मरीनर्स (नाविकों) की हिस्सेदारी वर्तमान में लगभग **12 प्रतिशत** है।
+
+विभिन्न आधिकारिक रिपोर्टों और उद्योग विश्लेषणों (जैसे कि क्लार्कसन और डीजी शिपिंग) के अनुसार, पिछले दशक में भारतीय नाविकों की संख्या में भारी वृद्धि हुई है। 2014 में यह हिस्सेदारी लगभग 6.9% थी, जो 2023-2024 तक बढ़कर 12% हो गई है। भारत सरकार का लक्ष्य 'मैरीटाइम इंडिया विजन 2030' के तहत इस हिस्सेदारी को बढ़ाकर 20% तक ले जाना है। वर्तमान में, भारत दुनिया भर में नाविकों की आपूर्ति करने वाला तीसरा सबसे बड़ा देश है (चीन और फिलीपींस के बाद)।
+
+अतः, दिए गए विकल्पों में से सही उत्तर (E) है।
+
+<final_answer>
+(E)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Economic Times - Maritime sector drives India's economic surge](https://economictimes.indiatimes.com/news/economy/indicators/maritime-sector-drives-indias-economic-surge-as-95-of-trade-moves-through-sea-routes/articleshow/114614545.cms)
+- [Directorate General of Shipping, India - Women in Maritime Statistics](https://www.dgshipping.gov.in/)
+- [Clarksons Research - India's Growing Maritime Role](https://www.clarksons.com/)
+- [Press Information Bureau (PIB) - Ministry of Ports, Shipping and Waterways Updates](https://pib.gov.in/)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: hindi, date: february_20, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, डॉ. देवी प्रसाद शेट्टी का मानना है कि भारत को करीब 20 लाख और नर्सों की ज़रूरत होगी।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। डॉ. देवी प्रसाद शेट्टी के अनुसार, यदि भारत को अमेरिका और यूरोप के मानकों (प्रति डॉक्टर 4-5 नर्स) तक पहुँचना है, तो उसे लगभग कितनी और नर्सों की आवश्यकता होगी?
+(A) 10 लाख
+(B) 39 लाख
+(C) 20 लाख
+(D) 50 लाख
+(E) 5 लाख
+MODEL OUTPUT:
+डॉ. देवी प्रसाद शेट्टी (नारायणा हेल्थ के अध्यक्ष) ने विभिन्न साक्षात्कारों और सार्वजनिक मंचों पर भारत में स्वास्थ्य सेवा क्षेत्र की कमियों पर विस्तार से चर्चा की है। उनके अनुसार, विकसित देशों जैसे अमेरिका और यूरोप में प्रति डॉक्टर लगभग 4 से 5 नर्सें होती हैं, जबकि भारत में यह अनुपात बहुत कम है।
+
+डॉ. शेट्टी के विश्लेषण के अनुसार, यदि भारत को अमेरिका और यूरोप के इन मानकों (4-5 नर्स प्रति डॉक्टर) तक पहुँचना है, तो देश को लगभग **39 लाख (3.9 मिलियन)** और नर्सों की आवश्यकता होगी। उन्होंने इस बात पर जोर दिया है कि भारत में डॉक्टरों की तुलना में नर्सों की कमी कहीं अधिक गंभीर है और स्वास्थ्य सेवा प्रणाली को सुदृढ़ करने के लिए नर्सिंग शिक्षा और प्रशिक्षण में बड़े बदलावों की आवश्यकता है।
+
+<final_answer>
+(B)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- द इकोनॉमिक टाइम्स (The Economic Times): "India needs 39 lakh more nurses to reach US, Europe standards: Devi Shetty" ([https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/india-needs-39-lakh-more-nurses-to-reach-us-europe-standards-devi-shetty/articleshow/100184547.cms](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/india-needs-39-lakh-more-nurses-to-reach-us-europe-standards-devi-shetty/articleshow/100184547.cms))
+- बिज़नेस टुडे (Business Today): "India needs 39 lakh more nurses to meet global standards, says Dr Devi Shetty" ([https://www.businesstoday.in/industry/healthcare/story/india-needs-39-lakh-more-nurses-to-meet-global-standards-says-dr-devi-shetty-381124-2023-05-12](https://www.businesstoday.in/industry/healthcare/story/india-needs-39-lakh-more-nurses-to-meet-global-standards-says-dr-devi-shetty-381124-2023-05-12))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: hindi, date: february_20, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, भारत में एक एस्ट्रोनॉट को औसतन हर महीने 90 हज़ार के आस-पास सैलरी मिलती है।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। इकोनॉमिक रिसर्च इंस्टीट्यूट के विश्लेषण के अनुसार, भारत में एक एस्ट्रोनॉट को औसतन प्रति माह कितनी सैलरी मिलती है?
+(A) 1.5 लाख रुपये
+(B) 50 हज़ार रुपये
+(C) 2 लाख रुपये
+(D) 90 हज़ार रुपये
+(E) 1.2 लाख रुपये
+MODEL OUTPUT:
+इकोनॉमिक रिसर्च इंस्टीट्यूट (Economic Research Institute - ERI) और उसके प्लेटफॉर्म 'सैलरी एक्सपर्ट' (SalaryExpert) के विश्लेषण के अनुसार, भारत में एक एस्ट्रोनॉट (Astronaut) का औसत वार्षिक वेतन लगभग ₹14,40,000 से ₹14,60,000 के बीच आंका गया है (विशेषकर अनुभवी या एस्ट्रोनॉटिकल इंजीनियर की भूमिकाओं के लिए)। जब इस वार्षिक राशि को मासिक आधार पर विभाजित किया जाता है, तो यह लगभग ₹1.2 लाख प्रति माह बैठता है।
+
+ERI के आंकड़ों के अनुसार, भारत में इस क्षेत्र में वेतन अनुभव और विशेषज्ञता के आधार पर भिन्न हो सकता है, जहाँ एक वरिष्ठ स्तर के पेशेवर का वेतन ₹14.4 लाख सालाना (यानी ₹1.2 लाख मासिक) तक पहुँच जाता है। अन्य स्रोतों और सामान्य विश्लेषणों में भी इसी आंकड़े को औसत के रूप में उद्धृत किया गया है।
+
+<final_answer>
+(E)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- ERI Economic Research Institute (https://www.erieri.com/)
+- SalaryExpert - Astronaut Salary India (https://www.salaryexpert.com/salary/job/astronaut/india)
+- TimesPro - Average Salary of an Astronaut in India (https://timespro.com/blog/average-salary-of-an-astronaut-and-qualifications)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: hindi, date: february_21, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, डॉक्टर देवी प्रसाद शेट्टी का कहना है कि अगर भारत को अमेरिका और यूरोप के मानकों तक पहुँचना है, तो उसे करीब 20 लाख और नर्सों की ज़रूरत होगी।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। कार्डियक सर्जन डॉक्टर देवी प्रसाद शेट्टी के अनुसार, यदि भारत को अमेरिका और यूरोप के मानकों (प्रति डॉक्टर 4-5 नर्स) तक पहुँचना है, तो उसे वर्तमान संख्या के अतिरिक्त कितनी और नर्सों की आवश्यकता होगी?
+(A) 39 लाख
+(B) 140 करोड़
+(C) 20 लाख
+(D) 3.82 लाख
+(E) 1.20 लाख
+MODEL OUTPUT:
+कार्डियक सर्जन और नारायण हेल्थ के संस्थापक डॉ. देवी प्रसाद शेट्टी के अनुसार, भारत में स्वास्थ्य सेवा क्षेत्र में नर्सों की भारी कमी है। उन्होंने विभिन्न साक्षात्कारों और सम्मेलनों (जैसे कि जून 2024 में एएनआई पॉडकास्ट और अन्य स्वास्थ्य सम्मेलनों) में उल्लेख किया है कि अमेरिका और यूरोप जैसे विकसित देशों में प्रति डॉक्टर लगभग **4 से 5 नर्सें** होती हैं, जबकि भारत में यह अनुपात बहुत कम (लगभग 1.7 नर्स प्रति डॉक्टर) है।
+
+डॉ. शेट्टी के अनुसार, यदि भारत को इन अंतरराष्ट्रीय मानकों (प्रति डॉक्टर 4-5 नर्स) को प्राप्त करना है, तो उसे वर्तमान संख्या के अतिरिक्त लगभग **39 लाख (3.9 मिलियन)** और नर्सों की आवश्यकता होगी। उन्होंने अक्सर यह भी कहा है कि भारत में वर्तमान में लगभग 20 लाख (2 मिलियन) नर्सों की तत्काल कमी है, लेकिन विकसित देशों के मानकों तक पहुँचने के लिए यह आवश्यकता और भी अधिक है।
+
+विकल्पों के आधार पर:
+- (A) 39 लाख: यह विकसित देशों के मानकों (4-5 नर्स प्रति डॉक्टर) तक पहुँचने के लिए आवश्यक अतिरिक्त संख्या को दर्शाता है।
+- (C) 20 लाख: यह डॉ. शेट्टी द्वारा अक्सर बताई गई भारत की वर्तमान सामान्य कमी है।
+
+प्रश्न विशेष रूप से "अमेरिका और यूरोप के मानकों (प्रति डॉक्टर 4-5 नर्स) तक पहुँचने" के लिए आवश्यक अतिरिक्त संख्या के बारे में पूछता है, जिसका सही उत्तर 39 लाख है।
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- ANI Podcast with Smita Prakash (June 23, 2024) ([https://youtu.be/Zrnq1cMspjw])
+- Medical Buyer - "Despite 5,000 nursing colleges, India faces severe shortage of nurses" ([https://www.medicalbuyer.co.in/despite-5000-nursing-colleges-india-faces-severe-shortage-of-nurses/])
+- Express Healthcare - "We are desperately short of a million doctors and two million nurses: Dr Devi Shetty" ([https://www.expresshealthcare.in/news/we-are-desperately-short-of-a-million-doctors-and-two-million-nurses-dr-devi-shetty/423945/])
+- Sankalp Edu - "'By 2030, India will need 2 m doctors, 6 m nurses' – Devi Shetty" ([https://sankalpedu.in/by-2030-india-will-need-2-m-doctors-6-m-nurses-the-hindu/])
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_21, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में जानकारी दी गई है कि दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी (7%) भारतीय हैं।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। वैश्विक स्तर पर कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) 12 फ़ीसदी
+(B) 15 फ़ीसदी
+(C) 7 फ़ीसदी
+(D) 10 फ़ीसदी
+(E) 5 फ़ीसदी
+MODEL OUTPUT:
+आज 21 फरवरी, 2026 है। नवीनतम आधिकारिक आंकड़ों और भारत सरकार के पत्तन, पोत परिवहन और जलमार्ग मंत्रालय (Ministry of Ports, Shipping and Waterways) के बयानों के अनुसार, वैश्विक मर्चेंट मरीनर्स (Merchant Mariners) या नाविकों (Seafarers) की कुल संख्या में भारत की हिस्सेदारी लगभग **12 प्रतिशत** है।
+
+अक्टूबर 2025 में जारी प्रेस सूचना ब्यूरो (PIB) की रिपोर्टों और महानिदेशक नौवहन (Directorate General of Shipping) के आंकड़ों के अनुसार, पिछले एक दशक में भारतीय नाविकों की संख्या 1.25 लाख से बढ़कर 3 लाख से अधिक हो गई है। यह वृद्धि भारत को दुनिया के शीर्ष तीन नाविक आपूर्ति करने वाले देशों (चीन और फिलीपींस के साथ) में खड़ा करती है। 'मैरीटाइम इंडिया विजन 2030' (Maritime India Vision 2030) के तहत भारत का लक्ष्य इस हिस्सेदारी को बढ़ाकर 20 प्रतिशत तक ले जाना है।
+
+विभिन्न स्रोतों के अनुसार:
+- **PIB (अक्टूबर 2025):** भारत की नाविक कार्यबल अब वैश्विक कार्यबल का **12%** है।
+- **महानिदेशक नौवहन (DG Shipping):** भारत के पास लगभग 3.08 लाख नाविक हैं, जो वैश्विक पूल का लगभग **12%** है।
+- **Clarksons Research (2025):** भारत को नाविकों के पांचवें सबसे बड़े स्रोत के रूप में सूचीबद्ध किया गया है, जिसकी हिस्सेदारी लगभग **12%** है।
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [PIB - Maritime India Vision 2030 to Amrit Kaal 2047 (Oct 2025)] (https://pib.gov.in/PressReleasePage.aspx?PRID=2068234)
+- [Directorate General of Shipping - Sagar Mein Samman Initiative (Oct 2025)] (https://dgshipping.gov.in/)
+- [Marine Insight - India Ranks Among Top 3 Global Suppliers of Seafarers (Oct 2025)] (https://www.marineinsight.com/shipping-news/india-ranks-among-top-3-global-suppliers-of-seafarers-with-over-3-lakh-workforce/)
+- [Clarksons Research - India's Growing Maritime Role (Feb 2025)] (https://www.clarksons.com/)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: hindi, date: february_22, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में बताया गया है कि जब 35 साल बाद दोनों भाई दिल्ली में मिले, तो बड़े भाई यूनुस ने याक़ूब को उनके पुराने उपनाम 'नट्टा' कहकर पुकारा था, क्योंकि याक़ूब अपने दोनों भाइयों से छोटे (कद में) थे।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। भारत और पाकिस्तान की तरफ़ से लड़ने वाले दो भाइयों, साहिबज़ादा यूनुस ख़ाँ और साहिबज़ादा याक़ूब ख़ाँ की 35 साल बाद दिल्ली में मुलाक़ात के दौरान, यूनुस ने अपने छोटे भाई को किस पुराने उपनाम (nickname) से पुकारा था?
+(A) जैकब
+(B) नट्टा
+(C) छोटे
+(D) साहब
+(E) मेजर
+MODEL OUTPUT:
+साहिबज़ादा यूनुस ख़ाँ और साहिबज़ादा याक़ूब ख़ाँ दो भाई थे, जो विभाजन के बाद क्रमशः भारत और पाकिस्तान की सेनाओं में शामिल हुए थे। 1948 के कश्मीर युद्ध के दौरान, वे एक-दूसरे के आमने-सामने आ गए थे, जहाँ मेजर यूनुस ख़ाँ ने अनजाने में अपने छोटे भाई याक़ूब ख़ाँ को घायल कर दिया था। जब उन्हें एहसास हुआ कि उन्होंने अपने ही भाई पर गोली चलाई है, तो उन्होंने चिल्लाकर कहा था, "डरो मत छोटे (Chotey), हम सिपाही हैं और हमने अपना फ़र्ज़ निभाया है।"
+
+हालाँकि, 35 साल बाद (1982 में) जब साहिबज़ादा याक़ूब ख़ाँ पाकिस्तान के विदेश मंत्री के रूप में दिल्ली आए, तो उनके बड़े भाई यूनुस ख़ाँ उनसे मिलने पहुँचे। इस मुलाक़ात के दौरान यूनुस ने अपने छोटे भाई को उनके पुराने और प्रसिद्ध उपनाम **'जैकब' (Jacob)** से पुकारा था। साहिबज़ादा याक़ूब ख़ाँ को ब्रिटिश भारतीय सेना के दिनों से ही उनके साथी और परिवार के लोग प्यार से 'जैकब' कहते थे।
+
+अतः सही विकल्प (A) है।
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- News Arena India ([https://newsarenaindia.com/news/two-brothers-two-uniforms-one-history/](https://newsarenaindia.com/news/two-brothers-two-uniforms-one-history/))
+- India Times ([https://www.indiatimes.com/trending/human-interest/yunus-khan-yakub-khan-brothers-who-served-in-indian-and-pakistani-armies-547215.html](https://www.indiatimes.com/trending/human-interest/yunus-khan-yakub-khan-brothers-who-served-in-indian-and-pakistani-armies-547215.html))
+- Prothom Alo ([https://en.prothomalo.com/opinion/Story-of-two-Khans](https://en.prothomalo.com/opinion/Story-of-two-Khans))
+- Wikipedia - Sahabzada Yaqub Khan ([https://en.wikipedia.org/wiki/Sahabzada_Yaqub_Khan](https://en.wikipedia.org/wiki/Sahabzada_Yaqub_Khan))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: hindi, date: february_22, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में डॉक्टर देवी प्रसाद शेट्टी के हवाले से बताया गया है कि अगर भारत को अमेरिका और यूरोप के मानक तक पहुँचना है तो उसे 'क़रीब 20 लाख और नर्सों' की ज़रूरत होगी।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। कार्डियक सर्जन डॉक्टर देवी प्रसाद शेट्टी के अनुसार, यदि भारत को अमेरिका और यूरोप के मानकों (एक डॉक्टर पर चार-पांच नर्स) तक पहुँचना है, तो उसे लगभग कितनी और नर्सों की ज़रूरत होगी?
+(A) 10 लाख
+(B) 39 लाख
+(C) 15 लाख
+(D) 20 लाख
+(E) 50 लाख
+MODEL OUTPUT:
+कार्डियक सर्जन डॉ. देवी प्रसाद शेट्टी के अनुसार, भारत में स्वास्थ्य सेवा के मानकों को अमेरिका और यूरोप के स्तर (जहाँ एक डॉक्टर पर चार से पाँच नर्सें होती हैं) तक ले जाने के लिए देश को लगभग **39 लाख** और नर्सों की आवश्यकता है।
+
+डॉ. शेट्टी ने विभिन्न साक्षात्कारों और लेखों में इस बात पर ज़ोर दिया है कि भारत में नर्सों की भारी कमी है। उनके अनुसार, विकसित देशों में नर्सों को कानूनी रूप से सशक्त बनाया जाता है और वे एनेस्थीसिया देने या कुछ दवाएं लिखने जैसे कार्य भी करती हैं, जबकि भारत में नर्सों के लिए करियर की प्रगति (career progression) सीमित है। उन्होंने अक्सर यह उल्लेख किया है कि भारत में वर्तमान में नर्सों की संख्या विश्व स्वास्थ्य संगठन (WHO) के मानकों और विकसित देशों के अनुपात से बहुत कम है, और इस अंतर को पाटने के लिए लगभग 3.9 मिलियन (39 लाख) अतिरिक्त नर्सों की ज़रूरत है।
+
+<final_answer>
+(B)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- "By 2030, India will need 2 m doctors, 6 m nurses" - The Hindu (Sankalp Group of Institutions) ([https://sankalpedu.in/by-2030-india-will-need-2-m-doctors-6-m-nurses-the-hindu/](https://sankalpedu.in/by-2030-india-will-need-2-m-doctors-6-m-nurses-the-hindu/))
+- "Leading cardiac surgeon Dr Devi Shetty explains why a 1st world regulatory structure won't work in India" - The Financial Express ([https://www.financialexpress.com/archive/leading-cardiac-surgeon-dr-devi-shetty-explains-why-a-1st-world-regulatory-structure-wont-work-in-india/1690141/](https://www.financialexpress.com/archive/leading-cardiac-surgeon-dr-devi-shetty-explains-why-a-1st-world-regulatory-structure-wont-work-in-india/1690141/))
+- "Shortage of nurses is the next health crisis" - CMEPEDIA ([https://cmepedia.com/shortage-of-nurses-is-the-next-health-crisis/](https://cmepedia.com/shortage-of-nurses-is-the-next-health-crisis/))
+- "We are desperately short of a million doctors and two million nurses: Dr Devi Shetty" - Express Healthcare ([https://www.expresshealthcare.in/news/we-are-desperately-short-of-a-million-doctors-and-two-million-nurses-dr-devi-shetty/424145/](https://www.expresshealthcare.in/news/we-are-desperately-short-of-a-million-doctors-and-two-million-nurses-dr-devi-shetty/424145/))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_22, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "इन 223 विश्वविद्यालयों के अलावा..." यानी कुल 223 विश्वविद्यालय (48 सेंट्रल + 36 स्टेट + 26 डीम्ड + 113 प्राइवेट) इसका हिस्सा हैं।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। सीयूईटी (CUET) के माध्यम से देश के कुल कितने विश्वविद्यालयों (सेंट्रल, स्टेट, डीम्ड और प्राइवेट मिलाकर) में दाख़िला होता है?
+(A) 113
+(B) 150
+(C) 223
+(D) 48
+(E) 300
+MODEL OUTPUT:
+आज 22 फ़रवरी, 2026 है। सीयूईटी (CUET) 2026 की वर्तमान स्थिति और उपलब्ध आंकड़ों के अनुसार, इस परीक्षा के माध्यम से देश के कुल **300** से अधिक विश्वविद्यालयों (जिनमें केंद्रीय, राज्य, डीम्ड और निजी विश्वविद्यालय शामिल हैं) में दाख़िला होता है।
+
+सीयूईटी (Common University Entrance Test) की शुरुआत 2022 में हुई थी, और तब से इसमें भाग लेने वाले विश्वविद्यालयों की संख्या में लगातार वृद्धि हुई है। 2023 में यह संख्या लगभग 242 थी, और 2024 में यह बढ़कर 260 से अधिक हो गई थी। 2026 के शैक्षणिक सत्र के लिए विभिन्न शैक्षणिक पोर्टलों और आधिकारिक सूचनाओं के अनुसार, यह संख्या 300 की सीमा को पार कर गई है।
+
+विकल्पों के आधार पर विश्लेषण:
+- **(D) 48** केवल केंद्रीय विश्वविद्यालयों (Central Universities) की अनुमानित संख्या को दर्शाता है।
+- **(C) 223** का आंकड़ा कुछ स्रोतों में 2025 के सत्र के लिए या किसी विशिष्ट श्रेणी के लिए उल्लेखित है।
+- **(E) 300** वर्तमान में (2026 में) कुल विश्वविद्यालयों (सभी श्रेणियों को मिलाकर) की सबसे सटीक और अद्यतन संख्या है।
+
+उद्धरण (CITATIONS):
+- [Hitbullseye - CUET 2026 University List] (https://www.hitbullseye.com/CUET/CUET-University-List.php)
+- [CUET.com - Participating Universities 2026] (https://www.cuet.com/universities/)
+- [Toprankers - CUET Universities List 2026] (https://www.toprankers.com/cuet-universities-list)
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: hindi, date: february_22, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "भारत में साल 2023-24 के बीच कुछ 8 हज़ार 264 संस्थान ऐसे थे जो डिप्लोमा, अंडरग्रैजुएट और पोस्ट ग्रैजुएट लेवल पर इंजीनियरिंग कोर्सेज़ चला रहे हैं।"
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। एआईसीटीई (AICTE) के आंकड़ों के अनुसार, भारत में साल 2023-24 के बीच कुल कितने संस्थान डिप्लोमा, अंडरग्रैजुएट और पोस्ट ग्रैजुएट लेवल पर इंजीनियरिंग कोर्सेज़ चला रहे थे?
+(A) 3,079
+(B) 211
+(C) 10,000
+(D) 5,500
+(E) 8,264
+MODEL OUTPUT:
+जब हम अखिल भारतीय तकनीकी शिक्षा परिषद (AICTE) के शैक्षणिक वर्ष 2023-24 के आंकड़ों को देखते हैं, तो भारत में तकनीकी शिक्षा की स्थिति का एक स्पष्ट चित्र सामने आता है।
+
+AICTE के आधिकारिक डैशबोर्ड के अनुसार, वर्ष 2023-24 के लिए सांख्यिकी इस प्रकार है:
+
+1.  **कुल संस्थान (Total Institutions):** AICTE द्वारा अनुमोदित कुल संस्थानों की संख्या **8,264** थी। इसमें इंजीनियरिंग, मैनेजमेंट, एमसीए (MCA), फार्मेसी, आर्किटेक्चर, होटल मैनेजमेंट आदि सभी क्षेत्र शामिल हैं।
+2.  **इंजीनियरिंग और टेक्नोलॉजी संस्थान (Engineering & Technology Institutions):** विशेष रूप से इंजीनियरिंग और टेक्नोलॉजी पाठ्यक्रमों (डिप्लोमा, अंडरग्रैजुएट और पोस्ट ग्रैजुएट) को संचालित करने वाले संस्थानों की कुल संख्या **3,079** थी।
+
+प्रश्न में विशेष रूप से "इंजीनियरिंग कोर्सेज़" (Engineering courses) चलाने वाले संस्थानों के बारे में पूछा गया है। AICTE के वर्गीकरण के अनुसार, 'इंजीनियरिंग और टेक्नोलॉजी' श्रेणी के अंतर्गत आने वाले संस्थानों की संख्या 3,079 है। विकल्प (E) में दिया गया 8,264 का आंकड़ा सभी तकनीकी क्षेत्रों (मैनेजमेंट, फार्मेसी आदि सहित) के कुल संस्थानों को दर्शाता है।
+
+अतः, इंजीनियरिंग पाठ्यक्रमों के लिए सही संख्या 3,079 है।
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- AICTE Dashboard Statistics 2023-24 ([https://facilities.aicte-india.org/dashboard/pages/dashboard.php](https://facilities.aicte-india.org/dashboard/pages/dashboard.php))
+- AICTE Annual Report 2023-24 ([https://www.aicte-india.org/reports/annual-reports](https://www.aicte-india.org/reports/annual-reports))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: hindi, date: february_22, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख है कि "साहिबज़ादा याक़ूब ख़ाँ को फ़्रेंच, जर्मन, इटालियन, रूसी, फ़ारसी और अरबी सहित 10 भाषाओं पर महारत हासिल थी।"
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। साहिबज़ादा याक़ूब ख़ाँ को उनकी भाषाई दक्षता के लिए जाना जाता था। लेख के अनुसार उन्हें कुल कितनी भाषाओं पर महारत हासिल थी?
+(A) 5 भाषाएं
+(B) 10 भाषाएं
+(C) 7 भाषाएं
+(D) 12 भाषाएं
+(E) 3 भाषाएं
+MODEL OUTPUT:
+साहिबज़ादा याक़ूब ख़ाँ (1920–2016) एक प्रतिष्ठित पाकिस्तानी राजनयिक, सैन्य रणनीतिकार और राजनीतिज्ञ थे। उन्हें उनकी असाधारण भाषाई क्षमताओं के लिए अंतरराष्ट्रीय स्तर पर जाना जाता था। विभिन्न आधिकारिक लेखों और उनके जीवनवृत्त (biographies) के अनुसार, वे **7 भाषाओं** में पारंगत थे।
+
+इन भाषाओं में आमतौर पर अंग्रेजी, रूसी, फ्रांसीसी, जर्मन, इतालवी, उर्दू और बंगाली शामिल थीं। उनकी इस भाषाई दक्षता ने उन्हें एक सफल राजनयिक के रूप में वैश्विक मंच पर अपनी पहचान बनाने में मदद की।
+
+<final_answer>
+(C)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- The Express Tribune ([https://tribune.com.pk/story/1034585/sahabzada-yaqub-khan-the-man-who-spoke-seven-languages](https://tribune.com.pk/story/1034585/sahabzada-yaqub-khan-the-man-who-spoke-seven-languages))
+- Dawn News ([https://www.dawn.com/news/1235544](https://www.dawn.com/news/1235544))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------

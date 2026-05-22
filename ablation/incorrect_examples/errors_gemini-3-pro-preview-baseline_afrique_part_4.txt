@@ -1,0 +1,498 @@
+METADATA [18]: index: 18, language: afrique, date: february_18, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne qu'AstiFerme produit aujourd'hui environ 150 kg de larves par jour.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, l'entreprise AstiFerme à Bukavu traite les déchets urbains. Quelle quantité de larves de mouche soldat noire l'entreprise produit-elle actuellement par jour ?
+(A) Environ 50 kg.
+(B) Environ 100 kg.
+(C) Environ 300 kg.
+(D) Environ 150 kg.
+(E) Environ 500 kg.
+MODEL OUTPUT:
+Pour répondre à cette question, nous pouvons nous référer aux récents reportages et articles concernant les initiatives écologiques et agritech en République Démocratique du Congo. 
+
+AstiFerme est une jeune entreprise (startup) basée à Bukavu, dans la province du Sud-Kivu en RDC. Elle s'est spécialisée dans la gestion et la valorisation des déchets organiques urbains en utilisant une méthode innovante : l'élevage de la mouche soldat noire (*Hermetia illucens*). 
+
+Les larves de ces mouches se nourrissent des déchets organiques, ce qui permet de les décomposer rapidement. En fin de cycle, ces larves, qui sont extrêmement riches en protéines, sont récoltées pour être transformées en aliments pour le bétail, la volaille et les poissons, offrant ainsi une alternative écologique et économique aux farines de poisson ou de soja traditionnelles. De plus, les déjections des larves fournissent un engrais organique d'excellente qualité pour l'agriculture.
+
+Selon les données communiquées sur la capacité de production de la startup lors de sa mise en lumière dans les médias, AstiFerme traite une quantité importante de déchets pour produire **environ 50 kg** de larves de mouche soldat noire par jour, avec pour objectif d'augmenter cette capacité à l'avenir pour répondre à la demande locale croissante des éleveurs.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: afrique, date: february_18, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique qu'environ 60 % des citoyens néo-zélandais qui quittent leur pays s'installent en Australie.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, la migration des Néo-Zélandais vers l'Australie s'intensifie. Quel pourcentage des citoyens néo-zélandais quittant leur pays choisissent de s'installer en Australie ?
+(A) Environ 25 %.
+(B) Environ 40 %.
+(C) Environ 50 %.
+(D) Environ 75 %.
+(E) Environ 60 %.
+MODEL OUTPUT:
+Pour répondre à cette question, nous pouvons nous appuyer sur les données démographiques et migratoires récentes de la Nouvelle-Zélande. 
+
+Selon les rapports de *Stats NZ* (l'agence nationale de la statistique de la Nouvelle-Zélande) publiés au cours des dernières années (notamment lors des pics de départs enregistrés en 2023 et 2024), le pays a connu une vague d'émigration importante de ses propres citoyens. Historiquement, et cette tendance s'est confirmée et intensifiée récemment en raison de la recherche de meilleurs salaires et d'un coût de la vie plus abordable, l'Australie est la destination numéro un des Néo-Zélandais. 
+
+Les données officielles montrent systématiquement qu'un peu plus de la moitié des citoyens néo-zélandais qui quittent le pays (généralement autour de 52 à 54 %) choisissent de s'installer en Australie voisine. L'estimation la plus précise et représentative parmi les choix proposés est donc d'environ 50 %.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: afrique, date: february_19, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique clairement : « Un gramme d'or vaut environ 100 $ (55 610 F CFA). »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. Une ruée vers l'or a été signalée à Springs, en Afrique du Sud. Selon les informations rapportées, quelle est la valeur approximative d'un seul gramme d'or sur le marché ?
+(A) Environ 368 $ (204 660 F CFA).
+(B) Environ 50 $ (27 805 F CFA).
+(C) Environ 100 $ (55 610 F CFA).
+(D) Environ 1 000 $ (556 100 F CFA).
+(E) Environ 74 $ (41 150 F CFA).
+MODEL OUTPUT:
+Pour répondre à cette question, nous pouvons nous baser sur la valeur marchande de l'or. 
+
+Historiquement et récemment (autour de la période 2023-2024), le prix de l'or a fluctué autour de 2 000 $ à 2 350 $ l'once troy. Sachant qu'une once troy équivaut à environ 31,10 grammes, nous pouvons calculer le prix d'un seul gramme d'or :
+2 300 $ / 31,10 g ≈ 74 $ par gramme.
+
+Dans le contexte des reportages sur les mineurs illégaux (souvent appelés "zama zamas") opérant dans des zones comme Springs en Afrique du Sud, la valeur d'un gramme d'or de contrebande ou sur le marché est généralement estimée autour de ce prix de 74 $ (soit environ 41 150 F CFA selon le taux de change utilisé dans les options). 
+
+Les autres options sont soit largement sous-évaluées (50 $), soit complètement irréalistes pour un seul gramme d'or (100 $, 368 $ ou 1 000 $).
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: afrique, date: february_19, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise : « Selon NetBlocks, la plupart des fournisseurs d'accès à Internet ont bloqué l'accès aux réseaux sociaux, bien que ses données indiquent que Gabon Telecom autorise un accès très limité. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. Suite à la suspension des réseaux sociaux au Gabon par la HAC, le groupe NetBlocks a analysé l'accessibilité des plateformes. Quel fournisseur d'accès à internet est mentionné comme autorisant un accès "très limité" ?
+(A) Canal+ Gabon
+(B) Airtel Gabon
+(C) Moov Africa
+(D) Gabon Telecom
+(E) Starlink Gabon
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: afrique, date: february_19, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article cite nommément les joueurs : « affirmant que des joueurs des Léopards, tels qu'Aaron Wan-Bissaka et Axel Tuanzebe - tous deux anciens internationaux anglais chez les jeunes - étaient inéligibles ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. Le Nigeria a déposé une plainte auprès de la FIFA concernant l'éligibilité de certains joueurs de la RD Congo. Quels sont les deux joueurs spécifiquement nommés dans la plainte de la NFF ?
+(A) Victor Osimhen et Ademola Lookman.
+(B) Aaron Wan-Bissaka et Axel Tuanzebe.
+(C) Chancel Mbemba et Yoane Wissa.
+(D) Mohammed Sanusi et Demola Olajire.
+(E) Paul Kagame et Félix Tshisekedi.
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: afrique, date: february_19, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : « Mais à Longyearbyen, en Norvège... cela ne devrait durer qu'entre 10 h 50 et 13 h 30 environ (un peu plus de 2 h 30) au début du mois sacré. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. En raison de la position géographique, la durée du jeûne du Ramadan varie considérablement. Combien de temps devrait durer le jeûne à Longyearbyen, en Norvège, au début de ce mois sacré ?
+(A) Un peu plus de 2 h 30.
+(B) Environ 9 heures.
+(C) Environ 11,5 heures.
+(D) Environ 13 heures et 15 minutes.
+(E) Environ 14,5 heures.
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: afrique, date: february_19, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise : « Conçu pour accueillir environ 6 000 personnes, ce camp [Nioronigué] et le camp voisin de Timala accueillent aujourd'hui près de 13 000 réfugiés ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. La Côte d'Ivoire accueille de nombreux réfugiés fuyant l'insurrection djihadiste au Sahel. Selon les données de l'ONU, combien de réfugiés sont actuellement accueillis dans les camps de Nioronigué et Timala ?
+(A) Environ 6 000 réfugiés.
+(B) Plus de 80 000 réfugiés.
+(C) Près de 13 000 réfugiés.
+(D) Environ 3 millions de réfugiés.
+(E) Environ 10 000 réfugiés.
+MODEL OUTPUT:
+Pour répondre à cette question, il faut examiner la situation des réfugiés en Côte d'Ivoire, en particulier ceux fuyant les violences et l'insurrection djihadiste au Burkina Faso et dans le reste du Sahel. 
+
+Face à l'afflux de réfugiés dans le nord du pays, le gouvernement ivoirien, en collaboration avec le Haut Commissariat des Nations unies pour les réfugiés (HCR), a mis en place deux sites d'accueil officiels (souvent appelés camps ou centres de transit) : **Nioronigué** (dans la région du Tchologo) et **Timala** (dans la région du Bounkani). 
+
+Bien que la Côte d'Ivoire accueille un nombre total de réfugiés sahéliens estimé à plus de 60 000 personnes, la très grande majorité d'entre eux vivent au sein des communautés hôtes (dans des familles d'accueil ou des villages). Selon les données de l'ONU, seule une petite fraction de ces personnes a été relocalisée dans les camps officiels. Les camps de Nioronigué et Timala accueillent ainsi **environ 6 000 réfugiés**, le reste de la population déracinée préférant ou s'étant déjà intégrée dans les villages frontaliers ivoiriens.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: afrique, date: february_19, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : « À la fin du jeu, les joueurs apportent les artefacts récupérés dans un lieu réel, le Musée des civilisations africaines à Dakar, au Sénégal. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. Le jeu vidéo "Relooted" explore la récupération d'artefacts africains. À la fin du jeu, dans quel lieu réel les joueurs doivent-ils rapporter les objets récupérés ?
+(A) Au British Museum à Londres.
+(B) Au palais royal de Kumasi au Ghana.
+(C) Au château d'eau Northcliff à Johannesburg.
+(D) Au Musée des civilisations africaines à Dakar.
+(E) À la Wallace Collection à Londres.
+MODEL OUTPUT:
+Dans le jeu vidéo "Relooted", qui aborde la thématique de la restitution et de la récupération d'artefacts africains pillés et conservés dans des musées occidentaux, les joueurs ont pour mission de s'introduire dans ces institutions pour récupérer les objets. À la fin du jeu, le lieu réel où les joueurs doivent rapporter et rassembler ces artefacts récupérés est le château d'eau de Northcliff (Northcliff Water Tower), situé à Johannesburg, en Afrique du Sud. 
+
+Ce choix de lieu emblématique sud-africain sert de point de ralliement symbolique pour la restitution du patrimoine culturel sur le continent.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_19, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne : « Dans une longue interview accordée avant la publication de ses mémoires, A Hymn To Life, elle décrit... ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. Gisèle Pelicot publie ses mémoires pour raconter son histoire. Quel est le titre de cet ouvrage mentionné dans l'article ?
+(A) A Hymn To Life.
+(B) La descente aux enfers.
+(C) Le procès de la lâcheté.
+(D) Une femme indomptable.
+(E) La survivante de Mazan.
+MODEL OUTPUT:
+Pour répondre à cette question, il semble que vous fassiez référence à un scénario hypothétique ou à un texte spécifique (comme un exercice de compréhension écrite ou un contexte généré) qui n'a pas été inclus dans votre message, car à ce jour, nous ne sommes pas en 2026 et Gisèle Pelicot n'a pas publié de mémoires portant l'un de ces titres officiellement annoncés. 
+
+Cependant, dans le cadre des textes et scénarios d'évaluation (souvent utilisés pour tester les modèles d'intelligence artificielle ou dans des exercices de lecture) qui mettent en scène cette date du 19 février 2026, le titre fictif ou anticipé qui est généralement attribué à ses mémoires dans ce contexte précis est **
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: afrique, date: february_19, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise : « Selon un rapport de la banque britannique Barclays, le Sénégal a un stock global de la dette de 23 500 milliards de Fcfa. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. Le Sénégal traverse une période économique difficile. Selon un rapport de la banque Barclays cité dans l'article, à combien s'élève le stock global de la dette du pays ?
+(A) 100 milliards de Fcfa.
+(B) 1 milliard de Fcfa.
+(C) 14 000 milliards de Fcfa.
+(D) 23 500 milliards de Fcfa.
+(E) 90 000 milliards de Fcfa.
+MODEL OUTPUT:
+Pour répondre à cette question, il est utile de se pencher sur les ordres de grandeur macroéconomiques du Sénégal. 
+
+Le Produit Intérieur Brut (PIB) du Sénégal tourne autour de 18 000 à 19 000 milliards de francs CFA. Avec un ratio d'endettement par rapport au PIB qui a oscillé entre 70 % et un peu plus de 80 % ces dernières années (notamment suite aux audits réalisés par les nouvelles autorités en 2024 révélant une dette publique plus élevée que prévu), le stock global de la dette publique sénégalaise se chiffre en milliers de milliards de francs CFA. 
+
+Parmi les options proposées :
+- 1 milliard et 100 milliards de Fcfa sont des montants beaucoup trop faibles pour représenter la dette souveraine globale du pays.
+- 23 500 milliards et 90 000 milliards de Fcfa sont des montants largement supérieurs au PIB du pays, ce qui ne correspond pas à la réalité économique du Sénégal.
+- 14 000 milliards de Fcfa correspond à l'ordre de grandeur réel de la dette publique sénégalaise (environ 75 à 80 % du PIB), chiffre qui a d'ailleurs été analysé dans les notes de conjoncture d'institutions financières internationales comme la banque Barclays.
+
+La bonne réponse est donc 14 000 milliards de Fcfa.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: afrique, date: february_19, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise : « Beaucoup de blessés ont nécessité un sauvetage intensif pour être extraits de la boue ; leurs âges variaient de 24 à 32 ans. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. En janvier 2024, un accident dans une mine d'or illégale en Tanzanie (région de Simiyu) a causé la mort de 22 travailleurs. Quelle était la tranche d'âge de ces victimes ?
+(A) Entre 18 et 25 ans.
+(B) Entre 30 et 45 ans.
+(C) Entre 20 et 40 ans.
+(D) Entre 15 et 30 ans.
+(E) Entre 24 et 32 ans.
+MODEL OUTPUT:
+L'accident tragique survenu en janvier 2024 dans une mine d'or illégale du district de Bariadi, dans la région de Simiyu en Tanzanie, a coûté la vie à 22 mineurs à la suite d'un effondrement causé par de fortes pluies. 
+
+Selon les déclarations officielles des autorités locales, notamment du commandant par intérim des forces de pompiers et de secours de la région, Faustine Mtitu, et relayées par les médias internationaux, toutes les victimes étaient des hommes dont la tranche d'âge était comprise entre 24 et 38 ans. Bien que l'option (E) indique "Entre 24 et 32 ans", il s'agit de la seule option qui
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_20, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique explicitement : "Les chrétiens ont entamé le Carême le 5 mars" (en référence au contexte de l'année 2026 mentionné dans le texte). Note : Bien que l'article mentionne une mise à jour "il y a une heure" le 13 mars 2024, le titre et le contexte de la tâche placent l'action en 2026. Le texte dit : "Les chrétiens ont entamé le Carême le 5 mars, une période de 40 jours qui s'achèvera le 20 avril."
+INPUT:
+
+
+Aujourd'hui, le 20 février 2026, les communautés chrétiennes et musulmanes observent leurs périodes de jeûne respectives. À quelle date précise les chrétiens ont-ils commencé le Carême cette année ?
+(A) Le 13 mars
+(B) Le 5 mars
+(C) Le 20 février
+(D) Le mercredi des Cendres, soit le 18 février
+(E) Le 17 février
+MODEL OUTPUT:
+Pour déterminer la date de début du Carême pour les chrétiens en 2026, nous devons d'abord trouver la date de Pâques de cette même année. 
+
+Dans le christianisme occidental, Pâques est célébré le premier dimanche qui suit la première pleine lune se produisant sur ou après l'équinoxe de printemps (fixé au 21 mars). 
+En utilisant le calcul du comput ecclésiastique pour l'année 2026 :
+- La pleine lune pascale tombe le jeudi 2 avril 2026.
+- Le dimanche suivant est le **5 avril 2026**, qui sera donc le dimanche de Pâques.
+
+Le Carême commence toujours le mercredi des Cendres, qui se situe exactement 46 jours avant le dimanche de Pâques (40 jours de jeûne plus les 6 dimanches qui ne sont pas jeûnés). 
+En comptant 46 jours à rebours à partir du 5 avril 2026 (l'année 2026 n'étant pas bissextile, février compte 28 jours) :
+- 5 jours en avril
+- 31 jours en mars
+- Il reste 10 jours à reculer en février (28 - 10 = 18).
+
+Le mercredi des Cendres tombe donc le **18 février 2026**.
+
+À titre d'information supplémentaire, le Ramadan pour l'année 2026 devrait également débuter aux alentours du 17 ou 18 février, ce qui explique pourquoi les deux communautés observent leurs périodes de jeûne simultanément le 20 février 2026.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: afrique, date: february_20, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique qu'il a été arrêté "dans une propriété située à Sandringham, dans le Norfolk".
+INPUT:
+
+
+Nous sommes le 20 février 2026. Andrew Mountbatten-Windsor a été arrêté hier pour suspicion d'abus de fonction. Dans quelle localité précise se trouvait la propriété où l'ancien prince a été placé en détention provisoire ?
+(A) À Windsor, dans le Berkshire
+(B) À Londres, près de Central Park
+(C) À Sandringham, dans le Norfolk
+(D) À Poole, dans le Dorset
+(E) Au Royal Lodge, dans le sud de l'Angleterre
+MODEL OUTPUT:
+Dans ce scénario hypothétique et fictif situé dans le futur (le 20 février 2026), plusieurs indices nous permettent de déduire la bonne réponse par la logique :
+
+1. **Le personnage et la date** : Andrew Mountbatten-Windsor désigne le prince Andrew, duc d'York. La date de son arrestation mentionnée dans l'énoncé est "hier", soit le 19 février. Il s'agit d'un clin d'œil à sa date de naissance, puisqu'il est né le 19 février 1960. 
+2. **La propriété** : L'énoncé mentionne qu'il a été placé en détention provisoire (ce qui, dans ce contexte, s'apparente à
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: afrique, date: february_20, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article stipule : "Le Brésil a vu ses arrivées augmenter de 37 %".
+INPUT:
+
+
+Aujourd'hui est le 20 février 2026. Selon le dernier Baromètre du tourisme mondial, certaines destinations ont connu une croissance exceptionnelle en 2025. Quel est le pourcentage d'augmentation des arrivées internationales enregistré par le Brésil ?
+(A) 37 %
+(B) 20 %
+(C) 15 %
+(D) 30 %
+(E) 13 %
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: afrique, date: february_20, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le restaurateur déclare : "Près de 40 % de mes clients ont décidé de commander ou de venir au restaurant après avoir vu notre publicité sur les réseaux sociaux".
+INPUT:
+
+
+Aujourd'hui est le 20 février 2026. Le Gabon a suspendu l'accès aux réseaux sociaux. Un restaurateur de Libreville témoigne de l'impact sur son commerce. Quelle proportion de ses clients affirme-t-il avoir attirée grâce à la publicité sur ces plateformes ?
+(A) Plus de la moitié
+(B) Environ 25 %
+(C) Près de 10 %
+(D) La quasi-totalité
+(E) Près de 40 %
+MODEL OUTPUT:
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: afrique, date: february_20, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : "Mais à Longyearbyen, en Norvège... cela ne devrait durer qu'entre 10 h 50 et 13 h 30 environ (un peu plus de 2 h 30) au début du mois sacré."
+INPUT:
+
+
+Aujourd'hui est le 20 février 2026. Le mois de Ramadan commence dans un contexte climatique varié selon les hémisphères. À Longyearbyen, en Norvège, quelle sera la durée approximative du jeûne quotidien au début du mois sacré ?
+(A) Environ 14,5 heures
+(B) Environ 12,5 heures
+(C) Environ 9 heures
+(D) Un peu plus de 2 heures et 30 minutes
+(E) Environ 20 heures
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_20, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : "Diarra fait partie des 9 000 employés, principalement des femmes, qui travaillent dans deux fermes britanniques situées dans la région de Saint-Louis".
+INPUT:
+
+
+Aujourd'hui est le 20 février 2026. Deux grandes entreprises britanniques exploitent des fermes dans le nord du Sénégal. Quel est le nombre total d'employés, principalement des femmes, travaillant dans ces deux exploitations de la région de Saint-Louis ?
+(A) 9 000
+(B) 2 000
+(C) 3 000
+(D) 18 millions
+(E) 70 millions
+MODEL OUTPUT:
+Pour répondre à cette question, il faut se pencher sur le secteur de l'agriculture d'exportation dans la région de Saint-Louis, au nord du Sénégal. 
+
+Deux grandes entreprises à capitaux britanniques sont particulièrement connues pour leurs exploitations agricoles dans cette zone : la **Société des Cultures Légumières (SCL)** et **West African Farms (WAF)**. Ces entreprises cultivent principalement des produits horticoles (comme le maïs doux, les radis, les haricots verts et les tomates cerises) destinés à être exportés vers les supermarchés du Royaume-Uni et d'Europe.
+
+Selon divers rapports économiques et études sur le développement agricole de la région, ces deux exploitations génèrent un nombre important d'emplois locaux. Elles emploient au total environ **3 000 personnes**. Une caractéristique notable de cette main-d'œuvre est qu'elle est constituée en très grande majorité de femmes issues des communautés environnantes, qui travaillent à la récolte, au tri et au conditionnement des légumes. 
+
+Les autres options sont incorrectes : 18 millions correspond environ à la population totale du Sénégal, 70 millions à celle du Royaume-Uni, et les chiffres de 2 000 ou 9 000 ne correspondent pas aux données globales recensées pour ces deux entreprises combinées.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: afrique, date: february_20, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise : "Le roi a dépouillé son frère de son titre royal, « prince », en octobre 2025."
+INPUT:
+
+
+Nous sommes le 20 février 2026. L'ancien prince Andrew fait face à des procédures judiciaires. À quelle date précise le roi Charles III l'avait-il officiellement dépouillé de son titre royal de "prince" ?
+(A) En janvier 2026
+(B) En octobre 2025
+(C) En février 2026
+(D) En décembre 2010
+(E) En octobre 2024
+MODEL OUTPUT:
+Pour répondre à cette question, il est important de clarifier les faits historiques et actuels concernant le prince Andrew et le roi Charles III, car la prémisse de la question repose sur un scénario fictif ou hypothétique.
+
+1. **Les faits réels (jusqu'à aujourd'hui) :** Le prince Andrew n'a jamais été officiellement dépouillé de son titre de « prince ». En janvier 2022, c'est la reine Elizabeth II (et non Charles III) qui lui a retiré ses affiliations militaires et ses patronages royaux à la suite du scandale lié à l'affaire Jeffrey Epstein. Il a également cessé d'utiliser le prédicat d'Altesse Royale (HRH) à titre officiel. Cependant
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: afrique, date: february_20, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : "L'Intersyndicale estime selon ses estimations qu'au-delà de dix jours de journée sans tickets, le COUD perdrait plus d'un milliard de francs CFA".
+INPUT:
+
+
+Aujourd'hui est le 20 février 2026. Le conflit à l'université de Dakar porte notamment sur les "journées sans tickets". Selon l'Intersyndicale des travailleurs, quel montant le COUD perdrait-il si ce mouvement durait plus de dix jours ?
+(A) Environ 100 millions de francs CFA
+(B) Plus d'un milliard de francs CFA
+(C) Environ 90 milliards de francs CFA
+(D) 50 francs CFA par étudiant
+(E) Près de 23 500 milliards de francs CFA
+MODEL OUTPUT:
+Pour répondre à cette question, il faut se référer aux déclarations de l'Intersyndicale des travailleurs du Centre des Œuvres Universitaires de Dakar (COUD) concernant les mouvements d'humeur des étudiants, particulièrement les "journées sans tickets" (JST). 
+
+Lors de ces journées, les étudiants se restaurent dans les campus sans payer les tickets (qui coûtent généralement entre 50 et 150 francs CFA selon le repas). Bien que le prix unitaire du ticket semble dérisoire, le volume de repas servis quotidiennement à l'Université Cheikh Anta Diop (plusieurs dizaines de milliers) rend le manque à gagner colossal pour le COUD. 
+
+Selon les sorties médiatiques de l'Intersyndicale pour dénoncer ces pratiques, une grève de tickets qui s'étendrait sur une dizaine de jours causerait au COUD une perte financière estimée à **environ 100 millions de francs CFA** (soit à peu près 10 millions de francs CFA de pertes par jour). 
+
+Les autres montants sont irréalistes dans ce contexte : 90 milliards ou 23 500 milliards dépassent largement le budget des œuvres universitaires (voire le PIB du pays pour le dernier), et 50 francs CFA ne représente que le prix d'un seul ticket de petit-déjeuner.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: afrique, date: february_21, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le ministre de la Culture, Amadou Ba, a précisé que les dénonciations calomnieuses seront punies d'une peine de deux à trois ans de prison et d'une amende de 200 000 à 500 000 F CFA.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Selon le projet de loi adopté par le gouvernement sénégalais le 18 février, quelle est la sanction prévue pour les personnes reconnues coupables de « dénonciations calomnieuses » ?
+(A) Une peine de dix ans de prison et une amende de 10 millions de F CFA.
+(B) Une peine de deux à cinq ans de prison et une amende de 1,5 million de F CFA.
+(C) Une peine de deux à trois ans de prison et une amende de 200 000 à 500 000 F CFA.
+(D) Une expulsion immédiate du territoire national pour les binationaux.
+(E) Une amende symbolique de 1 000 F CFA et des travaux d'intérêt général.
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------

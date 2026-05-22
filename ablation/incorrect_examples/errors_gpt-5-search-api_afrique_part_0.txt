@@ -1,0 +1,657 @@
+METADATA [8]: index: 8, language: afrique, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne explicitement que Tcherkasov « purge actuellement une peine de cinq ans de prison au Brésil pour usage de faux documents ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 9 février 2026. Quelle est la durée de la peine de prison que purge actuellement Sergueï Vladimirovitch Tcherkasov au Brésil pour usage de faux documents ?
+(A) Dix ans
+(B) Trente-six ans
+(C) Huit ans
+(D) Cinq ans
+(E) Deux ans
+MODEL OUTPUT:
+Après avoir vérifié les informations les plus récentes :
+
+- Sergueï Vladimirovitch Tcherkasov (alias Victor Muller Ferreira) a initialement été condamné au Brésil à **15 ans** de prison pour usage de faux documents. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Sergey_Vladimirovich_Cherkasov?utm_source=openai))  
+- Cependant, cette peine a ensuite été réduite — la cour de São Paulo l’a ramenée à **cinq ans et deux mois**. ([justice.gov](https://www.justice.gov/usao-dc/pr/russian-national-illegal-charged-acting-agent-russian-intelligence-service-united-states?utm_source=openai))  
+
+Donc, la durée de prison qu’il purge actuellement pour usage de faux documents est de **5 ans et 2 mois**.
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS :
+- Wikipedia — Sergey Vladimirovich Cherkasov ([en.wikipedia.org](https://en.wikipedia.org/wiki/Sergey_Vladimirovich_Cherkasov?utm_source=openai))  
+- Newsweek — “Russian ‘Spy Factory’ in Brazil Exposed” ([newsweek.com](https://www.newsweek.com/russian-spy-factory-brazil-exposed-2075619?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : « la BBC estime qu'AKA a gagné à lui seul au moins 163 200 yuans (22 000 dollars, 16 300 livres sterling) depuis avril dernier ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 9 février 2026. Selon les estimations de la BBC basées sur les frais d'adhésion, combien d'argent l'agent « AKA » a-t-il gagné à lui seul depuis avril dernier grâce à son activité sur Telegram ?
+(A) Au moins 163 200 yuans
+(B) 43 377 yuans
+(C) 450 yuans
+(D) 6 000 yuans
+(E) 220 000 yuans
+MODEL OUTPUT:
+Je n’ai pas trouvé de source fiable de la BBC indiquant le montant exact que l’agent « AKA » aurait gagné depuis avril grâce à son activité sur Telegram. Aucune des options proposées ne semble confirmée par les documents accessibles publiquement jusqu’à maintenant.
+
+Donc, le choix le plus prudent étant celui des montants accessibles et plausibles sans être contredit, je sélectionnerais :
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: afrique, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article liste Ushuaia parmi les lieux où le jeûne sera le plus court, avec une durée d'"environ 10 à 11 heures".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. Selon l'analyse de la BBC sur la durée du jeûne de Ramadan, quelle est la durée approximative du jeûne prévue à Ushuaia, en Argentine ?
+(A) Environ 12 à 13 heures.
+(B) Environ 15 heures.
+(C) Environ 8 à 9 heures.
+(D) Environ 10 à 11 heures.
+(E) Environ 14 heures.
+MODEL OUTPUT:
+Selon les calculs pour Ushuaia, en Argentine, la durée du jeûne pendant le Ramadan 2026 varie entre environ **17 heures au début** du mois jusqu’à environ **14 heures 20 minutes à la fin**. ([hijria.com](https://www.hijria.com/en/prayertimings/argentina/ushuaia/ramadan/1447/?utm_source=openai))
+
+Parmi les choix proposés, le plus proche est donc :
+
+<final_answer>
+(E)
+</final_answer>
+
+CITATIONS :
+- [Hijria.com – Ushuaia Ramadan 2026](https://www.hijria.com/en/prayertimings/argentina/ushuaia/ramadan/1447/) ([hijria.com](https://www.hijria.com/en/prayertimings/argentina/ushuaia/ramadan/1447/?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que les maisons Pigna sont "Situées à 1 200 mètres d'altitude".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. La maison dans les arbres "Pigna", située en Italie, s'inspire de la nature pour son design. À quelle altitude se trouvent ces structures ?
+(A) À 1 200 mètres d'altitude.
+(B) À 800 mètres d'altitude.
+(C) À 2 500 mètres d'altitude.
+(D) À 500 mètres d'altitude.
+(E) À 1 800 mètres d'altitude.
+MODEL OUTPUT:
+Après vérification, les maisons dans les arbres « Pigna », situées à Malga Priu près d’Ugovizza dans les Alpes juliennes italiennes, se trouvent à une altitude d’environ **1 255 mètres**. ([caisanvito.it](https://www.caisanvito.it/events/anello-malga-priu/?utm_source=openai))
+
+Parmi les choix proposés, l’option qui s’en rapproche le plus est donc :
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS :
+- CAI Sez. San Vito al Tagliamento – itinéraire « Anello di Malga Priu » : altitude de Malga Priu : 1 255 m ([caisanvito.it](https://www.caisanvito.it/events/anello-malga-priu/?utm_source=openai))  
+- AllTrails – description du sentier Malborghetto-Malga Priu-Ugovizza : Malga Priu à 1 257 m ([alltrails.com](https://www.alltrails.com/it-it/sentiero/italy/friuli-venezia-giulia/malborghetto-malga-priu-ugovizza?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: afrique, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que Meagan Good a déclaré cela "à ses 7,8 millions d'abonnés Instagram".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. L'actrice Meagan Good a récemment obtenu la nationalité guinéenne. Combien d'abonnés compte-t-elle sur son compte Instagram, selon les chiffres cités dans l'article ?
+(A) 7,8 millions d'abonnés.
+(B) 10 millions d'abonnés.
+(C) 50 millions d'abonnés.
+(D) 1,2 million d'abonnés.
+(E) 5,5 millions d'abonnés.
+MODEL OUTPUT:
+D’après les sources disponibles, l’article indique que Meagan Good a **6,5 millions** d’abonnés sur Instagram. ([peopleinmedia.org](https://peopleinmedia.org/en/name/meagan-good/instagram/?utm_source=openai))
+
+Parmi les options proposées, aucune ne correspond exactement à ce chiffre. L’option la plus proche est **(E) 5,5 millions**, bien que ce ne soit pas le nombre exact cité.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: afrique, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Lisa Phillips affirme que "le ministère de la Justice a révélé les noms de nombreuses survivantes, ce qui n'est pas acceptable".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. Lisa Phillips, l'une des victimes de Jeffrey Epstein, a exprimé son mécontentement vis-à-vis du ministère de la Justice. Quelle est l'une des trois exigences que le ministère n'aurait pas respectées selon elle ?
+(A) Le refus de verser des compensations financières immédiates.
+(B) La révélation des noms de nombreuses survivantes.
+(C) L'absence de poursuites contre les banques impliquées.
+(D) Le refus d'auditionner Donald Trump en personne.
+(E) La suppression définitive des e-mails d'Elon Musk.
+MODEL OUTPUT:
+Selon ce que Lisa Phillips reproche au ministère de la Justice (DOJ), l’une des exigences *non respectées* est :
+
+- Que le DOJ nomme un *special master* (ou un **contrôleur indépendant**) pour superviser la publication complète des fichiers liés à l’affaire Epstein. ([allrisenews.com](https://www.allrisenews.com/p/epstein-survivor-lisa-philips-master?utm_source=openai))
+
+Aucune des autres options proposées — compensation financière immédiate, révélation des noms des survivantes, absence de poursuites contre les banques, audition personnelle de Donald Trump, suppression des e-mails d’Elon Musk — n’apparaît dans ses critiques publiques.  
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS :
+- [AllRiseNews] (https://www.allrisenews.com/p/epstein-survivor-lisa-philips-master)  
+- [Scripps News] (https://www.scrippsnews.com/us-news/crime/epstein-survivor-says-shes-losing-faith-that-all-of-the-dojs-files-will-be-released)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: afrique, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article liste à la fin : "La ligne qui divisait le monde en deux [équateur], La météo, Les deux mondes du nord et du sud [hémisphères], Le calendrier mensuel islamique".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. Selon l'expert Simwal Usman Jibril, quels sont les principaux facteurs permettant de déterminer la durée du jeûne de Ramadan ?
+(A) L'altitude de la ville, la pollution atmosphérique et le calendrier solaire.
+(B) La densité de population musulmane, la proximité de La Mecque et la saison.
+(C) L'équateur, la météo, les hémisphères et le calendrier lunaire islamique.
+(D) La visibilité de la lune à l'œil nu, l'humidité et la longitude.
+(E) Le fuseau horaire officiel, la température moyenne et la durée du crépuscule.
+MODEL OUTPUT:
+Pour répondre à votre question, on ne trouve dans les documents accessibles aucun passage attribué à Simwal Usman Jibril où il évoque explicitement *« l’équateur, la météo, les hémisphères et le calendrier lunaire islamique »* comme étant les **principaux facteurs** déterminant la **durée** du jeûne du Ramadan. Ce sont plutôt des éléments comme la visibilité du croissant lunaire, l’observation réelle (sans calculs astronomiques exclusifs), ou le fait que le Ramadan soit déclaré commencé ou terminé selon la visibilité ou le complet des 30 jours. ([muslimnews.com.ng](https://muslimnews.com.ng/2026/02/03/nigerias-moon-sighting-committee-backs-physical-sighting-urges-unity-among-muslims/?utm_source=openai))
+
+Voyons les options données :
+
+- (A) Altitude de la ville, pollution atmosphérique et calendrier solaire : aucun de ces éléments n’apparaît comme principal selon Jibril.  
+- (B) Densité de population musulmane, proximité de La Mecque et la saison : non mentionnés comme facteurs déterminants par lui.  
+- (C) L’équateur, la météo, les hémisphères et le calendrier lunaire islamique : bien que météo et calendrier lunaire soient pertinents, l’équateur et les hémisphères comme facteurs principaux ne semblent pas être ceux que Jibril met en avant.  
+- (D) Visibilité de la lune à l’œil nu, l’humidité et la longitude : la visibilité à l’œil nu est centrale, mais humidité et longitude comme facteurs principaux distincts ne ressortent pas clairement.  
+- (E) Le fuseau horaire officiel, la température moyenne et la durée du crépuscule : ne correspond pas non plus à ce que Jibril énonce comme facteurs principaux.
+
+Par élimination, l’option qui correspond le mieux à ce que Simwal Usman Jibril considère comme essentiels — **le croissant lunaire observé réellement** ou **compléter 30 jours si observation impossible** — est celle qui met l’accent sur la visibilité du nouveau croissant.
+
+Aucune option ne dit exactement cela, mais (D) mentionne « la visibilité de la lune à l’œil nu », ce qui est l’élément central selon lui. Les autres deux critères dans (D) — l’humidité et la longitude — ne sont pas clairement soulignés, mais la latitude/longitude jouent un rôle relatif dans la visibilité. Entre les options données, (D) est la plus proche.
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS :
+- [Muslim News Nigeria – “Nigeria’s moon sighting committee backs physical sighting, urges unity among Muslims”] (simwal Usman Jibril insiste sur observation physique du croissant et complétion de 30 jours si ciel couvert) ([muslimnews.com.ng](https://muslimnews.com.ng/2026/02/03/nigerias-moon-sighting-committee-backs-physical-sighting-urges-unity-among-muslims/?utm_source=openai))  
+- [The Defender – “Moonsighting in Nigeria, Simwal Usman Jibril”] (décrit les facteurs requis pour voir le fin croissant : altitude, angle, temps après coucher du soleil, etc.) ([thedefenderngr.com](https://thedefenderngr.com/moonsighting-in-nigeria-simwal-usman-jibril/?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: afrique, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que l'université Cheikh Anta Diop de Dakar accueille quelque 90 000 étudiants.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 11 février 2026. Environ combien d'étudiants l'Université Cheikh Anta Diop (UCAD) de Dakar accueille-t-elle à elle seule ?
+(A) 286 000 étudiants
+(B) 158 000 étudiants
+(C) 2 330 étudiants
+(D) 90 000 étudiants
+(E) 70 000 étudiants
+MODEL OUTPUT:
+Le nombre d’étudiants à l’Université Cheikh Anta Diop (UCAD) est récemment estimé à environ **89 589 étudiants**. ([tuumz.com](https://www.tuumz.com/listing/universite-cheikh-anta-diop-de-dakar-ucad/?utm_source=openai))
+
+Parmi les choix proposés, celui qui s’en rapproche le plus est donc :
+
+<final_answer>
+(A)
+</final_answer>
+
+CITATIONS :
+- UCAD “En chiffres” : 89 589 étudiants ([tuumz.com](https://www.tuumz.com/listing/universite-cheikh-anta-diop-de-dakar-ucad/?utm_source=openai)) 
+- Wikipédia : UCAD compte plus de 86 000 étudiants ([en.wikipedia.org](https://en.wikipedia.org/wiki/Cheikh_Anta_Diop_University?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: afrique, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que dans le cas de Raquel, les médecins lui ont retiré au total 2,5 kilos de tissu mammaire.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 11 février 2026. Quelle quantité totale de tissu mammaire les médecins ont-ils retirée à Raquel lors de son opération de réduction ?
+(A) 500 grammes
+(B) 800 grammes
+(C) 1,5 kilo
+(D) 2 kilos
+(E) 2,5 kilos
+MODEL OUTPUT:
+Je n’ai trouvé **aucune source crédible** qui indique la quantité exacte de tissu mammaire retirée lors de l’opération de réduction de « Raquel ». Le nom « Raquel » n’est pas associé à un cas documenté publiquement avec ce détail spécifique.  
+
+Si vous avez davantage de contexte (le nom de la publication, une date, un média, etc.), je peux tenter une recherche plus ciblée.  
+
+<final_answer>Je ne sais pas</final_answer>
+
+CITATIONS :  
+- Aucune source vérifiée disponible sur ce sujet.
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: afrique, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article cite Wendyam Hervé Lankoandé comme analyste politique indépendant.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 11 février 2026. Quel est le nom de l'analyste politique indépendant cité dans l'article pour commenter la dissolution des partis au Burkina Faso ?
+(A) Abdou Aziz Diédhiou
+(B) Emile Zerbo
+(C) Ibrahim Traoré
+(D) Mahaman Roufaï Laouali
+(E) Wendyam Hervé Lankoandé
+MODEL OUTPUT:
+Je n’ai pas trouvé de source crédible mentionnant un **analyste politique indépendant** avec l’un des noms dans les options (A), (B), (C), (D) ou (E), cité dans les articles que j’ai consultés pour commenter la dissolution des partis politiques au Burkina Faso. Les articles consultés citent majoritairement :
+
+- Émile Zerbo, ministre de l’Administration territoriale, pour justifier la décision. ([agenceecofin.com](https://www.agenceecofin.com/actualites/3101-135365-burkina-faso-les-autorites-dissolvent-tous-les-partis-politiques?utm_source=openai))  
+- Un analyste politique anonyme dans un article de RFI, mais **sans nom** précis mentionné. ([fr.allafrica.com](https://fr.allafrica.com/stories/202602100365.html?utm_source=openai))
+
+Ainsi, parmi les options proposées :
+
+A) Abdou Aziz Diédhiou — aucun lien trouvé  
+B) Emile Zerbo — **mais il est ministre, pas “analyste politique indépendant”** ([agenceecofin.com](https://www.agenceecofin.com/actualites/3101-135365-burkina-faso-les-autorites-dissolvent-tous-les-partis-politiques?utm_source=openai))  
+C) Ibrahim Traoré — il est le président de la transition, pas un analyste indépendant ([agenceecofin.com](https://www.agenceecofin.com/actualites/3101-135365-burkina-faso-les-autorites-dissolvent-tous-les-partis-politiques?utm_source=openai))  
+D) Mahaman Roufaï Laouali — pas mentionné  
+E) Wendyam Hervé Lankoandé — pas mentionné
+
+Par conséquent, aucune des options ne correspond à un analyste politique indépendant identifiable dans les articles cités.
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS :
+- [Agence Ecofin] (https://www.agenceecofin.com/actualites/3101-135365-burkina-faso-les-autorites-dissolvent-tous-les-partis-politiques/)  
+- [RFI via allAfrica] (https://fr.allafrica.com/stories/202602100365.html)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: afrique, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne explicitement que sur les 27 000 réponses au sondage lancé par Frank Ilett le 5 octobre 2024, 90 % des participants ont répondu qu'il se ferait couper les cheveux en 2026.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 12 février 2026. Frank Ilett, le supporter de Manchester United connu sous le nom de "The United Strand", n'a pas coupé ses cheveux depuis 494 jours. Lors du lancement de son défi en octobre 2024, quel pourcentage de ses abonnés avait prédit, lors d'un sondage, qu'il ne se ferait pas couper les cheveux avant 2026 ?
+(A) 90 %
+(B) 75 %
+(C) 50 %
+(D) 10 %
+(E) 94 %
+MODEL OUTPUT:
+Je n’ai pas trouvé de source crédible confirmant qu’un sondage ait été lancé lors du défi de Frank Ilett (“The United Strand”) en octobre 2024 indiquant qu’un certain pourcentage de ses abonnés avait prédit qu’il ne se couperait pas les cheveux avant 2026. Aucun média fiable ne mentionne une statistique comme celle décrite.
+
+Donc, parmi les choix proposés, aucun ne peut être vérifié comme exact avec les données disponibles. Néanmoins, dans de nombreux sondages populaires ou prédictions informelles, il est fréquent de voir des taux très élevés de scepticisme dans ce genre de challenge viral.
+
+Si je devais par déduction, je choisirais :
+
+<final_answer>
+(E)
+</final_answer>
+
+CITATIONS :
+- [The Independent] sur le défi de Frank Ilett ([the-independent.com](https://www.the-independent.com/sport/football/man-united-fan-haircut-challenge-frank-ilett-b2917683.html?utm_source=openai))  
+- [FourFourTwo] sur le lancement du défi et ses effets viraux ([fourfourtwo.com](https://www.fourfourtwo.com/person/who-is-the-united-strand-why-manchester-united-fan-frank-ilett-is-refusing-to-cut-his-hair?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Selon l'article, Trevor est décrit comme le frère de Nomali, "serrurier et expert en systèmes de sécurité", qui aide l'équipe à entrer et sortir des bâtiments.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 12 février 2026. Dans le nouveau jeu vidéo "Relooted" développé par le studio Nyamakop, quel est le rôle spécifique attribué au personnage de Trevor, le petit-fils du professeur Grace ?
+(A) Il est le chauffeur et le fabricant de gadgets de l'équipe.
+(B) Il est serrurier et expert en systèmes de sécurité.
+(C) Il est une légende du parkour et le cerveau de l'opération.
+(D) Il est l'informateur belgo-britannique qui fournit les renseignements.
+(E) Il est un hacker originaire du Kenya spécialisé dans les systèmes informatiques.
+MODEL OUTPUT:
+Je n’ai trouvé aucune information crédible confirmant qu’un personnage nommé Trevor dans *Relooted* soit serrurier, informateur belgo-britannique, ou qu’il soit hacker, etc. Cependant, voici ce que j’ai découvert :
+
+- Dans le jeu *Relooted*, Professeure Grace recrute ses petits-enfants—Nomali et Trevor—et une ancienne étudiante, Étienne, pour l’aider à récupérer des objets culturels pillés dans les musées et collections privées. ([ca.news.yahoo.com](https://ca.news.yahoo.com/video-game-sees-africans-fantasise-004707198.html?utm_source=openai))  
+- Nomali est décrite comme la maîtresse du parkour et le personnage principal guidant les opérations. ([ca.news.yahoo.com](https://ca.news.yahoo.com/video-game-sees-africans-fantasise-004707198.html?utm_source=openai))  
+- Il n’est jamais mentionné qu’il soit hacker, informateur, serrurier ou expert en gadgets, ni séparément comme maître des systèmes de sécurité. Aucun rôle d’expertise informatique ou de renseignement spécifique ne lui est attribué dans les sources consultées. ([ca.news.yahoo.com](https://ca.news.yahoo.com/video-game-sees-africans-fantasise-004707198.html?utm_source=openai))  
+
+Par conséquent, parmi les options proposées, celle qui correspond le moins à ce que racontent les sources est :
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS :
+- Yahoo News Canada — article « New video game sees Africans fantasise about taking back looted treasures » ([ca.news.yahoo.com](https://ca.news.yahoo.com/video-game-sees-africans-fantasise-004707198.html?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: afrique, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Paul-Emile Dieudonné note que le Foskeia avait une disposition particulière des dents, notamment des incisives pointant vers l'avant "comme un énorme trident au milieu".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 12 février 2026. Une nouvelle espèce de dinosaure, *Foskeia pelendonum*, a été identifiée en Espagne. Quelle caractéristique dentaire particulière le paléontologue Paul-Emile Dieudonné a-t-il soulignée concernant ce spécimen ?
+(A) Des incisives pointant vers l'avant comme un énorme trident.
+(B) Une absence totale de dents sur la mâchoire supérieure.
+(C) Des dents en forme de scie circulaire adaptées à la consommation de viande.
+(D) Des molaires plates identiques à celles des mammifères modernes.
+(E) Des canines rétractables utilisées pour la défense contre les prédateurs.
+MODEL OUTPUT:
+Le paléontologue Paul-Émile Dieudonné a souligné que chez *Foskeia pelendonum*, « les dents avant sont très réduites et ne semblent pas être utilisées, tandis que les dents postérieures sont relativement grandes, supportant le processus de mastication » ([biobiochile.cl](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/02/03/hallan-al-dinosaurio-mas-pequeno-del-mundo-el-foskeia-pelendonum-no-superaba-los-30-centimetros.shtml?utm_source=openai)).
+
+Parmi les options proposées, celle qui correspond à cette caractéristique est :
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS :
+- BioBioChile, « Los dientes delanteros son muy reducidos … los dientes posteriores son relativamente grandes … » ([biobiochile.cl](https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/02/03/hallan-al-dinosaurio-mas-pequeno-del-mundo-el-foskeia-pelendonum-no-superaba-los-30-centimetros.shtml?utm_source=openai))  
+- Sci.News, « despite its small size, Foskeia pelendonum shows specialized dentition » – « front teeth are very reduced … » ([sci.news](https://www.sci.news/paleontology/foskeia-pelendonum-14526.html?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: afrique, date: february_13, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que la visite de Netanyahu mercredi marque son sixième voyage aux États-Unis depuis le retour au pouvoir de Trump.
+INPUT:
+
+
+Aujourd'hui nous sommes le 13 février 2026. Combien de voyages Benjamin Netanyahu a-t-il effectués aux États-Unis depuis le retour au pouvoir de Donald Trump, selon les informations rapportées ?
+(A) Quatre voyages
+(B) Six voyages
+(C) Huit voyages
+(D) Trois voyages
+(E) Cinq voyages
+MODEL OUTPUT:
+Voici ce que j’ai trouvé en consultant plusieurs articles récents :
+
+- D’après *The Guardian*, le dernier voyage de Benjamin Netanyahu aux États-Unis sera « le cinquième depuis le début de l’année 2025 ». ([theguardian.com](https://www.theguardian.com/world/2025/dec/29/netanyahu-to-meet-trump-in-us-amid-fears-of-israeli-regional-offensives?utm_source=openai))  
+- Un article d’Al Jazeera indique que ce voyage à Mar-a-Lago en décembre 2025 est le cinquième de Netanyahu aux États-Unis en 10 mois, depuis que Donald Trump a repris la présidence. ([aljazeera.com](https://www.aljazeera.com/amp/news/2025/12/28/netanyahu-is-set-to-visit-trump-again-what-to-expect?utm_source=openai))  
+- Cependant, des articles plus récents mentionnent qu’il s’agirait déjà du **septième** voyage de Netanyahu aux États-Unis depuis le retour au pouvoir de Donald Trump. ([ft.com](https://www.ft.com/content/c8efa96a-b17b-44e6-aa6b-43c5d6c5065f?utm_source=openai))
+
+Ainsi, en combinant ces sources, le chiffre le plus récent et le plus fiable est **sept voyages**.
+
+Aucune des options (A) à (E) ne propose « sept voyages ». La plus proche serait donc:
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: afrique, date: february_14, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que "Ndedi, originaire du Cameroun, utilise ses talents d'acrobate pour réaliser les évasions les plus élaborées".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Dans le jeu vidéo *Relooted*, quel personnage utilise ses talents d'acrobate pour réaliser les évasions les plus élaborées ?
+(A) Ndedi, originaire du Cameroun.
+(B) Nomali, la légende du parkour.
+(C) Trevor, le serrurier expert.
+(D) Cryptic, le hacker du Kenya.
+(E) Fred, le fabricant de gadgets du Congo.
+MODEL OUTPUT:
+Le personnage qui utilise ses talents d’acrobate pour réaliser les évasions les plus élaborées dans *Relooted* est **Nomali, la légende du parkour**.
+
+Voici pourquoi :
+
+- Nomali est décrite comme une championne continentale de freerunning qui grandit à Johannesburg, utilisant mantling, sauts propulsifs, slides… toutes ces techniques pour traverser des obstacles et s’échapper après le vol. ([store.epicgames.com](https://store.epicgames.com/it/blog/relooted-guide-meet-heist-crew-learn-tips-repatriating-stolen-relics?utm_source=openai))  
+- Pendant les phases d’évasion du jeu, les compétences acrobatiques de Nomali sont essentielles : sa maîtrise du parkour permet de gagner de la vitesse, d’effectuer des sauts précis, et d’assurer des mouvements fluides pour éviter les drones ou franchir des obstacles sous la pression du temps. ([store.epicgames.com](https://store.epicgames.com/it/blog/relooted-guide-meet-heist-crew-learn-tips-repatriating-stolen-relics?utm_source=openai))  
+- Aucun autre personnage du jeu n’est décrit avec cette spécialité de parkour ou d’acrobaties élaborées. Tout le gameplay d’évasion repose sur Nomali comme protagoniste principal ayant ces talents. ([store.epicgames.com](https://store.epicgames.com/it/blog/relooted-guide-meet-heist-crew-learn-tips-repatriating-stolen-relics?utm_source=openai))  
+
+Donc la réponse correcte est :  
+<final_answer>  
+(B)  
+</final_answer>
+
+CITATIONS :  
+- Epic Games Store – guide officiel de *Relooted* ([store.epicgames.com](https://store.epicgames.com/it/blog/relooted-guide-meet-heist-crew-learn-tips-repatriating-stolen-relics?utm_source=openai))  
+- Playsaverepeat – critique sur *Relooted* ([playsaverepeat.com](https://www.playsaverepeat.com/reviews/review-relooted?utm_source=openai))  
+- The Verge – revue du jeu ([theverge.com](https://www.theverge.com/games/878121/relooted-review-xbox-steam?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_14, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Megan Rossi met particulièrement en garde contre les doses élevées de gel d'algues marines, en particulier chez les personnes souffrant d'une maladie inflammatoire de l'intestin.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Concernant le gel d'algues marines, quelle mise en garde spécifique la scientifique Megan Rossi formule-t-elle ?
+(A) Elle déconseille les doses élevées, surtout pour les personnes ayant une maladie inflammatoire de l'intestin.
+(B) Elle prévient que la consommation excessive peut entraîner une toxicité aux métaux lourds et à l'iode.
+(C) Elle affirme que le gel d'algues marines détruit les bactéries bénéfiques s'il est mélangé à des smoothies.
+(D) Elle souligne qu'il n'y a aucune différence entre le consommer pur ou l'ajouter aux aliments.
+(E) Elle recommande de vérifier l'absence d'édulcorants ajoutés comme la stévia dans le gel.
+MODEL OUTPUT:
+Le choix correct est : (C)
+
+---
+
+**Raisonnement :**
+
+- Dans l’article « 5 gut health trends to avoid (and what to eat instead) » du magazine Stylist, Megan Rossi met en garde contre le sea moss : elle souligne que cet algue est souvent utilisée dans les émulsifiants sous forme de **carraghénane**, qui est dérivé du sea moss. Elle le considère comme un additif souvent utilisé par l'industrie ultra-transformée, et **ne recommande pas** le sea moss sous forme de supplément ou d’émulsifiant. ([stylist.co.uk](https://www.stylist.co.uk/fitness-health/nutrition/gut-health-trends-to-avoid/967421?utm_source=openai))
+
+- Elle mentionne aussi qu’il **n’existe pas de preuves claires issues d’études humaines** pour justifier les nombreux bénéfices revendiqués du sea moss, ce qui renforce sa mise en garde ponctuelle contre ce produit en tant que tendance pour la santé intestinale. ([stylist.co.uk](https://www.stylist.co.uk/fitness-health/nutrition/gut-health-trends-to-avoid/967421?utm_source=openai))
+
+- Aucune source crédible ne rapporte qu’elle déconseille simplement les **doses élevées** pour les personnes avec maladie inflammatoire intestinale (option A), ni qu’elle mentionne spécifiquement des **toxicités aux métaux lourds et à l’iode** dans ses propos en tant que mise en garde principale (option B). L’option D est contraire à sa déclaration au sujet des formes différentes. L’option E n’apparaît pas du tout non plus dans ses avertissements tels que rapportés.  
+
+Ainsi, la mise en garde spécifique formulée par Megan Rossi parmi les choix proposés correspond à (C).
+
+---
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS :
+- Megan Rossi avertit que le sea moss contient du **carraghénane**, un émulsifiant dérivé du sea moss, utilisé dans les aliments ultra-transformés, et dit qu’elle ne le recommanderait pas comme supplément. ([stylist.co.uk](https://www.stylist.co.uk/fitness-health/nutrition/gut-health-trends-to-avoid/967421?utm_source=openai))
+- Elle mentionne également le manque d’études humaines pour appuyer les bienfaits souvent revendiqués du sea moss pour la santé intestinale. ([stylist.co.uk](https://www.stylist.co.uk/fitness-health/nutrition/gut-health-trends-to-avoid/967421?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: afrique, date: february_14, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que "Les premiers tests cognitifs l'ont classé dans les 2 % les plus faibles en matière de mémoire et de vitesse de traitement."
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Quels ont été les résultats des premiers tests cognitifs de Patrick Charnley concernant sa mémoire et sa vitesse de traitement après son réveil ?
+(A) Il a été classé dans les 2 % les plus faibles.
+(B) Il a perdu environ 40 % de ses capacités de traitement immédiat.
+(C) Il a été classé dans la moyenne inférieure (les 25 % les plus bas).
+(D) Ses résultats étaient normaux pour un homme de 39 ans ayant subi un coma.
+(E) Il a obtenu des scores nuls, ne pouvant pas répondre aux questions de base.
+MODEL OUTPUT:
+Je n’ai trouvé **aucune information crédible ou vérifiée** concernant des tests cognitifs, à savoir la mémoire et la vitesse de traitement, de Patrick Charnley après son réveil. Les bases de données médicales, les articles scientifiques et les rapports publics ne mentionnent pas ces résultats ou ce patient associé à ces descriptions.
+
+Sans donnée fiable, on ne peut pas choisir une option. Si vous avez une source spécifique ou un extrait que vous voulez que j’examine, je peux vous aider à l’analyser.
+
+<final_answer>
+Je ne peux pas répondre — aucune information disponible.
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: afrique, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article rapporte que l'effondrement de la mine de Rubaya a coûté la vie à 226 personnes selon les chiffres cités par le gouvernement congolais et les médias locaux.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 15 février 2026. Quel est le bilan humain officiel de l'effondrement de la mine de coltan de Rubaya survenu le 28 janvier dernier dans le Nord-Kivu ?
+(A) Plus de 40 mineurs artisanaux
+(B) Environ 200 personnes
+(C) Exactement 15 % des mineurs du site
+(D) 34 mineurs
+(E) 226 personnes
+MODEL OUTPUT:
+Après vérification des sources officielles et des informations disponibles, le bilan humain **officiellement confirmé** à ce jour pour l’effondrement de la mine de coltan de Rubaya survenu le 28 janvier 2026 dans le Nord-Kivu est :
+
+- **Au moins 200 personnes décédées**. Ce chiffre est donné par le porte-parole du gouverneur nommé par le groupe rebelle M23. ([apnews.com](https://apnews.com/article/b9fec43392b2b5b7de2857b4d33b8c8e?utm_source=openai))  
+- Ce bilan reste provisoire car plusieurs personnes sont encore portées disparues et des sources locales avancent des chiffres plus élevés. ([news.mongabay.com](https://news.mongabay.com/2026/02/landslides-claim-more-than-220-lives-in-drcs-rubaya-coltan-mining-site/?utm_source=openai))  
+
+Parmi les réponses proposées, l’option qui correspond à ce bilan officiel est :
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS :
+- AP News – “What to know after a deadly landslide in eastern Congo kills at least 200 miners” ([apnews.com](https://apnews.com/article/b9fec43392b2b5b7de2857b4d33b8c8e?utm_source=openai))  
+- Radio Okapi – “Au moins 200 morts dans un éboulement de terre à Rubaya” ([radiookapi.net](https://www.radiookapi.net/2026/02/01/actualite/societe/au-moins-200-morts-dans-un-eboulement-de-terre-rubaya?utm_source=openai))  
+- Mongabay – “Landslides claim more than 220 lives in DRC’s Rubaya coltan mining site” ([news.mongabay.com](https://news.mongabay.com/2026/02/landslides-claim-more-than-220-lives-in-drcs-rubaya-coltan-mining-site/?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: afrique, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article explique que les cultures occidentales sont "monumentalistes" (soi stable), tandis que les cultures d'Asie de l'Est sont "flexibles" (soi malléable).
+INPUT:
+
+
+Aujourd'hui, nous sommes le 15 février 2026. Selon le psychologue Vivian Vignoles, quelle différence de perception du "soi" existe-t-il entre les cultures occidentales et celles d'Asie de l'Est ?
+(A) Les Occidentaux sont collectivistes et les Asiatiques individualistes
+(B) Les Occidentaux sont monumentalistes et les Asiatiques flexibles
+(C) Les Occidentaux se définissent par leurs rôles sociaux et les Asiatiques par leurs traits de personnalité
+(D) Les Occidentaux voient le soi comme malléable et les Asiatiques comme immuable
+(E) Il n'existe aucune différence car la psychologie humaine est universelle
+MODEL OUTPUT:
+Selon les travaux de Vivian Vignoles (ainsi que ses collègues) sur la « self-construal » (la manière de concevoir le soi), les différences culturelles entre Occidentaux et Asiatiques de l’Est ne se résument pas à une polarité simple « individualisme vs collectivisme », ni à la rigidité ou à l’immuabilité du soi. Voici ce qu’elle observe :
+
+---
+
+**Ce que montre Vignoles**
+
+- Vignoles et son équipe développent un modèle multidimensionnel du « soi », composé de sept dimensions : différence vs similarité ; auto-direction vs ouverture à l’influence ; auto-fiabilité vs dépendance aux autres ; expression de soi vs harmonie ; consistance vs variabilité ; soi isolé vs connecté aux autres ; enfin intérêt personnel vs engagement envers les autres. Ces dimensions montrent qu’on peut être fortement indépendant dans certains aspects (par exemple exprimer ses propres préférences) tout en étant fortement interconnecté dans d’autres aspects (par exemple l’engagement envers la famille ou le groupe). ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/27359126/?utm_source=openai))
+
+- Leurs résultats confirment certaines prévisions classiques : les sociétés occidentales tendent à valoriser davantage la différence, l’expression de soi, l’auto-direction. Les sociétés asiatiques de l’Est, quant à elles, peuvent être plus flexibles dans le soi selon le contexte, davantage ouvertes à l’influence sociale, donner plus d’importance à l’harmonie, à l’interdépendance. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/27359126/?utm_source=openai))
+
+- Néanmoins, Vignoles remet en question une vision trop rigide ou absolue : le soi occidental n’est pas immuable, tout comme le soi est-asiatique n’est pas entièrement défini par les rôles ou par le contexte ; il y a des différences selon la richesse économique, le contexte religieux, etc. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/27359126/?utm_source=openai))
+
+---
+
+**Parmi les options proposées, voici celle qui correspond le mieux à cette compréhension :**
+
+(C) Les Occidentaux se définissent par leurs rôles sociaux et les Asiatiques par leurs traits de personnalité — NON : c’est en réalité l’inverse qui est souvent avancé (Occidentaux s’identifient davantage à des traits de personnalité, Asiatiques plus à des rôles sociaux ou au contexte) — donc l’option inversée serait correcte, mais ce n’est pas celle-ci.
+
+(D) Les Occidentaux voient le soi comme malléable et les Asiatiques comme immuable — NON : c’est aussi incorrect ; en fait, la recherche indique que dans les cultures de l’Est asiatique, le soi peut être plus flexible selon le contexte, tandis qu’en Occident, on valorise davantage la cohérence, une certaine constance du soi. ([stressmeasurement.org](https://www.stressmeasurement.org/selfconstrual?utm_source=openai))
+
+(A), (B), (E) ne collent pas non plus à ce que Vignoles décrit :  
+- (A) est la notion traditionnelle mais simpliste ;  
+- (B) « monumentalistes vs flexibles » ne correspond pas aux termes employés ni aux résultats ;  
+- (E) est réfuté explicitement par ses études montrant des différences culturelles nuancées.
+
+La description la plus précise correspond à l’idée que les Occidentaux se définissent davantage par des traits personnels stables, constants, tandis que les Asiatiques de l’Est se définissent davantage en fonction de rôles sociaux, du contexte, de relations et selon les situations, ce qui implique plus de flexibilité du soi.
+
+---
+
+<final_answer>  
+(C)  
+</final_answer>
+
+CITATIONS :  
+- Vignoles, Vivian L. et al., *Beyond the "east-west" dichotomy: Global variation in cultural models of selfhood*, J Exp Psychol Gen, 2016. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/27359126/?utm_source=openai))  
+- « Vignoles et al. (2016) self-construal scale… différentes dimensions… cohérence vs variabilité…   » ([stressmeasurement.org](https://www.stressmeasurement.org/selfconstrual?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: afrique, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article liste le Soudan du Sud comme le pays le plus corrompu au monde (numéro 1 du classement de la corruption).
+INPUT:
+
+
+Aujourd'hui, nous sommes le 15 février 2026. Quel pays occupe la première place du classement des pays les plus corrompus au monde selon le rapport 2025 de Transparency International ?
+(A) La Somalie
+(B) Le Venezuela
+(C) Le Yémen
+(D) La Libye
+(E) Le Soudan du Sud
+MODEL OUTPUT:
+La réponse correcte est :  
+<final_answer>  
+(A)  
+</final_answer>
+
+---
+
+**Raisonnement :**
+
+Selon le *Corruption Perceptions Index 2025* de Transparency International, les pays les plus perçus comme corruptibles (score le plus bas) sont :
+
+- South Sudan (Soudan du Sud), avec un score de **9**/100 ([apnews.com](https://apnews.com/article/a212f8e7d4ec87f8da08ebe662e7b422?utm_source=openai))  
+- Somalia (Somalie), également 9/100 ([transparency.so](https://transparency.so/news/somalia-ranks-the-lowest-in-2025-corruption-perceptions-index-scoring-just-9-out-of-100/?utm_source=openai))  
+- Vient ensuite le Venezuela avec **10/100** ([apnews.com](https://apnews.com/article/a212f8e7d4ec87f8da08ebe662e7b422?utm_source=openai))  
+
+Parmi les options proposées, celles correspondant à des pays dans les derniers du classement sont :
+
+(B) Le Venezuela ⇨ score de 10 ([transparency.org](https://www.transparency.org/en/news/cpi-2025-findings-insights-corruption?utm_source=openai))  
+(A) La Somalie ⇨ score de 9 ([transparency.org](https://www.transparency.org/en/news/cpi-2025-findings-insights-corruption?utm_source=openai))  
+(E) Le Soudan du Sud ⇨ score de 9 également ([apnews.com](https://apnews.com/article/a212f8e7d4ec87f8da08ebe662e7b422?utm_source=openai))  
+
+Par le biais du rapport, South Sudan et Somalia occupent ex æquo la **dernière place** (la plus corrompue), avec la Somalie étant l’une d’elles. Ainsi, le pays à la **première place du classement des pays les plus corrompus** est la Somalie (ex æquo avec le Soudan du Sud).
+
+Donc la bonne réponse est (A).
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

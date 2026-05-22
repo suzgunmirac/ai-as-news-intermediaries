@@ -1,0 +1,223 @@
+METADATA [14]: index: 14, language: hindi, date: february_20, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, साल 2023-24 के एकेडमिक सेशन के दौरान 30 लाख 79 हज़ार से ज़्यादा स्टूडेंट्स ने इंजीनियरिंग कॉलेजों में दाखिला लिया।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। एआईसीटीई (AICTE) के आंकड़ों के अनुसार, भारत में शैक्षणिक सत्र 2023-24 के दौरान कितने छात्रों ने इंजीनियरिंग कॉलेजों में दाखिला लिया?
+(A) 25 लाख 50 हज़ार
+(B) 40 लाख 20 हज़ार
+(C) 15 लाख 85 हज़ार
+(D) 20 लाख 10 हज़ार
+(E) 30 लाख 79 हज़ार से ज़्यादा
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: hindi, date: february_20, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, उनके निजी द्वीप को एक हफ़्ते के लिए 10 लाख यूरो (1 million Euro) में किराए पर लिया जा सकता है।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। गाय लालिबर्टे के फ्रेंच पोलिनेशिया स्थित निजी द्वीप को एक हफ़्ते के लिए कितने किराए पर लिया जा सकता है?
+(A) 5 लाख डॉलर
+(B) 20 लाख यूरो
+(C) 10 लाख डॉलर
+(D) 15 लाख यूरो
+(E) 10 लाख यूरो
+MODEL OUTPUT:
+### तर्क और विचार प्रक्रिया
+
+प्रश्न गाय लालिबर्टे के नुकुटेपिपी द्वीप को एक हफ्ते के लिए किराए पर लेने की कीमत के बारे में है, और तारीख 20 फरवरी 2026 है। वेब सर्च और ब्राउज से पता चला कि द्वीप पहले केवल full island buyout पर उपलब्ध था (€900,000 प्रति सप्ताह), लेकिन 2026 में "Private Access Weeks" शुरू हुए हैं, जहां व्यक्तिगत आवास बुक किए जा सकते हैं।
+
+हालांकि, प्रश्न "निजी द्वीप को" पर जोर देता है, जो पूरे द्वीप के exclusive rental को इंगित करता है। 2026 के लिए उपलब्ध डेटा (जून 13-20, 2026) से कुल आधार कीमत इस प्रकार है:
+
+- 4 King bungalows: 4 × €80,500 = €322,000
+- 5 Queen bungalows: 5 × €85,000 = €425,000
+- 2 Junior Villas: 2 × €170,000 = €340,000
+- 1 Master Villa: 1 × €300,000 = €300,000
+
+**कुल आधार कीमत: €1,387,000** (लगभग 13.87 लाख यूरो)। इसमें "+ taxes & fees" जोड़ा जाता है। taxes & fees (लगभग 10%) जोड़ने पर कुल लगभग €1,525,700 (15 लाख यूरो के करीब) होता है।
+
+यह विकल्प (D) से मैच करता है, जो नवीनतम 2026 डेटा पर आधारित है। अन्य विकल्प पुराने या mismatched हैं।
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Global Agents PDF Brochure] (https://strapi.globalagents.net/uploads/Nukutepipi_Private_Access_Week_Brochure_025e60b183.pdf)[[1]](https://strapi.globalagents.net/uploads/Nukutepipi_Private_Access_Week_Brochure_025e60b183.pdf)
+- [Vladi Private Islands] (https://www.vladi-private-islands.de/en/islands-for-rent/for-rent/pacific-ocean/french-polynesia/nukutepipi)[[2]](https://www.vladi-private-islands.de/en/islands-for-rent/for-rent/pacific-ocean/french-polynesia/nukutepipi)
+- [A Noe Tahiti] (https://anoe-tahiti.com/en/2025/05/nukutepipi-natural-luxury-a-private-island-in-the-heart-of-the-pacific-ocean)[[3]](https://anoe-tahiti.com/en/2025/05/nukutepipi-natural-luxury-a-private-island-in-the-heart-of-the-pacific-ocean)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: hindi, date: february_20, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, 2024 में भारत सरकार ने कम से कम दो राज्यों में इसराइल के लिए 10,000 कंस्ट्रक्शन मजदूरों की भर्ती का विज्ञापन दिया है।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। भारत सरकार ने साल 2024 में हरियाणा और उत्तर प्रदेश जैसे राज्यों में इसराइल के लिए कितने कंस्ट्रक्शन मजदूरों की भर्ती का विज्ञापन दिया था?
+(A) 10,000
+(B) 5,000
+(C) 20,000
+(D) 15,000
+(E) 2,000
+MODEL OUTPUT:
+The Indian government, through states like Haryana and Uttar Pradesh, advertised for a total of 20,000 construction workers for Israel in 2024 (10,000 per state).
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS:
+- [Euronews](https://www.euronews.com/2024/01/25/thousands-of-indians-apply-for-construction-jobs-in-israel-despite-war)[[1]](https://www.euronews.com/2024/01/25/thousands-of-indians-apply-for-construction-jobs-in-israel-despite-war)
+- [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/haryana-to-recruit-10000-skilled-workers-for-israel/articleshow/106032950.cms)[[2]](https://timesofindia.indiatimes.com/city/chandigarh/haryana-to-recruit-10000-skilled-workers-for-israel/articleshow/106032950.cms)
+- [NPR](https://www.npr.org/2024/02/17/1229525320/india-israel-hamas-war-jobs-migrant-workers)[[3]](https://www.npr.org/2024/02/17/1229525320/india-israel-hamas-war-jobs-migrant-workers)
+- [Middle East Eye](https://www.middleeasteye.net/news/india-has-sent-20000-workers-to-israel-since-israels-war-gaza)[[4]](https://www.middleeasteye.net/news/india-has-sent-20000-workers-to-israel-since-israels-war-gaza)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: hindi, date: february_21, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, डॉक्टर देवी प्रसाद शेट्टी का कहना है कि अगर भारत को अमेरिका और यूरोप के मानकों तक पहुँचना है, तो उसे करीब 20 लाख और नर्सों की ज़रूरत होगी।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। कार्डियक सर्जन डॉक्टर देवी प्रसाद शेट्टी के अनुसार, यदि भारत को अमेरिका और यूरोप के मानकों (प्रति डॉक्टर 4-5 नर्स) तक पहुँचना है, तो उसे वर्तमान संख्या के अतिरिक्त कितनी और नर्सों की आवश्यकता होगी?
+(A) 39 लाख
+(B) 140 करोड़
+(C) 20 लाख
+(D) 3.82 लाख
+(E) 1.20 लाख
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_21, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में जानकारी दी गई है कि दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी (7%) भारतीय हैं।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। वैश्विक स्तर पर कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) 12 फ़ीसदी
+(B) 15 फ़ीसदी
+(C) 7 फ़ीसदी
+(D) 10 फ़ीसदी
+(E) 5 फ़ीसदी
+MODEL OUTPUT:
+The most recent official data from the Directorate General of Shipping, India, indicates approximately 323,429 Indian seafarers employed globally in 2025, representing about 12% of the worldwide total.
+
+[[1]](https://www.dgshipping.gov.in/writereaddata/ShippingNotices/202508250532067191085CREWANNUALREPORT_compressed.pdf)
+[[2]](https://betadgs.dgshipping.gov.in/download/1762932679_691437c724c76_note.pdf)
+[[3]](https://www.dgshipping.gov.in/WriteReadData/News/202602090955469224131DGSCircular06of2026.pdf)
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: hindi, date: february_21, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, गौरव गोविंद वर्तमान में NIFT के वाराणसी कैंपस में पढ़ा रहे हैं।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। लेख में वर्णित फैशन डिजाइनर गौरव गोविंद, जिन्होंने NIFT कांगड़ा से पढ़ाई की है, वर्तमान में किस NIFT कैंपस में पढ़ा रहे हैं?
+(A) वाराणसी कैंपस
+(B) कांगड़ा कैंपस
+(C) दिल्ली कैंपस
+(D) मुंबई कैंपस
+(E) बेंगलुरु कैंपस
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: hindi, date: february_21, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, मर्चेंट नेवी में जाने के लिए विज़न 6/6 होना ज़रूरी है।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। मर्चेंट नेवी में शामिल होने के लिए शारीरिक पात्रता के तहत उम्मीदवार की दृष्टि (Vision) कितनी होनी चाहिए?
+(A) 6/9
+(B) 6/12
+(C) 6/6
+(D) 6/18
+(E) चश्मे के साथ 6/6
+MODEL OUTPUT:
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: hindi, date: february_22, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में बताया गया है कि जब 35 साल बाद दोनों भाई दिल्ली में मिले, तो बड़े भाई यूनुस ने याक़ूब को उनके पुराने उपनाम 'नट्टा' कहकर पुकारा था, क्योंकि याक़ूब अपने दोनों भाइयों से छोटे (कद में) थे।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। भारत और पाकिस्तान की तरफ़ से लड़ने वाले दो भाइयों, साहिबज़ादा यूनुस ख़ाँ और साहिबज़ादा याक़ूब ख़ाँ की 35 साल बाद दिल्ली में मुलाक़ात के दौरान, यूनुस ने अपने छोटे भाई को किस पुराने उपनाम (nickname) से पुकारा था?
+(A) जैकब
+(B) नट्टा
+(C) छोटे
+(D) साहब
+(E) मेजर
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_22, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "इन 223 विश्वविद्यालयों के अलावा..." यानी कुल 223 विश्वविद्यालय (48 सेंट्रल + 36 स्टेट + 26 डीम्ड + 113 प्राइवेट) इसका हिस्सा हैं।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। सीयूईटी (CUET) के माध्यम से देश के कुल कितने विश्वविद्यालयों (सेंट्रल, स्टेट, डीम्ड और प्राइवेट मिलाकर) में दाख़िला होता है?
+(A) 113
+(B) 150
+(C) 223
+(D) 48
+(E) 300
+MODEL OUTPUT:
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------

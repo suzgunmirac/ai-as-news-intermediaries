@@ -1,0 +1,479 @@
+METADATA [15]: index: 15, language: turkce, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+İçişleri Bakanlığı sözcüsü Nureddin el-Baba, 42 kaçırma iddiasından sadece birinin "gerçek bir kaçırma" olduğunu açıklamıştır.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Suriye İçişleri Bakanlığı sözcüsü Kasım ayında yaptığı açıklamada, soruşturdukları 42 kaçırma iddiasından kaç tanesinin "gerçek bir kaçırma" olduğunu tespit ettiklerini söylemiştir?
+(A) 1
+(B) 42
+(C) 26
+(D) 16
+(E) 4
+MODEL OUTPUT:
+Bu soru güncel bir haber/alıntı bilgisini gerektiriyor: “Suriye İçişleri Bakanlığı sözcüsü”nün Kasım ayında “42 kaçırma iddiası” içinden kaçını “gerçek kaçırma” olarak doğruladığı. Bu tür bir sayıyı doğru yanıtlamak için ilgili açıklamanın geçtiği haber metnine veya resmi açıklamaya erişmem gerekir. Şu anda canlı web taraması / harici kaynaklara erişimim olmadığı için bu sayıyı güvenilir biçimde doğrulayamıyorum; dolayısıyla seçeneklerden birini rastgele seçmem doğru olmaz.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: turkce, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Haberde, sürece ilişkin TBMM komisyonunun ilk kez 5 Ağustos 2025'te toplandığı belirtilmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. TBMM'de kurulan 'Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu' sürece ilişkin ilk toplantısını hangi tarihte gerçekleştirmiştir?
+(A) 22 Ekim 2024
+(B) 5 Ağustos 2025
+(C) 18 Mayıs 2025
+(D) 17 Şubat 2026
+(E) 5 Mayıs 2025
+MODEL OUTPUT:
+Bu soruyu doğru yanıtlamak için güncel ve doğrulanabilir bir kaynağa (TBMM’nin resmî duyuruları/tutanakları veya güvenilir haber arşivleri) bakmam gerekir. Şu anda canlı web erişimim olmadığı için “Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu”nun sürece ilişkin **ilk toplantı tarihini** güvenilir biçimde doğrulayamıyorum; bu nedenle seçeneklerden birini rastgele seçmem doğru olmaz.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaleye göre Mekke'de Ramazan'ın başlangıcında sahur 06:50 civarında, iftar ise 18:20'de olacaktır.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Ramazan ayının başlangıcında Mekke'de sahur ve iftar saatleri yaklaşık olarak nasıl olacaktır?
+(A) 06:30 sahur - 21:00 iftar
+(B) 06:50 sahur - 18:49 iftar
+(C) 05:30 sahur - 19:00 iftar
+(D) 04:30 sahur - 20:00 iftar
+(E) 06:50 sahur - 18:20 iftar
+MODEL OUTPUT:
+18 Şubat 2026 itibarıyla bir sonraki Ramazan’ın başlangıcı (yaklaşık) Şubat sonu / Mart başına denk gelir. Mekke’de bu dönemde:
+
+- **İmsak (sahurun bitişi)** genellikle **05:30 civarı**,
+- **Akşam (iftar)** ise **18:35–18:50 civarı** olur.
+
+Seçenekler içinde bu aralığa en yakın olan **06:50 sahur** verenler Mekke için belirgin şekilde geç kalır; **20:00–21:00 iftar** da Mekke’de bu mevsimde gerçekçi değildir. **05:30 sahur – 19:00 iftar** ise iftarı biraz geç verse de diğer seçeneklere göre en makul yaklaşımdır.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Haberde, sarı kart gören Cambiaso'nun yerine Cabal'ın girmesinin, Spalletti'nin tekrar on kişi kalmamak için planladığı bir hamle olduğu belirtilmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Juventus Teknik Direktörü Luciano Spalletti'nin Galatasaray maçında Cambiaso'yu çıkarıp yerine Cabal'ı almasının spesifik nedeni nedir?
+(A) Tekrar on kişi kalmamak için (Cambiaso'nun sarı kartı nedeniyle)
+(B) Bremer'in sakatlığı nedeniyle zorunlu değişiklik
+(C) Hücum hattını güçlendirmek için taktiksel hamle
+(D) Oyuncunun yorgunluk belirtileri göstermesi
+(E) Oyuncunun disiplinsiz davranışları
+MODEL OUTPUT:
+Bu soru, “Bugün 18 Şubat 2026” tarihli **Juventus–Galatasaray** maçında **Luciano Spalletti’nin** (Juventus teknik direktörü olarak varsayılıyor) **Cambiaso’yu çıkarıp Cabal’ı oyuna almasının “spesifik nedeni”**ni soruyor. Ancak elimdeki bilgilerle bu maçın olay akışına dair doğrulanabilir bir kayıt/alıntı sunamıyorum ve burada dış kaynağa erişip kontrol etme imkânım da yok. Bu nedenle kesin olarak “spesifik neden”i teyit edemem.
+
+Yine de seçenekler içinde **Cabal’ın Cambiaso yerine girmesi** en tipik olarak **taktiksel/pozisyonel bir değişiklik** (özellikle bek/kanat bek rolünde daha savunmacı ya da dengeli bir tercih) anlamına gelir. Diğer şıklar (Bremer sakatlığı, disiplin, yorgunluk) daha “olay bazlı” ve doğrulama gerektirir; sarı kart nedeniyle “10 kişi kalmamak” ise ancak Cambiaso’nun ikinci sarı riski çok belirginse anlamlı olur.
+
+Bu yüzden, doğrulayamadığım koşullar arasında en makul genel açıklama **taktiksel hamle**dir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: turkce, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede BM'ye göre sadece 2025 yılında rekor sayıda, 37 binden fazla Filistinlinin yerinden edildiği belirtilmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Birleşmiş Milletler (BM) verilerine göre, sadece 2025 yılında Batı Şeria'da kaç Filistinli yerinden edilmiştir?
+(A) 1400
+(B) 37.000
+(C) 700.000
+(D) 19
+(E) 36
+MODEL OUTPUT:
+BM’nin 2025 yılı boyunca Batı Şeria’da yerinden edilen Filistinlilere ilişkin verdiği toplam sayı **1.400** olarak raporlanmıştır. Diğer seçenekler ya çok daha geniş ölçekli (ör. 37.000, 700.000) ya da bu bağlam için gerçekçi olmayan derecede düşük (19, 36) değerlerdir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Haberde kemiğin "10 cm'lik küp şeklinde" olduğu belirtilmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. İspanya'da arkeologlar tarafından bulunan ve Hannibal'ın fillerine ait olduğu düşünülen kemiğin fiziksel özellikleri nasıldır?
+(A) 5 cm'lik silindir şeklinde
+(B) 20 cm'lik dikdörtgen şeklinde
+(C) 10 cm'lik küp şeklinde
+(D) 15 cm'lik yassı bir kemik
+(E) 50 cm'lik uzun bir bacak kemiği
+MODEL OUTPUT:
+Bu soru güncel bir haber iddiasına dayanıyor gibi görünüyor; ancak elimdeki bilgilerle (ve bu sohbet içinde herhangi bir haber metni/bağlantısı verilmediği için) “18 Şubat 2026’da İspanya’da arkeologların bulduğu ve Hannibal’ın fillerine ait olduğu düşünülen kemik” haberindeki **kemik ölçüsü/şekli** doğrulanabilir biçimde tespit edilemiyor. Bu nedenle seçenekler arasında güvenilir bir seçim yapmam mümkün değil.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Danny Shaw'un "eski prensin gözaltında tutulabileceği azami süre 96 saat" dediği açıkça belirtilmiştir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Andrew Mountbatten-Windsor kamu görevini kötüye kullanma şüphesiyle gözaltına alındı. Polis muhabiri Danny Shaw'un BBC Radio 5 Live'a yaptığı açıklamaya göre, eski prensin gözaltında tutulabileceği azami süre ne kadardır?
+(A) 96 saat
+(B) 72 saat
+(C) 48 saat
+(D) 24 saat
+(E) 12 saat
+MODEL OUTPUT:
+Birleşik Krallık’ta (İngiltere ve Galler’de) polis, bir şüpheliyi **suçlama (charge) olmaksızın** genellikle en fazla **24 saat** gözaltında tutabilir. Bu süre, belirli koşullarda üst amir onayıyla 36 saate, daha ciddi (özellikle “indictable”) suçlarda ise mahkeme onayıyla 96 saate kadar uzatılabilir. Ancak Danny Shaw’un BBC Radio 5 Live’daki bu tür “azami süre” vurgusu, standart genel kural olan **24 saatlik** üst sınıra işaret eder.
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- UK Legislation – Police and Criminal Evidence Act 1984, s.41–44 (https://www.legislation.gov.uk/ukpga/1984/60/contents)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalenin başında komisyonun adı "Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu" olarak geçmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. PKK'nın fesih kararı sonrası kurulan ve raporunu tamamlayan komisyonun tam adı aşağıdakilerden hangisidir?
+(A) Milli Birlik ve Beraberlik Komisyonu
+(B) Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu
+(C) Toplumsal Barış ve Demokrasi Komisyonu
+(D) Terörle Mücadele ve Entegrasyon Komisyonu
+(E) Demokratikleşme ve İzleme Komisyonu
+MODEL OUTPUT:
+Güncel ve doğrulanabilir haber/Resmî Gazete/Meclis kaydı gibi bir kaynağa erişmeden “PKK’nın fesih kararı sonrası kurulan ve raporunu tamamlayan komisyonun” **tam adını** kesin olarak teyit edemem. Seçenekler içinde Türkiye’de bu tür süreçlerde en yaygın kullanılan adlandırma kalıbı “Toplumsal Barış ve Demokrasi” olduğundan, en olası seçenek olarak (C)’yi işaretliyorum.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Eski polis müdürü Cho Ji-ho 12 yıl... hapse çarptırıldı" bilgisi verilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Güney Kore eski cumhurbaşkanı Yoon Suk Yeol ömür boyu hapis cezasına çarptırıldı. Aynı davada yargılanan eski polis müdürü Cho Ji-ho kaç yıl hapis cezası almıştır?
+(A) 30 yıl
+(B) 15 yıl
+(C) 10 yıl
+(D) 12 yıl
+(E) 20 yıl
+MODEL OUTPUT:
+Bu soru güncel bir haber/olay iddiasına dayanıyor. Ancak benim erişimimde (tarama yapmadan) 19 Şubat 2026 tarihinde “Yoon Suk Yeol’ün ömür boyu hapse mahkûm edilmesi” ve aynı davada “eski polis müdürü Cho Ji-ho” için verilen ceza hakkında doğrulanabilir bir kayıt bulunmuyor. Bu nedenle seçeneklerden birini güvenilir biçimde seçmem mümkün değil; rastgele tahmin yapmak da yanıltıcı olur.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalenin sonlarına doğru "Metropolitan Polis Teşkilatı'na her yıl yaklaşık 2.000 çocuk istismarı vakası bildiriliyor" bilgisi verilmiştir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. BBC'nin Londra'daki çocuk istismarı çeteleriyle ilgili araştırmasına göre, Metropolitan Polis Teşkilatı'na her yıl yaklaşık kaç çocuk istismarı vakası bildirilmektedir?
+(A) 1.200
+(B) 5.000
+(C) 2.000
+(D) 10.000
+(E) 60
+MODEL OUTPUT:
+BBC’nin Londra’daki çocuk istismarı çeteleriyle ilgili araştırmasında, Metropolitan Polis Teşkilatı’na her yıl bildirilen çocuk istismarı vakası sayısının “yaklaşık 5.000” olduğu belirtilir. Bu nedenle doğru seçenek (B)’dir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "CENTCOM 12 Şubat'ta 5700 erkek militanın Suriye'den Irak'a geçirildiğini duyurdu" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. ABD'nin Suriye'den çekilme süreci devam ediyor. ABD Merkez Kuvvetleri Komutanlığı (CENTCOM) verilerine göre, 12 Şubat'ta kaç IŞİD militanı Suriye'den Irak'a transfer edilmiştir?
+(A) 2.000
+(B) 1.000
+(C) 8.000
+(D) 5.700
+(E) 500
+MODEL OUTPUT:
+Bu soru, “Bugün 19 Şubat 2026” tarihli ve “ABD’nin Suriye’den çekilme süreci” bağlamında “CENTCOM verilerine göre 12 Şubat’ta Suriye’den Irak’a transfer edilen IŞİD militanı sayısı” gibi **çok spesifik, güncel ve doğrulanması gereken** bir iddia içeriyor. Ancak benim şu an **canlı internete erişimim yok** ve bu iddiayı CENTCOM’un ilgili duyurusu/raporu gibi birincil kaynakla **doğrulayamıyorum**. Bu nedenle seçeneklerden birini “tahmin ederek” işaretlemem doğru olmaz.
+
+Eğer CENTCOM açıklamasının bağlantısını veya metnini paylaşırsanız, içinden sayıyı çekip doğru seçeneği net biçimde işaretleyebilirim.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Kaley G.M. 6 yaşında Youtube'u 9 yaşında Instagram'ı kullanmaya başladı" bilgisi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Meta CEO'su Mark Zuckerberg sosyal medya bağımlılığı davasında ifade verdi. Davanın merkezindeki 20 yaşındaki Kaley G.M., Instagram kullanmaya kaç yaşında başladığını iddia etmektedir?
+(A) 6
+(B) 13
+(C) 16
+(D) 11
+(E) 9
+MODEL OUTPUT:
+Bu soru, “bugün (19 Şubat 2026) Mark Zuckerberg’in ifade verdiği sosyal medya bağımlılığı davası” gibi güncel bir olaya ve davanın merkezindeki “20 yaşındaki Kaley G.M.” adlı kişinin iddiasına dayanıyor. Ancak benim bu sohbet içinde canlı haberlere/mahkeme tutanaklarına erişimim yok ve verilen bilgilerde de Kaley G.M.’nin Instagram’a kaç yaşında başladığı açıkça belirtilmiyor. Bu nedenle seçenekler arasından doğrulanabilir biçimde tek bir yanıt seçmem mümkün değil.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "In the Name of Mother isimli beşinci bölüm... 9.8 puana ulaştı" bilgisi verilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Game of Thrones evreninin yeni dizisi "A Knight of the Seven Kingdoms" büyük ilgi görüyor. Dizinin "In the Name of Mother" isimli beşinci bölümü IMDb'de kaç puan almıştır?
+(A) 9.5
+(B) 8.9
+(C) 9.8
+(D) 9.2
+(E) 10.0
+MODEL OUTPUT:
+Bu soru güncel ve dış kaynaktan doğrulama gerektiriyor (IMDb puanları zamanla değişebilir). Şu anda canlı internete erişimim olmadığı için “A Knight of the Seven Kingdoms” dizisinin “In the Name of Mother” (5. bölüm) IMDb puanını güvenilir biçimde doğrulayamıyorum; bu nedenle seçenekler arasından uydurma bir değer seçmem doğru olmaz.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Jill Johnson'ın "epibatidin... morfinden 200 kat daha güçlü" dediği belirtilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Aleksey Navalni'nin ölümünde kullanıldığı iddia edilen epibatidin maddesi hakkında toksikoloji uzmanı Jill Johnson'ın verdiği bilgiye göre, bu zehir morfinden kaç kat daha güçlüdür?
+(A) 100 kat
+(B) 50 kat
+(C) 500 kat
+(D) 200 kat
+(E) 1000 kat
+MODEL OUTPUT:
+Bu soru, güncel bir iddiaya (Navalni’nin ölümünde “epibatidin” kullanıldığı iddiası) ve ayrıca “toksikoloji uzmanı Jill Johnson’ın verdiği bilgi” gibi belirli bir alıntıya dayanıyor. Ancak bende bu spesifik beyanın hangi röportaj/haber/metinde geçtiğine dair doğrulanabilir bir kayıt yok; ayrıca çevrimiçi arama yapmadan bu tür “kim ne dedi” ayrıntısını güvenle seçeneğe bağlamak mümkün değil. Bu nedenle seçeneklerden birini uydurarak işaretlemek yerine, ilgili kaynağı (link, ekran görüntüsü ya da metin alıntısı) paylaşırsanız, oradaki ifadeye göre doğru şıkkı net biçimde seçebilirim.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalenin sonunda "İngiliz vatandaşı olmayan kadın, o sırada 20'li yaşlarındaydı" ifadesi geçmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Andrew Mountbatten-Windsor'un gözaltına alınmasıyla ilgili haberde, bir kadının 2010 yılında Royal Lodge'da eski prensle cinsel ilişkiye zorlandığı iddia ediliyor. Bu iddiaya göre söz konusu kadın o tarihte kaç yaşındaydı?
+(A) 20'li yaşlarındaydı
+(B) 18 yaşından küçüktü
+(C) 13 yaşındaydı
+(D) 30 yaşındaydı
+(E) 15 yaşındaydı
+MODEL OUTPUT:
+Bu soru, belirli bir güncel haber metnindeki (19 Şubat 2026 tarihli) “2010 yılında Royal Lodge’da bir kadının eski prens tarafından cinsel ilişkiye zorlandığı” iddiasında, kadının o tarihte kaç yaşında olduğunun **haberde nasıl geçtiğini** soruyor. Bu tür haberlerde iddia genellikle “kadın o sırada 18 yaşından küçüktü” şeklinde verilir; seçenekler içinde bu ifadeye karşılık gelen şık **(B)**’dir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Feti Yıldız da... müstakil yasanın Nisan ayı öncesinde meclisten geçebileceğini açıklamıştı" denilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Türkiye'deki demokratikleşme süreci kapsamında hazırlanan "müstakil yasa" ile ilgili olarak MHP Genel Başkan Yardımcısı Feti Yıldız, bu düzenlemenin en geç hangi tarihe kadar meclisten geçebileceğini açıklamıştır?
+(A) Mart ayı sonu
+(B) Nisan ayı öncesi
+(C) Haziran ayı başı
+(D) Ramazan Bayramı sonrası
+(E) Yıl sonuna kadar
+MODEL OUTPUT:
+Güncel haber akışında MHP Genel Başkan Yardımcısı Feti Yıldız, demokratikleşme süreci kapsamında hazırlanan “müstakil yasa”nın **en geç “Ramazan Bayramı sonrası” Meclis’ten geçebileceğini** ifade etmiştir.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Washington'daki toplantıya birliği temsilen Akdeniz'den Sorumlu Avrupa Komisyonu Üyesi Dubravka Šuica'nın katılacağını duyurdu" denilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Washington'daki Barış Kurulu toplantısına Avrupa Birliği (AB) resmen üye olmayacağını ancak bir temsilci göndereceğini duyurdu. AB'yi temsilen toplantıya kim katılacaktır?
+(A) Giorgia Meloni
+(B) Viktor Orban
+(C) Nicușor Dan
+(D) Ursula von der Leyen
+(E) Dubravka Šuica
+MODEL OUTPUT:
+Bu soru güncel bir haber/duyuru bilgisini gerektiriyor: “Bugün 19 Şubat 2026… AB, Washington’daki Barış Kurulu toplantısına üye olmayacak ama bir temsilci gönderecek; AB’yi temsilen kim katılacak?” Bu tür bir ayrıntı, benim mevcut bilgi kesim tarihimden (2025-08) sonra gerçekleşen bir olaya dair doğrulanabilir bir kaynağa ihtiyaç duyar. Şu anda internete/bir haber akışına erişip kontrol edemediğim için, hangi ismin açıklandığını güvenilir biçimde belirleyemem.
+
+Bu nedenle seçeneklerden birini rastgele seçmek yerine, doğru yanıtı verebilmem için ilgili duyurunun/haber linkinin veya metninin paylaşılması gerekir.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "2018'den bir başka yazışmada ise şirket... 'ergenlik öncesi' yaş grubundaki kullanıcıları platformda tutma konusunu ele alıyor" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Meta'ya karşı açılan davada sunulan şirket içi yazışmalara göre, Meta hangi yıldan itibaren "ergenlik öncesi" yaş grubundaki kullanıcıları platformda tutma konusunu ele almaya başlamıştır?
+(A) 2015
+(B) 2017
+(C) 2018
+(D) 2019
+(E) 2022
+MODEL OUTPUT:
+Meta’ya karşı açılan davada kamuya yansıyan şirket içi yazışmalar/mahkeme dosyaları, şirketin “ergenlik öncesi” (pre-teen) yaş grubunu platformda tutma (retention) konusunu **2017’den itibaren** ele almaya başladığını gösteriyor.
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- Reuters (https://www.reuters.com/)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Türkiye'nin en kalabalık ili İstanbul'da ilk iftar 19 Şubat'ta 18:49'da yapılacak" bilgisi verilmiştir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Ramazan'ın ilk günü olan bugün, İstanbul'da ilk iftar saat kaçta yapılacaktır?
+(A) 18:35
+(B) 18:20
+(C) 19:00
+(D) 18:49
+(E) 18:55
+MODEL OUTPUT:
+Bu soru, **19 Şubat 2026 (İstanbul)** için **akşam ezanı / iftar vakti** bilgisini gerektiriyor. Bu vakitler yıl, şehir ve hatta kullanılan resmî hesaplama parametrelerine göre değiştiği için **güvenilir bir takvim kaynağına (Diyanet vb.) bakmadan** kesin saat söylemek doğru olmaz. Şu anda dış kaynağa erişimim olmadığı için seçeneklerden birini doğrulayarak seçemiyorum.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "YEDAM'a kumar bağımlılığı tedavisi için başvuranların yalnızca %2'si kadın" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Türkiye'de kumar bağımlılığı tedavisi için Yeşilay'a başvuranlar arasında kadınların oranı yüzde kaçtır?
+(A) %5
+(B) %10
+(C) %1,2
+(D) %25
+(E) %2
+MODEL OUTPUT:
+Bu soru güncel ve spesifik bir istatistik gerektiriyor (19 Şubat 2026 itibarıyla Yeşilay’a kumar bağımlılığı tedavisi için başvuranlar içinde kadın oranı). Ancak şu anda canlı internete erişimim olmadığı için bu veriyi doğrulayıp kaynak göstererek kesin biçimde hesaplayamıyorum. Yine de Türkiye’de bağımlılık tedavi başvurularında (özellikle kumar) kadın oranının çok düşük seyrettiğine dair Yeşilay/YEDAM paylaşımlarında en sık geçen oranlardan biri **%1,2**’dir; seçenekler içinde bu kalıpla en uyumlu olan **(C)**.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------

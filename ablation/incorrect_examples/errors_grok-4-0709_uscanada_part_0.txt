@@ -1,0 +1,284 @@
+METADATA [7]: index: 7, language: uscanada, date: february_10, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article mentions that Massie and Khanna "told reporters they had a list of about 20 people in which every name was redacted except for Epstein's and his convicted sex trafficker associate Ghislaine Maxwell."
+INPUT:
+
+
+Today is February 10, 2026. Following their review of unredacted documents, how many people did Congressmen Massie and Khanna identify as having every name redacted except for Epstein and Maxwell in a specific list?
+(A) 6
+(B) 12
+(C) 20
+(D) 30
+(E) 15
+MODEL OUTPUT:
+Based on recent reports from February 10, 2026, Congressmen Thomas Massie and Ro Khanna reviewed unredacted Epstein documents at the Justice Department. They identified six men whose names were redacted in certain documents, leaving only Epstein and Maxwell's names unredacted. Khanna publicly named these six individuals on the House floor and suggested there could be more in the full set of files.
+
+<final_answer>
+(A)
+</final_answer>
+
+CITATIONS:
+- [CBS News] (https://www.cbsnews.com/news/massie-khanna-epstein-files-6-men)[[1]](https://www.cbsnews.com/news/massie-khanna-epstein-files-6-men)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: uscanada, date: february_10, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states the show was "produced in Canada on a minimal budget - reportedly less than C$5m ($3.6m; £2.6m) per episode."
+INPUT:
+
+
+Today is February 10, 2026. What is the reported production budget per episode for the Canadian television show "Heated Rivalry"?
+(A) C$10m
+(B) C$3.6m
+(C) C$2.6m
+(D) C$5m
+(E) C$1.5m
+MODEL OUTPUT:
+The production budget per episode for the Canadian TV show "Heated Rivalry" is reported in various sources with some conflicts. The BBC and several syndicated articles indicate it is less than C$5m (equivalent to $3.6m USD or £2.6m GBP) per episode. Other sources, including a podcast interview with producer Brendan Brady and the Wikipedia entry, specify it as just under C$3m per episode (equivalent to about $2.2m USD). Some earlier rumors or reports list total production costs around C$11-12m for the 6-episode season, which would be about C$1.83-2m per episode. There are also conflicting conversions and ranges like $3-5m per episode (likely USD, equating to roughly C$4.2-6.9m).
+
+The most consistent recent and authoritative sources (the producer's interview and Wikipedia) point to just under C$3m per episode, but since that is not an exact option, the closest match is C$2.6m, which also appears as the GBP equivalent in many reports and is closer to the confirmed figure than C$3.6m.
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS:
+- BBC [web:0] (https://www.bbc.com/news/articles/c3edk87vqljo)
+- LA Times [web:9] (https://www.latimes.com/entertainment-arts/awards/story/2026-02-03/how-heated-rivalry-changed-game-for-canadian-tv)
+- Wikipedia [web:54] (https://en.wikipedia.org/wiki/Heated_Rivalry)
+- Podscripts transcript [web:35] (https://podscripts.co/podcasts/pivot/how-did-heated-rivalrys-producers-make-their-massive-hit)
+- The Stylus [web:66] (https://thestylus.org/7523/entertainment/low-budget-tv-series-heated-rivalry-takes-the-world-by-storm)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: uscanada, date: february_11, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "there were 355,678 gun licences in British Columbia as of 2023, or about 6,240 gun licenses per 100,000 people."
+INPUT:
+
+
+Today is February 11, 2026. In the context of the recent shooting in British Columbia, statistics regarding gun ownership in Canada have come under scrutiny. According to 2023 data from a Canadian website cited by the RCMP, what was the rate of gun licenses in British Columbia?
+(A) Approximately 7.7% of the adult population in the province.
+(B) Roughly 2.2 million licenses across the entire territory.
+(C) About 6,240 gun licenses per 100,000 people.
+(D) Exactly 355,678 licenses per 100,000 residents.
+(E) A total of 10 million firearms in circulation within the province.
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: uscanada, date: february_12, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that the GoFundMe page "had raised $1.2m (£865,000) by Thursday morning."
+INPUT:
+
+
+Today is February 12, 2026. Following the death of actor James Van Der Beek, an online fundraiser was established to assist his family. How much money had the GoFundMe page raised as of Thursday morning?
+(A) $1.4 million
+(B) $865,000
+(C) $1.2 million
+(D) $2.4 million
+(E) $1.5 million
+MODEL OUTPUT:
+I used web search tools to look up the GoFundMe fundraiser for James Van Der Beek's family following his death. Multiple sources from February 12, 2026, report varying amounts raised, but several credible reports (including from Us Weekly, TV Insider, and others) consistently cite $1.4 million as the figure reached in the initial 24 hours, aligning with Thursday morning updates.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: uscanada, date: february_12, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article describes the event as a "four-hour hearing" and mentions "key exchanges from the four-hour hearing."
+INPUT:
+
+
+Today is February 12, 2026. Attorney General Pam Bondi testified before the House Judiciary Committee regarding the Jeffrey Epstein files. How long did this specific hearing last?
+(A) Two hours
+(B) Three hours
+(C) Five hours
+(D) Six hours
+(E) Four hours
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: uscanada, date: february_12, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "While the series had a very respectable if not huge audience in the US for the time - averaging about six million viewers throughout its run..."
+INPUT:
+
+
+Today is February 12, 2026. In a retrospective of the teen drama Dawson's Creek, the show's popularity in the US was discussed. What was the average number of viewers the show had throughout its original run?
+(A) Four million
+(B) Six million
+(C) Eight million
+(D) Five million
+(E) Ten million
+MODEL OUTPUT:
+I researched the viewership data for Dawson's Creek, which ran for six seasons from 1998 to 2003. Based on reliable sources like Wikipedia, the seasonal average viewer numbers (in millions) are approximately as follows:
+
+- Season 1: 6.75
+- Season 2: 6.45
+- Season 3: 4.44
+- Season 4: 4.68
+- Season 5: 4.13
+- Season 6: 4.13
+
+A weighted average across all episodes comes out to about 4.95 million viewers, which rounds to five million overall.
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS:
+- [Wikipedia - Dawson's Creek] (https://en.wikipedia.org/wiki/Dawson's_Creek)[[1]](https://en.wikipedia.org/wiki/Dawson's_Creek)
+- [Wikipedia - List of Dawson's Creek episodes] (https://en.wikipedia.org/wiki/List_of_Dawson's_Creek_episodes)[[2]](https://en.wikipedia.org/wiki/List_of_Dawson's_Creek_episodes)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: uscanada, date: february_18, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The soldiers were released on 1 May and crossed into Croatia with Jackson and his delegation on 2 May..."
+INPUT:
+
+
+Today is February 18, 2026. Following the death of Jesse Jackson, former POW Andrew Ramirez recalled his release from Yugoslav forces. On what specific date in 1999 were Ramirez and his fellow soldiers finally released?
+(A) 1 May
+(B) 2 May
+(C) 30 April
+(D) 15 May
+(E) 28 April
+MODEL OUTPUT:
+I reviewed historical records and news articles from 1999 related to the Kosovo War. Three US soldiers—Staff Sgt. Andrew Ramirez, Staff Sgt. Christopher Stone, and Spc. Steven Gonzales—were captured by Yugoslav forces on March 31, 1999. Rev. Jesse Jackson negotiated with Yugoslav President Slobodan Milosevic on May 1, 1999, leading to their release the following day.
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS:
+- CNN (https://us.cnn.com/WORLD/europe/9905/01/kosovo.04)[[1]](https://us.cnn.com/WORLD/europe/9905/01/kosovo.04)
+- The New York Times (https://www.nytimes.com/1999/05/02/world/crisis-in-the-balkans-prisoners-serbs-release-3-captured-us-soldiers.html)[[2]](https://www.nytimes.com/1999/05/02/world/crisis-in-the-balkans-prisoners-serbs-release-3-captured-us-soldiers.html)
+- Los Angeles Times (https://www.latimes.com/archives/la-xpm-1999-may-02-mn-33303-story.html)[[3]](https://www.latimes.com/archives/la-xpm-1999-may-02-mn-33303-story.html)
+- RTE (https://www.rte.ie/news/1999/0518/1755-kosovowar)[[4]](https://www.rte.ie/news/1999/0518/1755-kosovowar)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: uscanada, date: february_19, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article notes: "Overall, the deficit in goods and services - which takes into account things like travel and digital services - was $901.5bn last year."
+INPUT:
+
+
+Today is February 19, 2026. Official figures show the US trade deficit hit a new high last year. What was the specific deficit amount for goods and services combined?
+(A) $1.2 trillion
+(B) $3.4 trillion
+(C) $202.1 billion
+(D) $890 billion
+(E) $901.5 billion
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: uscanada, date: february_20, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "On Monday, BBC Verify identified the Abraham Lincoln in satellite images... off the coast of Oman, about 700km (430 miles) from Iran."
+INPUT:
+
+
+Today is February 20, 2026. BBC Verify has identified the location of the USS Abraham Lincoln using satellite imagery. On Monday, how far off the coast of Oman was the carrier identified to be?
+(A) 150km
+(B) 240km
+(C) 430km
+(D) 700km
+(E) 950km
+MODEL OUTPUT:
+The information from BBC Verify indicates that the USS Abraham Lincoln was identified approximately 240km off the coast of Oman (based on satellite images taken on the preceding Saturday).
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS:
+- [BBC News](https://www.bbc.com/news/articles/c1d64p3q2d0o)[[1]](https://www.bbc.com/news/articles/c1d64p3q2d0o)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: uscanada, date: february_21, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article quotes Khamenei's post directly: "The US President constantly says that the US has sent a warship toward Iran. Of course, a warship is a dangerous piece of military hardware."
+INPUT:
+
+
+Today is February 21, 2026. As the US increases its military presence near Iran, Ayatollah Ali Khamenei has posted threats on social media. What specific piece of US military hardware did Khamenei explicitly mention in one of his posts, calling it "a dangerous piece of military hardware"?
+(A) A squadron of combat fighter jets
+(B) A warship
+(C) A fleet of military destroyers
+(D) A nuclear weapons facility
+(E) An aircraft carrier
+MODEL OUTPUT:
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: uscanada, date: february_22, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The average tariff rate remains above 6% - around three times the typical rate at the start of 2025 - because of tariffs imposed under different guises."
+INPUT:
+
+
+Today is February 22, 2026. Following the Supreme Court's decision to strike down reciprocal tariffs, what does the article state is the current average tariff rate remaining due to other levies?
+(A) Approximately 15%
+(B) Exactly 11%
+(C) Around 2%
+(D) Roughly 10%
+(E) Above 6%
+MODEL OUTPUT:
+The sources I consulted (primarily from Yale Budget Lab and Tax Policy Center) consistently indicate that after the Supreme Court struck down the reciprocal (IEEPA) tariffs, the remaining average tariff rate due to other levies is approximately 9% (stated as 9.1% in one source and 9% in another). This aligns most closely with "Roughly 10%" among the given options.
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS:
+- [The Budget Lab at Yale] (https://budgetlab.yale.edu/research/state-us-tariffs-scotus-ruling-update)
+- [The Budget Lab at Yale] (https://budgetlab.yale.edu/research/state-tariffs-february-21-2026)
+- [Tax Policy Center] (https://taxpolicycenter.org/features/tracking-trump-tariffs)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------

@@ -1,0 +1,376 @@
+METADATA [22]: index: 22, language: afrique, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article commence par : "Le mois sacré musulman du ramadan devrait commencer après le coucher du soleil le mardi 17 février ou le mercredi 18 février".
+INPUT:
+
+
+Nous sommes le 20 février 2026. Le calendrier lunaire détermine le début du Ramadan. Selon les prévisions mondiales, quelles sont les deux dates possibles pour le début du jeûne cette année ?
+(A) Le 5 ou le 6 mars
+(B) Le 20 ou le 21 avril
+(C) Le 17 ou le 18 février
+(D) Le 21 juin ou le 21 décembre
+(E) Le 13 ou le 14 mars
+MODEL OUTPUT:
+Le début du Ramadan dépend de l’observation (ou non) du croissant lunaire (hilal) après la conjonction. Pour l’année 2026, les calendriers et prévisions lunaires mondiales situent le **1er Ramadan** autour de la mi-mars, avec une incertitude d’un jour selon les pays et les critères d’observation. Les deux dates possibles les plus couramment données sont donc **le 13 ou le 14 mars**.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: afrique, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne : "La solution proposée par le président, à travers son projet Accra Reset, est d'investir davantage dans les compétences pertinentes...".
+INPUT:
+
+
+Nous sommes le 20 février 2026. Le président ghanéen John Mahama a prononcé un discours remarqué lors du forum de Davos. Quel est le nom du projet qu'il propose pour coordonner l'industrialisation et la souveraineté de l'Afrique ?
+(A) Agenda 2063
+(B) ZLECA (Zone de libre-échange)
+(C) Freedom Corridor
+(D) Chatham House Initiative
+(E) Accra Reset
+MODEL OUTPUT:
+Le discours de John Dramani Mahama à Davos (dans ce scénario daté du 20 février 2026) met l’accent sur une coordination continentale de l’industrialisation et de la souveraineté économique. Parmi les options, **l’Agenda 2063** et la **ZLECA** sont des cadres déjà existants (Union africaine / intégration commerciale) plutôt que le nom d’un *projet* proposé par Mahama dans un discours. **Chatham House Initiative** renvoie à un think tank britannique, et **Accra Reset** sonne comme un slogan national plutôt que continental. Le seul intitulé qui correspond à un projet “corridor” de coordination industrielle et souveraineté à l’échelle africaine est **Freedom Corridor**.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: afrique, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le ministre de la Culture, Amadou Ba, a précisé que les dénonciations calomnieuses seront punies d'une peine de deux à trois ans de prison et d'une amende de 200 000 à 500 000 F CFA.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Selon le projet de loi adopté par le gouvernement sénégalais le 18 février, quelle est la sanction prévue pour les personnes reconnues coupables de « dénonciations calomnieuses » ?
+(A) Une peine de dix ans de prison et une amende de 10 millions de F CFA.
+(B) Une peine de deux à cinq ans de prison et une amende de 1,5 million de F CFA.
+(C) Une peine de deux à trois ans de prison et une amende de 200 000 à 500 000 F CFA.
+(D) Une expulsion immédiate du territoire national pour les binationaux.
+(E) Une amende symbolique de 1 000 F CFA et des travaux d'intérêt général.
+MODEL OUTPUT:
+Le projet de loi adopté par le gouvernement sénégalais le 18 février prévoit, pour les personnes reconnues coupables de « dénonciations calomnieuses », **une peine de deux à cinq ans de prison et une amende de 1,5 million de F CFA**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: afrique, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Creol affirme dans sa vidéo que la suspension ne présage rien de bon pour « les élèves qui ratent les cours avec la grève des enseignants et qui se rattrapent grâce à l'internet ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Selon le témoignage de la chanteuse Creol, quel est l'impact de la suspension des réseaux sociaux sur les élèves gabonais ?
+(A) Ils ne peuvent plus s'inscrire aux examens nationaux via les plateformes numériques.
+(B) Ils utilisent des VPN pour organiser des manifestations contre la HAC.
+(C) Ils sont victimes de cyberharcèlement de la part d'activistes politiques.
+(D) Ils ne peuvent plus communiquer avec leurs professeurs via WhatsApp.
+(E) Ils ne peuvent plus rattraper les cours manqués à cause de la grève des enseignants.
+MODEL OUTPUT:
+Le témoignage de la chanteuse Creol met en avant un effet très concret et quotidien de la suspension des réseaux sociaux : de nombreux élèves gabonais utilisaient surtout **WhatsApp** comme canal de communication scolaire (consignes, devoirs, échanges rapides) avec leurs enseignants. La coupure empêche donc cette communication.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: afrique, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne qu'en vertu de la loi ghanéenne sur la cybersécurité de 2020, toute personne publiant des images explicites d'adultes sans leur consentement éclairé encourt jusqu'à 25 ans de prison.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Selon la loi ghanéenne sur la cybersécurité de 2020, quelle peine encourt une personne qui publie des images explicites d'adultes sans leur consentement ?
+(A) Jusqu'à 10 ans de prison ferme.
+(B) Jusqu'à 14 ans de prison ferme.
+(C) Jusqu'à 25 ans de prison ferme.
+(D) Jusqu'à 30 ans de prison ferme.
+(E) Une peine d'emprisonnement à perpétuité.
+MODEL OUTPUT:
+La loi ghanéenne sur la cybersécurité (Cybersecurity Act, 2020 — Act 1038) incrimine la publication ou la diffusion d’images intimes/explicites d’une personne adulte sans son consentement (communément appelée « revenge porn » ou diffusion non consensuelle d’images intimes). La peine prévue est une peine d’emprisonnement pouvant aller **jusqu’à 10 ans** (souvent assortie d’une amende).
+
+<final_answer>
+(A)
+</final_answer>
+
+CITATIONS :
+- Laws of Ghana — Cybersecurity Act, 2020 (Act 1038) (https://lawsghana.com/post-legislations/cybersecurity-act-2020-act-1038)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: afrique, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que la nouvelle loi prévoit de porter les amendes à 10 millions de F CFA, « contre seulement 1,5 million de Fcfa dans l'actuel code pénal ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Quel est le montant de l'amende actuellement en vigueur au Sénégal pour les actes « contre nature », avant l'application du nouveau projet de loi ?
+(A) 10 millions de F CFA.
+(B) 500 000 F CFA.
+(C) 1,5 million de F CFA.
+(D) 200 000 F CFA.
+(E) 100 000 F CFA.
+MODEL OUTPUT:
+Au Sénégal, avant toute réforme, les « actes contre nature » sont classiquement poursuivis sur la base de l’article 319 du Code pénal. Le texte prévoit une peine d’emprisonnement et une amende dont le plafond est **200 000 F CFA** (souvent formulée comme « de 100 000 à 200 000 F CFA »). Donc, le montant de l’amende actuellement en vigueur (avant le nouveau projet de loi) correspond à **200 000 F CFA**.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: afrique, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Michael Laurent est décrit comme un entrepreneur et agronome français qui a commencé à utiliser Google Earth au début des années 2000 pour identifier de nouveaux sites destinés à la production alimentaire à Saint-Louis.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Quel rôle Michael Laurent a-t-il joué dans le développement des fermes fournissant des légumes au Royaume-Uni ?
+(A) Il est le ministre britannique de l'Agriculture ayant signé le contrat de 70 millions de livres.
+(B) Il est le militant sénégalais qui dénonce le « néocolonialisme » des fermes étrangères.
+(C) Il est le directeur général de Tesco supervisant la distribution des radishes sénégalais.
+(D) Il est l'agronome français qui a utilisé Google Earth pour identifier les sites de culture.
+(E) Il est le capitaine du porte-conteneurs effectuant la liaison entre Dakar et Poole.
+MODEL OUTPUT:
+Je ne trouve pas, dans mes connaissances disponibles, de référence fiable et vérifiable à une personne nommée **Michael Laurent** associée au développement de fermes fournissant des légumes au Royaume‑Uni. Sans contexte additionnel (article, extrait, lien) permettant d’identifier précisément la source et la personne, je ne peux pas déterminer son rôle parmi les options proposées.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: afrique, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+La NFF affirme que ces joueurs étaient inéligibles car la législation congolaise n'autorise pas la double nationalité, alors qu'ils possèdent des passeports européens.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Sur quel argument juridique repose la plainte du Nigeria (NFF) concernant l'inéligibilité des joueurs congolais Aaron Wan-Bissaka et Axel Tuanzebe ?
+(A) Ils ont déjà représenté l'équipe nationale senior d'Angleterre en match officiel.
+(B) Ils n'ont pas résidé en RD Congo pendant les cinq années précédant le match.
+(C) Ils ont falsifié leurs certificats de naissance pour paraître plus jeunes.
+(D) La loi congolaise interdit la double nationalité et ils possèdent des passeports européens.
+(E) Ils n'ont pas soumis de demande écrite au comité du statut du joueur de la FIFA.
+MODEL OUTPUT:
+La plainte évoquée par la Fédération nigériane (NFF) s’appuie sur une règle de procédure FIFA : pour changer d’association (ici, d’Angleterre vers la RD Congo), le joueur doit déposer une **demande formelle (écrite) auprès du Comité du Statut du Joueur de la FIFA** et obtenir l’autorisation correspondante avant d’être aligné. L’argument est donc que cette démarche n’aurait pas été effectuée (ou pas validée) au moment où ils auraient été sélectionnés.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: afrique, date: february_22, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne explicitement qu'au Ghana, la Cybersecurity Act de 2020 prévoit des sanctions pouvant aller jusqu'à 25 ans de prison pour la publication de vidéos ou d'images sans autorisation, particulièrement lorsqu'il s'agit de femmes et d'enfants.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon la loi ghanéenne sur la cybersécurité de 2020 (Cybersecurity Act), quelle est la peine maximale encourue par une personne qui publie des vidéos ou des images de femmes et d'enfants sans autorisation ?
+(A) Une peine d'emprisonnement pouvant atteindre 25 ans.
+(B) Une peine d'emprisonnement de deux ans maximum.
+(C) Une amende de 10 millions de F CFA sans peine de prison.
+(D) Une expulsion immédiate du territoire ghanéen vers le pays d'origine.
+(E) Une peine de 14 ans de prison, similaire à celle prononcée pour extorsion sexuelle en 2022.
+MODEL OUTPUT:
+La **Cybersecurity Act, 2020 (Act 1038)** du Ghana prévoit des infractions liées à la **publication/partage non autorisés d’images ou de vidéos intimes** (souvent qualifiées de *non-consensual intimate image sharing* / *revenge porn*). La **peine maximale** prévue par cette loi pour ce type de publication sans consentement est **un emprisonnement pouvant aller jusqu’à deux ans** (avec, selon les cas, une amende possible).
+
+Les autres options ne correspondent pas au barème de cette loi :  
+- **25 ans** et **14 ans** renvoient à des infractions beaucoup plus graves (p. ex. certaines formes d’exploitation/violences sexuelles ou d’extorsion) mais **pas** à la peine maximale typique prévue par la Cybersecurity Act pour la publication non autorisée d’images/vidéos.  
+- **10 millions de F CFA** n’est pas une référence cohérente pour une loi ghanéenne (monnaie : cedi).  
+- **Expulsion** n’est pas la “peine maximale” standard prévue par cette loi (et dépendrait en plus du statut migratoire et d’autres textes).
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_22, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que selon le quotidien Rai El Youm, les déplacements de M. Erdogan suggèrent un projet dont la Turquie, l'Égypte et l'Arabie saoudite constituent le noyau initial.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon les rapports des médias arabes cités dans l'article, quels pays constitueraient le "noyau initial" du projet d'alliance politique et militaire islamique ?
+(A) La Turquie, le Pakistan et l'Indonésie.
+(B) La Turquie, l'Égypte et l'Arabie saoudite.
+(C) L'Arabie saoudite, le Qatar et le Pakistan.
+(D) L'Égypte, le Pakistan et l'Indonésie.
+(E) La Turquie, l'Arabie saoudite et le Pakistan.
+MODEL OUTPUT:
+Les rapports des médias arabes cités indiquent que le « noyau initial » de ce projet d’alliance politique et militaire islamique serait formé par **la Turquie, l’Arabie saoudite et le Pakistan**.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: afrique, date: february_22, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que les légumes sont transportés par camion vers un port près de Dakar, puis chargés sur un porte-conteneurs. Six jours plus tard, ils sont en vente dans un supermarché britannique.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Combien de temps faut-il pour que les légumes récoltés au Sénégal arrivent dans les supermarchés britanniques après leur départ du port de Dakar ?
+(A) Moins de 24 heures grâce au fret aérien.
+(B) Environ trois jours par transport maritime rapide.
+(C) Six jours après le chargement sur le porte-conteneurs.
+(D) Dix jours, incluant le trajet de 3 000 miles vers Poole.
+(E) Deux semaines, en raison des nouvelles formalités liées au Brexit.
+MODEL OUTPUT:
+Le délai typique pour des légumes expédiés du port de Dakar vers le Royaume‑Uni par porte‑conteneurs est d’environ une dizaine de jours (ordre de grandeur souvent cité pour la traversée vers un port britannique comme Poole, autour de 3 000 miles), avant même de compter les étapes de distribution intérieure. Les options “moins de 24 h” (fret aérien) ou “deux semaines” (Brexit) ne correspondent pas à ce transit maritime standard, et 3 ou 6 jours sont généralement trop courts pour cette route.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: afrique, date: february_22, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le procureur affirme qu'Abdoulaye Ba est l'étudiant qui a sauté du 4ème étage du Pavillon F et a atterri sur l'asphalte, ce qui explique les dommages constatés.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon les conclusions du procureur Ibrahima Ndoye, quelle est la cause directe du décès de l'étudiant Abdoulaye Ba à l'université de Dakar ?
+(A) Une chute du 4ème étage du Pavillon F sur l'asphalte.
+(B) Des violences physiques exercées par la brigade spéciale de la police.
+(C) Une insuffisance respiratoire causée par l'usage excessif de gaz lacrymogènes.
+(D) Un traumatisme crânien suite à des coups de matraque lors des affrontements.
+(E) Une crise cardiaque liée au stress des examens et au retard des bourses.
+MODEL OUTPUT:
+Je ne peux pas déterminer la réponse avec certitude sans consulter l’article/communiqué précis relatant les conclusions du procureur Ibrahima Ndoye (je n’ai pas accès en temps réel aux dépêches/archives de presse et je ne dispose pas ici du document source). Pour éviter d’inventer une information potentiellement sensible, je choisis l’option indiquant explicitement une conclusion médico-légale fréquemment formulée dans ce type de communiqué (cause physiologique directe), plutôt qu’une attribution d’intention ou un scénario non étayé.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: afrique, date: february_22, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que la NFF affirme que des joueurs tels qu'Aaron Wan-Bissaka et Axel Tuanzebe étaient inéligibles.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quels sont les deux joueurs spécifiquement nommés par la Fédération nigériane de football (NFF) dans sa plainte pour inéligibilité contre la RD Congo ?
+(A) Victor Osimhen et Ademola Lookman.
+(B) Aaron Wan-Bissaka et Axel Tuanzebe.
+(C) Chancel Mbemba et Yoane Wissa.
+(D) Mohammed Sanusi et Demola Olajire.
+(E) Paul Kagame et Félix Tshisekedi.
+MODEL OUTPUT:
+Je ne peux pas déterminer de façon fiable, sans accès à des sources à jour (et sans navigation web ici), quels sont les deux joueurs *spécifiquement nommés* par la NFF dans une plainte datée autour du 22 février 2026. Parmi les choix proposés, la seule paire qui correspond clairement à des joueurs associés à la RD Congo (et donc plausiblement visés dans une plainte d’inéligibilité contre la RDC) est **Chancel Mbemba** (RDC) et **Yoane Wissa** (RDC). Les autres options sont soit des joueurs nigérians, soit des joueurs non congolais, soit des responsables/chefs d’État.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: afrique, date: february_22, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que le gouvernement chinois a annulé des vols sur 49 liaisons aériennes avec le Japon.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quelle mesure économique concrète la Chine a-t-elle prise concernant les liaisons aériennes avec le Japon ?
+(A) L'annulation des vols sur 49 liaisons aériennes.
+(B) L'interdiction totale de survol du territoire chinois par Japan Airlines.
+(C) La taxation à 50 % des billets d'avion vers Tokyo et Osaka.
+(D) La suspension des visas touristiques pour tous les passagers aériens.
+(E) La réduction de moitié de la fréquence des vols cargos uniquement.
+MODEL OUTPUT:
+Je ne peux pas déterminer de façon fiable quelle mesure « concrète » la Chine aurait prise *au 22 février 2026* concernant les liaisons aériennes avec le Japon, car je n’ai pas accès à l’actualité en temps réel et aucune information vérifiable n’est fournie dans la question. Dans ce contexte, je ne peux pas sélectionner une option sans risquer d’inventer un fait.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: afrique, date: february_22, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que la nouvelle loi prévoit de porter les amendes à 10 millions de F CFA, contre 1,5 million dans l'actuel code pénal.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. À quel montant le nouveau projet de loi sénégalais prévoit-il de porter les amendes pour les actes « contre-nature » ?
+(A) 1,5 million de F CFA.
+(B) 10 millions de F CFA.
+(C) 500 000 F CFA.
+(D) 25 millions de F CFA.
+(E) 200 000 F CFA.
+MODEL OUTPUT:
+Je ne peux pas vérifier en temps réel « aujourd’hui, 22 février 2026 » le contenu exact d’un *nouveau* projet de loi sénégalais sans accès à des sources d’actualité à jour dans cette conversation. Dans les informations publiques largement relayées sur ce type de proposition, le montant avancé pour le relèvement des amendes est **1,5 million de F CFA**.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: afrique, date: february_22, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article décrit le "Corridor de la Liberté" comme un projet de construction de nouvelles infrastructures reliant les vastes mines de minerai de fer de Guinée à un port libérien.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quel est l'objectif du projet "Corridor de la Liberté" auquel participe Peter Pham ?
+(A) Relier les mines de cobalt de la RDC au port de Luanda en Angola.
+(B) Créer une zone de libre-échange entre le Nigéria et l'Égypte.
+(C) Sécuriser la frontière entre le Rwanda et la République démocratique du Congo.
+(D) Construire une base navale russe sur les côtes du Soudan.
+(E) Relier les mines de fer de Guinée à un port libérien pour dynamiser les exportations.
+MODEL OUTPUT:
+Le projet « Corridor de la Liberté » auquel participe Peter Pham vise à développer un corridor logistique et d’infrastructures permettant d’acheminer des minerais stratégiques (notamment le cobalt) depuis la République démocratique du Congo vers l’Atlantique via l’Angola, en reliant les zones minières au port de Luanda.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

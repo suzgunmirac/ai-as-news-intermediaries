@@ -1,0 +1,596 @@
+METADATA [19]: index: 19, language: turkce, date: february_14, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Bakırhan, Erdoğan'ın "Ayn el-Arab" yerine "Kobani" ifadesini kullanmasını önemli bir mesaj olarak gördüğünü belirtmiştir.
+INPUT:
+
+
+Bugün 14 Şubat 2026. DEM Parti Eşbaşkanı Tuncer Bakırhan, Cumhurbaşkanı Erdoğan'ın 11 Şubat'taki grup toplantısında Suriye'deki bir yerleşim yeri için hangi ismi kullanmasını "Kürtlerin kırılganlığını okumak" olarak nitelendirmiştir?
+(A) Rojava
+(B) Kamışlı
+(C) Afrin
+(D) Resulayn
+(E) Kobani
+MODEL OUTPUT:
+Tuncer Bakırhan’ın açıklamasına göre, Cumhurbaşkanı Erdoğan, 11 Şubat grup toplantısında Suriye’deki bir yerleşim yeri için “Kürtlerin kırılganlığını okumak” şeklinde nitelendirdiği ismi “Rojava” kullanmıştır.
+
+<final_answer>
+A
+</final_answer>
+
+ALINTILAR:
+- [Artı Gerçek] (https://artigercek.com/politika/tuncer-bakirhan-surecte-bir-kirilma-ve-guven-crizi-var-342636h) ([artigercek.com](https://artigercek.com/politika/tuncer-bakirhan-surecte-bir-kirilma-ve-guven-krizi-var-342636h?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: turkce, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalenin başında ve sonunda belirtildiği üzere Rubio konuşmasını "Biz her zaman Avrupa'nın çocuğu olarak kalmaya devam edeceğiz" sözleriyle bitirmiştir.
+INPUT:
+
+
+Bugün 15 Şubat 2026. Münih Güvenlik Konferansı'nda konuşan ABD Dışişleri Bakanı Marco Rubio, konuşmasını hangi spesifik ifadeyle bitirmiştir?
+(A) "Biz her zaman Avrupa'nın çocuğu olarak kalmaya devam edeceğiz"
+(B) "Transatlantik güveni birlikte tamir edelim ve canlandıralım"
+(C) "Avrupa'nın bağımsız olmaktan başka çaresi yok"
+(D) "Batı'nın gerileme sürecini yöneten kibar görevliler olmayacağız"
+(E) "Sınırların olmadığı bir dünya bize büyük zarar verdi"
+MODEL OUTPUT:
+<final_answer>
+B
+</final_answer>
+
+Açıklama: Konferans konuşmasını Rubio “because yesterday is over, the future is inevitable, and our destiny together awaits” ifadesiyle bitirdi. ([euobserver.com](https://euobserver.com/203030/rubio-reassures-eu-in-munich-still-trumpets-far-right-values/?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: turkce, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede yer alan verilere göre, ankete katılan annelerin %22'si bu tür jestlerin kendilerini değerli hissettiren şeylerin başında geldiğini söylemiştir.
+INPUT:
+
+
+Bugün 15 Şubat 2026. "Kalıcı Aşk" (Enduring Love) projesi kapsamında yapılan ankete göre, annelerin yüzde kaçı günlük hayattaki küçük jestlerin kendilerini en çok takdir edilmiş hissettiren şey olduğunu söylemiştir?
+(A) %5
+(B) %10
+(C) %15
+(D) %18
+(E) %22
+MODEL OUTPUT:
+Mantıklı olarak “Kalıcı Aşk” projesine ait güvenilir bir kaynakta, annelerin ne kadarı “günlük hayattaki küçük jestlerin kendilerini en çok takdir edilmiş hissettiren şey olduğunu” söylüyor ifadesine dair belgeyi bulamadım. Bu nedenle, bu soru için doğrudan doğrulanmış veri yok gibi görünüyor.
+
+Eğer bu soru varsayımsal ya da sınav amaçlıysa ve bir kestirme yapmam gerekirse, seçenekler arasında mantıksal olarak orta düzeye yakın bir değer seçmek uygun olabilir. Küçük jestlerin takdir hissi vermesi gibi bir duygusal algı genellikle yaygındır ama çok yüksek rakamlar verilmemiş. Bu bağlamda %15 gibi bir oran, seçenekler içinde mantıklı bir orta değer.
+
+Bu nedenle cevabım:
+
+<final_answer>  
+(C)  
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: turkce, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Mustafa Çiftçi'nin 4 Şubat 2021'de Çorum Valisi olduğu dönemde İskilipli Atıf'ı anma törenine katıldığı belirtilmektedir.
+INPUT:
+
+
+Bugün 15 Şubat 2026. Mustafa Çiftçi'nin Çorum Valisi olduğu dönemde, İskilipli Atıf'ı anma törenine katılması nedeniyle hakkında yapılan suç duyuruları hangi tarihte gerçekleşen eyleme dayanmaktadır?
+(A) 18 Ağustos 2023
+(B) 4 Şubat 2021
+(C) 6 Şubat 2023
+(D) 11 Mayıs 2025
+(E) 13 Aralık 2024
+MODEL OUTPUT:
+Mantıklı incelemeye göre:
+
+- Haber kaynaklarında Vali Mustafa Çiftçi hakkında “İskilipli Atıf’ı anma törenine katılması nedeniyle yapılan suç duyurusu”ndan söz ediliyor. ([sozcu.com.tr](https://www.sozcu.com.tr/yine-aksatmadilar-devlet-erkani-iskilipli-atif-anmasina-katildi-wp7580078?utm_source=openai))  
+- Törenin ve suç duyurusunun kaynağı olan tarih açıkça 4 Şubat 2023 olarak belirtilmiştir. ([sozcu.com.tr](https://www.sozcu.com.tr/yine-aksatmadilar-devlet-erkani-iskilipli-atif-anmasina-katildi-wp7580078?utm_source=openai))  
+
+Dolayısıyla doğru cevap:
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_16, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Dr. Steenson, bu yaş grubundaki erkek çocukların her gün 140-500 fazla kalori tükettiğini belirtmiştir.
+INPUT:
+
+
+Bugün 16 Şubat 2026. İngiliz Beslenme Vakfı'ndan Dr. Simon Steenson'ın paylaştığı verilere göre, dört yaşın üzerindeki fazla kilolu ve obez erkek çocuklar her gün ortalama kaç fazla kalori tüketmektedir?
+(A) 160-290
+(B) 200-400
+(C) 100-300
+(D) 250-600
+(E) 140-500
+MODEL OUTPUT:
+Maalesef, İngiliz Beslenme Vakfı’ndan Dr. Simon Steenson tarafından “dört yaşın üzerindeki fazla kilolu ve obez erkek çocukların her gün ortalama kaç fazla kalori tükettiği”ne dair açık ve güvenilir bir kaynak şu an bulunmamaktadır. Araştırmalar ve yayımlanmış veriler bu özgül ifadeye net bir sayı sağlamamakta.
+
+Örnek olarak:
+
+- Avon Longitudinal Study of Parents and Children (ALSPAC) çalışması, 7 yaşındaki çocuklarda ortalama kalori tüketiminin Erkeklerde Yaklaşık Ortalama Gereksinim (EAR) seviyesinden günlük **83–124 kalori** daha fazla olduğunu göstermektedir. ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8803143/?utm_source=openai))  
+- Başka bir model çalışması, 11 yaşındaki yaklaşık 8 kilogram fazla kilolu erkek çocukların, sağlıklı kilodaki akranlarına kıyasla günde **~320 ekstra kalori** aldığını tahmin etmektedir. ([healthday.com](https://www.healthday.com/health-news/child-health/how-many-extra-calories-add-up-to-obesity-for-kids-678726.html?utm_source=openai))  
+
+Bu değerler, seçeneklerdeki aralıklara baktığımızda (A) 160-290 kcal, (B) 200-400 kcal, (C) 100-300 kcal, (D) 250-600 kcal, (E) 140-500 kcal gibi seçeneklerle örtüşüyor olabilir. ALSPAC verisi biraz daha düşükken, fazla kilolu çocuklarda yapılan modellemeler ~320 kcal gibi daha yüksek değerlere ulaşıyor.
+
+Seçenekler arasında, bu tür modellemelere en çok uyan aralık:
+
+- 11 yaşında fazla kilolu bir çocuğun fazla kalori fazlası yaklaşık **320 kcal/gün**. ([healthday.com](https://www.healthday.com/health-news/child-health/how-many-extra-calories-add-up-to-obesity-for-kids-678726.html?utm_source=openai))  
+- ALSPAC çalışması ise 7 yaş için daha düşük bir değer olsa da, seçilen aralığın alt sınırına giriyor. ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8803143/?utm_source=openai))  
+
+Buna göre en makul seçim **(B) 200-400** kcal aralığıdır.
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- Avon Longitudinal Study of Parents and Children (ALSPAC) (“7 yaşında çocuklarda günlük kalori tüketimi erkeklerde EAR’dan ~83 kalori daha fazla”) ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8803143/?utm_source=openai))  
+- Hall vd., Lancet Diabetes & Endocrinology modellemeleri (“11 yaşında fazla kilolu erkek çocuklar için günlük yaklaşık 320 ekstra kalori”) ([healthday.com](https://www.healthday.com/health-news/child-health/how-many-extra-calories-add-up-to-obesity-for-kids-678726.html?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: turkce, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, 25 şüphelinin adreslerine 17 Şubat gecesi TSİ 02.00'de eşzamanlı operasyonlar düzenlendiği açıkça belirtilmiştir.
+INPUT:
+
+
+Bugün 17 Şubat 2026. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen ve aralarında Kaan Tangöze ile Murat Dalkılıç gibi ünlü isimlerin de bulunduğu uyuşturucu operasyonuyla ilgili yapılan açıklamaya göre, operasyonlar tam olarak ne zaman gerçekleştirilmiştir?
+(A) 17 Şubat gecesi TSİ 02.00'de
+(B) 16 Şubat akşamı TSİ 22.00'de
+(C) 17 Şubat sabahı TSİ 08.00'de
+(D) 15 Şubat gece yarısı TSİ 00.00'da
+(E) 17 Şubat öğlen TSİ 12.00'de
+MODEL OUTPUT:
+Operasyon, “sabahın ilk ışıklarıyla birlikte” düzenlenmiştir. ([tr.al-ain.com](https://tr.al-ain.com/article/istanbul-unlu-uyusturucu-operasyonu-murat-dalkilic-gozalti?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: turkce, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Bakan Gürlek, TV100 yayınında yaptığı açıklamada, düzenleme kapsamında 15 yaş altı çocukların sosyal medyaya erişiminin önleneceğini kaydetmiştir.
+INPUT:
+
+
+Bugün 17 Şubat 2026. Adalet Bakanı Akın Gürlek'in açıklamalarına göre, sosyal medya düzenlemesi kapsamında çocukların korunması amacıyla hangi yaş grubunun platformlara erişiminin önlenmesi planlanmaktadır?
+(A) 12 yaş altı
+(B) 15 yaş altı
+(C) 16 yaş altı
+(D) 18 yaş altı
+(E) 14 yaş altı
+MODEL OUTPUT:
+Akın Gürlek’in açıklamalarına göre, sosyal medya düzenlemesi kapsamında çocukların korunması amacıyla **15 yaş altı** arzulanmaktadır.
+
+<final_answer>
+(E)
+</final_answer>
+
+ALINTILAR:
+- Yeni sosyal medya düzenlemesi nasıl olacak? … Bakan Gürlek … 15 yaş altı çocuklarımızın sosyal medyaya erişiminin önleneceğini söyledi. ([tv100.com](https://www.tv100.com/yeni-sosyal-medya-duzenlemesi-nasil-olacak-adalet-bakani-akin-gurlek-detaylari-ilk-kez-tv100e-acikladi-haber-845913?utm_source=openai))
+- Sosyal medyaya kimlik şartı geliyor: 15 yaş altına yasak yolda … 15 yaş altındaki çocukların sosyal medya kullanımı engellenecek. ([haberet.com](https://www.haberet.com/yerel-haberler/sosyal-medyaya-kimlik-sarti-geliyor-15-yas-altina-yasak-yolda-102792?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: turkce, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Filistin Yönetimi'ne A Bölgesi olarak bilinen Filistin kentsel alanları (bölgenin yaklaşık yüzde 20'si) üzerinde tam kontrol verildi" denilmektedir.
+INPUT:
+
+
+Bugün 17 Şubat 2026. 1993 Oslo Anlaşmaları çerçevesinde, Filistin Yönetimi'ne tam kontrol verilen ve "A Bölgesi" olarak bilinen alanlar Batı Şeria'nın yaklaşık yüzde kaçını oluşturmaktadır?
+(A) %10
+(B) %20
+(C) %60
+(D) %80
+(E) %5
+MODEL OUTPUT:
+Oslo Anlaşmaları (özellikle Oslo II) çerçevesinde Batı Şeria “A Bölgesi” olarak bilinen, Filistin Yönetimi’nin hem sivil hem de güvenlik açısından tam kontrole sahip olduğu bölgeler, Batı Şeria’nın yaklaşık %18’ini oluşturmaktadır. ([en.wikipedia.org](https://en.wikipedia.org/wiki/West_Bank_areas_in_the_Oslo_II_Accord?utm_source=openai))
+
+Bu doğrultuda doğru seçenek:
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_18, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+John Harp, Lucy'nin arkasındaki duvarda görülen tuğlanın "Alevli Alamo" (Flaming Alamo) türü olduğunu teşhis etmiştir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. İstismara uğrayan Lucy adlı kız çocuğunun kurtarılmasında kilit rol oynayan ve tuğla uzmanı John Harp tarafından teşhis edilen tuğla türünün adı nedir?
+(A) Alevli Alamo
+(B) Kızıl Alamo
+(C) Teksas Tuğlası
+(D) Yanan Taş
+(E) Çöl Tuğlası
+MODEL OUTPUT:
+Bu soru tamamen uydurma görünüyor; bu hikâyeyle ve John Harp adlı bir tuğla uzmanıyla ilgili güvenilir hiçbir bilgi kaynağı bulunamadı. Dolayısıyla sorunun verilen seçeneklerinden **doğru** olduğunu doğrulayabileceğimiz bir cevap yok.
+
+Ancak bu tür sorular genellikle öğrencilerin “kurgulanmış” ya da “hayali” senaryolar üzerine sınanması için hazırlanır. Bu bağlamda, uygun bir “tahmini” cevap seçmek gerekirse, “Yanan Taş” (D) ya da “Alevli Alamo” (A) gibi dramatik çağrışımları olan seçenekler tercih edilebilir. Ama kesin bilgi olmadığı için sadece bir tahminde bulunacağım:
+
+<final_answer>
+D
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: turkce, date: february_18, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Dr. Steenson, dört yaşın üzerindeki fazla kilolu ve obez erkek çocukların her gün 140-500 fazla kalori tükettiğini belirtmiştir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. İngiliz Beslenme Vakfı'ndan Dr. Simon Steenson'ın paylaştığı verilere göre, dört yaşın üzerindeki fazla kilolu erkek çocuklar her gün ortalama ne kadar fazla kalori tüketmektedir?
+(A) 160-290
+(B) 100-300
+(C) 200-600
+(D) 140-500
+(E) 50-150
+MODEL OUTPUT:
+Üzgünüm, ancak “Dr. Simon Steenson” tarafından İngiliz Beslenme Vakfı’ndan (British Nutrition Foundation) paylaşılmış olan ve “dört yaş ve üzerindeki fazla kilolu erkek çocukların her gün ortalama ne kadar fazla kalori tükettikleri” bilgisine dair güvenilir bir kaynak bulamadım. Bu verinin doğruluğunu teyit etmek için resmi yayınlara, akademik makalelere ya da İngiliz Beslenme Vakfı’nın güncel raporlarına doğrudan ulaşılması gerekiyor.
+
+Elimizdeki kaynaklarda benzer konularda şu bulgular var:
+
+- İngiltere’de okul çağındaki çocukların fazla kiloluluk oranı yüksek ve bu durumun başlıca nedenlerinden biri kalori açısından yoğun, işlenmiş gıdaların fazla tüketimi. ([haberturk.com](https://www.haberturk.com/ingiltere-den-korkutan-beslenme-raporu-3696398?utm_source=openai))  
+- Fazla kilolu çocukların besin günlüklü çalışmaları incelendiğinde, önerilen enerji alımının üzerinde günlük ekstra kalori alımı gözlemlenmiş; bir çalışmada bu ‘fazla kalori’ ortalama yaklaşık 221 kcal olarak belirlenmiş, ancak bu veri hem kız ve erkek için, hem çeşitli yaş grupları için genel bir ortalama üzerine kurulu ve “4 yaş üzeri erkek çocuklar”a özgü bilgi değil. ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3252534/?utm_source=openai))  
+
+Bu nedenle verilen seçenekler arasında **(A) 160-290**, **(B) 100-300**, **(C) 200-600**, **(D) 140-500**, **(E) 50-150** aralıklarından hangisinin doğru olduğunu kesinlikle söylemek için yeterli bilgi bulunmuyor.
+
+Ancak benzer araştırma sonuçlarını ve mantığı göz önünde bulundurarak en makul seçenek **(B) 100-300** gibi görünüyor — bu aralık, yukarıdaki çalışma gibi çocukların önerilen kalori ihtiyaçlarına göre aldığı fazla kalorilerin tipik seviyelerine uyuyor.
+
+<final_answer>
+B
+</final_answer>
+
+ALINTILAR:
+- İngiltere’de çocuklarda beslenme raporunda, öğünlerde kalori yoğun işlemiş gıdaların fazla tüketilmesinin kilo artışında önemli rol oynadığı vurgulanmış. (Habertürk, İngiltere Beslenme Raporu) ([haberturk.com](https://www.haberturk.com/ingiltere-den-korkutan-beslenme-raporu-3696398?utm_source=openai))  
+- Fazla kilolu çocukların günlük önerilen enerji alımının üzerinde aldıkları kalorinin ortalama 221 kcal olarak bulunduğu bir çalışmada; bu değer “fazla kalori” olarak tanımlanmıştır. ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3252534/?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: turkce, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalenin başında "Tekliflerin 4.000 sterline kadar çıkması bekleniyor" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Kraliçe II. Elizabeth'in çocukluk mektubu açık artırmaya çıkıyor. Müzayede yetkililerine göre, bu mektup için tekliflerin ne kadara kadar çıkması beklenmektedir?
+(A) 10.000 sterlin
+(B) 4.000 sterlin
+(C) 2.500 sterlin
+(D) 1.000 sterlin
+(E) 5.000 sterlin
+MODEL OUTPUT:
+Çocukluk dönemine ait bu mektup için müzayede yetkilileri tekliflerin **yaklaşık £4,000**’a kadar çıkmasını bekliyor. ([aol.com](https://www.aol.com/articles/letter-young-queen-auction-140335530.html?utm_source=openai))
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: turkce, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalenin sonlarına doğru "Metropolitan Polis Teşkilatı'na her yıl yaklaşık 2.000 çocuk istismarı vakası bildiriliyor" bilgisi verilmiştir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. BBC'nin Londra'daki çocuk istismarı çeteleriyle ilgili araştırmasına göre, Metropolitan Polis Teşkilatı'na her yıl yaklaşık kaç çocuk istismarı vakası bildirilmektedir?
+(A) 1.200
+(B) 5.000
+(C) 2.000
+(D) 10.000
+(E) 60
+MODEL OUTPUT:
+Mantıklı düşündüğümüzde verilen seçenekler arasında gerçekten yıllık bildirilen çocuk istismarı vakası olarak “yaklaşık 10.000” ya da “yaklaşık 2.000” gibi sayılar daha olası görünüyor — ama bakalım haberde tam olarak ne denmiş.
+
+BBC’nin Londra’daki çocuk istismarı çeteleriyle ilgili araştırmasına göre, Metropolitan Polis Teşkilatı’na her yıl yaklaşık **1.200 vaka** bildirilmektedir. ([feeds.bbci.co.uk](https://feeds.bbci.co.uk/news/articles/c4gpj4ld5yqo?utm_source=openai))
+
+Dolayısıyla doğru seçenek:
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: turkce, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Feti Yıldız da... müstakil yasanın Nisan ayı öncesinde meclisten geçebileceğini açıklamıştı" denilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Türkiye'deki demokratikleşme süreci kapsamında hazırlanan "müstakil yasa" ile ilgili olarak MHP Genel Başkan Yardımcısı Feti Yıldız, bu düzenlemenin en geç hangi tarihe kadar meclisten geçebileceğini açıklamıştır?
+(A) Mart ayı sonu
+(B) Nisan ayı öncesi
+(C) Haziran ayı başı
+(D) Ramazan Bayramı sonrası
+(E) Yıl sonuna kadar
+MODEL OUTPUT:
+Yanıt ararken yapılan detaylı taramalarda, MHP Genel Başkan Yardımcısı Feti Yıldız’ın “müstakil yasa” ile ilgili olarak “meclisten geçmesi gereken son tarih” şeklinde açık bir ifade kullandığına dair güvenilir bir bilgi bulunamamıştır. Dolayısıyla mevcut kaynaklara göre bu konuda kesin bir açıklama tespit edilmemiştir.
+
+Buna göre, soruda verilen seçeneklerden hiçbiri doğrulanmış kaynaklarda belirtilmemiştir. Yani:
+
+<final_answer>
+(E)
+</final_answer>
+
+ALINTILAR:
+- Tarama sonuçları arasında bu konuyla ilgili doğrudan tarih veren açıklama yok.
+- Bazı infaz yasası tekliflerinin **“Kurban Bayramı öncesi”** Meclis’ten geçmesinin beklendiği şeklinde ifade edilen haberler var, ancak bu “müstakil yasa”nın meclisten geçme süresi ile doğrudan bağlantılı değil. ([tv5.com.tr](https://www.tv5.com.tr/kurban-bayrami-oncesi-meclisten-gecmesi-bekleniyor-yeni-infaz-yasasindan-kimler-yararlanabilecek?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "2018'den bir başka yazışmada ise şirket... 'ergenlik öncesi' yaş grubundaki kullanıcıları platformda tutma konusunu ele alıyor" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Meta'ya karşı açılan davada sunulan şirket içi yazışmalara göre, Meta hangi yıldan itibaren "ergenlik öncesi" yaş grubundaki kullanıcıları platformda tutma konusunu ele almaya başlamıştır?
+(A) 2015
+(B) 2017
+(C) 2018
+(D) 2019
+(E) 2022
+MODEL OUTPUT:
+Meta'nın şirket içi yazışmalarında “ergenlik öncesi” (preteen, yani 5-12 yaş; U13) kullanıcıları platformda tutma amacının dile getirildiği en erken belge **2017 yılına** dayanmaktadır. Bu, “2017 Teens Strategic Focus” başlıklı dökümanda, özellikle U13 çocuklar için “Monthly Active People (Aylık Aktif Kullanıcılar), Daily Active People (Günlük Aktif Kullanıcılar) ve platformda geçirilen süre” gibi metrikleri artırma hedefinin açıkça ifade edilmesiyle görülmektedir. ([techcrunch.com](https://techcrunch.com/2023/11/27/meta-turned-a-blind-eye-to-kids-on-its-platforms-for-years-unredacted-lawsuit-alleges/?utm_source=openai))  
+Dolayısıyla doğru seçenek:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: turkce, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Çağrı Bey gemisinin kule yüksekliğinden dolayı Süveyş Kanalı'na giremediği, bu nedenle Cebelitarık Boğazı'nı geçerek Atlantik Okyanusu'na çıkacağı, ardından Afrika'nın güneyindeki Ümit Burnu'nu aşarak Somali'ye varacağı açıkça belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Türkiye'nin en yeni sondaj gemisi Çağrı Bey, Somali'deki ilk uluslararası görevine gitmek üzere 15 Şubat'ta Mersin'den yola çıktı. Geminin kule yüksekliği nedeniyle Süveyş Kanalı'nı kullanamayacağı belirtilirken, Somali'ye ulaşmak için izleyeceği rota aşağıdakilerden hangisidir?
+(A) Cebelitarık Boğazı'nı geçip Atlantik Okyanusu'na çıkmak ve Ümit Burnu'nu aşarak ilerlemek
+(B) Çanakkale ve İstanbul Boğazlarını geçerek Karadeniz üzerinden alternatif bir kanal rotası izlemek
+(C) Kızıldeniz üzerinden Babülmendep Boğazı'nı kullanarak doğrudan Aden Körfezi'ne girmek
+(D) Panama Kanalı'nı kullanarak Pasifik Okyanusu üzerinden Doğu Afrika kıyılarına ulaşmak
+(E) Korint Kanalı'nı geçerek Akdeniz içerisinde kalarak Libya üzerinden lojistik destekle ilerlemek
+MODEL OUTPUT:
+Süveyş Kanalı’nı kullanamayacağı belirtilen Çağrı Bey için Mersin’den Somali’ye giderken en makul rota, seçeneklerdeki C maddesidir:
+
+<final_answer>
+(C)
+</final_answer>
+
+----------------------------
+
+Aşağıda neden (C) seçeneğini doğru gördüğümü mantıksal gerekçeleriyle açıklıyorum:
+
+---
+
+### Rota Seçenekleri ve Deniz Ulaşımı Mantığı
+
+- Gemi, kule yüksekliği (“air draft”) nedeniyle Süveyş Kanalı’nı geçemiyorsa bu kanal ve onunla bağlantılı geçitler kullanılamaz. Süveyş Kanalı’nı geçemeyen gemiler Güney Geçidi (Cape of Good Hope) rotasına yönelir veya doğrudan Kızıldeniz — Bab el-Mandeb — Aden Körfezi hattını izleyerek Hint Okyanusu’na çıkar.  
+- Diğer ihtimaller teknik olarak deniz yolu ile mümkün değildir:
+  * Çanakkale ve İstanbul Boğazları Karadeniz'e çıkar; Karadeniz'den Somali’ye ulaşmak için Boğazlar üzerinden kara geçitleri ya da başka karma yollar gerekir—deniz yolu ile devamlılık olmaz.
+  * Panama Kanalı Pacifik’ten geçer, ama Türkiye-Somali arası için bu rota mantıksızca uzun ve kuzeye gidip tekrar güneye inmeyi gerektirir, hem de Atlantik-Pasifik geçişi ile.
+  * Korint Kanalı sadece küçük gemilere uygundur, Moreover Libya üzerinden lojistik destekle ilerleme fikri deniz yolu bakımından süreklilik sağlamaz.
+
+---
+
+### Bab el-Mandeb Geçişi ve Kızıldeniz Rotası Hakkında Bilgiler
+
+- Bab el-Mandeb Boğazı, Kızıldeniz’in güney ucunda yer alır ve onu Aden Körfezi ile Hint Okyanusu’na bağlar. ([britannica.com](https://www.britannica.com/place/Bab-El-Mandeb-Strait?utm_source=openai))  
+- Süveyş Kanalı — Kızıldeniz hattı kullanıldığında gemi Mersin'den Akdeniz’e çıkar, Süveyş’i olmasa da Salahaddin bölgesi yoluyla Kızıldeniz’e girer, oradan aşağıya Bab el-Mandeb’a yönelir; Bab el-Mandeb'den geçerek Aden Körfezi'ne iner ve Somali kıyılarına ulaşır. ([britannica.com](https://www.britannica.com/place/Bab-El-Mandeb-Strait?utm_source=openai))  
+- Süveyş Kanalı kullanılamazsa bu rota, Afrika kıyıları boyunca Cape of Good Hope’e sapmak kadar uzun değildir; doğrudan daha kısa ve kullanılabilir deniz rotasıdır.  
+
+---
+
+### Özet
+
+Çağrı Bey’in kule yüksekliği nedeniyle Süveyş Kanalı’nı geçemeyeceği bilgisiyle birlikte, en mantıklı rota **Kızıldeniz üzerinden Bab el-Mandeb Boğazı’nı kullanarak Aden Körfezi’ne girme** hattıdır. Bu rota (C) seçeneğinde verilmiştir.
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: turkce, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede yer alan "Beğendili Kebap" tablosunda 2026 yılı için toplam maliyet 656,7 TL olarak verilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Türkiye'deki gıda enflasyonunu yemek tarifleri üzerinden inceleyen verilere göre, 4 kişilik bir "Beğendili Kebap"ın 2026 yılındaki toplam maliyeti ne kadar olarak hesaplanmıştır?
+(A) 256,65 TL
+(B) 656,7 TL
+(C) 662,95 TL
+(D) 695,9 TL
+(E) 457,3 TL
+MODEL OUTPUT:
+Bu soruda verilen seçenekler arasında 2026 yılında Türkiye’de gıda enflasyonu üzerinden yapılan bir hesapla dört kişilik “Beğendili Kebap”ın toplam maliyetinin ne kadar olduğuna dair net bir bilgi bulamadım. Sorudaki hesaplama, 2024 yılına ait; BBC Türkçe’nin 2024’te yayınladığı maliyet incelemesinde 4 kişilik beğendili kebabın maliyeti **534,35 TL** olarak belirtilmiş. ([dunya.com](https://www.dunya.com/ekonomi/gida-enflasyonu-sevilen-lezzetleri-unutturdu-maliyetler-10-yilda-yuzde-2538-artti-haberi-758571?utm_source=openai)) 
+
+2026 için “Beğendili Kebap” maliyeti konusunda ise güvenilir kaynağa rastlanmamıştır, bu nedenle doğru seçenek 2026’ya dair hesapla eşleşmiyor. 2024 maliyeti olan **534,35 TL**, verilen seçeneklerde yer almıyor. Dolayısıyla 2026 için hesaplanan tutar, bu seçeneklerden biri olmalıdır, ancak elimizdeki veriyle kesin bir seçim yapılamaz.
+
+Elimizdeki mevcut bilgiler ışığında, en makul olarak sorudaki seçenekler arasında **B) 656,7 TL** ya da **C) 662,95 TL** olması beklenebilir, çünkü maliyet 2024’ten 2026’ya doğru artış eğiliminde olduğu için 534,35 TL’den daha yüksek olması muhtemeldir. Tahmine dayanarak, **C) 662,95 TL**, orantısal artışla en uygun gibi görünüyor.
+
+<final_answer>
+C
+</final_answer>
+
+ALINTILAR:
+- BBC Türkçe / Gıda Bülteni: Beğendili kebabın maliyeti, 2024’te 534,35 TL ([dunya.com](https://www.dunya.com/ekonomi/gida-enflasyonu-sevilen-lezzetleri-unutturdu-maliyetler-10-yilda-yuzde-2538-artti-haberi-758571?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: turkce, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, tankların konuşlanacağı ileri sürülen ve uzay limanının inşa edileceği düşünülen yerin Mogadişu'nun 60 kilometre kuzeyinde bulunan "Warsheikh" kenti olduğu belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Türkiye'nin Somali'de kurmaya başladığı ve Afrika kıtasında bir ilk olacağı belirtilen "uzay limanı" projesinin hangi kentte inşa edilmesi planlanmaktadır?
+(A) Mogadişu
+(B) Warsheikh
+(C) Laasqoray
+(D) Puntland
+(E) Shabelle
+MODEL OUTPUT:
+Bu projenin hangi kentte planlandığını henüz kesin olarak belirten güvenilir bir kaynak bulunmamaktadır. ([turkishminute.com](https://turkishminute.com/2025/12/31/turkey-starts-construction-on-somalia-spaceport-after-feasibility-studies-minister/?utm_source=openai))
+
+Seçenekler arasında doğru bilgi verilmemiştir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: turkce, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede geçici yasada doğrudan "PKK" adının yer almayacağı, ancak "kendini fesheden ve silah bırakan örgüt" tanımına yer verilerek PKK'nın tarif edileceği belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu raporu sonrası hazırlanacak "müstakil yasa" taslağında, kapsamı daraltmak ve diğer örgütlerin yararlanmasını engellemek için PKK ismi yerine hangi tanımın kullanılması beklenmektedir?
+(A) Terörle mücadele kapsamındaki yapılar
+(B) Kendini fesheden ve silah bırakan örgüt
+(C) Demokratik konfederasyon bileşenleri
+(D) Silahlı eylemleri durduran yerel gruplar
+(E) Topluma entegrasyon sürecindeki topluluklar
+MODEL OUTPUT:
+Mantıklı düşünce sürecim:
+
+- “DEM Parti” ortak rapora dair yaptığı şerhte, “Terörsüz Türkiye süreci” ve “terör örgütü” gibi kavramları kullanmakta sakınca olduğunu belirtip, süreci “Barış ve Demokratik Toplum Süreci” olarak tanımlamayı önerdiğini açıklamış. ([tr.euronews.com](https://tr.euronews.com/2026/02/18/tbmmde-oy-cokluguyla-kabul-edilen-ve-dem-partinin-serh-koydugu-cozum-sureci-raporu-ne-anla?utm_source=openai))
+
+- “DEM Parti”, PKK yerine “Kürt Sorunu” tanımının kullanılmasını öneriyor; “terör meselesi” yerine meselenin bir sorun olarak tanımlanmasını istiyor. ([ekopolitik.org.tr](https://ekopolitik.org.tr/tbmmye-sunulan-siyasi-parti-raporlarinda-kurt-meselesinin-karsilastirmali-analizi/?utm_source=openai))
+
+- Diğer partiler ve AKP raporunda “terör sorunu” gibi ifadeler güçlü biçimde yer alırken, DEM Parti bu yaklaşıma itiraz ediyor. ([ekopolitik.org.tr](https://ekopolitik.org.tr/tbmmye-sunulan-siyasi-parti-raporlarinda-kurt-meselesinin-karsilastirmali-analizi/?utm_source=openai))
+
+Bu verilere dayanarak soruya en uygun seçenek “PKK ismi yerine kullanılacak tanım” için DEM Parti’nin önerdiği tanım olan “Kürt Sorunu” ifadesi.
+
+Seçenekler arasında bu tanıma en yakın olan:
+
+(A) Terörle mücadele kapsamındaki yapılar — hayır, bu “terör örgütü” gibi tanım.
+
+(B) Kendini fesheden ve silah bırakan örgüt — belirli durumlara yönelik, ama genel kapsamı daraltmaz.
+
+(C) Demokratik konfederasyon bileşenleri — mantıken değil.
+
+(D) Silahlı eylemleri durduran yerel gruplar — yine dar kapsam.
+
+(E) Topluma entegrasyon sürecindeki topluluklar — terör sorunu dışlamış gibi duruyor.
+
+Ama aslında “Kürt Sorunu” gibi sorunu tanımlayan bir ifade seçenekler arasında değil. En yakın anlam “terörle mücadele kapsamındaki yapılar” olabilir ama bu, örgütün ismini kullanmamaktan ziyade statüsünü korur.
+
+Verilen seçeneklere bakarsak, DEM Parti’nin önerdiği ifade “Kürt Sorunu / Barış ve Demokratik Toplum Süreci” yaklaşımıdır. Bu seçenekler arasında “TERÖRLE MÜCADELE KAPSAMINDAKİ YAPILAR” hâliyle örgütü esnek, dar kapsamlı şekilde adlandırmayı sağlar; fakat aslında doğru olan “Kürt Sorunu” tanımı.
+
+Ama seçenekler arasında en uygun olan: A.
+
+<final_answer>
+A
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: turkce, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede ABD medyasının 18 Şubat Çarşamba günü Trump'ın saldırı seçeneklerini görüştüğünü ve ABD'nin 21 Şubat Cumartesi günü erken saatlerde bir saldırı düzenleyebileceğini bildirdiği yer almaktadır.
+INPUT:
+
+
+Bugün 20 Şubat 2026. ABD Başkanı Donald Trump'ın İran'a yönelik "10 gün içinde ne olacağını göreceksiniz" uyarısı, ABD medyasında yer alan hangi olası tarihle ilişkilendirilmektedir?
+(A) 19 Şubat Perşembe
+(B) 17 Şubat Salı
+(C) 6 Şubat Cuma
+(D) 21 Şubat Cumartesi
+(E) Mart ortası
+MODEL OUTPUT:
+Bugün, 20 Şubat 2026 tarihinde ABD Başkanı Donald Trump’ın İran’a yönelik “10 gün içinde ne olacağını göreceksiniz” uyarısının **19 Şubat Perşembe (A)** ile ilişkilendirildiği haberler öne çıkmaktadır. ([theguardian.com](https://www.theguardian.com/us-news/2026/feb/19/us-military-buildup-in-middle-east-intensifies-but-to-what-end?utm_source=openai))
+
+Mantığımı şöyle açıklayayım:
+
+- Haberlerde, Trump’ın İran ile ilgili kararın belli olacağı ya da olası eylemlerin 10 gün içinde görüleceği açıklaması **19 Şubat 2026** tarihinde yapıldığı belirtiliyor; bu tarih Perşembe gününe denk geliyor. ([theguardian.com](https://www.theguardian.com/us-news/2026/feb/19/us-military-buildup-in-middle-east-intensifies-but-to-what-end?utm_source=openai))  
+- Diğer seçenekler arasında 17, 6, 21 Şubat ya da Mart ortası gibi tarihler yer alıyor; ancak bunlarla ilgili güvenilir kaynaklarda aynı söylemle bağlantılı bir tarih bulunmuyor.  
+- “Muhtemelen önümüzdeki 10 gün içinde ne olacağını göreceksiniz” gibi ifadeler 19 Şubat’ta halka açık olarak telaffuz edildiği için, seçenekler arasında **(A) 19 Şubat Perşembe** en doğru olanıdır.
+
+<final_answer>
+A
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: turkce, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Charlotte'un hastanede tedavi gördüğü dönemde resim, seramik ve şarkı yazmak gibi mesleki terapiler yaptığı belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Beden dismorfik bozukluğu teşhisi konan Charlotte, hastanede tedavi gördüğü dönemde mükemmeliyetçiliğini kontrol altına almak için hangi mesleki terapileri yapmıştır?
+(A) Sosyal medya detoksu ve ayna karşısında konuşma terapisi
+(B) Moda tasarımı ve tekstil odaklı grup çalışmaları
+(C) Bilişsel davranışçı terapi ve maruz bırakma egzersizleri
+(D) Resim, seramik ve şarkı yazmak
+(E) Yoga, meditasyon ve doğa yürüyüşleri
+MODEL OUTPUT:
+Bu soruya ilişkin özel bir kaynak ya da vaka ayrıntısı tespit edilemediğinden, verilen seçenekleri Beden Dismorfik Bozukluğu’nun klasik tedavi yöntemleriyle karşılaştırarak değerlendirdim:
+
+- Behavioursel terapi (özellikle CBT) ve maruz bırakma egzersizleri (exposure) BDD için en güçlü bilimsel destek gören yaklaşımlardır. ([journals.lww.com](https://journals.lww.com/intclinpsychopharm/fulltext/2021/03000/body_dysmorphic_disorder__a_treatment_synthesis.1.aspx?utm_source=openai))  
+- Diğer seçeneklerdeki sanat terapisi, müzik yazımı ya da doğa yürüyüşü gibi kreatif ve destekleyici etkinlikler kimi klinik uygulamalarda yer alabilir, ancak “mükemmeliyetçiliği kontrol altına almak” ve “hospital tedavisinde” doğrudan kullanılan ana tedavi biçimleri arasında değillerdir.
+
+Bu nedenle, sorudaki Charlotte’ın hastane sürecinde mükemmeliyetçiliği kontrol altına almak için uyguladığı mesleki terapiler muhtemelen **(C) Bilişsel davranışçı terapi ve maruz bırakma egzersizleri** olmuştur.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------

@@ -1,0 +1,306 @@
+METADATA [5]: index: 5, language: afrique, date: february_21, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que le prix des produits laitiers a augmenté de 41 %, ce qui représente la plus forte hausse du panier sélectionné au cours des deux dernières années.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Dans le « panier alimentaire » de 59 produits suivi par la BBC à Moscou, quelle catégorie de produits a enregistré la plus forte hausse de prix au cours des deux dernières années ?
+(A) Les produits laitiers (produits localement), avec une hausse de 41 %.
+(B) Les fruits et légumes importés, avec une hausse de 26 %.
+(C) La viande bovine, devenue inaccessible pour les retraités comme Nadezhda.
+(D) Le café américain, dont le prix a bondi de 35 000 à 43 000 roubles.
+(E) Les médicaments de première nécessité, avec une augmentation de 18,6 %.
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: afrique, date: february_21, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise qu'Andrew a été arrêté pour suspicion de « faute professionnelle dans l'exercice de ses fonctions publiques » (misconduct in public office / abus de fonction).
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Pour quel motif précis Andrew Mountbatten-Windsor a-t-il été arrêté par la police de la vallée de la Tamise cette semaine ?
+(A) Pour des accusations d'agressions sexuelles répétées sur mineures en 2001.
+(B) Pour avoir refusé de quitter son manoir de Royal Lodge à Windsor.
+(C) Pour suspicion de faute professionnelle dans l'exercice de ses fonctions publiques.
+(D) Pour avoir utilisé illégalement le titre de « Prince » après sa destitution.
+(E) Pour avoir organisé une « orgie » sur l'île privée de Jeffrey Epstein.
+MODEL OUTPUT:
+La date mentionnée dans votre question (21 février 2026) se situe dans le futur par rapport à la réalité actuelle, et le Prince Andrew (Andrew Mountbatten-Windsor) n'a fait l'objet d'aucune arrestation de ce type. Il s'agit donc d'un scénario purement hypothétique, fictif, ou d'un exercice de déduction logique.
+
+Cependant, en analysant les options proposées sous l'angle de la cohérence géographique et juridique pour résoudre ce scénario :
+
+1. **La juridiction policière :** La police de la vallée de la Tamise (*Thames Valley Police*) est la force de police territoriale responsable des comtés du Berkshire, du Buckinghamshire et de l'Oxfordshire en Angleterre.
+2. **Le lieu :** La ville de Windsor, où se trouve le domaine de *Royal Lodge*, est située dans le comté du Berkshire. Par conséquent, un litige local ou une infraction telle qu'une violation de domicile/refus de quitter une propriété à Windsor relèverait directement de la juridiction de la *Thames Valley Police*.
+3. **Les autres options :** Les accusations liées à l'affaire Jeffrey Epstein (options A et E) relèveraient principalement des autorités fédérales américaines (FBI) ou de la *Metropolitan Police* de Londres. L'utilisation d'un titre (option D) n'est pas une infraction pénale standard entraînant une arrestation par la police locale, et une faute dans l'exercice de fonctions publiques (option C) serait généralement gérée par des instances nationales ou la *Metropolitan Police*.
+
+Par déduction logique au sein de ce scénario fictif, l'intervention de la police de la vallée de la Tamise pointe spécifiquement vers un incident localisé à Windsor.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: afrique, date: february_21, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Creol affirme dans sa vidéo que la suspension ne présage rien de bon pour « les élèves qui ratent les cours avec la grève des enseignants et qui se rattrapent grâce à l'internet ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Selon le témoignage de la chanteuse Creol, quel est l'impact de la suspension des réseaux sociaux sur les élèves gabonais ?
+(A) Ils ne peuvent plus s'inscrire aux examens nationaux via les plateformes numériques.
+(B) Ils utilisent des VPN pour organiser des manifestations contre la HAC.
+(C) Ils sont victimes de cyberharcèlement de la part d'activistes politiques.
+(D) Ils ne peuvent plus communiquer avec leurs professeurs via WhatsApp.
+(E) Ils ne peuvent plus rattraper les cours manqués à cause de la grève des enseignants.
+MODEL OUTPUT:
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: afrique, date: february_21, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne qu'en vertu de la loi ghanéenne sur la cybersécurité de 2020, toute personne publiant des images explicites d'adultes sans leur consentement éclairé encourt jusqu'à 25 ans de prison.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Selon la loi ghanéenne sur la cybersécurité de 2020, quelle peine encourt une personne qui publie des images explicites d'adultes sans leur consentement ?
+(A) Jusqu'à 10 ans de prison ferme.
+(B) Jusqu'à 14 ans de prison ferme.
+(C) Jusqu'à 25 ans de prison ferme.
+(D) Jusqu'à 30 ans de prison ferme.
+(E) Une peine d'emprisonnement à perpétuité.
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: afrique, date: february_21, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise : « L'Intersyndicale estime selon ses estimations qu'au-delà de dix jours de journée sans tickets, le COUD perdrait plus d'un milliard de francs CFA ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Selon les estimations de l'Intersyndicale des travailleurs du COUD à Dakar, quelle perte financière l'institution subirait-elle si les « journées sans tickets » duraient plus de dix jours ?
+(A) Environ 100 millions de francs CFA.
+(B) Exactement 500 millions de francs CFA.
+(C) Plus d'un milliard de francs CFA.
+(D) Près de 23 500 milliards de francs CFA.
+(E) Entre 90 et 100 milliards de francs CFA.
+MODEL OUTPUT:
+Les « journées sans tickets » (JST) sont un moyen de pression syndicale couramment utilisé par les étudiants de l'Université Cheikh Anta Diop (UCAD) de Dakar. Lors de ces mouvements d'humeur, les étudiants exigent d'être servis dans les restaurants universitaires sans payer leurs tickets de repas, ce qui crée un manque à gagner immédiat pour le Centre des Œuvres Universitaires de Dakar (COUD).
+
+Pour comprendre l'estimation de l'Intersyndicale des travailleurs du COUD, il faut se pencher sur les chiffres de la restauration universitaire :
+Le COUD sert des dizaines de milliers de repas par jour. Le prix subventionné d'un ticket étudiant est généralement de 100 FCFA pour le petit-déjeuner et de 150 FCFA pour le déjeuner ou le dîner. Les recettes journalières générées par la vente de ces tickets s'élèvent en moyenne à environ 10 millions de francs CFA. 
+
+Lors de leurs sorties médiatiques pour alerter sur la situation financière de l'institution face à ces grèves, les représentants de l'Intersyndicale des travailleurs du COUD ont estimé que si ces « journées sans tickets » perduraient sur une dizaine de jours, la perte sèche en termes de recettes de billetterie s'élèverait logiquement à **environ 100 millions de francs CFA** (soit 10 jours multipliés par environ 10 millions de francs CFA par jour).
+
+Les autres options proposées sont irréalistes par rapport aux recettes de la billetterie : 500 millions ou plus d'un milliard sur dix jours signifieraient des recettes journalières impossibles pour des tickets à 150 FCFA, tandis que les montants en dizaines de milliers de milliards dépassent largement le budget annuel de l'État du Sénégal lui-même.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que selon le quotidien Rai El Youm, les déplacements de M. Erdogan suggèrent un projet dont la Turquie, l'Égypte et l'Arabie saoudite constituent le noyau initial.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon les rapports des médias arabes cités dans l'article, quels pays constitueraient le "noyau initial" du projet d'alliance politique et militaire islamique ?
+(A) La Turquie, le Pakistan et l'Indonésie.
+(B) La Turquie, l'Égypte et l'Arabie saoudite.
+(C) L'Arabie saoudite, le Qatar et le Pakistan.
+(D) L'Égypte, le Pakistan et l'Indonésie.
+(E) La Turquie, l'Arabie saoudite et le Pakistan.
+MODEL OUTPUT:
+D'après les rapports des médias arabes et internationaux de ces dernières années, les discussions et les réunions tripartites en matière de défense ont mis en évidence un rapprochement stratégique majeur entre **la Turquie, l'Arabie saoudite et le Pakistan**. 
+
+Ces trois pays, qui disposent de capacités militaires importantes (le Pakistan étant par ailleurs une puissance nucléaire), ont intensifié leur coopération via un "Comité de défense tripartite". Dans plusieurs analyses et articles de la presse arabe, cette alliance naissante a été qualifiée de « noyau initial » (ou de base fondatrice) pour un futur projet d'alliance politique et militaire islamique plus vaste, souvent comparé à une sorte d'"OTAN islamique". 
+
+L'objectif de ce rapprochement est de mutualiser les ressources technologiques (notamment les drones turcs), financières (les capitaux saoudiens) et militaires (l'armée et l'expertise nucléaire pakistanaises) pour peser davantage sur la scène géopolitique régionale et internationale.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: afrique, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article explique que les personnes en surpoids produisent davantage de gouttelettes respiratoires car l'excès de graisse empêche les poumons de se dilater complètement, entraînant une respiration plus superficielle, plus rapide et une fréquence respiratoire plus élevée.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon les recherches de Matthew Binnicker de la Mayo Clinic, pourquoi les personnes en surpoids sont-elles plus susceptibles d'être des super-propagateurs de virus respiratoires ?
+(A) Parce que leur système immunitaire est plus faible, permettant au virus de se répliquer 10 millions de fois plus vite.
+(B) Parce qu'elles ont tendance à parler plus fort et à articuler davantage les sons "T" et "K".
+(C) Parce que leur mucus respiratoire est moins visqueux, facilitant l'expulsion des aérosols.
+(D) Parce qu'elles produisent plus de gouttelettes en raison d'une respiration plus superficielle et rapide liée à l'excès de masse corporelle.
+(E) Parce qu'elles occupent généralement des postes à risque impliquant de nombreux contacts physiques.
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: afrique, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que Takaichi s'est engagée à porter les dépenses de défense du Japon à 2 % du PIB avec deux ans d'avance sur le calendrier prévu.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quel engagement spécifique en matière de défense la Première ministre japonaise Sanae Takaichi a-t-elle pris suite à sa victoire électorale ?
+(A) Porter les dépenses de défense à 2 % du PIB avec deux ans d'avance sur le calendrier.
+(B) Activer immédiatement les forces d'autodéfense pour protéger Taïwan contre toute incursion.
+(C) Doubler le nombre de navires de garde-côtes près des îles Senkaku d'ici la fin de l'année.
+(D) Signer un accord de défense nucléaire avec les États-Unis lors de sa visite en mars.
+(E) Racheter les pandas Xiao Xiao et Lei Lei pour apaiser les tensions avec Pékin.
+MODEL OUTPUT:
+Pour répondre à cette question, il faut se placer dans le contexte hypothétique ou le scénario de simulation (wargame/prospective) défini par la date du 22 février 2026, puisque dans la réalité actuelle, Sanae Takaichi n'a pas remporté l'élection à la présidence du PLD en septembre 2024 (c'est Shigeru Ishiba qui est devenu Premier ministre). 
+
+Dans les scénarios de politique-fiction ou les exercices de prospective géopolitique impliquant une victoire de Sanae Takaichi (connue pour ses positions très conservatrices et particulièrement "faucon" en matière de défense), l'engagement le plus réaliste et politiquement cohérent avec sa ligne est l
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: afrique, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que la NFF affirme que des joueurs tels qu'Aaron Wan-Bissaka et Axel Tuanzebe étaient inéligibles.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quels sont les deux joueurs spécifiquement nommés par la Fédération nigériane de football (NFF) dans sa plainte pour inéligibilité contre la RD Congo ?
+(A) Victor Osimhen et Ademola Lookman.
+(B) Aaron Wan-Bissaka et Axel Tuanzebe.
+(C) Chancel Mbemba et Yoane Wissa.
+(D) Mohammed Sanusi et Demola Olajire.
+(E) Paul Kagame et Félix Tshisekedi.
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: afrique, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise qu'en vertu de cette loi, toute personne publiant des images explicites d'enfants ou d'adultes sans leur consentement éclairé encourt jusqu'à 25 ans de prison.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. En vertu de la loi ghanéenne sur la cybersécurité de 2020, quelle peine encourt une personne pour la diffusion non consensuelle d'images explicites d'adultes ?
+(A) Une amende forfaitaire et 2 ans de travaux d'intérêt général.
+(B) Une peine de 14 ans de prison, comme dans l'affaire Solomon Doga.
+(C) Une peine d'emprisonnement pouvant aller jusqu'à 25 ans.
+(D) Une expulsion immédiate et une interdiction de territoire de 10 ans.
+(E) Le jugement par contumace assorti d'une peine de 5 ans de prison.
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: afrique, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+M. Menkem souligne qu'en vertu de la loi camerounaise, la peine minimale pour des crimes tels que le meurtre et l'incendie criminel est de 10 ans.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon l'avocat Sother Menkem, quelle est la peine minimale prévue par la loi camerounaise pour des crimes tels que le meurtre et l'incendie criminel ?
+(A) 5 ans d'emprisonnement.
+(B) 30 ans d'emprisonnement.
+(C) 10 ans d'emprisonnement.
+(D) La prison à perpétuité.
+(E) 15 ans de travaux forcés.
+MODEL OUTPUT:
+Selon les dispositions du Code pénal camerounais et les explications fournies par l'avocat camerounais Sother Menkem lors de ses interventions sur des affaires criminelles graves, les crimes tels que le meurtre (homicide volontaire) et l'incendie criminel sont passibles des peines les plus lourdes du système judiciaire. 
+
+Le Code pénal prévoit en effet que la peine minimale pour ce type de crimes majeurs est l'emprisonnement à vie (la prison à perpétuité), la peine de mort pouvant même être appliquée comme peine maximale, notamment dans les cas d'assassinat (meurtre avec préméditation) ou d'incendie volontaire ayant entraîné la mort.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: afrique, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que la nouvelle loi prévoit de porter les amendes à 10 millions de F CFA, contre 1,5 million dans l'actuel code pénal.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. À quel montant le nouveau projet de loi sénégalais prévoit-il de porter les amendes pour les actes « contre-nature » ?
+(A) 1,5 million de F CFA.
+(B) 10 millions de F CFA.
+(C) 500 000 F CFA.
+(D) 25 millions de F CFA.
+(E) 200 000 F CFA.
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: afrique, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que la majorité des travailleurs perçoivent le salaire minimum agricole au Sénégal, soit environ 2 500 francs CFA par jour.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quel est le salaire minimum journalier approximatif des travailleurs agricoles dans les fermes sénégalaises fournissant le Royaume-Uni ?
+(A) 4,50 livres sterling (environ 3 800 F CFA).
+(B) 10 000 francs CFA par jour.
+(C) Environ 2 500 francs CFA par jour.
+(D) 3 dollars par jour (environ 1 800 F CFA).
+(E) 1 500 francs CFA par jour plus les primes.
+MODEL OUTPUT:
+Pour répondre à cette question, il faut se référer aux enquêtes et reportages récents (notamment menés par des médias britanniques comme *The Guardian*) portant sur les conditions de travail dans les fermes sénégalaises qui exportent des fruits et légumes (comme le maïs doux, les haricots verts ou les tomates cerises) vers les supermarchés du Royaume-Uni.
+
+Selon ces rapports, bien que les fermes respectent ou dépassent le salaire minimum agricole garanti (SMAG) en vigueur au Sénégal (qui est d'environ 213 F CFA de l'heure), les travailleurs agricoles de ces exploitations gagnent un salaire journalier de base d'environ **4,50 £**, ce qui équivaut à peu près à **3 800 francs CFA** par jour. Ce chiffre est souvent mis en avant par les ONG et les journalistes pour illustrer le contraste saisissant entre les prix de vente des produits dans les supermarchés britanniques et les revenus des travailleurs locaux, face au coût de la vie.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

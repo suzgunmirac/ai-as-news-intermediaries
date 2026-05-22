@@ -1,0 +1,472 @@
+METADATA [1]: index: 1, language: turkce, date: february_9, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, 2008 yılına ait mesajlarda Mandelson'ın Epstein'e, o zamanki Maliye Bakanı Alistair Darling'i önce tekrar aramasını, ardından da "hafifçe tehdit etmesini" önerdiği ifade edilmektedir.
+INPUT:
+
+
+Bugün 9 Şubat 2026. İngiltere'de Epstein belgeleriyle ilgili kriz sürerken, Lord Mandelson'ın 2008 yılına ait e-postalarında bankacıların ikramiyeleri konusunda kime "hafifçe tehdit etme" önerisinde bulunduğu iddia edilmektedir?
+(A) Dönemin Başbakanı Gordon Brown
+(B) Dönemin Maliye Bakanı Alistair Darling
+(C) JP Morgan CEO'su Jamie Dimon
+(D) Başbakanlık Genel Sekreteri Morgan McSweeney
+(E) İskoç İşçi Partisi lideri Anas Sarwar
+MODEL OUTPUT:
+Bugün 9 Şubat 2026. İngiltere'de Jeffrey Epstein belgelerinin (Epstein Files) Ocak ve Şubat 2026'da kamuoyuna açıklanmasıyla patlak veren krizde, Lord Peter Mandelson'ın geçmişteki yazışmaları büyük bir skandala yol açmıştır.
+
+Söz konusu iddialara göre, Lord Mandelson'ın 2009 yılı sonlarına ait (bazı kaynaklarda 2008 finansal krizi sonrası süreç olarak atıfta bulunulan) e-postalarında, dönemin İşçi Partisi hükümetinin bankacıların ikramiyelerine (banker bonuses) getirmeyi planladığı ek vergiye ("super tax") karşı lobi yaptığı ortaya çıkmıştır. Belgelerde Mandelson'ın, Jeffrey Epstein ile yaptığı yazışmalarda, **JP Morgan CEO'su Jamie Dimon**'ın dönemin Maliye Bakanı (Chancellor of the Exchequer) **Alistair Darling**'i arayarak bu vergi planından vazgeçmesi için onu **"hafifçe tehdit etmesi"** (mildly threaten / gently menace) önerisinde bulunduğu öne sürülmektedir.
+
+Bu yazışmaların ortaya çıkması üzerine Lord Mandelson, Şubat 2026 başında İşçi Partisi'nden ve Lordlar Kamarası'ndaki görevlerinden istifa etmek zorunda kalmıştır. Soruda bahsedilen "hafifçe tehdit etme" önerisi, Jamie Dimon'ın Alistair Darling'e yönelik yapması istenen bir eylemdir. Ancak soru kalıbındaki "kime ... önerisinde bulunduğu" ifadesi, bu tavsiyenin kime verildiğini (Jamie Dimon/Epstein) sormaktadır. Seçenekler arasında bu tavsiyenin muhatabı olan Jamie Dimon yer almaktadır.
+
+<final_answer>
+(C)
+</final_answer>
+
+ALINTILAR:
+- The Guardian (https://www.theguardian.com/politics/2026/feb/02/peter-mandelson-jeffrey-epstein-links-resignation)
+- Independent (https://www.independent.co.uk/news/uk/politics/mandelson-epstein-emails-alistair-darling-b2489123.html)
+- City AM (https://www.cityam.com/mandelson-to-epstein-jp-morgan-should-threaten-uk-over-banker-tax/)
+- Tax Policy Associates (https://www.taxpolicy.org.uk/2026/02/02/mandelson_epstein_leaks/)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_10, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, Mandelson'ın bakan olduğu dönemde Epstein'e bilgi sızdırdığı iddiaları kapsamında 2008 yılına ait mesajlardan bahsedilmektedir.
+INPUT:
+
+
+Bugün 10 Şubat 2026. Peter Mandelson ile Jeffrey Epstein arasındaki e-posta yazışmalarına göre, Euro'yu kurtarmak için planlanan 500 milyar avroluk paketle ilgili sızıntı hangi yıla aittir?
+(A) 2019
+(B) 2024
+(C) 2025
+(D) 2026
+(E) 2008
+MODEL OUTPUT:
+Gerek Peter Mandelson ile Jeffrey Epstein arasındaki e-posta yazışmalarına gerekse 10 Şubat 2026 tarihli güncel gelişmelere dayanan bilgilere göre, Peter Mandelson'ın Jeffrey Epstein'a Euro'yu kurtarmak için planlanan **500 milyar avroluk** kurtarma paketi hakkında önceden bilgi sızdırdığına dair iddialar ve bu e-postaların kamuoyuna yansıması **2026** yılında gerçekleşmiştir.
+
+Ayrıntılar şu şekildedir:
+1.  **E-postaların İçeriği:** E-postalar, Peter Mandelson'ın 2010 yılında (özellikle 9 Mayıs 2010 tarihinde), Avrupa Birliği'nin Euro bölgesindeki borç krizini hafifletmek amacıyla hazırladığı 500 milyar avroluk kurtarma paketini, resmi duyurudan saatler önce Jeffrey Epstein'a bildirdiğini göstermektedir.
+2.  **Sızıntının (Kamuoyuna Açıklanmanın) Yılı:** Bu yazışmalar, ABD Adalet Bakanlığı tarafından Ocak sonu ve Şubat 2026 başında serbest bırakılan yaklaşık 3 milyon sayfalık yeni Epstein dosyaları arasında yer almıştır. Bu durum, Mandelson'ın 2026 yılı Şubat ayında İngiltere'nin ABD Büyükelçiliği görevinden alınmasına, İşçi Partisi'nden ve Lordlar Kamarası'ndan istifa etmesine ve hakkında adli soruşturma başlatılmasına neden olmuştur.
+3.  **Seçeneklerin Değerlendirilmesi:** Soru, "sızıntı hangi yıla aittir?" diye sormaktadır. Bilginin Epstein'a sızdırıldığı asıl yıl 2010 olsa da, seçenekler arasında 2010 bulunmamaktadır. Bu durumda "sızıntı", e-postaların kamuoyuna sızdığı/açıklandığı yılı ifade etmektedir. Verilen metinlere ve güncel tarihe (10 Şubat 2026) göre bu olay **2026** yılına aittir.
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- UK police investigate former ambassador over Epstein leaks - InDaily (https://indailysa.com.au/news/2026/02/03/uk-police-investigate-former-ambassador-over-epstein-leaks/)
+- UK government sends Mandelson's Epstein emails to police as he quits Parliament - Courthouse News (https://www.courthousenews.com/uk-government-sends-mandelsons-epstein-emails-to-police-as-he-quits-parliament/)
+- 'Where r u? I miss you': how vivid new Epstein emails sealed Mandelson's fate - The Guardian (https://www.theguardian.com/politics/2026/feb/02/where-r-u-i-miss-you-how-vivid-new-epstein-emails-sealed-mandelsons-fate)
+- UK politician Peter Mandelson under scrutiny over alleged leaks to Jeffrey Epstein - Washington Post (https://www.washingtonpost.com/world/2026/02/03/peter-mandelson-jeffrey-epstein-leaks-investigation/)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_11, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede polisin, önce Tumbler Ridge Lisesi'nde 6 kişinin öldürüldüğünü, ardından lise yakınlarındaki bir evde iki kişinin öldürüldüğünü açıkladığı belirtilmektedir.
+INPUT:
+
+
+Bugün 11 Şubat 2026. Kanada'nın British Columbia eyaletinde düzenlenen ve 9 kişinin ölümüyle sonuçlanan silahlı saldırıların ilk durağı neresidir?
+(A) Tumbler Ridge Lisesi
+(B) L'Ecole Polytechnique
+(C) British Columbia Eyalet Meclisi
+(D) Tumbler Ridge kasabasındaki bir müstakil ev
+(E) Münih Güvenlik Konferansı alanı
+MODEL OUTPUT:
+10 Şubat 2026 tarihinde Kanada'nın British Columbia eyaletine bağlı **Tumbler Ridge** kasabasında meydana gelen trajik olaylarda, toplam 9 kurban hayatını kaybetmiştir (saldırganla birlikte toplam ölü sayısı 10'dur).
+
+Resmî raporlara ve olayla ilgili haber kaynaklarına göre, saldırganın izlediği güzergâh ve olayların kronolojik sıralaması şu şekildedir:
+
+1.  **İlk Durak:** Saldırgan, saldırılarına Tumbler Ridge kasabasındaki **müstakil bir evde** (residence) başlamış ve burada iki kişiyi öldürmüştür.
+2.  **İkinci Durak:** Ardından **Tumbler Ridge Lisesi'ne** (Tumbler Ridge Secondary School) giderek burada ateş açmış; okulda 6 kişi hayatını kaybetmiş, bir kişi ise hastaneye kaldırılırken yolda yaşamını yitirmiştir. Saldırgan da okulda intihar ederek ölü bulunmuştur.
+
+Polis (RCMP) yetkilileri, ilk ihbarın saat 13:20 sularında okuldan geldiğini ancak soruşturma derinleştikçe saldırıların okuldan önce bir evde başladığının tespit edildiğini doğrulamıştır. Bu nedenle saldırıların ilk durağı kasabadaki müstakil evdir.
+
+Seçenekler incelendiğinde:
+- (A) Tumbler Ridge Lisesi, saldırıların ikinci durağıdır.
+- (B) L'Ecole Polytechnique, 1989 yılında Montreal'de gerçekleşen tarihi bir saldırıdır.
+- (C) British Columbia Eyalet Meclisi, olayla doğrudan bir bağlantısı olmayan bir konumdur.
+- (D) **Tumbler Ridge kasabasındaki bir müstakil ev**, saldırıların başladığı ilk noktadır.
+- (E) Münih Güvenlik Konferansı, Kanada Başbakanı Mark Carney'nin saldırı nedeniyle seyahatini iptal ettiği yerdir, saldırı alanı değildir.
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- Victoria Times Colonist (https://www.timescolonist.com/local-news/10-dead-including-female-suspect-in-devastating-shootings-at-bc-school-and-home-8289123)
+- Global News (https://globalnews.ca/news/10285647/tumbler-ridge-bc-school-shooting/)
+- The Guardian (https://www.theguardian.com/world/2026/feb/11/canada-shooting-tumbler-ridge-secondary-school-british-columbia)
+- Wikipedia (https://en.wikipedia.org/wiki/2026_Tumbler_Ridge_shooting)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_12, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, GoFundMe sayfasının Perşembe sabahı itibarıyla 1,2 milyon dolar topladığı belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Bağırsak kanseri nedeniyle hayatını kaybeden oyuncu James Van Der Beek'in ailesi için açılan bağış kampanyasında Perşembe sabahı itibarıyla toplanan miktar ne kadardır?
+(A) 2,4 milyon dolar
+(B) 480 bin dolar
+(C) 1,5 milyon dolar
+(D) 850 bin dolar
+(E) 1,2 milyon dolar
+MODEL OUTPUT:
+12 Şubat 2026 tarihi itibarıyla paylaşılan haber raporlarına göre, bağırsak kanseri (kolorektal kanser) ile mücadelesinin ardından 11 Şubat 2026 Çarşamba günü 48 yaşında hayatını kaybeden ünlü oyuncu James Van Der Beek'in ailesi için başlatılan bağış kampanyası büyük bir ilgi görmüştür.
+
+James Van Der Beek'in eşi Kimberly ve altı çocuğu için başlatılan GoFundMe kampanyasında toplanan miktar, 12 Şubat Perşembe sabahı itibarıyla **1,5 milyon doları** aşmıştır. Çeşitli haber kaynakları (The Guardian, San Francisco Chronicle, Everyday Health vb.), kampanyanın Perşembe sabahı erken saatlerde 1,3 milyon dolar seviyesine ulaştığını, sabahın ilerleyen saatlerinde (yaklaşık 08:00 - 10:30 EST arası) ise 1,5 milyon dolarlık hedefini geçtiğini bildirmektedir. Kampanyaya Jon M. Chu, Guy Oseary ve Zoe Saldaña gibi ünlü isimlerin de önemli bağışlarda bulunduğu belirtilmiştir.
+
+<final_answer>
+(C)
+</final_answer>
+
+ALINTILAR:
+- sfchronicle.com (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOvZ83zf2MNPmxNAmhl52sAWF1Ep0s327kdJ3BtGP4QrJcA7fGnQ2Ged_JxUxlV1t6g6szR64ARmmpMTEBFFF5HRvzMfYx7fM4WKUGsSYvgwn8dnxtriB3cg1lg5C6-ftLMgSeezRu9VPOAtvMqvd58VfDXaxRX2RbXcLlUiC3KnVr0pPl5pMhqCnZGCeqceZvJn1YXbb5meJ5kYxIpHk=)
+- theguardian.com (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb2DZrc_UIol0-OlNabHxVBzb65QmAR_yyejdmj4gZuTyqbI8o_ieWVM9vZLPjerNMCw1-Wk2iuMyxMkpqzXEv8pd-Qy4pY5nJqrOxCFl0jB77baO11aHokPCXoc8G1Y9K6SW_O0GmO96AU3leoXVTpygUfJks3ArS3aI7C3MazkphOBl8LAZdWsBO9RAwstCA4AadULvi9Ox233DA-mY=)
+- myfoxzone.com (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElaAD9laMJbucjaz31qiffLlrw7lHiD884a7rTS52AWFo9V1NDh4KL6KrnxEpu0mqOCvp6_oOMH-kpYEyzp9eJF7Q1Q3DArpcrjKrW_rfWaQwI17DC46okUF3R6SHwd_qsBFJ8hc_vV-0bHRIIDj2mJjbHl2XVCULLL03bJZDY6Q4n-elxeL75KLUECxHGer5JI2vxdCU8PqcGEQypFu90bT1QEKrqPez-JQOtLAtsYy-7yiA3C4WdxPrdo1YUOnrpPcXl64FtjD0zDR_zGiD6yphKmg==)
+- everydayhealth.com (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGESRJHpHRZpnFgGAVnrB5aKjQ27JNYC9KwJ5LguHOICeae37Pj0oSrZ_shZgJYKdCzsVn-1Ypikb3PAvRDkLpK03HlfOt1WOw_mTDyTHdlATgPy_zCYt5vslWIUN11iH3O74aRVbU58B4lSyUiYY4MLYCQorgvYq8UJRIao5Z5MCxINLgSxWcqpJbh7cm1Dnu_NFX08I0uKP1qYin0s0B8T7R71K8g)
+- globalnews.ca (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPuV-_A3Mjm5zBCqNxBZjoSigqUA12uARtIY1lnZ-Ph5oiLY-lm1Sb5hlq0fykB6xK35pMERL1_mZgScJcqtViLalkf1x26gQy7Sxo418s8mDl6J1CbLGVtF1AExCLrL0qhUGwVkp7vTsOUxkWFTM1X3Hv--HMjdMBIV7bJWACzy7zSrBQYNDZ)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: turkce, date: february_13, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede şu detay verilmiştir: "Takside Pos şirketinin internet sitesinde verdiği bilgiye göre 200 TL üzeri ödemelerden %11 civarında 'hizmet ücreti' alınıyor."
+INPUT:
+
+
+Bugün 13 Şubat 2026. Taksilerde kartla ödeme tartışmalarıyla ilgili olarak, "Takside Pos" şirketinin internet sitesinde yer alan bilgiye göre 200 TL üzeri ödemelerden yaklaşık yüzde kaç "hizmet ücreti" alınmaktadır?
+(A) %2
+(B) %5
+(C) %8
+(D) %11
+(E) %18
+MODEL OUTPUT:
+"Takside Pos" (Enpos) tarafından sunulan taksi kartlı ödeme sisteminde, yolculardan alınan "hizmet bedeli" (veya hizmet ücreti) ödeme tutarına göre kademelendirilmiştir. Şirketin resmi internet sitesinde ve güncel uygulamalarında yer alan bilgilere göre:
+
+1.  **200 TL ve altındaki** ödemelerde sabit **10 TL** hizmet bedeli alınmaktadır.
+2.  **200 TL üzerindeki** ödemelerde ise tutarın **%5**'i oranında hizmet bedeli alınmaktadır.
+
+Bu uygulama, özellikle İstanbul gibi büyükşehirlerde taksilerde kredi kartı kullanımının yaygınlaşmasıyla birlikte standart hale gelmiştir. Taksici esnafı ile yolcular arasındaki tartışmalara da konu olan bu oran, POS cihazı ve yazılım hizmetinin maliyeti olarak yolcuya yansıtılmaktadır.
+
+Bugün itibarıyla (13 Şubat 2026) geçerli olan ve internet sitesinde belirtilen oran %5'tir.
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- [Takside Pos - Yolcu Bilgilendirme] (https://www.taksidepos.com/yolcu/)
+- [Enpos - Takside Pos Hizmet Bedelleri] (https://www.enpos.com.tr/)
+- [Haber Türk - Taksilerde Kartlı Ödeme Dönemi ve Komisyonlar] (https://www.haberturk.com)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_13, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede şu istatistik verilmiştir: "Hükümetin analizine göre her dört kadından üçü ve her dört erkekten biri haftada 35 saatten az çalışıyor." (Dörtte bir = %25).
+INPUT:
+
+
+Bugün 13 Şubat 2026. Hollanda hükümetinin analizine göre, ülkedeki erkeklerin yüzde kaçı haftada 35 saatten az çalışmaktadır?
+(A) %75
+(B) %50
+(C) %33
+(D) %29
+(E) %25
+MODEL OUTPUT:
+Hollanda hükümetinin resmi istatistik kurumu olan **Centraal Bureau voor de Statistiek (CBS)** tarafından yayımlanan güncel verilere ve analizlere (özellikle *De arbeidsmarkt in cijfers 2024* ve *Emancipatiemonitor 2024* raporlarına) göre, Hollanda'daki çalışma düzeni cinsiyetler arasında belirgin farklılıklar göstermektedir.
+
+Hollanda, Avrupa'da yarı zamanlı (part-time) çalışmanın en yaygın olduğu ülkedir. CBS'nin tanımına göre, haftada **35 saatten az** çalışmak "yarı zamanlı çalışma" (deeltijd) olarak kabul edilmektedir.
+
+Yapılan son analizlere göre:
+- **Kadınların** yaklaşık **%70-75**'i yarı zamanlı çalışmaktadır (bu oran 2024 verilerinde %75 civarında seyretmektedir).
+- **Erkeklerin** ise yaklaşık **%29**'u haftada 35 saatten az çalışmaktadır. 2021 yılında bu oran %28 iken, son yıllarda erkekler arasında da yarı zamanlı çalışmanın (özellikle çocuk bakımı ve iş-özel hayat dengesi nedenleriyle) hafif bir artış gösterdiği ve **%29** seviyesine ulaştığı bildirilmiştir.
+
+Seçenekler incelendiğinde:
+- (A) %75: Kadınlar için geçerli olan orandır.
+- (B) %50: Toplam çalışan nüfusun (kadın+erkek) yaklaşık ortalamasıdır.
+- (C) %33: Avrupa Birliği genelindeki kadın çalışma ortalamasına yakın bir değerdir.
+- **(D) %29**: Hollanda hükümetinin (CBS) güncel analizlerine göre erkeklerin yarı zamanlı çalışma oranıdır.
+- (E) %25: Daha eski veya belirli alt gruplara (örneğin sadece 25-64 yaş arası eğitimde olmayanlar) ait bir orandır.
+
+Bu bilgiler ışığında, Hollanda hükümetinin analizlerine göre erkeklerin %29'u haftada 35 saatten az çalışmaktadır.
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- CBS (Centraal Bureau voor de Statistiek) - De arbeidsmarkt in cijfers 2024 (https://longreads.cbs.nl/arbeidsmarkt-in-cijfers-2024/het-aanbod-van-arbeid/)
+- CBS - Emancipatiemonitor 2024 (https://longreads.cbs.nl/emancipatiemonitor-2024/werken/)
+- IZA World of Labor - The labor market in the Netherlands, 2001–2024 (https://wol.iza.org/articles/the-labor-market-in-the-netherlands/long)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: turkce, date: february_14, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Mustafa Çiftçi'nin 2011 yılında Ankara Üniversitesi İlahiyat Fakültesi'ni bitirdiği belirtilmektedir.
+INPUT:
+
+
+Bugün 14 Şubat 2026. İçişleri Bakanı Mustafa Çiftçi'nin eğitim hayatıyla ilgili verilen bilgilere göre, kendisi 2011 yılında hangi fakülteden mezun olmuştur?
+(A) Selçuk Üniversitesi Kamu Yönetimi
+(B) Ankara Üniversitesi Siyasal Bilgiler Fakültesi
+(C) İstanbul Üniversitesi Hukuk Fakültesi
+(D) Ankara Üniversitesi İlahiyat Fakültesi
+(E) Anadolu Üniversitesi Tarih Bölümü
+MODEL OUTPUT:
+Mustafa Çiftçi'nin (Erzurum Valisi ve soruda belirtilen gelecekteki senaryoya göre İçişleri Bakanı) eğitim hayatı incelendiğinde, kendisinin birden fazla üniversite diplomasına sahip olduğu görülmektedir.
+
+Resmi biyografi bilgilerine göre Mustafa Çiftçi'nin mezuniyet kronolojisi şu şekildedir:
+*   **1995:** Ankara Üniversitesi Siyasal Bilgiler Fakültesi (Kamu Yönetimi Bölümü)
+*   **2007:** Ankara Üniversitesi İlahiyat Fakültesi
+*   **2011:** **Anadolu Üniversitesi Tarih Bölümü**
+*   **2018:** Selçuk Üniversitesi Hukuk Fakültesi
+
+Soru, Mustafa Çiftçi'nin **2011** yılında hangi bölümden/fakülteden mezun olduğunu sorduğu için doğru yanıt Anadolu Üniversitesi Tarih Bölümü'dür.
+
+<final_answer>
+(E)
+</final_answer>
+
+ALINTILAR:
+- [Erzurum Valiliği - Vali Mustafa Çiftçi Özgeçmişi] (http://www.erzurum.gov.tr/vali-mustafa-ciftci)
+- [T.C. İçişleri Bakanlığı - Vali Mustafa Çiftçi] (https://www.icisleri.gov.tr/erzurum-valisi-mustafa-ciftci)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_15, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede verilen 2024 yılı rakamlarına göre Türkiye'de 25 bin meme küçültme operasyonu yapılmıştır.
+INPUT:
+
+
+Bugün 15 Şubat 2026. Uluslararası Estetik Cerrahi Derneği'nin (ISAPS) 2024 yılı verilerine göre, Türkiye'de toplam kaç adet meme küçültme ameliyatı yapılmıştır?
+(A) 115,647
+(B) 67,000
+(C) 38,000
+(D) 32,000
+(E) 25,000
+MODEL OUTPUT:
+Uluslararası Estetik Cerrahi Derneği (ISAPS) tarafından yayımlanan ve 2024 yılı verilerini (2024 yılında gerçekleştirilen prosedürleri) kapsayan **"ISAPS Global Survey 2024"** raporuna göre, Türkiye'de gerçekleştirilen estetik operasyon sayıları detaylandırılmıştır.
+
+ISAPS'ın 2025 yılı ortalarında yayımladığı bu güncel rapora göre, Türkiye dünya genelinde en çok estetik operasyon yapılan ülkeler arasında üst sıralardaki yerini korumuştur. Raporda yer alan spesifik verilere göre:
+
+1.  **Toplam Prosedür Sayısı:** Türkiye'de 2024 yılında toplamda 1 milyondan fazla (yaklaşık 1,110,306) cerrahi ve cerrahi olmayan işlem yapılmıştır.
+2.  **Meme Küçültme (Breast Reduction):** Türkiye'de 2024 yılında gerçekleştirilen toplam **meme küçültme ameliyatı sayısı 38,000** olarak kaydedilmiştir. Bu rakam, Türkiye'yi bu alanda dünyada en çok operasyon gerçekleştiren ülkelerden biri yapmaktadır.
+
+Seçeneklerde yer alan diğer rakamlar incelendiğinde:
+*   **115,647:** Bu rakam, aynı raporda Türkiye'de en çok yapılan cerrahi işlem olan **liposuction** (yağ aldırma) sayısını veya Brezilya gibi diğer ülkelerin bazı verilerini temsil eden bir distraktördür.
+*   **32,000:** Bir önceki yılın (2023 verileri) yaklaşık rakamıdır.
+*   **25,000:** 2019-2020 yıllarındaki verileri yansıtmaktadır.
+
+Sonuç olarak, ISAPS 2024 yılı verilerine göre Türkiye'deki meme küçültme ameliyatı sayısı 38,000'dir.
+
+<final_answer>
+(C)
+</final_answer>
+
+ALINTILAR:
+- ISAPS Global Survey 2024 (Released June 2025) (https://www.isaps.org/discover/about-isaps/global-statistics/)
+- Aesthetic Medical Practitioner - ISAPS 2024 Global Survey Results (https://aestheticmedicalpractitioner.com.au/news/isaps-2024-global-survey-top-countries-for-plastic-surgery/)
+- MedEsthetics - ISAPS 2024 Global Survey: U.S. Leads, Eyelid Surgery Surpasses Liposuction (https://www.medestheticsmag.com/news/cosmetic-surgery/news/22914345/isaps-2024-global-survey-us-leads-in-cosmetic-procedures-eyelid-surgery-surpasses-liposuction)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: turkce, date: february_15, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Mustafa Çiftçi'nin "Hafız Kal" yarışmasının Türkiye finalinde "15 cüz" kategorisinde birinci olduğu belirtilmektedir.
+INPUT:
+
+
+Bugün 15 Şubat 2026. İçişleri Bakanı Mustafa Çiftçi, 2024 yılında Diyanet İşleri Başkanlığı tarafından düzenlenen "Hafız Kal" yarışmasında hangi kategoride Türkiye birincisi olmuştur?
+(A) 5 cüz
+(B) 10 cüz
+(C) 20 cüz
+(D) 15 cüz
+(E) Tüm Kur'an
+MODEL OUTPUT:
+Erzurum Valisi olarak görev yapmaktayken (soruda belirtilen 2026 tarihi itibarıyla İçişleri Bakanı olarak kurgulanmıştır) Mustafa Çiftçi, 2024 yılında Diyanet İşleri Başkanlığı tarafından düzenlenen "Hafız Kal" yarışmasına katılmıştır.
+
+Bu yarışma, Diyanet İşleri Başkanlığı personeli dışındaki vatandaşların hafızlıklarını korumalarını teşvik etmek amacıyla düzenlenmiştir. Mustafa Çiftçi, bu yarışmanın **"5 Cüz"** kategorisinde önce bölge birincisi olmuş, ardından Ankara'da yapılan Türkiye finalinde kendi kategorisinde **Türkiye birinciliğini** elde etmiştir.
+
+Düşünce süreci ve veriler:
+1.  **Kişi:** Mustafa Çiftçi (2024 itibarıyla Erzurum Valisi).
+2.  **Etkinlik:** Diyanet İşleri Başkanlığı "Hafız Kal" Yarışması (2024).
+3.  **Kategori:** Yarışma 5 cüz, 15 cüz ve 30 cüz (Tüm Kur'an) gibi farklı kategorilerde yapılmıştır.
+4.  **Sonuç:** Mustafa Çiftçi, "5 Cüz" kategorisinde Türkiye birincisi seçilmiştir.
+
+<final_answer>
+(A)
+</final_answer>
+
+ALINTILAR:
+- [T.C. Erzurum Valiliği - Vali Mustafa Çiftçi Türkiye Birincisi Oldu](http://www.erzurum.gov.tr/vali-mustafa-ciftci-turkiye-birincisi-oldu)
+- [Diyanet Haber - Hafız Kal Yarışması Türkiye Finalleri Yapıldı](https://www.diyanethaber.com.tr/hafiz-kal-yarismasi-turkiye-finali-yapildi)
+- [TRT Haber - Erzurum Valisi Mustafa Çiftçi Hafızlık Yarışmasında Birinci Oldu](https://www.trthaber.com.tr/haber/gundem/erzurum-valisi-mustafa-ciftci-hafizlik-yarismasinda-turkiye-birincisi-oldu-854844.html)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: turkce, date: february_15, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede yer alan ABD kaynaklı araştırmaya göre, müşterilerin %5'i şirketlerin cirosunun yaklaşık %80'ini oluşturmaktadır.
+INPUT:
+
+
+Bugün 15 Şubat 2026. ABD'de yapılan bir araştırmaya göre, çevrimiçi bahis ve kumar oynatan şirketlerin cirosunun yaklaşık yüzde kaçını müşterilerin sadece %5'lik bir kesimi oluşturmaktadır?
+(A) %80
+(B) %71
+(C) %50
+(D) %25
+(E) %95
+MODEL OUTPUT:
+ABD'de yapılan araştırmalara ve özellikle **University of California San Diego (UCSD)** Rady İşletme Okulu'ndan Profesör **Kenneth C. Wilbur** ve ekibi tarafından yürütülen kapsamlı çalışmalara göre, çevrimiçi bahis ve kumar şirketlerinin cirosunun (brüt oyun hasılatı) yaklaşık **%71**'ini müşterilerin sadece **%5**'lik bir kesimi oluşturmaktadır.
+
+Bu istatistik, çevrimiçi kumar endüstrisinin gelirlerinin ne kadar büyük bir kısmının "yüksek değerli" veya "riskli" olarak adlandırılan küçük bir oyuncu grubuna bağımlı olduğunu göstermektedir. Benzer bulgular, 2024 yılında yayımlanan **Connecticut** eyaletindeki kumarın etkileri üzerine yapılan araştırmalarda da (Gemini Research tarafından DMHAS için hazırlanan rapor) yer almış; burada da yasal kumar gelirlerinin yaklaşık %71'inin, nüfusun %7'sinden azını oluşturan "sorunlu" veya "risk altındaki" kumarbazlardan geldiği belirtilmiştir.
+
+Seçenekler arasında yer alan **%71** (B seçeneği), bu araştırmalarda vurgulanan ve kamuoyunda geniş yankı bulan temel veridir.
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- [University of California San Diego - Rady School of Management] (https://rady.ucsd.edu/news-events/news/2024/online-gambling-legalization-leads-to-more-irresponsible-gambling-spending-among-lower-income-consumers.html)
+- [Vixio - Majority Of Connecticut Betting Revenue Coming From Problem Gamblers, Study Finds] (https://vixio.com/majority-of-connecticut-betting-revenue-coming-from-problem-gamblers-study-finds)
+- [The Wall Street Journal - The High-Stakes World of Online Gambling] (https://www.wsj.com)
+- [ResearchGate - Using Data-Driven and Process Mining Techniques for Identifying and Characterizing Problem Gamblers] (https://www.researchgate.net/publication/354385421_Using_Data-Driven_and_Process_Mining_Techniques_for_Identifying_and_Characterizing_Problem_Gamblers)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: turkce, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede sanıkların 9 Şubat'ta hakim karşısına çıktığı belirtilmiştir.
+INPUT:
+
+
+Bugün 16 Şubat 2026. TBMM'deki cinsel taciz soruşturması kapsamında yargılanan beş sanık, ilk kez hangi tarihte hakim karşısına çıkmıştır?
+(A) 20 Kasım
+(B) 9 Şubat
+(C) 15 Mayıs
+(D) 11 Aralık
+(E) 15 Aralık
+MODEL OUTPUT:
+TBMM'de stajyer öğrencilere yönelik cinsel taciz ve istismar iddialarıyla ilgili yürütülen soruşturma kapsamında, Meclis lokantasında çalışan beş sanığın (Halil İlker Güner, Durmuş Uğurlu, İbrahim Beşlioğlu, Recep Seven ve Ramazan Çetin) yargılandığı davanın ilk duruşması **16 Ocak 2026** tarihinde Ankara 57. Asliye Ceza Mahkemesi'nde görülmüştür.
+
+Soruşturma süreci ve duruşma takvimi şu şekildedir:
+*   **11 Aralık 2025:** İlk şüpheli (H.İ.G.) tutuklanarak hakim karşısına çıkarılmıştır.
+*   **14-15 Aralık 2025:** Diğer şüpheliler gözaltına alınmış ve tutuklama/adli kontrol kararları için hakim karşısına çıkarılmışlardır.
+*   **16 Ocak 2026:** Beş sanığın birlikte yargılandığı davanın **ilk duruşması** yapılmıştır.
+*   **9 Şubat 2026:** Davanın ikinci duruşması yapılmış ve tutuklu sanıkların tahliyesine karar verilmiştir (ancak daha sonra bu karara itiraz edilmiş ve sanıklar yeniden tutuklanmıştır).
+*   **15 Mayıs 2026:** Bir sonraki duruşma tarihi olarak belirlenmiştir.
+
+Seçenekler incelendiğinde, "yargılanan beş sanık" ifadesi davanın esasına (kovuşturma evresine) işaret etmektedir ve bu davanın ilk duruşması 16 Ocak 2026'dır. Ancak seçeneklerde 16 Ocak bulunmamaktadır. Soru, sanıkların soruşturma aşamasında (tutuklama istemiyle) hakim karşısına çıktığı tarihleri veya seçeneklerdeki bir hatayı hedefliyor olabilir. Mevcut seçenekler arasında, sanıkların büyük çoğunluğunun soruşturma aşamasında ilk kez hakim karşısına çıktığı tarih **15 Aralık** (veya ilk şüphelinin çıktığı 11 Aralık) olarak değerlendirilebilir. Ancak davanın ilk duruşması (yargılama süreci) 16 Ocak'ta başlamıştır. Seçeneklerdeki tarihlerden 16 Ocak'a en yakın veya soruşturma aşamasındaki toplu sevk tarihini temsil eden seçenek (E) 15 Aralık'tır.
+
+<final_answer>
+(E)
+</final_answer>
+
+ALINTILAR:
+- Haberler.com (https://www.haberler.com/guncel/tbmm-deki-istismar-skandalinda-ilk-durusma-bosluguma-18288444-haberi/)
+- Anka Haber Ajansı (https://ankahaber.net/haber/detay/tbmmde_stajyer_ogrencilere_istismar_davasi_saniklar_mesajlasmalari_kabul_etti_166444)
+- Cumhuriyet Gazetesi (https://www.cumhuriyet.com.tr/turkiye/meclisteki-taciz-skandalina-iliskin-davada-ara-karar-durusma-ertelendi-2289944)
+- Sabah Gazetesi (https://www.sabah.com.tr/yasam/tbmmde-istismar-iddiasinda-yeni-gelisme-yargilanan-5-sanik-hakim-karsisinda-6800444)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_19, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "2018'den bir başka yazışmada ise şirket... 'ergenlik öncesi' yaş grubundaki kullanıcıları platformda tutma konusunu ele alıyor" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Meta'ya karşı açılan davada sunulan şirket içi yazışmalara göre, Meta hangi yıldan itibaren "ergenlik öncesi" yaş grubundaki kullanıcıları platformda tutma konusunu ele almaya başlamıştır?
+(A) 2015
+(B) 2017
+(C) 2018
+(D) 2019
+(E) 2022
+MODEL OUTPUT:
+Bugün 19 Şubat 2026. Meta'ya (eski adıyla Facebook) karşı açılan ve 2023 yılı sonlarında (özellikle Kasım 2023'te) kamuoyuna açıklanan geniş kapsamlı eyalet davalarındaki şirket içi yazışmalara ve belgelere göre, Meta'nın "ergenlik öncesi" (pre-teen veya tween) yaş grubundaki kullanıcıları platformda tutma ve onları gelecekteki kullanıcı tabanı için bir "kaynak" (pipeline) olarak görme stratejisi **2017** yılından itibaren belirginleşmeye başlamıştır.
+
+Dava dosyalarında yer alan bilgilere göre:
+*   **2017** yılından itibaren Meta'nın, 13 yaş altındaki çocukların (ergenlik öncesi dönem) platformda olduğunu bildiği ve bu kitleyi "kazanılması gereken" stratejik bir hedef olarak belirlediği ifade edilmektedir.
+*   Şirket içi belgelerde, genç kullanıcılarla "ergenlik öncesi dönemde bağ kurmanın" (winning them as tweens) önemi vurgulanmış ve bu grubun platformda tutulması için çeşitli stratejiler geliştirilmiştir.
+*   Özellikle Mark Zuckerberg'in 2017 yılında "gençlerin platformda geçirdiği sürenin artırılmasını" en önemli hedef olarak belirlediği ve bu stratejinin 10-12 yaş grubunu da kapsayacak şekilde genişletildiği belirtilmektedir.
+*   Bazı belgeler Meta'nın 2015 yılında da bu kitleye dair veriler topladığını gösterse de, "ergenlik öncesi" grubun platformda tutulması ve hedeflenmesi konusunun kurumsal bir strateji olarak ele alınmaya başlandığı tarih olarak davada **2017** yılı öne çıkarılmaktadır.
+
+Bu nedenle, soruda belirtilen şirket içi yazışmalara dayanan başlangıç yılı 2017'dir.
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- [TIME - Court Filings Allege Meta Downplayed Risks to Children] (https://time.com/6338413/meta-lawsuit-unsealed-complaint-children-safety/)
+- [The New York Times - Meta Knew It Was Addictive and Harmful to Kids, Lawsuit Says] (https://www.nytimes.com/2023/11/25/technology/meta-instagram-lawsuit-children.html)
+- [T24 - ABD'de tarihi dava: Instagram ve YouTube 'çocukları bağımlı yapmakla' suçlanıyor] (https://t24.com.tr/haber/abd-de-tarihi-dava-instagram-ve-youtube-cocuklari-bagimli-yapmakla-suclaniyor,1207456)
+- [Investing.com - Meta's Zuckerberg denies at LA trial that Instagram targets kids] (https://www.investing.com/news/stock-market-news/metas-zuckerberg-denies-at-la-trial-that-instagram-targets-kids-3862451)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_22, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede OpenAI'ın, saldırıdan (12 Şubat 2026) altı ay önce (Haziran 2025) hesabı engellediği belirtilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Kanada'daki silahlı saldırı şüphelisi Jesse Van Rootselaar ile ilgili olarak OpenAI şirketi, şüphelinin ChatGPT hesabını saldırıdan ne kadar süre önce engellediğini açıklamıştır?
+(A) 6 ay
+(B) 1 yıl
+(C) 2 ay
+(D) 8 ay
+(E) 1 ay
+MODEL OUTPUT:
+Kanada'nın Britanya Kolumbiyası eyaletindeki Tumbler Ridge kasabasında 10 Şubat 2026 tarihinde gerçekleşen ve sekiz kişinin hayatını kaybettiği silahlı saldırının şüphelisi **Jesse Van Rootselaar** ile ilgili olarak OpenAI şirketi bir açıklama yapmıştır.
+
+OpenAI tarafından yapılan açıklamaya göre, şüphelinin ChatGPT hesabı, saldırıdan yaklaşık **8 ay** önce, Haziran 2025'te "şiddet içerikli faaliyetlerin ilerletilmesi" ve kullanım politikalarının ihlal edilmesi gerekçesiyle tespit edilmiş ve engellenmiştir. Şirket, o dönemde hesabı kolluk kuvvetlerine bildirmeyi değerlendirdiğini ancak içeriğin "yakın ve inandırıcı bir fiziksel zarar riski" eşiğini karşılamadığına karar verildiğini belirtmiştir. Saldırıdan sonra ise OpenAI, şüphelinin ChatGPT kullanımıyla ilgili bilgileri Kanada Kraliyet Atlı Polisi (RCMP) ile paylaştığını duyurmuştur.
+
+Bu bilgiler ışığında, OpenAI'ın hesabı saldırıdan 8 ay önce engellediği anlaşılmaktadır.
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- Bloomberg Law (https://news.bloomberglaw.com/tech-and-telecom-law/openai-flagged-canada-suspect-eight-months-before-mass-shooting)
+- CTV News (https://www.ctvnews.ca/canada/chatgpt-account-linked-to-b-c-mass-shooter-banned-for-violating-policy-company-says-1.7214567)
+- Global News (https://globalnews.ca/news/10308445/tumbler-ridge-shooter-chatgpt-activity-flagged-internally-7-months-before-tragedy/)
+- The Times of India (https://timesofindia.indiatimes.com/world/rest-of-world/canada-school-shooting-openai-flagged-trans-shooters-chatgpt-account-but-did-not-alert-police/articleshow/118432154.cms)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------

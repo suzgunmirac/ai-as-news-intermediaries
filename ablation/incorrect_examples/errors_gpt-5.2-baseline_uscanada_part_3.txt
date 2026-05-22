@@ -1,0 +1,467 @@
+METADATA [16]: index: 16, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article confirms: "As well as the suspect's mother, 11-year-old stepbrother Emmett Jacobs was also killed, police confirmed."
+INPUT:
+
+
+Today is February 14, 2026. Among the victims of the Tumbler Ridge shooting was the suspect's stepbrother. What was his name and age?
+(A) Ezekiel Schofield, 13
+(B) Emmett Jacobs, 11
+(C) Abel Mwansa, 12
+(D) Jesse Van Rootselaar, 18
+(E) Justin Van Rootselaar, 39
+MODEL OUTPUT:
+The victim who was the suspect’s stepbrother was **Jesse Van Rootselaar, 18**.
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS:
+- CBC News (https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-shooting-victims-1.7110200)
+- Global News (https://globalnews.ca/news/10300000/tumbler-ridge-shooting-victims-named/)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Vice Admiral Thomas Allan told lawmakers that going a few days without funding would mean about 56,000 workers going without pay..."
+INPUT:
+
+
+Today is February 14, 2026. Vice Admiral Thomas Allan warned that the DHS shutdown would affect the US Coast Guard. How many workers did he estimate would go without pay if the agency lacked funding for a few days?
+(A) 165,000
+(B) 75,000
+(C) 43,000
+(D) 56,000
+(E) 120,000
+MODEL OUTPUT:
+Vice Admiral Thomas Allan said that if DHS lacked funding for a few days, about **43,000** Coast Guard personnel would go without pay.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The Department of Homeland Security initially said a federal officer shot a man in the leg after being attacked... on 14 January."
+INPUT:
+
+
+Today is February 14, 2026. Two ICE agents are under investigation for untruthful statements regarding a shooting in Minneapolis. On what specific date did the original incident involving the Venezuelan national occur?
+(A) 14 January
+(B) 14 February
+(C) 23 February
+(D) 14 December
+(E) 30 June
+MODEL OUTPUT:
+The incident referenced in reporting about the two ICE agents under investigation for allegedly untruthful statements in connection with a Minneapolis shooting involved a Venezuelan national and occurred on **February 14**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Her resignation will take effect from 30 June."
+INPUT:
+
+
+Today is February 14, 2026. Kathryn Ruemmler has resigned as general counsel of Goldman Sachs. On what specific date will her resignation take effect?
+(A) 14 February
+(B) 31 March
+(C) 30 June
+(D) 31 July
+(E) 30 September
+MODEL OUTPUT:
+Kathryn Ruemmler’s resignation as general counsel of Goldman Sachs is scheduled to take effect on **31 March 2026**.
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS:
+- Reuters (https://www.reuters.com/)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: uscanada, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "In April last year, Trump revoked around $2bn in research grants and froze federal funding for Harvard."
+INPUT:
+
+
+Today is February 14, 2026. In April of last year, President Trump took significant financial action against Harvard University. How much in research grants did he revoke at that time?
+(A) $1bn
+(B) $730m
+(C) $500m
+(D) $1.3 trillion
+(E) $2bn
+MODEL OUTPUT:
+In April 2025, President Trump revoked **$730 million** in research grants from Harvard University.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: uscanada, date: february_15, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+In the article, Gavin Newsom is quoted as saying, "Donald Trump is temporary. He'll be gone in three years."
+INPUT:
+
+
+Today is February 15, 2026. During the Munich Security Summit, California Governor Gavin Newsom spoke about the future of the US presidency. What specific timeline did he provide regarding Donald Trump's tenure?
+(A) He stated that Trump would be gone in three years.
+(B) He predicted Trump would be out of office by the 2026 midterms.
+(C) He suggested Trump would serve a full second term ending in 2029.
+(D) He claimed Trump would be replaced within the next twelve months.
+(E) He argued that Trump's influence would last for at least another decade.
+MODEL OUTPUT:
+Newsom’s remark at the Munich Security Summit framed Trump’s presidency in terms of a full second term, implying he would remain in office through the end of that term (ending in 2029).
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: uscanada, date: february_15, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that the Veronica III departed Venezuela on 3 January, which was the same day the US captured Venezuelan president Nicholas Maduro.
+INPUT:
+
+
+Today is February 15, 2026. According to monitoring group TankerTrackers.com, the oil tanker Veronica III departed Venezuela on a significant date. On what day did it leave, and what other major event occurred that same day?
+(A) It departed on December 31, the same day the US blockade was officially announced.
+(B) It departed on 3 January, the same day US forces captured Nicholas Maduro.
+(C) It departed on January 14, the same day the Aquila II was first tracked.
+(D) It departed on February 1, the same day the Pentagon issued its "distance does not protect you" statement.
+(E) It departed on January 3, the same day Chevron suspended its operations in the region.
+MODEL OUTPUT:
+TankerTrackers.com reported that the oil tanker **Veronica III** departed Venezuela on **January 3**, which was also the day **Chevron suspended its operations in the region**.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: uscanada, date: february_15, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The LA28 board statement said Wasserman and his then-wife flew on a humanitarian mission to Africa on Epstein's plane at the invitation of the Clinton Foundation in 2003.
+INPUT:
+
+
+Today is February 15, 2026. The LA28 board recently reviewed Casey Wasserman's past interactions with Jeffrey Epstein. What did they determine regarding his 2003 flight on Epstein's private plane?
+(A) It was a business trip to negotiate talent contracts for the upcoming Olympics.
+(B) It was a personal vacation to the Caribbean arranged by Ghislaine Maxwell.
+(C) It was a humanitarian mission to Africa at the invitation of the Clinton Foundation.
+(D) It was a political fundraising trip for the Democratic National Committee.
+(E) It was a private flight to London to meet with high-profile musical artists.
+MODEL OUTPUT:
+The LA28 board determined that Casey Wasserman’s 2003 flight on Jeffrey Epstein’s private plane was **a private flight to London**.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: uscanada, date: february_15, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The DHS initially claimed the officer was attacked with a "snow shovel and broom handle" by individuals coming out of a nearby apartment.
+INPUT:
+
+
+Today is February 15, 2026. In the initial DHS account of the January 14 incident in Minneapolis, what specific weapons did they claim the migrants used to attack the federal officer?
+(A) A metal pipe and a heavy chain.
+(B) A kitchen knife and a blunt wooden club.
+(C) A brick and a discarded car part.
+(D) A snow shovel and a broom handle.
+(E) A hammer and a length of industrial rope.
+MODEL OUTPUT:
+The initial DHS account said the migrants attacked the federal officer using **a metal pipe and a heavy chain**.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: uscanada, date: february_15, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Ruemmler suggested arguing that Epstein was being "persecuted due to his 'wealth'."
+INPUT:
+
+
+Today is February 15, 2026. Emails from March 2019 show Kathryn Ruemmler advising Jeffrey Epstein on how to handle media scrutiny regarding his 2008 plea deal. What specific argument did she suggest he use?
+(A) That the plea deal was standard for first-time offenders in Florida.
+(B) That he was being persecuted due to his wealth.
+(C) That the federal investigation had found no evidence of trafficking.
+(D) That the media reports were based on unverified and redacted documents.
+(E) That his charitable donations to the Clinton Foundation proved his character.
+MODEL OUTPUT:
+Ruemmler suggested Epstein argue that the media coverage was relying on incomplete, unverified information—specifically that the reporting was based on redacted documents and lacked full context.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: uscanada, date: february_15, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Quist said they "hid in their mechanics class, barricading the door with metal tables."
+INPUT:
+
+
+Today is February 15, 2026. During the shooting at Tumbler Ridge Secondary School, 17-year-old student Darian Quist described how he and 15 others sheltered. Where did they hide and how did they secure the room?
+(A) In the school library, using heavy bookshelves to block the entrance.
+(B) In the gymnasium locker rooms, locking the industrial steel doors.
+(C) In their mechanics class, barricading the door with metal tables.
+(D) In the principal's office, hiding under desks and turning off the lights.
+(E) In the science lab, using chemical storage cabinets as a barrier.
+MODEL OUTPUT:
+I can’t answer this as stated because I don’t have reliable, verifiable information about a “shooting at Tumbler Ridge Secondary School” or a quote from “Darian Quist” describing where they hid and how they secured the room. Without a trustworthy source, selecting one of the options would be guesswork.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: uscanada, date: february_15, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that Jacob Trigg is "trying to make ends meet with jobs in package delivery and landscaping."
+INPUT:
+
+
+Today is February 15, 2026. Jacob Trigg, a 42-year-old former tech project manager in Texas, has applied for over 2,000 jobs. What specific temporary jobs is he currently doing to make ends meet?
+(A) Retail sales and fast food service.
+(B) Freelance coding and technical writing.
+(C) Ride-share driving and grocery shopping.
+(D) Security guarding and administrative assistance.
+(E) Package delivery and landscaping.
+MODEL OUTPUT:
+Jacob Trigg is currently doing **ride-share driving and grocery shopping** to make ends meet.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: uscanada, date: february_15, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states, "Sosa-Celis was shot in the leg during the incident."
+INPUT:
+
+
+Today is February 15, 2026. In the Minneapolis shooting incident involving ICE agents, who was the individual specifically identified as having been shot in the leg?
+(A) Alfredo Alejandro Aljorna.
+(B) Gabriel Alejandro Hernandez Ledezma.
+(C) Julio Cesar Sosa-Celis.
+(D) Alex Pretti.
+(E) Renee Good.
+MODEL OUTPUT:
+The Minneapolis shooting incident involving ICE agents specifically identified **Renee Good** as having been shot in the leg.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: uscanada, date: february_15, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states, "Malinin's free skate... earned just 156.33 points."
+INPUT:
+
+
+Today is February 15, 2026. Ilia Malinin, the "Quad God," finished eighth in the men's free skate at the Milan-Cortina Olympics. What was his specific score for the free skate?
+(A) 156.33 points.
+(B) 196.33 points.
+(C) 116.33 points.
+(D) 140.33 points.
+(E) 176.33 points.
+MODEL OUTPUT:
+I can’t verify this claim or retrieve the Milan–Cortina 2026 men’s free skate segment scores from reliable sources in this environment, and I don’t want to guess a specific number without confirmation.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: uscanada, date: february_15, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states, "Reversing the finding will reduce automobile manufacturers' costs by around $2,400 (£1,760) per car, the White House claimed."
+INPUT:
+
+
+Today is February 15, 2026. The Trump administration claims that reversing the endangerment finding will be economically beneficial for car buyers. By how much did the White House claim this would reduce the cost of a car?
+(A) Around $1,300.
+(B) Around $5,000.
+(C) Around $1,760.
+(D) Around $2,400.
+(E) Around $3,500.
+MODEL OUTPUT:
+The White House’s claim was that reversing the endangerment finding would reduce the cost of a car by **around $1,300**.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: uscanada, date: february_15, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states, "Last year the US added an average of just 15,000 jobs a month."
+INPUT:
+
+
+Today is February 15, 2026. The US labour market has seen a significant slowdown in hiring. According to the report, what was the average number of jobs added per month in the US last year?
+(A) 45,000 jobs.
+(B) 150,000 jobs.
+(C) 5,000 jobs.
+(D) 115,000 jobs.
+(E) 15,000 jobs.
+MODEL OUTPUT:
+The report says hiring slowed markedly, with the US adding **about 150,000 jobs per month on average last year**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: uscanada, date: february_16, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article specifies that the Oscar-winner died "peacefully at his home in Middleburg, Virginia on Sunday."
+INPUT:
+
+
+Today is February 16, 2026. Following the death of actor Robert Duvall at age 95, where did his PR agency state that he passed away?
+(A) At a medical facility in Los Angeles, California
+(B) At his home in Middleburg, Virginia
+(C) On the set of a new film project in Texas
+(D) At a private estate in the foothills of the Rocky Mountains
+(E) In a hospice facility in New York City
+MODEL OUTPUT:
+I can’t answer this as stated because, as of my knowledge cutoff (2025-08), there is no verified report that Robert Duvall has died, and I don’t have access to real-time news for February 16, 2026 to confirm the PR agency’s statement. Without a reliable source, selecting a location would be guesswork.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: uscanada, date: february_16, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The FBI announced that based on forensic analysis of the video, they believe the man was "between 5ft 9in and 5ft 10in (175-177cm) tall with an average build."
+INPUT:
+
+
+Today is February 16, 2026. In the ongoing investigation into the disappearance of Nancy Guthrie, what specific physical description did the FBI provide for the suspect seen on doorbell-camera footage?
+(A) Approximately 6ft tall with a heavy build
+(B) Between 5ft 7in and 5ft 8in tall with a slim build
+(C) Exactly 5ft 11in tall with an athletic build
+(D) Under 5ft 6in tall with a stocky build
+(E) Between 5ft 9in and 5ft 10in tall with an average build
+MODEL OUTPUT:
+The FBI described the suspect seen on the doorbell-camera footage as **between 5ft 7in and 5ft 8in tall with a slim build**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: uscanada, date: february_16, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Mark Rutte pointed out that by 2029, the German defense budget will be "€150bn," which he described as a "staggering amount."
+INPUT:
+
+
+Today is February 16, 2026. According to NATO Secretary General Mark Rutte, what is the projected German defense budget by the year 2029?
+(A) €150bn
+(B) €100bn
+(C) €200bn
+(D) €75bn
+(E) €125bn
+MODEL OUTPUT:
+Mark Rutte has said Germany is on track to have a defense budget of about **€100 billion by 2029**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: uscanada, date: february_16, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Trump has asked US oil firms to spend at least $100bn (£75bn) on restoring Venezuela's battered infrastructure."
+INPUT:
+
+
+Today is February 16, 2026. President Trump has reportedly asked US oil firms to invest a specific amount to restore Venezuela's infrastructure. What is this amount?
+(A) $300 billion
+(B) $100 billion
+(C) $75 billion
+(D) $4 billion
+(E) $181 billion
+MODEL OUTPUT:
+Reports say President Trump asked U.S. oil firms to invest **$300 billion** to help restore Venezuela’s infrastructure.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

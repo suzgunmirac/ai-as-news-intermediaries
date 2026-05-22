@@ -1,0 +1,491 @@
+METADATA [1]: index: 1, language: afrique, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique explicitement : "Les chrétiens ont entamé le Carême le 5 mars" (en référence au contexte de l'année 2026 mentionné dans le texte). Note : Bien que l'article mentionne une mise à jour "il y a une heure" le 13 mars 2024, le titre et le contexte de la tâche placent l'action en 2026. Le texte dit : "Les chrétiens ont entamé le Carême le 5 mars, une période de 40 jours qui s'achèvera le 20 avril."
+INPUT:
+
+
+Aujourd'hui, le 20 février 2026, les communautés chrétiennes et musulmanes observent leurs périodes de jeûne respectives. À quelle date précise les chrétiens ont-ils commencé le Carême cette année ?
+(A) Le 13 mars
+(B) Le 5 mars
+(C) Le 20 février
+(D) Le mercredi des Cendres, soit le 18 février
+(E) Le 17 février
+MODEL OUTPUT:
+Le Carême chrétien commence le Mercredi des Cendres, qui est célébré 46 jours avant Pâques. En 2026, Pâques tombe le 5 avril. En comptant 46 jours en arrière à partir de cette date, on arrive au mercredi 18 février 2026. Ainsi, les chrétiens ont commencé le Carême le 18 février 2026.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: afrique, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Au point 4, l'article mentionne : "C'est pourquoi Dr Junaid a souligné que le Ramadan est un moment propice pour que les gens, en particulier ceux qui mangent beaucoup, réduisent la quantité de nourriture qu'ils consomment."
+INPUT:
+
+
+Aujourd'hui est le 20 février 2026. En vue de la préparation du mois de Ramadan, le Dr Junaid Abubakar a donné plusieurs conseils aux fidèles. Que recommande-t-il spécifiquement concernant la consommation de nourriture avant le début du jeûne ?
+(A) De manger des repas riches en protéines pour tenir toute la journée
+(B) De ne consommer que des dattes et de l'eau lors du suhoor
+(C) D'augmenter les portions pour constituer des réserves d'énergie
+(D) De réduire la quantité de nourriture consommée habituellement
+(E) D'éliminer totalement la viande de l'alimentation une semaine avant
+MODEL OUTPUT:
+Le Dr Junaid Abubakar recommande de consommer des repas riches en protéines lors du suhoor pour maintenir l'énergie tout au long de la journée de jeûne. Les protéines sont essentielles pour fournir une sensation de satiété prolongée et soutenir les fonctions corporelles pendant le jeûne. Il est également conseillé d'inclure des glucides complexes, tels que les céréales complètes, pour une libération d'énergie plus lente et durable. ([the-independent.com](https://www.the-independent.com/life-style/ramadan-fasting-suhoor-time-rules-nutrition-b2922946.html?utm_source=openai))
+
+Ainsi, la réponse correcte est l'option (A) : De manger des repas riches en protéines pour tenir toute la journée.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: afrique, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise : "Un gramme d'or vaut environ 100 $ (55 610 F CFA)."
+INPUT:
+
+
+Aujourd'hui est le 20 février 2026. Une ruée vers l'or a été déclenchée à Springs, en Afrique du Sud. Quelle est la valeur approximative d'un gramme d'or en monnaie locale (Franc CFA) mentionnée dans le reportage ?
+(A) 204 660 F CFA
+(B) 100 F CFA
+(C) 55 610 F CFA
+(D) 368 F CFA
+(E) 74 F CFA
+MODEL OUTPUT:
+Le prix de l'or fluctue régulièrement en fonction des marchés internationaux. Actuellement, le prix de l'or est d'environ 89 594 CFA par gramme. ([xau.today](https://xau.today/fr/gold-price-gram-xof/?utm_source=openai)) Parmi les options proposées, la valeur la plus proche de ce prix est 74 CFA. Cependant, cette valeur est nettement inférieure au prix actuel de l'or. Il est possible que le reportage mentionne un prix de l'or plus ancien ou que la valeur indiquée soit incorrecte. Sans plus d'informations contextuelles, il est difficile de déterminer avec certitude la valeur exacte mentionnée dans le reportage.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: afrique, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : "Mais à Longyearbyen, en Norvège... cela ne devrait durer qu'entre 10 h 50 et 13 h 30 environ (un peu plus de 2 h 30) au début du mois sacré."
+INPUT:
+
+
+Aujourd'hui est le 20 février 2026. Le mois de Ramadan commence dans un contexte climatique varié selon les hémisphères. À Longyearbyen, en Norvège, quelle sera la durée approximative du jeûne quotidien au début du mois sacré ?
+(A) Environ 14,5 heures
+(B) Environ 12,5 heures
+(C) Environ 9 heures
+(D) Un peu plus de 2 heures et 30 minutes
+(E) Environ 20 heures
+MODEL OUTPUT:
+À Longyearbyen, en Norvège, située au-delà du cercle polaire arctique, les journées sont extrêmement longues au début du mois de Ramadan. En 2026, le mois sacré commence vers le 19 février, coïncidant avec la fin de l'hiver et le début du printemps dans l'hémisphère nord. À cette période, la durée du jeûne quotidien à Longyearbyen est d'environ 20 heures. ([lodj.ma](https://www.lodj.ma/Ramadan-2026-des-journees-de-jeune-plus-moderees-grace-a-un-calendrier-hivernal_a161391.html?utm_source=openai))
+
+Cette durée est nettement plus longue que celle observée dans la majorité des pays musulmans, où le jeûne varie généralement entre 12 et 14 heures. ([tunisienumerique.com](https://www.tunisienumerique.com/ramadan-2026-ou-jeunera-t-on-le-plus-longtemps-et-le-moins-longtemps-dans-le-monde/?utm_source=openai))
+
+Il est important de noter que dans des régions comme Longyearbyen, les musulmans peuvent rencontrer des défis particuliers en raison de la longueur exceptionnelle des journées. Des adaptations sont souvent nécessaires, telles que le recours aux horaires de jeûne d'autres pays musulmans ou l'établissement d'une durée maximale de jeûne, généralement plafonnée à 16 heures. ([ucookconnect.com](https://ucookconnect.com/scgtest/team-explore/uploads/files/ee4a7ce5-7875-40e4-bc37-b09738e2a462.pdf?utm_source=openai))
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : "Diarra fait partie des 9 000 employés, principalement des femmes, qui travaillent dans deux fermes britanniques situées dans la région de Saint-Louis".
+INPUT:
+
+
+Aujourd'hui est le 20 février 2026. Deux grandes entreprises britanniques exploitent des fermes dans le nord du Sénégal. Quel est le nombre total d'employés, principalement des femmes, travaillant dans ces deux exploitations de la région de Saint-Louis ?
+(A) 9 000
+(B) 2 000
+(C) 3 000
+(D) 18 millions
+(E) 70 millions
+MODEL OUTPUT:
+Les informations disponibles ne précisent pas le nombre exact d'employés, principalement des femmes, travaillant dans les fermes britanniques situées dans la région de Saint-Louis, au Sénégal. Cependant, selon le Rapport annuel des statistiques du travail 2019, la région de Saint-Louis comptait 108 délégués, dont 11 femmes, ce qui représente environ 10,19% de femmes parmi les délégués. ([dgtss.gouv.sn](https://dgtss.gouv.sn/wp-content/uploads/simple-file-list/Publications/Rapports-statistiques/Rapport-annuel-des-statistiques-du-travail-2019.pdf?utm_source=openai)) Bien que ces données concernent les délégués et non spécifiquement les employés des fermes britanniques, elles offrent un aperçu de la répartition hommes-femmes dans la région. Sans données précises sur le nombre d'employés féminins dans ces fermes, il est difficile de déterminer le nombre total d'employés, principalement des femmes, travaillant dans ces exploitations.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: afrique, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne dans une légende d'image qu'en « un peu plus d'une semaine », les légumes peuvent être mis en rayon. Le texte précise également un trajet de six jours par porte-conteneurs après le transport vers le port de Dakar.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. D'après les informations fournies sur la chaîne d'approvisionnement, combien de temps faut-il environ pour que les légumes récoltés au nord du Sénégal soient mis en rayon dans les supermarchés britanniques ?
+(A) Moins de 24 heures grâce à un système de fret aérien quotidien.
+(B) Exactement trois jours par transport routier via le Maroc et l'Espagne.
+(C) Environ deux semaines en raison des contrôles douaniers post-Brexit.
+(D) Un peu plus d'une semaine, incluant six jours de transport maritime.
+(E) Un mois complet pour permettre le mûrissement des produits en chambre froide.
+MODEL OUTPUT:
+Pour déterminer le délai nécessaire à l'acheminement des légumes récoltés au nord du Sénégal jusqu'aux rayons des supermarchés britanniques, plusieurs facteurs logistiques doivent être pris en compte, notamment le mode de transport, les procédures douanières et les conditions post-Brexit.
+
+La compagnie maritime MSC propose une liaison directe entre le Sénégal et l'Europe du Nord, reliant Dakar à Anvers en 7 jours, à Londres en 9 jours et au Havre en 11 jours. ([freshplaza.fr](https://www.freshplaza.fr/article/9475312/msc-relie-le-senegal-a-l-europe-du-nord-en-une-semaine/?utm_source=openai)) Cependant, ces délais concernent principalement le transport maritime.
+
+Après le Brexit, des contrôles douaniers supplémentaires ont été instaurés entre le Royaume-Uni et l'Union européenne, ce qui peut allonger les délais de livraison. Bien que les sources disponibles ne précisent pas exactement l'impact de ces contrôles sur les délais d'importation de produits frais, il est raisonnable de supposer qu'ils peuvent entraîner des retards significatifs.
+
+En tenant compte de ces éléments, il est probable que le délai total pour que les légumes récoltés au nord du Sénégal arrivent en rayon dans les supermarchés britanniques soit d'environ deux semaines.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: afrique, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Creol affirme dans sa vidéo que la suspension ne présage rien de bon pour « les élèves qui ratent les cours avec la grève des enseignants et qui se rattrapent grâce à l'internet ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Selon le témoignage de la chanteuse Creol, quel est l'impact de la suspension des réseaux sociaux sur les élèves gabonais ?
+(A) Ils ne peuvent plus s'inscrire aux examens nationaux via les plateformes numériques.
+(B) Ils utilisent des VPN pour organiser des manifestations contre la HAC.
+(C) Ils sont victimes de cyberharcèlement de la part d'activistes politiques.
+(D) Ils ne peuvent plus communiquer avec leurs professeurs via WhatsApp.
+(E) Ils ne peuvent plus rattraper les cours manqués à cause de la grève des enseignants.
+MODEL OUTPUT:
+La suspension des réseaux sociaux au Gabon a eu un impact significatif sur les élèves, notamment en ce qui concerne la communication avec leurs professeurs via WhatsApp. Cette plateforme est couramment utilisée pour les échanges éducatifs, et sa suspension a entravé la capacité des élèves à poser des questions, recevoir des explications et accéder à des ressources pédagogiques. Cette situation a été dénoncée par l'artiste Creol, qui a exprimé son mécontentement face à cette restriction. ([afrique-sur7.fr](https://www.afrique-sur7.fr/gabon-colere-apres-la-suspension-des-reseaux-sociaux?utm_source=openai))
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: afrique, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne qu'en vertu de la loi ghanéenne sur la cybersécurité de 2020, toute personne publiant des images explicites d'adultes sans leur consentement éclairé encourt jusqu'à 25 ans de prison.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Selon la loi ghanéenne sur la cybersécurité de 2020, quelle peine encourt une personne qui publie des images explicites d'adultes sans leur consentement ?
+(A) Jusqu'à 10 ans de prison ferme.
+(B) Jusqu'à 14 ans de prison ferme.
+(C) Jusqu'à 25 ans de prison ferme.
+(D) Jusqu'à 30 ans de prison ferme.
+(E) Une peine d'emprisonnement à perpétuité.
+MODEL OUTPUT:
+La loi ghanéenne sur la cybersécurité de 2020, en particulier l'article 62, traite de la production, de la possession et de la distribution d'images ou de photographies indécentes d'enfants. Cet article définit les images indécentes comme celles représentant des enfants se livrant explicitement ou de manière suggestive à un comportement sexuel. Les sanctions prévues pour ces infractions sont sévères, incluant des peines d'emprisonnement et des amendes substantielles. ([issafrica.s3.amazonaws.com](https://issafrica.s3.amazonaws.com/site/uploads/ocwar-t-7-fr.pdf?utm_source=openai))
+
+Cependant, la loi ne spécifie pas de sanctions pour la publication d'images explicites d'adultes sans leur consentement. En l'absence de dispositions légales précises concernant ce type d'infraction, il est difficile de déterminer la peine encourue. Par conséquent, aucune des options proposées (A, B, C, D, E) ne correspond à une sanction clairement établie par la loi ghanéenne sur la cybersécurité de 2020 pour la publication d'images explicites d'adultes sans leur consentement.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: afrique, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que Pékin a imposé des restrictions sur les exportations vers le Japon de technologies à double usage, notamment les terres rares et les minéraux critiques.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Quelle mesure économique spécifique la Chine a-t-elle imposée au Japon suite aux déclarations de la Première ministre Sanae Takaichi sur Taïwan ?
+(A) Une interdiction totale de l'importation de produits électroniques japonais.
+(B) Des restrictions sur l'exportation de terres rares et de minéraux critiques.
+(C) La saisie de tous les navires de pêche japonais près des îles Senkaku.
+(D) Une augmentation de la taxe sur la valeur ajoutée de 20 % à 22 % sur les produits japonais.
+(E) L'interdiction pour les citoyens japonais d'étudier dans les universités chinoises.
+MODEL OUTPUT:
+La Chine a imposé une interdiction totale des importations de produits de la mer japonais en réponse aux déclarations de la Première ministre japonaise Sanae Takaichi concernant Taïwan. Cette mesure a été annoncée le 19 novembre 2025, la Chine justifiant sa décision par l'absence de documents techniques promis par le Japon concernant le contrôle sanitaire des exportations vers la Chine. Cette action intervient dans un contexte de tensions bilatérales, suite aux propos de Takaichi suggérant une réponse militaire du Japon en cas d'attaque chinoise contre Taïwan. ([tresor.economie.gouv.fr](https://www.tresor.economie.gouv.fr/Articles/9352f0b9-aea3-4e83-9438-ec15573e8965/files/d7a0f3c7-7387-41c1-8cb7-b14c9eec673d?utm_source=openai))
+
+Par conséquent, l'option correcte est (A) : une interdiction totale de l'importation de produits électroniques japonais.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: afrique, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que la nouvelle loi prévoit de porter les amendes à 10 millions de F CFA, « contre seulement 1,5 million de Fcfa dans l'actuel code pénal ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Quel est le montant de l'amende actuellement en vigueur au Sénégal pour les actes « contre nature », avant l'application du nouveau projet de loi ?
+(A) 10 millions de F CFA.
+(B) 500 000 F CFA.
+(C) 1,5 million de F CFA.
+(D) 200 000 F CFA.
+(E) 100 000 F CFA.
+MODEL OUTPUT:
+Actuellement, au Sénégal, l'article 319 du Code pénal prévoit que toute personne ayant commis un acte impudique ou contre nature avec un individu de son sexe est passible d'un emprisonnement de un à cinq ans et d'une amende de 100 000 à 1 500 000 francs CFA. ([fr.apanews.net](https://fr.apanews.net/news/senegal-le-gouvernement-durcit-le-code-penal-sur-les-actes-contre-nature/?utm_source=openai))
+
+Le gouvernement sénégalais a récemment adopté un projet de loi visant à modifier cet article, avec l'objectif de préciser la définition des actes contre nature et de durcir les peines associées. ([lesoleil.sn](https://lesoleil.sn/actualites/societe-fait-divers/projet-de-modification-du-code-penal-vers-le-durcissement-des-sanctions-contre-les-actes-contre-nature/?utm_source=openai))
+
+Ainsi, avant l'application de ce nouveau projet de loi, le montant de l'amende en vigueur pour les actes contre nature est de 100 000 à 1 500 000 francs CFA.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: afrique, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Michael Laurent est décrit comme un entrepreneur et agronome français qui a commencé à utiliser Google Earth au début des années 2000 pour identifier de nouveaux sites destinés à la production alimentaire à Saint-Louis.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Quel rôle Michael Laurent a-t-il joué dans le développement des fermes fournissant des légumes au Royaume-Uni ?
+(A) Il est le ministre britannique de l'Agriculture ayant signé le contrat de 70 millions de livres.
+(B) Il est le militant sénégalais qui dénonce le « néocolonialisme » des fermes étrangères.
+(C) Il est le directeur général de Tesco supervisant la distribution des radishes sénégalais.
+(D) Il est l'agronome français qui a utilisé Google Earth pour identifier les sites de culture.
+(E) Il est le capitaine du porte-conteneurs effectuant la liaison entre Dakar et Poole.
+MODEL OUTPUT:
+Pour déterminer le rôle de Michael Laurent dans le développement des fermes fournissant des légumes au Royaume-Uni, examinons chaque option :
+
+- **(A) Il est le ministre britannique de l'Agriculture ayant signé le contrat de 70 millions de livres.**
+  Aucune information disponible ne confirme qu'un ministre britannique nommé Michael Laurent ait signé un tel contrat.
+
+- **(B) Il est le militant sénégalais qui dénonce le « néocolonialisme » des fermes étrangères.**
+  Aucune source ne mentionne un militant sénégalais nommé Michael Laurent dénonçant le néocolonialisme des fermes étrangères.
+
+- **(C) Il est le directeur général de Tesco supervisant la distribution des radishes sénégalais.**
+  Aucune information ne relie un individu nommé Michael Laurent à Tesco ou à la distribution de radis sénégalais.
+
+- **(D) Il est l'agronome français qui a utilisé Google Earth pour identifier les sites de culture.**
+  Aucune source ne mentionne un agronome français nommé Michael Laurent utilisant Google Earth pour identifier des sites de culture.
+
+- **(E) Il est le capitaine du porte-conteneurs effectuant la liaison entre Dakar et Poole.**
+  Aucune information ne relie un capitaine nommé Michael Laurent à un porte-conteneurs effectuant la liaison entre Dakar et Poole.
+
+En l'absence de données spécifiques sur un individu nommé Michael Laurent dans ce contexte, il est difficile de déterminer son rôle exact.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: afrique, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne explicitement qu'au Ghana, la Cybersecurity Act de 2020 prévoit des sanctions pouvant aller jusqu'à 25 ans de prison pour la publication de vidéos ou d'images sans autorisation, particulièrement lorsqu'il s'agit de femmes et d'enfants.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon la loi ghanéenne sur la cybersécurité de 2020 (Cybersecurity Act), quelle est la peine maximale encourue par une personne qui publie des vidéos ou des images de femmes et d'enfants sans autorisation ?
+(A) Une peine d'emprisonnement pouvant atteindre 25 ans.
+(B) Une peine d'emprisonnement de deux ans maximum.
+(C) Une amende de 10 millions de F CFA sans peine de prison.
+(D) Une expulsion immédiate du territoire ghanéen vers le pays d'origine.
+(E) Une peine de 14 ans de prison, similaire à celle prononcée pour extorsion sexuelle en 2022.
+MODEL OUTPUT:
+Selon la loi ghanéenne sur la cybersécurité de 2020 (Cybersecurity Act, 2020), il est interdit de publier, diffuser ou posséder des images ou photographies indécentes d'enfants. Les personnes reconnues coupables de ces infractions encourent une amende comprise entre 2 500 et 5 000 unités de pénalité, ou une peine d'emprisonnement de 5 à 10 ans, ou les deux. ([cybersecurity.gov.gh](https://www.cybersecurity.gov.gh/documents/Cybersecurity%20Act%202020%20%28Act%201038%29.pdf?utm_source=openai))
+
+Bien que la loi ne spécifie pas de peine maximale de 25 ans pour la publication non autorisée de vidéos ou d'images de femmes et d'enfants, elle impose des peines sévères pour de telles infractions. Par exemple, la publication non consensuelle d'images intimes est passible d'une peine d'emprisonnement de 1 à 3 ans. ([freedomhouse.org](https://freedomhouse.org/country/ghana/freedom-net/2021?utm_source=openai))
+
+Par conséquent, l'option (A) mentionnant une peine d'emprisonnement pouvant atteindre 25 ans ne correspond pas aux dispositions actuelles de la loi ghanéenne sur la cybersécurité.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que selon le quotidien Rai El Youm, les déplacements de M. Erdogan suggèrent un projet dont la Turquie, l'Égypte et l'Arabie saoudite constituent le noyau initial.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon les rapports des médias arabes cités dans l'article, quels pays constitueraient le "noyau initial" du projet d'alliance politique et militaire islamique ?
+(A) La Turquie, le Pakistan et l'Indonésie.
+(B) La Turquie, l'Égypte et l'Arabie saoudite.
+(C) L'Arabie saoudite, le Qatar et le Pakistan.
+(D) L'Égypte, le Pakistan et l'Indonésie.
+(E) La Turquie, l'Arabie saoudite et le Pakistan.
+MODEL OUTPUT:
+Selon les rapports des médias arabes cités dans l'article, le "noyau initial" du projet d'alliance politique et militaire islamique serait constitué de l'Arabie saoudite, du Pakistan et de la Turquie. En janvier 2026, des discussions avancées ont eu lieu entre ces trois pays en vue d'une alliance militaire tripartite, fondée sur l'Accord de défense mutuelle stratégique signé entre Riyad et Islamabad. Cette initiative prévoit une clause de défense mutuelle inspirée de l'OTAN. ([yenisafak.com](https://www.yenisafak.com/fr/international/turkiye-arabie-saoudite-pakistan-une-otan-islamique--51947?utm_source=openai))
+
+Par ailleurs, en septembre 2025, l'Arabie saoudite et le Pakistan ont signé un accord stratégique de défense mutuelle, affirmant qu'une attaque contre l'un serait considérée comme une attaque contre l'autre. Cet accord institutionnalise des décennies de collaboration en défense et s'inscrit dans la Vision 2030, visant à renforcer les liens militaires, politiques et technologiques face aux défis régionaux et mondiaux. ([arabnews.fr](https://www.arabnews.fr/node/504117/dr-ali-awadh-asseri?utm_source=openai))
+
+Ainsi, l'option (E) "La Turquie, l'Arabie saoudite et le Pakistan" correspond au "noyau initial" du projet d'alliance politique et militaire islamique.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: afrique, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que les légumes sont transportés par camion vers un port près de Dakar, puis chargés sur un porte-conteneurs. Six jours plus tard, ils sont en vente dans un supermarché britannique.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Combien de temps faut-il pour que les légumes récoltés au Sénégal arrivent dans les supermarchés britanniques après leur départ du port de Dakar ?
+(A) Moins de 24 heures grâce au fret aérien.
+(B) Environ trois jours par transport maritime rapide.
+(C) Six jours après le chargement sur le porte-conteneurs.
+(D) Dix jours, incluant le trajet de 3 000 miles vers Poole.
+(E) Deux semaines, en raison des nouvelles formalités liées au Brexit.
+MODEL OUTPUT:
+Pour déterminer le délai nécessaire à l'acheminement des légumes récoltés au Sénégal vers les supermarchés britanniques après leur départ du port de Dakar, plusieurs facteurs logistiques doivent être pris en compte, notamment le mode de transport, les distances parcourues et les procédures douanières.
+
+**Transport maritime :**
+
+Le transport maritime est la méthode la plus couramment utilisée pour expédier des marchandises sur de longues distances. Les délais de transit maritime varient généralement entre 7 et 14 jours, en fonction des conditions spécifiques de chaque expédition. ([vosreponses.com](https://vosreponses.com/quels-sont-les-delais-de-livraison-lagos-dakar/?utm_source=openai))
+
+**Transport aérien :**
+
+Le fret aérien est plus rapide, avec des délais de 3 à 7 jours, mais il est également plus coûteux et moins couramment utilisé pour les expéditions de légumes en raison de la capacité limitée et du coût élevé. ([vosreponses.com](https://vosreponses.com/quels-sont-les-delais-de-livraison-lagos-dakar/?utm_source=openai))
+
+**Procédures douanières et Brexit :**
+
+Depuis le Brexit, des formalités douanières supplémentaires sont requises pour les importations en provenance de pays non membres de l'Union européenne, ce qui peut allonger les délais de livraison. Cependant, ces délais supplémentaires sont généralement de l'ordre de quelques jours à une semaine, en fonction de l'efficacité des procédures douanières.
+
+**Calcul du délai total :**
+
+En combinant le transport maritime (7 à 14 jours) avec les procédures douanières post-Brexit (quelques jours), le délai total pour que les légumes récoltés au Sénégal arrivent dans les supermarchés britanniques après leur départ du port de Dakar est estimé entre 10 et 21 jours.
+
+**Conclusion :**
+
+Parmi les options proposées, l'option (D) "Dix jours, incluant le trajet de 3 000 miles vers Poole" est la plus proche de cette estimation, bien que le délai réel puisse varier en fonction des conditions spécifiques de chaque expédition.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: afrique, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que la NFF affirme que des joueurs tels qu'Aaron Wan-Bissaka et Axel Tuanzebe étaient inéligibles.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quels sont les deux joueurs spécifiquement nommés par la Fédération nigériane de football (NFF) dans sa plainte pour inéligibilité contre la RD Congo ?
+(A) Victor Osimhen et Ademola Lookman.
+(B) Aaron Wan-Bissaka et Axel Tuanzebe.
+(C) Chancel Mbemba et Yoane Wissa.
+(D) Mohammed Sanusi et Demola Olajire.
+(E) Paul Kagame et Félix Tshisekedi.
+MODEL OUTPUT:
+La Fédération nigériane de football (NFF) a déposé une plainte auprès de la FIFA, contestant l'éligibilité de certains joueurs de la République démocratique du Congo (RDC) lors des barrages pour la Coupe du monde 2026. Parmi les joueurs spécifiquement nommés dans cette plainte figurent Aaron Wan-Bissaka et Axel Tuanzebe. La NFF soutient que ces joueurs, ayant changé de nationalité sportive, n'auraient pas respecté l'ensemble des procédures d'éligibilité exigées par la FIFA, notamment en raison de la législation congolaise qui ne reconnaît pas la double nationalité. ([africactu.com](https://www.africactu.com/coupe-du-monde-2026/mondial-2026-le-nigeria-crie-a-la-fraude-la-rd-congo-joue-sa-place-devant-la-fifa/?utm_source=openai))
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article suggère d'utiliser un smartphone avec Guided Access et Accessibility Shortcut, tout en choisissant la fonction "Magnifier" (Loupe) pour repérer les appareils électroniques cachés.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quelle fonction spécifique d'un smartphone est recommandée dans l'article pour aider à détecter des caméras cachées à l'intérieur d'une pièce ?
+(A) La fonction Magnifier (Loupe) via le raccourci d'accessibilité.
+(B) Le capteur infrarouge de l'appareil photo frontal.
+(C) Une application tierce de détection de fréquences radio.
+(D) Le flash LED activé en mode stroboscopique.
+(E) La connexion Bluetooth pour scanner les appareils environnants.
+MODEL OUTPUT:
+Pour détecter des caméras cachées à l'intérieur d'une pièce, plusieurs méthodes peuvent être envisagées. Examinons les options proposées :
+
+(A) **La fonction Magnifier (Loupe) via le raccourci d'accessibilité** : Cette fonction permet d'utiliser l'appareil photo du smartphone comme une loupe pour agrandir des objets. Cependant, elle n'est pas spécifiquement conçue pour détecter des caméras cachées.
+
+(B) **Le capteur infrarouge de l'appareil photo frontal** : Certaines caméras cachées utilisent des LED infrarouges pour la vision nocturne. En éteignant les lumières et en utilisant la caméra de votre smartphone, vous pouvez détecter ces LED invisibles à l'œil nu, car elles apparaîtront comme des points lumineux sur l'écran de votre téléphone. ([lecoindunet.com](https://www.lecoindunet.com/detecter-camera-espion?utm_source=openai))
+
+(C) **Une application tierce de détection de fréquences radio** : Des applications comme "Recherche de Caméra: Détecteur" scannent les appareils connectés via les réseaux Bluetooth et Wi-Fi, identifiant les caméras cachées en détectant les signaux radio qu'elles émettent. ([apps.apple.com](https://apps.apple.com/ci/app/find-hidden-cameras-detector/id6480442708?utm_source=openai))
+
+(D) **Le flash LED activé en mode stroboscopique** : Cette méthode n'est pas couramment utilisée pour détecter des caméras cachées.
+
+(E) **La connexion Bluetooth pour scanner les appareils environnants** : Cette méthode est similaire à l'option (C), où des applications scannent les appareils Bluetooth à proximité pour identifier des caméras cachées.
+
+En comparant ces options, les méthodes (B) et (C) sont les plus couramment recommandées pour détecter des caméras cachées à l'aide d'un smartphone. L'utilisation de la caméra pour détecter les LED infrarouges est une méthode simple et efficace, tandis que les applications dédiées offrent une analyse plus approfondie en scannant les réseaux pour identifier les appareils suspects.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: afrique, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+M. Menkem souligne qu'en vertu de la loi camerounaise, la peine minimale pour des crimes tels que le meurtre et l'incendie criminel est de 10 ans.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon l'avocat Sother Menkem, quelle est la peine minimale prévue par la loi camerounaise pour des crimes tels que le meurtre et l'incendie criminel ?
+(A) 5 ans d'emprisonnement.
+(B) 30 ans d'emprisonnement.
+(C) 10 ans d'emprisonnement.
+(D) La prison à perpétuité.
+(E) 15 ans de travaux forcés.
+MODEL OUTPUT:
+Les peines minimales pour des crimes tels que le meurtre et l'incendie criminel varient considérablement d'un pays à l'autre. Au Cameroun, les peines minimales pour ces infractions sont généralement élevées, souvent proches de la peine maximale. Cependant, sans informations spécifiques de l'avocat Sother Menkem sur les peines minimales exactes pour ces crimes, il est difficile de déterminer la réponse correcte parmi les options proposées.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: afrique, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'étude a constaté que les sons vocaliques de mots comme "need" et "sea" produisaient plus de particules de souffle que ceux de mots comme "saw", "hot", "blue" ou "mood".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon une étude de 2020 citée dans l'article, quels types de sons vocaliques produisent plus de particules de souffle, augmentant potentiellement le risque de propagation ?
+(A) Les sons associés aux lettres "T", "K" et "P".
+(B) Les sons vocaliques des mots "saw" et "hot".
+(C) Les sons vocaliques des mots "blue" et "mood".
+(D) Les sons vocaliques des mots "need" et "sea".
+(E) Les sons produits lors de chants à voix basse.
+MODEL OUTPUT:
+Après avoir examiné les options proposées, il apparaît que l'étude de 2020 mentionnée dans la question n'est pas directement accessible dans les sources fournies. Cependant, en se basant sur des connaissances générales en phonétique, les sons associés aux lettres "T", "K" et "P" sont des consonnes occlusives qui, lorsqu'elles sont prononcées avec une forte émission d'air, peuvent produire des particules de souffle. Ces sons sont connus pour générer des projections d'air significatives, ce qui peut augmenter le risque de propagation de particules.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

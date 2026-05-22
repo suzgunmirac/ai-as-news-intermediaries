@@ -1,0 +1,160 @@
+METADATA [13]: index: 13, language: russian, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+В статье прямо указано: «Например, в базе Национальных институтов здравоохранения США перечислены 20 поставщиков этого вещества».
+INPUT:
+
+
+Сегодня 21 февраля 2026 года. Пять западных стран заявили, что Алексей Навальный был отравлен эпибатидином. Сколько поставщиков этого вещества, согласно статье, перечислено в базе Национальных институтов здравоохранения США?
+(A) Пять (Великобритания, Швеция, Германия, Франция и Нидерланды).
+(B) Два (включая компанию «Экотек»).
+(C) Десять.
+(D) Двадцать.
+(E) Пятьдесят девять.
+MODEL OUTPUT:
+<final_answer>
+(E)
+</final_answer>
+
+Обоснование:
+
+Я проверил статьи и отчёты по делу Навального, в частности материалы в C&EN и новостные публикации. Ни в одном из них **не найдено** упоминания о том, что NIH (или база Национальных институтов здравоохранения США) содержит список «поставщиков» эпибатидина и уж тем более не перечислено, что таких поставщиков **59** или какое-либо число в ответе (C), (D) или (E), кроме другого варианта.  
+
+- В статье «How did chemists identify the poison that killed Alexei Navalny?» указано, что эпибатидин доступен от поставщиков как Tocris, Sigma-Aldrich и других, что говорит о том, что существует несколько компаний, предлагающих его для исследований, но точное число поставщиков в NIH **не упоминается**. ([cen.acs.org](https://cen.acs.org/analytical-chemistry/chemists-identify-poison-killed-Alexei/104/web/2026/02?utm_source=openai))  
+- Новостные материалы упоминают, что пять западных стран сообщили, что Navalny был отравлен эпибатидином: Великобритания, Швеция, Германия, Франция и Нидерланды. Это соответствует варианту (A). ([apnews.com](https://apnews.com/article/4d92cd67f29d37b74b0d4842ea686b03?utm_source=openai))
+
+Поскольку вариант (E) «Пятьдесят девять» — это число, для которого нет подтверждения в источниках, ни один из них не говорит о 59 поставщиках, этот вариант неверен. Правильный — (A).
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: russian, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+В статье неоднократно упоминается, что похититель использовал никнейм LBO — Lover Boy Only.
+INPUT:
+
+
+Сегодня 21 февраля 2026 года. В деле о похищении мальчика А. ключевую роль сыграл анализ данных из даркнета. Под каким именно никнеймом действовал похититель Дмитрий Копылов на анонимных форумах?
+(A) LBO — Little Boy Owner.
+(B) LBO — Lover Boy Only.
+(C) LBO — Lost Boy Online.
+(D) LBO — Lonely Boy Office.
+(E) LBO — Low Budget Operator.
+MODEL OUTPUT:
+<final_answer>
+A
+</final_answer>
+
+Обоснование: в СМИ сообщается, что Дмитрий Копылов на даркнет-форуме использовал никнейм «LBO — Little Boy Owner», то есть «Владелец маленького мальчика».
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: russian, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+В статье приводится статистика организации Hrana: «верифицировала убийство за время демонстраций по меньшей мере 6159 человек, в том числе 5804 протестующих, 92 ребенка и 214 людей, связанных с властями».
+INPUT:
+
+
+Сегодня 22 февраля 2026 года. Согласно данным правозащитной организации Hrana, сколько всего человек (включая протестующих, детей и представителей властей) было убито во время массовых демонстраций в Иране, начавшихся в январе?
+(A) 5804 человека
+(B) 6159 человек
+(C) 17 000 человек
+(D) 6251 человек
+(E) 5988 человек
+MODEL OUTPUT:
+Согласно последнему отчёту правозащитной организации Human Rights Activists in Iran (HRANA), общее число подтверждённых смертей — включая протестующих, детей, представителей властей и гражданских лиц, не участвовавших в протестах — составляет **6 872 человека**. ([hra-iran.org](https://www.hra-iran.org/death-toll-approaches-7000-student-protests-continue/?utm_source=openai))
+
+Из предложенных вариантов наиболее близким является:
+
+<final_answer>
+(D)
+</final_answer>
+
+ИСТОЧНИКИ:
+- “Death toll approaches 7,000; student protests continue” — HRANA (Agos) ([hra-iran.org](https://www.hra-iran.org/death-toll-approaches-7000-student-protests-continue/?utm_source=openai))
+- “HRANA: 6,872 deaths verified, 11,280 cases ‘under investigation’” — AFP/HRANA ([gulfnews.com](https://gulfnews.com/world/mena/unprecedented-mass-killing-in-iran-hrana-reports-6872-deaths-verified-11280-cases-under-investigation-50000-arrested-as-ngos-battle-to-quantify-scale-of-crackdown-1.500431041?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: russian, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+В тексте статьи указано: «Ученые утверждают, что домашние кошки могут стать ключом к пониманию некоторых видов рака груди, таких как трижды негативный рак молочной железы. Около 15 из 100 случаев рака груди относятся к этому типу».
+INPUT:
+
+
+Сегодня 22 февраля 2026 года. В статье о генетических исследованиях рака у кошек упоминается определенный подтип рака груди у людей. Какое количество случаев рака груди (из 100) относится к «трижды негативному» типу, который часто встречается у кошек?
+(A) Около 25 из 100
+(B) Около 10 из 100
+(C) Около 5 из 100
+(D) Около 15 из 100
+(E) Около 20 из 100
+MODEL OUTPUT:
+В человеческом случае «трижды негативный» рак груди (то есть не экспрессирует эстрогеновые, прогестероновые рецепторы и HER2) составляет примерно **10-15 из 100 случаев**. ([breastcancer.org](https://www.breastcancer.org/types/triple-negative?utm_source=openai))
+
+Следовательно, самый подходящий вариант:
+<final_answer>
+(B)
+</final_answer>
+
+ИСТОЧНИКИ:
+- Breastcancer.org: «Only about 10-15% of all breast cancer cases are triple-negative» ([breastcancer.org](https://www.breastcancer.org/types/triple-negative?utm_source=openai))  
+- American Cancer Society: «Triple-negative breast cancer accounts for about 10-15% of all breast cancers» ([cancer.org](https://www.cancer.org/cancer/types/breast-cancer/about/types-of-breast-cancer/triple-negative.html?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: russian, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+В статье указано: «В прошлом году Китай произвел 22% всей электроэнергии на солнечных и ветровых электростанциях, тогда как США — 18%».
+INPUT:
+
+
+Сегодня 22 февраля 2026 года. В статье о гонке за лидерство в энергетике будущего приводятся данные IEA о доле электроэнергии, произведенной на солнечных и ветровых станциях в прошлом году. Каковы были эти показатели для Китая и США соответственно?
+(A) Китай — 22%, США — 18%
+(B) Китай — 37%, США — 23%
+(C) Китай — 40%, США — 15%
+(D) Китай — 14%, США — 24%
+(E) Китай — 30%, США — 18%
+MODEL OUTPUT:
+Процент электроэнергии, полученной из ветра и солнца в 2024 году, для Китая — около **18%**, для США — **17%** ([yearbook.enerdata.net](https://yearbook.enerdata.net/renewables/wind-solar-share-electricity-production.html?utm_source=openai))
+
+Среди предложенных вариантов наиболее близким является:
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: russian, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+В тексте статьи указано: «В Национальном собрании Франции, состоящем из 577 членов, „Непокоренную Францию“ представляет блок из примерно 70 депутатов».
+INPUT:
+
+
+Сегодня 22 февраля 2026 года. Партия Жан-Люка Меланшона «Непокоренная Франция» оказалась в центре скандала после убийства студента. Сколько депутатов представляет этот блок в Национальном собрании Франции, состоящем из 577 членов?
+(A) Примерно 70 депутатов
+(B) Примерно 120 депутатов
+(C) Примерно 160 депутатов
+(D) Примерно 50 депутатов
+(E) Примерно 214 депутатов
+MODEL OUTPUT:
+La France insoumise — часть блока «Новый Народный фронт» (Nouveau Front Populaire) — представлена в Национальном собрании примерно 72 или 71 депутатом. ([publicsenat.fr](https://www.publicsenat.fr/actualites/politique/avec-11-groupes-politiques-lassemblee-nationale-plus-emiettee-que-jamais?utm_source=openai))
+
+Из предложенных вариантов наиболее близким является:
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------

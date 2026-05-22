@@ -1,0 +1,798 @@
+METADATA [11]: index: 11, language: turkce, date: february_18, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Haberde dizinin son bölümünün yayınlandıktan saatler sonra IMDb'de 9.8 puana ulaştığı belirtilmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Game of Thrones evreninin yeni dizisi 'A Knight of the Seven Kingdoms'ın (Yedi Krallık Şövalyesi) "In the Name of Mother" isimli beşinci bölümü IMDb'de kaç puana ulaşmıştır?
+(A) 9.5
+(B) 9.8
+(C) 9.0
+(D) 8.8
+(E) 9.9
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için önemli bir zaman çerçevesi analizi yapmam gerekiyor.
+
+**Zaman Analizi:**
+- Soru, bugünün 18 Şubat 2026 olduğunu belirtiyor
+- Ben bir yapay zeka modeliyim ve benim bilgi kesim tarihim 2024'ün ortalarında
+- Dolayısıyla 2026 yılında gerçekleşen olaylar hakkında bilgim yok
+
+**Dizi Hakkında:**
+"A Knight of the Seven Kingdoms" (Yedi Krallık Şövalyesi), Game of Thrones evreninde geçen ve George R.R. Martin'in "The Hedge Knight" (Çit Şövalyesi) hikayelerine dayanan bir dizi olarak duyurulmuştu. Ancak benim bilgi kesim tarihimde bu dizi henüz yayınlanmamıştı.
+
+**Sorunun Doğası:**
+- Soru, gelecekte (2026'da) yayınlanacak bir dizinin beşinci bölümünün IMDb puanını soruyor
+- "In the Name of Mother" isimli beşinci bölümün IMDb puanı gibi spesifik bir bilgi, ancak bölüm yayınlandıktan ve izleyiciler tarafından oylandıktan sonra bilinebilir
+- Bu bilgi benim erişim tarihimin ötesinde
+
+**Sonuç:**
+Bu soruya doğru bir cevap veremem çünkü:
+1. Soru 2026 yılına ait bir bilgi istiyor
+2. Benim bilgi kesim tarihim 2024'ün ortaları
+3. Gelecekteki bir dizinin bölüm puanlarını tahmin edemem
+
+Bu durumda, verilen seçeneklerden birini seçmem gerekse de, bu tamamen spekülasyon olacaktır. Game of Thrones evrenindeki önemli bölümler genellikle yüksek puanlar alır, ancak kesin bir bilgim olmadan cevap veremem.
+
+<final_answer>
+Bu soruya güvenilir bir cevap veremiyorum çünkü soru 2026 yılına ait bilgi gerektiriyor ve benim bilgi kesim tarihim 2024'tür.
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: turkce, date: february_18, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Haberde, kumar bağımlılığı tedavisi için YEDAM'a başvuranların yalnızca %2'sinin kadın olduğu belirtilmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Türkiye'de kumar bağımlılığı başvurularındaki artışa rağmen, Yeşilay Danışmanlık Merkezi'ne (YEDAM) başvuranların yüzde kaçı kadındır?
+(A) %5
+(B) %10
+(C) %1,2
+(D) %71
+(E) %2
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için Türkiye'deki kumar bağımlılığı ve Yeşilay Danışmanlık Merkezi (YEDAM) ile ilgili verileri değerlendirmem gerekiyor.
+
+Soru, YEDAM'a kumar bağımlılığı nedeniyle başvuranlar arasında kadınların oranını soruyor. 
+
+Türkiye'de kumar bağımlılığı geleneksel olarak erkeklerde daha yaygın görülen bir sorun olarak bilinmektedir. Kadınların kumar bağımlılığı başvurularındaki oranının erkeklere göre oldukça düşük olması beklenir.
+
+Verilen seçeneklere baktığımızda:
+- (A) %5
+- (B) %10
+- (C) %1,2
+- (D) %71 - Bu oran kadınlar için çok yüksek olur, mantıklı değil
+- (E) %2
+
+Kumar bağımlılığı başvurularında kadın oranının düşük olması beklenir. %71 gibi yüksek bir oran kadınlar için mantıksız olacaktır çünkü kumar bağımlılığı erkeklerde daha yaygındır.
+
+Yeşilay'ın verilerine göre, kumar bağımlılığı başvurularında kadınların oranı oldukça düşüktür. Türkiye'deki bağımlılık merkezlerine yapılan başvurularda kadınların kumar bağımlılığı oranının %1-2 civarında olduğu bilinmektedir.
+
+En olası cevap %1,2 veya %2 gibi görünmektedir. %1,2 daha spesifik bir istatistik olarak öne çıkıyor.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: turkce, date: february_18, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+İçişleri Bakanlığı sözcüsü Nureddin el-Baba, 42 kaçırma iddiasından sadece birinin "gerçek bir kaçırma" olduğunu açıklamıştır.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Suriye İçişleri Bakanlığı sözcüsü Kasım ayında yaptığı açıklamada, soruşturdukları 42 kaçırma iddiasından kaç tanesinin "gerçek bir kaçırma" olduğunu tespit ettiklerini söylemiştir?
+(A) 1
+(B) 42
+(C) 26
+(D) 16
+(E) 4
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için Suriye İçişleri Bakanlığı sözcüsünün Kasım ayında yaptığı açıklamayı bulmam gerekiyor. Soru, 18 Şubat 2026 tarihinden bahsediyor ve geçmişte (Kasım ayında) yapılmış bir açıklamaya atıfta bulunuyor.
+
+Ancak, ben bir yapay zeka modeliyim ve gerçek zamanlı bilgiye veya gelecekteki olaylara (2026 yılı benim eğitim verilerimin ötesindedir) erişimim yoktur. Bu nedenle, Suriye İçişleri Bakanlığı sözcüsünün Kasım ayında yaptığı spesifik açıklamayı doğrudan doğrulayamam.
+
+Bu tür spesifik bir soru, belirli bir haber kaynağından veya resmi açıklamadan alınmış gibi görünüyor. Sorunun yapısına bakıldığında:
+- 42 kaçırma iddiası soruşturulmuş
+- Bunlardan belirli bir sayısının "gerçek kaçırma" olduğu tespit edilmiş
+
+Verilen seçeneklere bakıldığında:
+- (A) 1 - çok düşük bir oran
+- (B) 42 - tümü (bu durumda "kaç tanesi" sorusu anlamsız olurdu)
+- (C) 26 - yaklaşık %62'si
+- (D) 16 - yaklaşık %38'i
+- (E) 4 - yaklaşık %10'u
+
+Bu tür soruşturmalarda genellikle iddiaların bir kısmının doğrulanamaması veya asılsız çıkması beklenir. Ancak kesin bilgi olmadan tahmin yapmak doğru olmaz.
+
+Maalesef, bu spesifik olaya dair güvenilir bilgiye erişimim olmadığından, kesin bir yanıt veremiyorum.
+
+<final_answer>
+(E)
+</final_answer>
+
+NOT: Bu yanıt, mevcut bilgilerime dayanarak bir tahmindir. 2026 yılına ait olaylar ve Suriye İçişleri Bakanlığı'nın bu spesifik açıklaması hakkında doğrulanmış bilgiye erişimim bulunmamaktadır.
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: turkce, date: february_18, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Haberde, sürece ilişkin TBMM komisyonunun ilk kez 5 Ağustos 2025'te toplandığı belirtilmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. TBMM'de kurulan 'Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu' sürece ilişkin ilk toplantısını hangi tarihte gerçekleştirmiştir?
+(A) 22 Ekim 2024
+(B) 5 Ağustos 2025
+(C) 18 Mayıs 2025
+(D) 17 Şubat 2026
+(E) 5 Mayıs 2025
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için TBMM'de kurulan 'Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu'nun ilk toplantı tarihini bulmam gerekiyor.
+
+Bu komisyon, Türkiye'de özellikle terörle mücadele ve barış süreci bağlamında önemli bir gelişme olarak kurulmuştur. Komisyonun kuruluşu ve ilk toplantısı 2024-2025 döneminde gerçekleşmiş olmalıdır.
+
+Verilen seçeneklere baktığımda:
+- (A) 22 Ekim 2024
+- (B) 5 Ağustos 2025
+- (C) 18 Mayıs 2025
+- (D) 17 Şubat 2026 - Bu tarih sorunun sorulduğu tarihten (18 Şubat 2026) sadece bir gün önce
+- (E) 5 Mayıs 2025
+
+Komisyonun kurulması ve ilk toplantısının yapılması genellikle 2024 yılının son çeyreğinde veya 2025 yılının ilk yarısında gerçekleşmiş olmalıdır. 
+
+Türkiye'de son dönemde terörle mücadele ve barış süreciyle ilgili önemli gelişmeler yaşanmış ve bu bağlamda TBMM'de özel bir komisyon kurulmuştur. Bu tür komisyonların ilk toplantıları genellikle kuruluşlarından kısa bir süre sonra yapılır.
+
+Tarihsel bağlam ve mantıksal sıralama göz önüne alındığında, komisyonun ilk toplantısının 2024 yılının sonlarında yapılmış olması en mantıklı seçenek gibi görünmektedir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: turkce, date: february_18, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Savcılar, saatte 74 km'ye varan şiddetli rüzgarlar olduğunu, hava sıcaklığının -8 derece, hissedilen sıcaklığın ise -20 derece olduğunu belirtmişlerdir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Avusturya'daki Grossglockner dağında yaşanan trajik olayda, savcıların belirttiğine göre 18 Ocak günü hava koşulları nasıldı?
+(A) 20 km/s rüzgar ve -5 derece
+(B) 50 km/s rüzgar ve -10 derece
+(C) 74 km/s rüzgar ve -8 derece
+(D) 100 km/s rüzgar ve -15 derece
+(E) 120 km/s rüzgar ve -25 derece
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için öncelikle birkaç önemli noktayı değerlendirmem gerekiyor:
+
+1. **Tarih Uyumsuzluğu**: Soru "bugün 18 Şubat 2026" diyor, ancak bu gelecekte bir tarih. Ben bir yapay zeka olarak gerçek zamanlı bilgiye erişimim yok ve 2026 yılında henüz gerçekleşmemiş olaylar hakkında bilgi sahibi olamam.
+
+2. **Rüzgar Hızı Birimleri**: Soruda verilen rüzgar hızları "km/s" (kilometre/saniye) olarak belirtilmiş, ancak bu meteorolojik ölçümler için son derece olağandışı bir birim. Normal rüzgar hızları genellikle km/saat veya m/s cinsinden ölçülür. 
+   - 20 km/s = 72,000 km/saat (kasırga seviyesinin çok üzerinde, fiziksel olarak imkansız)
+   - Bu muhtemelen bir yazım hatası ve "km/saat" olması gerekiyor.
+
+3. **Grossglockner**: Avusturya'nın en yüksek dağı (3,798 m) ve kış aylarında zorlu hava koşullarına sahip olabilir.
+
+Seçenekleri km/saat olarak değerlendirirsek:
+- (A) 20 km/saat - hafif rüzgar
+- (B) 50 km/saat - orta şiddette rüzgar
+- (C) 74 km/saat - kuvvetli rüzgar
+- (D) 100 km/saat - çok kuvvetli rüzgar/fırtına
+- (E) 120 km/saat - şiddetli fırtına
+
+Trajik bir olay bağlamında ve savcıların belirttiği detaylar göz önüne alındığında, muhtemelen ciddi hava koşulları söz konusu olmalı. Ancak gerçek bir olaya dair spesifik bilgiye erişimim olmadığından, bu soruyu kesin olarak yanıtlayamam.
+
+Dağ koşullarında trajik olaylar genellikle şiddetli hava koşullarıyla ilişkili olduğundan ve orta düzeyde zorlu ama gerçekçi koşulları yansıtan seçenek olarak:
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: turkce, date: february_18, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede BM'ye göre sadece 2025 yılında rekor sayıda, 37 binden fazla Filistinlinin yerinden edildiği belirtilmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Birleşmiş Milletler (BM) verilerine göre, sadece 2025 yılında Batı Şeria'da kaç Filistinli yerinden edilmiştir?
+(A) 1400
+(B) 37.000
+(C) 700.000
+(D) 19
+(E) 36
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için 2025 yılında Batı Şeria'daki Filistinli yerinden edilmeleri hakkında BM verilerini değerlendirmem gerekiyor.
+
+**Düşünce Süreci:**
+
+Soru, bugünün 18 Şubat 2026 olduğunu belirtiyor ve 2025 yılı boyunca Batı Şeria'da yerinden edilen Filistinlilerin sayısını soruyor.
+
+Verilen seçeneklere bakıldığında:
+- (A) 1,400 - Makul bir yıllık rakam olabilir
+- (B) 37,000 - Oldukça yüksek bir rakam
+- (C) 700,000 - Çok yüksek, nüfusun önemli bir kısmı
+- (D) 19 - Çok düşük
+- (E) 36 - Çok düşük
+
+Son yıllarda Batı Şeria'da yerinden edilmeler, özellikle 2023 sonrası dönemde artış göstermiştir. BM İnsani İşler Koordinasyon Ofisi (OCHA) bu tür verileri düzenli olarak takip etmektedir.
+
+2023 ve 2024'te bölgedeki gerilimin artmasıyla birlikte, yerinden edilme sayılarında önemli artışlar kaydedilmiştir. 2025 yılı için, devam eden çatışmalar ve yıkımlar göz önüne alındığında, binlerce kişinin yerinden edilmesi beklenen bir durumdur.
+
+19 ve 36 gibi rakamlar bir yıllık toplam için çok düşüktür. 700,000 ise Batı Şeria nüfusunun çok büyük bir kısmını temsil eder ve tek bir yıl için olağanüstü yüksektir.
+
+1,400 ile 37,000 arasında, son yıllardaki eğilimler ve artan yerinden edilme oranları göz önüne alındığında, **1,400** daha muhtemel bir yıllık rakam gibi görünmektedir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_18, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Haberde kemiğin "10 cm'lik küp şeklinde" olduğu belirtilmektedir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. İspanya'da arkeologlar tarafından bulunan ve Hannibal'ın fillerine ait olduğu düşünülen kemiğin fiziksel özellikleri nasıldır?
+(A) 5 cm'lik silindir şeklinde
+(B) 20 cm'lik dikdörtgen şeklinde
+(C) 10 cm'lik küp şeklinde
+(D) 15 cm'lik yassı bir kemik
+(E) 50 cm'lik uzun bir bacak kemiği
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için öncelikle şunu belirtmem gerekir: Bugünün tarihi olarak verilen 18 Şubat 2026, benim eğitim verilerimin kesim tarihinden (Nisan 2024) sonrasına denk gelmektedir. Dolayısıyla, 2026 yılında İspanya'da Hannibal'ın fillerine ait olduğu düşünülen bir kemik bulunması hakkında herhangi bir bilgiye sahip değilim.
+
+Bu soru, gelecekte (benim bilgi tabanıma göre) gerçekleşmiş olması gereken spesifik bir arkeolojik keşif hakkında detaylı bilgi istemektedir. 
+
+Eğitim verilerim içerisinde:
+- Hannibal'ın Alpler'i geçişi ve filleri hakkında genel tarihsel bilgiler var
+- Ancak 2024 sonrası İspanya'da yapılmış spesifik bir fil kemiği keşfi hakkında bilgi bulunmuyor
+
+Bu tür spesifik, güncel bir arkeolojik bulguya dair fiziksel özellikleri (boyut ve şekil) bilmem mümkün değil. Sorudaki tarih ve olay benim erişebileceğim bilgi aralığının dışında kaldığı için, verilen seçeneklerden hangisinin doğru olduğunu belirleyemiyorum.
+
+Ancak bir tahmin yapmam gerekirse, fil kemikleri genellikle oldukça büyük olduğundan, (E) seçeneği olan "50 cm'lik uzun bir bacak kemiği" anatomik olarak en makul seçenek gibi görünmektedir. Filler büyük hayvanlardır ve bacak kemikleri gerçekten de bu boyutlarda olabilir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_18, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Başsavcılık, gece operasyonları sırasında 50 gramdan fazla "marihuana"nın ele geçirildiğini açıklamıştır.
+INPUT:
+
+
+Bugün 18 Şubat 2026. İstanbul'daki ünlülere yönelik uyuşturucu operasyonunda, Başsavcılık tarafından yapılan açıklamaya göre ne kadar "marihuana" ele geçirilmiştir?
+(A) 10 gram
+(B) 100 gram
+(C) 1 kg
+(D) 500 gram
+(E) 50 gramdan fazla
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için önemli bir sorun var: Soru 18 Şubat 2026 tarihli bir olay hakkında bilgi istiyor, ancak ben bir yapay zeka modeli olarak eğitim verilerim 2024 yılının başlarına kadar uzanıyor. Dolayısıyla gelecekte (2026'da) gerçekleşecek bir olay hakkında bilgiye sahip olamam.
+
+Ayrıca, bu tür spesifik operasyonlarla ilgili detaylı bilgiler (ele geçirilen uyuşturucu miktarları gibi) genellikle resmi kaynaklardan ve güncel haber bültenlerinden öğrenilir. 
+
+Sorunun yapısından anlaşıldığı kadarıyla:
+- İstanbul'da ünlülere yönelik bir uyuşturucu operasyonu
+- Başsavcılık açıklaması
+- Belirli miktarda marihuana ele geçirilmesi
+
+söz konusu, ancak bu bilgilere erişimim bulunmuyor.
+
+Bu durumda, soruyu doğru bir şekilde yanıtlayabilmem için:
+1. Ya bu gerçek bir olay değil ve hipotetik bir soru
+2. Ya da tarih yanlış yazılmış (belki 2025 veya daha önceki bir tarih olmalı)
+3. Ya da bu bilgiye erişimim yok
+
+Mevcut bilgilerimle bu soruya kesin bir cevap veremiyorum.
+
+<final_answer>
+Bu soruyu yanıtlayamıyorum çünkü 2026 tarihli bir olay hakkında bilgi istiyor ve bu tarih benim bilgi erişimimin ötesinde.
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalenin başında komisyonun adı "Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu" olarak geçmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. PKK'nın fesih kararı sonrası kurulan ve raporunu tamamlayan komisyonun tam adı aşağıdakilerden hangisidir?
+(A) Milli Birlik ve Beraberlik Komisyonu
+(B) Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu
+(C) Toplumsal Barış ve Demokrasi Komisyonu
+(D) Terörle Mücadele ve Entegrasyon Komisyonu
+(E) Demokratikleşme ve İzleme Komisyonu
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için dikkatli bir değerlendirme yapmam gerekiyor.
+
+Soru, PKK'nın fesih kararı sonrası kurulan ve raporunu tamamlayan bir komisyondan bahsediyor. Sorunun tarihi 19 Şubat 2026 olarak verilmiş, bu da gelecekte bir tarih (benim bilgi tabanım 2024'te sona eriyor).
+
+Bu soru, ya hipotetik bir senaryoya ya da benim bilgi kesme tarihimden sonra gerçekleşen olaylara atıfta bulunuyor gibi görünüyor. 2024'e kadar olan bilgilerime göre:
+
+1. PKK'nın resmi bir fesih kararı almadığını biliyorum
+2. Böyle bir komisyonun kurulduğuna dair kesin bilgim yok
+
+Ancak, Türkiye'de terör sorunları ve barış süreçleriyle ilgili geçmişte çeşitli komisyonlar ve girişimler olmuştur. Verilen seçeneklere bakıldığında:
+
+- (A) Milli Birlik ve Beraberlik Komisyonu - Bu tür bir isim, toplumsal bütünleşmeyi vurgular
+- (B) Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu - Kapsamlı bir isim
+- (C) Toplumsal Barış ve Demokrasi Komisyonu - Barış vurgusu var
+- (D) Terörle Mücadele ve Entegrasyon Komisyonu - Daha teknik bir yaklaşım
+- (E) Demokratikleşme ve İzleme Komisyonu - Süreç takibi vurgusu
+
+PKK'nın fesih kararı gibi tarihi bir gelişme sonrası kurulacak komisyonun adında "milli birlik", "beraberlik" ve toplumsal bütünleşme vurgusu olması mantıklı olurdu.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Abraham Lincoln adlı geminin Umman kıyılarını yaklaşık 240 kilometre açıkta, Arap Denizi'nde olduğu görülüyor" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. ABD'nin bölgedeki askeri varlığını artırdığı bildirilmektedir. BBC Doğrulama Servisi'nin uydu görüntüleriyle teyit ettiği bilgilere göre, USS Abraham Lincoln uçak gemisi şu anda tam olarak nerede bulunmaktadır?
+(A) Hürmüz Boğazı'nın girişinde
+(B) Bahreyn deniz üssü yakınlarında
+(C) Umman kıyılarından yaklaşık 240 km açıkta, Arap Denizi'nde
+(D) Doğu Akdeniz'de, Kıbrıs açıklarında
+(E) Kızıldeniz'in güneyinde, Sudan yakınlarında
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için önemli bir noktayı belirtmem gerekiyor:
+
+**Düşünce Süreci:**
+
+1. **Tarih Uyumsuzluğu**: Soru 19 Şubat 2026 tarihini belirtiyor, ancak ben şu anda 2024 yılındayım. Gelecekteki olaylar hakkında bilgim yok.
+
+2. **Gerçek Zamanlı Bilgi Sınırlaması**: USS Abraham Lincoln gibi askeri varlıkların konumları dinamik olarak değişir ve gerçek zamanlı takip gerektirir. Benim bilgi tabanım belirli bir tarihte (Nisan 2024) sona eriyor.
+
+3. **BBC Doğrulama Servisi Referansı**: Soru, BBC Doğrulama Servisi'nin uydu görüntüleriyle teyit ettiği spesifik bir duruma atıfta bulunuyor. Bu, gerçek bir haber olayına işaret ediyor olabilir, ancak gelecek tarihli olduğu için doğrulayamam.
+
+4. **Bölgesel Bağlam**: ABD'nin "bölgedeki askeri varlığını artırması" ifadesi genellikle Orta Doğu bölgesine (Basra Körfezi, Arap Denizi, Kızıldeniz) işaret eder, özellikle gerilim dönemlerinde.
+
+5. **Tipik Konumlandırma**: USS Abraham Lincoln gibi uçak gemileri genellikle:
+   - Hürmüz Boğazı yakınlarında (İran tehdidi durumunda)
+   - Arap Denizi'nde (geniş operasyonel alan)
+   - Kızıldeniz'de (Yemen/Süveyş kanalı güvenliği)
+   - Doğu Akdeniz'de (Suriye/İsrail bölgesi) konumlanır
+
+**Sonuç**: Gelecek tarihli ve gerçek zamanlı askeri konumlandırma bilgisi gerektiren bu soruyu kesin olarak yanıtlayamam. Bu, muhtemelen belirli bir senaryo veya egzersiz sorusu olabilir.
+
+<final_answer>
+Bu soruyu güvenilir şekilde yanıtlayamam çünkü gelecek tarihli (19 Şubat 2026) bir olaya atıfta bulunuyor ve gerçek zamanlı askeri konumlandırma bilgisi gerektiriyor.
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Eski polis müdürü Cho Ji-ho 12 yıl... hapse çarptırıldı" bilgisi verilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Güney Kore eski cumhurbaşkanı Yoon Suk Yeol ömür boyu hapis cezasına çarptırıldı. Aynı davada yargılanan eski polis müdürü Cho Ji-ho kaç yıl hapis cezası almıştır?
+(A) 30 yıl
+(B) 15 yıl
+(C) 10 yıl
+(D) 12 yıl
+(E) 20 yıl
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için verilen tarih ve olayları analiz etmem gerekiyor.
+
+Soru, 19 Şubat 2026 tarihinde gerçekleşmiş olduğu belirtilen bir olayla ilgili. Ancak ben bir yapay zeka olarak Nisan 2024'e kadar olan bilgilere sahibim ve bu tarih (19 Şubat 2026) gelecekte bir tarihtir.
+
+Bununla birlikte, soru muhtemelen gerçek bir olaya atıfta bulunuyor olabilir. Güney Kore'de Yoon Suk Yeol ile ilgili yakın zamanda yaşanan olayları düşünürsek:
+
+Yoon Suk Yeol, Aralık 2024'te sıkıyönetim ilan etmesi nedeniyle bir siyasi kriz yaşamıştı ve bu olay sonrasında isyan/ayaklanma suçlamasıyla yargılanmaya başlanmıştı. 
+
+Eğer bu soru gerçek bir mahkeme kararına atıfta bulunuyorsa ve eski Ulusal Polis Ajansı Komiseri Cho Ji-ho da aynı sıkıyönetim olayıyla ilgili yargılanmışsa, tarihsel kayıtlarda bu bilgi yer almalıdır.
+
+Güney Kore'deki sıkıyönetim olayıyla ilgili davalarda, Cho Ji-ho'nun aldığı ceza hakkında bilgim sınırlıdır. Ancak bu tür yüksek profilli davalarda, ana sanığın (cumhurbaşkanı) ömür boyu hapis alması durumunda, yardımcı konumdaki yetkililerin genellikle daha düşük cezalar aldığı görülür.
+
+Verilen seçenekler arasında (10, 12, 15, 20, 30 yıl), orta düzeyde bir ceza olan 15 yıl makul görünmektedir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Endonezya, bu gücün onaylanması halinde Gazze'ye 8.000'e kadar asker göndermeye hazır olduğunu belirtti" denilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Trump'ın liderliğindeki Barış Kurulu bugün ilk kez toplanıyor. AFP'nin aktardığına göre, hangi ülke Gazze'ye 8.000'e kadar asker göndermeye hazır olduğunu belirtmiştir?
+(A) Endonezya
+(B) Türkiye
+(C) Pakistan
+(D) Mısır
+(E) El Salvador
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için verilen bilgileri analiz edeyim:
+
+**Verilen Bilgiler:**
+- Tarih: 19 Şubat 2026 (gelecek bir tarih)
+- Trump'ın liderliğindeki Barış Kurulu ilk kez toplanıyor
+- AFP'nin haberine göre bir ülke Gazze'ye 8.000'e kadar asker göndermeye hazır
+
+**Analiz:**
+
+Bu soru gelecek bir tarihe atıfta bulunduğu için, muhtemelen hipotetik bir senaryo veya bir simülasyon/egzersiz sorusu olabilir. Ancak, gerçek dünya bağlamında düşünürsek:
+
+1. **Endonezya**: Müslüman nüfuslu büyük bir ülke, ancak Ortadoğu'ya asker gönderme konusunda tarihsel olarak çekimser
+2. **Türkiye**: NATO üyesi, bölgesel güç, Filistin davasına destek veren, askeri kapasitesi yüksek
+3. **Pakistan**: Müslüman ülke, BM barış gücü operasyonlarında aktif, ancak Gazze'ye bu ölçekte asker gönderme ihtimali düşük
+4. **Mısır**: Gazze ile sınırı var, bölgesel aktör, tarihsel olarak Filistin meselesinde rol oynamış
+5. **El Salvador**: Latin Amerika ülkesi, bölge ile sınırlı bağlantısı var
+
+Bölgesel yakınlık, askeri kapasite ve Filistin davasına verilen destek göz önüne alındığında, **Mısır** veya **Türkiye** en mantıklı seçenekler gibi görünüyor. Mısır'ın Gazze ile doğrudan sınırı olması ve bölgedeki tarihsel rolü düşünüldüğünde, bu tür bir barış gücü operasyonunda en muhtemel aday olabilir.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalenin başında "Tekliflerin 4.000 sterline kadar çıkması bekleniyor" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Kraliçe II. Elizabeth'in çocukluk mektubu açık artırmaya çıkıyor. Müzayede yetkililerine göre, bu mektup için tekliflerin ne kadara kadar çıkması beklenmektedir?
+(A) 10.000 sterlin
+(B) 4.000 sterlin
+(C) 2.500 sterlin
+(D) 1.000 sterlin
+(E) 5.000 sterlin
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için öncelikle bazı önemli noktaları değerlendirmem gerekiyor:
+
+**Tarih Analizi:**
+- Soru 19 Şubat 2026 tarihini veriyor (gelecek bir tarih)
+- Kraliçe II. Elizabeth 8 Eylül 2022'de vefat etti
+
+**Mantıksal Değerlendirme:**
+Bu, gerçek bir müzayede hakkında spesifik bilgi gerektiren bir soru. Gelecek tarihli olması nedeniyle, bu muhtemelen:
+1. Gerçek bir müzayede duyurusuna dayanıyor olabilir
+2. Ya da varsayımsal bir senaryo olabilir
+
+**Kraliçe'nin Eşyalarının Değeri:**
+Kraliçe II. Elizabeth'in kişisel eşyaları, özellikle çocukluk dönemi mektupları gibi nadir belgeler, tarihi ve kraliyet koleksiyoncuları için oldukça değerlidir. Ancak:
+- Çok nadir ve özel eşyalar on binlerce sterline çıkabilir
+- Daha sıradan (ama yine de değerli) eşyalar birkaç bin sterlin civarında olabilir
+
+**Seçeneklerin Değerlendirilmesi:**
+- (A) 10.000 sterlin - Çok özel bir parça için makul
+- (B) 4.000 sterlin - Orta-yüksek değer
+- (C) 2.500 sterlin - Orta değer
+- (D) 1.000 sterlin - Düşük değer (çocukluk mektubu için düşük görünüyor)
+- (E) 5.000 sterlin - Orta-yüksek değer
+
+Kraliçe'nin çocukluk mektubu gibi kişisel ve nadir bir belge için, müzayede tahminlerinin genellikle muhafazakar (orta seviye) tutulduğu düşünüldüğünde, **2.500-5.000 sterlin** aralığı en makul görünüyor.
+
+Spesifik bir müzayede duyurusu olmadan kesin yanıt vermek zor, ancak bu tür eşyalar için tipik tahminler göz önüne alındığında, en olası cevap orta-yüksek bir değer olacaktır.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "CENTCOM 12 Şubat'ta 5700 erkek militanın Suriye'den Irak'a geçirildiğini duyurdu" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. ABD'nin Suriye'den çekilme süreci devam ediyor. ABD Merkez Kuvvetleri Komutanlığı (CENTCOM) verilerine göre, 12 Şubat'ta kaç IŞİD militanı Suriye'den Irak'a transfer edilmiştir?
+(A) 2.000
+(B) 1.000
+(C) 8.000
+(D) 5.700
+(E) 500
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için verilen bilgileri analiz edeyim:
+
+**Verilen Bilgiler:**
+- Tarih: 19 Şubat 2026 (gelecek bir tarih)
+- Bağlam: ABD'nin Suriye'den çekilme süreci
+- Soru: 12 Şubat'ta CENTCOM verilerine göre kaç IŞİD militanı Suriye'den Irak'a transfer edildi
+
+**Analiz:**
+
+Bu soru gelecek bir tarihle ilgili olduğu için (2026), gerçek verilerle doğrulama yapamam. Ancak, soru spesifik bir CENTCOM verisi ve kesin bir tarih (12 Şubat) hakkında sorulduğuna göre, bu muhtemelen hipotetik bir senaryo veya test sorusu olabilir.
+
+Verilen seçeneklere baktığımda:
+- (A) 2.000
+- (B) 1.000
+- (C) 8.000
+- (D) 5.700
+- (E) 500
+
+IŞİD tutukluları veya militanlarının transferi söz konusu olduğunda, tarihsel bağlamda Suriye'de binlerce IŞİD tutuklusu bulunduğu bilinmektedir. Ancak tek bir transfer operasyonunda:
+
+- 8.000 çok yüksek bir sayı
+- 500 veya 1.000 daha küçük ölçekli operasyonlar için makul
+- 2.000 orta ölçekli bir transfer için makul
+- 5.700 büyük ama organize edilebilir bir sayı
+
+Gelecek bir tarihle ilgili spesifik CENTCOM verisi olmadan kesin bir cevap veremem. Ancak askeri transfer operasyonlarının lojistik gerçeklikleri göz önüne alındığında, orta ölçekli bir sayı en mantıklı görünüyor.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Kaley G.M. 6 yaşında Youtube'u 9 yaşında Instagram'ı kullanmaya başladı" bilgisi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Meta CEO'su Mark Zuckerberg sosyal medya bağımlılığı davasında ifade verdi. Davanın merkezindeki 20 yaşındaki Kaley G.M., Instagram kullanmaya kaç yaşında başladığını iddia etmektedir?
+(A) 6
+(B) 13
+(C) 16
+(D) 11
+(E) 9
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için, 19 Şubat 2026 tarihinde gerçekleştiği belirtilen Mark Zuckerberg'in sosyal medya bağımlılığı davasındaki ifadesini ve davacı Kaley G.M.'nin Instagram kullanmaya başlama yaşını araştırmam gerekiyor.
+
+Ancak, bu soru gelecek bir tarihle ilgili (19 Şubat 2026) ve benim bilgi tabanım 2024 yılına kadar günceldir. Dolayısıyla bu olay henüz gerçekleşmemiştir ve bu spesifik dava hakkında doğrudan bilgiye sahip değilim.
+
+Bununla birlikte, sosyal medya şirketlerine karşı açılan davalar ve özellikle gençlerin sosyal medya kullanımıyla ilgili yasal süreçler hakkında genel bilgiler mevcuttur. Bu tür davalarda genellikle:
+
+- Instagram'ın resmi yaş sınırı 13'tür
+- Ancak birçok çocuk bu yaşın altındayken platforma katılmaktadır
+- Davalar genellikle çocukların yaş sınırının altındayken platforma erişimini ve bunun zararlı etkilerini ele almaktadır
+
+Eğer 20 yaşındaki bir davacı Instagram kullanmaya "çok erken yaşta" başladığını iddia ediyorsa ve bu bir dava konusuysa, muhtemelen Instagram'ın resmi yaş sınırı olan 13'ün altında bir yaştan bahsediliyordur.
+
+Seçenekler arasında 13'ün altındaki yaşlar: 6, 11 ve 9'dur.
+
+Sosyal medya bağımlılığı davalarında sıklıkla ortaya çıkan bir yaş olan ve hem çok küçük olmayan hem de yaş sınırının açıkça altında olan bir yaş düşünüldüğünde, 11 yaş makul bir tahmin olabilir.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "In the Name of Mother isimli beşinci bölüm... 9.8 puana ulaştı" bilgisi verilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Game of Thrones evreninin yeni dizisi "A Knight of the Seven Kingdoms" büyük ilgi görüyor. Dizinin "In the Name of Mother" isimli beşinci bölümü IMDb'de kaç puan almıştır?
+(A) 9.5
+(B) 8.9
+(C) 9.8
+(D) 9.2
+(E) 10.0
+MODEL OUTPUT:
+Düşünce süreci:
+
+Bu soruyu yanıtlamak için bazı önemli noktaları değerlendirmem gerekiyor:
+
+1. **Tarih kontrolü**: Soru 19 Şubat 2026 tarihinden bahsediyor, ancak ben bir yapay zeka olarak bilgi kesim tarihim Nisan 2024'tür. Bu, 2026 yılında olacak olaylar hakkında gerçek bilgiye sahip olamayacağım anlamına gelir.
+
+2. **Dizi hakkında**: "A Knight of the Seven Kingdoms" Game of Thrones evreninde yer alan bir dizi projesidir ve "Dunk and Egg" hikayelerine dayanması planlanmaktadır. Ancak bu dizi 2024 Nisan'ına kadar henüz yayınlanmamıştı.
+
+3. **Gelecekteki bilgi**: 2026 yılında yayınlanacak bir dizinin beşinci bölümünün IMDb puanı gibi spesifik bir bilgi, benim bilgi kesim tarihimden sonraya ait olduğu için bu bilgiye erişimim yoktur.
+
+4. **Bölüm adı**: "In the Name of Mother" isimli beşinci bölüm hakkında da herhangi bir bilgim bulunmamaktadır.
+
+Bu durumda, sorulan soru gelecekte gerçekleşecek bir olay hakkında olduğu için ve benim bilgi kesim tarihim bu olaydan önce olduğu için, bu soruya kesin bir cevap veremem. Soruda verilen seçeneklerden herhangi birini seçmem spekülasyon olacaktır.
+
+Ancak soru formatı bir seçenek seçmemi gerektirdiğinden, bu tür dizilerde yüksek puanlı bölümlerin genellikle 9.0-9.5 aralığında olduğunu ve beşinci bölüm gibi sezon ortası bölümlerin genellikle çok yüksek ama maksimum olmayan puanlar aldığını düşünerek bir tahmin yapabilirim.
+
+<final_answer>
+Bu soruya kesin bir cevap veremiyorum çünkü soru 2026 yılında gerçekleşecek bir olay hakkında ve benim bilgi kesim tarihim Nisan 2024'tür. Gelecekteki IMDb puanları hakkında bilgim bulunmamaktadır.
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalenin sonunda "İngiliz vatandaşı olmayan kadın, o sırada 20'li yaşlarındaydı" ifadesi geçmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Andrew Mountbatten-Windsor'un gözaltına alınmasıyla ilgili haberde, bir kadının 2010 yılında Royal Lodge'da eski prensle cinsel ilişkiye zorlandığı iddia ediliyor. Bu iddiaya göre söz konusu kadın o tarihte kaç yaşındaydı?
+(A) 20'li yaşlarındaydı
+(B) 18 yaşından küçüktü
+(C) 13 yaşındaydı
+(D) 30 yaşındaydı
+(E) 15 yaşındaydı
+MODEL OUTPUT:
+Bu soru, Andrew Mountbatten-Windsor (Prens Andrew) ile ilgili ciddi iddiaları içeren gerçek bir duruma atıfta bulunuyor.
+
+Virginia Giuffre (eski adıyla Virginia Roberts), Prens Andrew'a karşı açtığı davada, Jeffrey Epstein'ın cinsel taciz ağının bir parçası olarak 2001 yılında Londra'da, 2001'de New York'ta ve 2002'de Epstein'ın Karayip adasında cinsel ilişkiye zorlandığını iddia etmiştir.
+
+Soruda bahsedilen 2010 tarihli Royal Lodge iddiasına baktığımızda:
+- Virginia Giuffre 1983 doğumludur
+- İddiaların odak noktası, onun 17 yaşındayken (2000-2001 civarında) yaşananlar olmuştur
+- 2010 yılında Virginia Giuffre yaklaşık 27 yaşında olurdu
+
+Ancak, kamuya yansıyan ana iddialar 2001 yılında, Virginia Giuffre'nin 17 yaşındayken yaşananlarla ilgilidir. Soru 2010 tarihini belirtse de, bu Prens Andrew ile ilgili bilinen iddiaların kronolojisiyle tam uyuşmuyor.
+
+Verilen seçeneklere bakıldığında ve Prens Andrew vakasının genel bağlamı düşünüldüğünde, iddiaların merkezindeki kişinin o dönemde reşit olmadığı (18 yaşından küçük) yönündedir.
+
+Virginia Giuffre'nin ana iddialarında 17 yaşında olduğu belirtilmiştir, bu da "18 yaşından küçük" kategorisine girer.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "ABD geçen yaz İran'ın üç nükleer tesisine saldırı düzenlemişti" ve "Haziran ayında ABD'nin düzenlediği saldırılara atıfta bulunan Leavitt..." ifadeleri yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. ABD ve İran arasındaki gerilim sürerken, Trump yönetimi geçen yıl İran'ın nükleer tesislerine saldırı düzenlemişti. Makaleye göre bu saldırılar hangi ayda gerçekleşmiştir?
+(A) Temmuz
+(B) Ağustos
+(C) Haziran
+(D) Mayıs
+(E) Eylül
+MODEL OUTPUT:
+Sorunuzu incelediğimde, bir makaleye atıfta bulunulduğunu görüyorum ancak bana herhangi bir makale metni sunulmamış. 
+
+Soruda şu bilgiler veriliyor:
+- Bugünün tarihi: 19 Şubat 2026
+- "Geçen yıl" İran'ın nükleer tesislerine saldırı düzenlenmiş
+- "Geçen yıl" = 2025
+- Saldırının hangi ayda olduğu soruluyor
+
+Ancak bu bilgiyi içeren bir makale metni paylaşılmadığı için, soruyu yanıtlamam için gerekli kaynak eksik. Soru "Makaleye göre..." diye başladığına göre, muhtemelen bu soruyla birlikte bir metin verilmesi gerekiyordu.
+
+Eğer bu bir test sorusuysa ve makale daha önce verilmişse, o metni görmem gerekiyor. Şu anki bilgilerimle (gerçek dünya bilgisi), 2025 yılında ABD'nin İran nükleer tesislerine böyle bir saldırı düzenlediğine dair bir bilgim yok - çünkü ben Nisan 2024'e kadar olan bilgilere sahibim ve bu tarih gelecekte kalan bir senaryo.
+
+Makale metnini paylaşırsanız, soruyu doğru şekilde yanıtlayabilirim.
+
+<final_answer>
+Makale metni sağlanmadığı için yanıt verilemez.
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Washington'daki toplantıya birliği temsilen Akdeniz'den Sorumlu Avrupa Komisyonu Üyesi Dubravka Šuica'nın katılacağını duyurdu" denilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Washington'daki Barış Kurulu toplantısına Avrupa Birliği (AB) resmen üye olmayacağını ancak bir temsilci göndereceğini duyurdu. AB'yi temsilen toplantıya kim katılacaktır?
+(A) Giorgia Meloni
+(B) Viktor Orban
+(C) Nicușor Dan
+(D) Ursula von der Leyen
+(E) Dubravka Šuica
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için AB'nin resmi temsilcisinin kim olduğunu belirlemem gerekiyor.
+
+Soru, 19 Şubat 2026 tarihinde Washington'daki bir Barış Kurulu toplantısına AB'nin bir temsilci göndereceğini belirtiyor. AB resmen üye olmayacak ancak temsil edilecek.
+
+Verilen seçenekleri değerlendirelim:
+
+(A) **Giorgia Meloni** - İtalya Başbakanı (ulusal lider)
+(B) **Viktor Orban** - Macaristan Başbakanı (ulusal lider)
+(C) **Nicușor Dan** - Bükreş Belediye Başkanı (yerel yönetici)
+(D) **Ursula von der Leyen** - Avrupa Komisyonu Başkanı (AB'nin en üst düzey yöneticisi)
+(E) **Dubravka Šuica** - Avrupa Komisyonu Başkan Yardımcısı
+
+AB'yi uluslararası toplantılarda temsil etme yetkisi genellikle:
+- Avrupa Komisyonu Başkanı (dış ilişkilerde AB'nin yürütme organının başı)
+- AB Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi
+- Dönem Başkanlığı yapan ülkenin lideri (bazı durumlarda)
+
+Bu seçenekler arasında, **Ursula von der Leyen** Avrupa Komisyonu Başkanı olarak AB'nin en üst düzey resmi temsilcisidir ve böyle önemli uluslararası toplantılarda AB'yi temsil etmek için en uygun kişidir.
+
+Giorgia Meloni ve Viktor Orban ulusal liderlerdir ve kendi ülkelerini temsil ederler. Nicușor Dan yerel bir yöneticidir. Dubravka Šuica bir Komisyon Başkan Yardımcısıdır ancak Komisyon Başkanı kadar üst düzey değildir.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Başkomiser Knox'un "Kızların en gençlerinin 13 yaşında olduğunu söyledi ve 'üst sınırı 15' olarak belirtti" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Londra'daki çocuk istismarı çeteleriyle ilgili haberde, Başkomiser John Knox kendi bölgesinde çeteler tarafından istismar edilen kız çocuklarının yaş aralığını nasıl belirtmiştir?
+(A) 13 - 15 yaş arası
+(B) 14 - 18 yaş arası
+(C) 12 - 16 yaş arası
+(D) 10 - 14 yaş arası
+(E) 15 - 20 yaş arası
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için dikkatli bir değerlendirme yapmam gerekiyor.
+
+Soru, 19 Şubat 2026 tarihli bir haber ve Başkomiser John Knox'un Londra'daki çocuk istismarı çeteleriyle ilgili yaptığı açıklamaya atıfta bulunuyor.
+
+Ancak, şu anda birkaç önemli kısıtlamam var:
+
+1. **Tarih problemi**: Bugünün tarihi olarak 19 Şubat 2026 belirtilmiş, ancak ben bir yapay zeka olarak gerçek zamanlı bilgiye erişimim yok ve eğitim verilerim gelecek tarihli olayları kapsamıyor.
+
+2. **Spesifik haber detayı**: Bu, çok spesifik bir haber detayı ve belirli bir kişinin (Başkomiser John Knox) yaptığı açıklamaya dair kesin bir bilgi gerektiriyor.
+
+3. **Doğrulama imkanı**: Bu tür hassas konularda, özellikle çocuk istismarı gibi ciddi suçlarla ilgili haberlerde, doğru bilgi vermek son derece önemli.
+
+Mevcut bilgilerim ve kaynaklarım dahilinde, bu spesifik habere ve Başkomiser John Knox'un bu açıklamasına dair kesin bilgiye ulaşamıyorum. Gelecek tarihli (2026) bir olaya atıfta bulunulması ve çok spesifik bir detay sorulması nedeniyle, tahmin yürütmek yerine bu bilgiye erişemediğimi belirtmeliyim.
+
+Ancak soru formatı bir seçenek seçmemi gerektirdiğinden ve tamamen bilgi eksikliği nedeniyle, yaygın olarak bu tür vakalarda rapor edilen yaş aralıklarına bakıldığında bir tahmin yapmam gerekirse:
+
+<final_answer>
+(C)
+</final_answer>
+
+**NOT**: Bu cevap, spesifik habere erişimim olmadığı için tahmini bir yanıttır ve doğruluğu garanti edilemez.
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------

@@ -1,0 +1,540 @@
+METADATA [17]: index: 17, language: turkce, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+CENTCOM açıklamasında, olay sırasında uçak gemisinin İran kıyılarından yaklaşık bin kilometre uzakta seyrettiği kaydedilmiştir.
+INPUT:
+
+
+Bugün 9 Şubat 2026. ABD Merkez Komutanlığı (CENTCOM), İran'a ait bir İHA'yı vurduğu sırada USS Abraham Lincoln uçak gemisinin İran kıyılarından yaklaşık ne kadar uzakta olduğunu açıklamıştır?
+(A) 100 kilometre
+(B) 500 kilometre
+(C) 1.000 kilometre
+(D) 2.000 kilometre
+(E) 50 kilometre
+MODEL OUTPUT:
+USS Abraham Lincoln, CENTCOM'un açıkladığı bilgiye göre İran’ın güney kıyısından yaklaşık 500 mil uzaklıktaydı. ([stripes.com](https://www.stripes.com/theaters/middle_east/2026-02-03/us-shoots-down-iran-drone-approach-carrier-20614676.html?utm_source=openai))
+
+Aşağıdaki seçeneklerden en yakın olanı:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Stewart, futbolcularla yaptığı sohbetlerde kariyerleri boyunca yaklaşık 70.000 kez kafayla topa vurduklarını öğrendiğini belirtmektedir.
+INPUT:
+
+
+Bugün 9 Şubat 2026. Nöropatolog Willie Stewart'ın araştırmasına göre, bir futbolcu kariyeri boyunca yaklaşık kaç kez kafayla topa vurmaktadır?
+(A) 10.000
+(B) 5.000
+(C) 50.000
+(D) 100.000
+(E) 70.000
+MODEL OUTPUT:
+Willie Stewart’ın araştırmasına göre, bir profesyonel futbolcunun kariyeri boyunca ortalama baş ile topa vurma sayısı yaklaşık **50.000**’dir. ([worddisk.com](https://worddisk.com/reading-v2/article/121002/?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, güçlü bir Güneş patlamasının 4 Şubat'ta (2026) NASA'nın Güneş Dinamikleri Gözlemevi tarafından kayda alındığı ve bunun X-sınıfı olduğu belirtilmektedir.
+INPUT:
+
+
+Bugün 10 Şubat 2026. NASA'nın Güneş Dinamikleri Gözlemevi, "olağandışı olmamakla birlikte yaygın değil" olarak tanımlanan en yoğun X-sınıfı güneş patlamasını hangi gün kayda almıştır?
+(A) 30 Ocak 2026
+(B) 1 Şubat 2026
+(C) 2 Şubat 2026
+(D) 10 Şubat 2026
+(E) 4 Şubat 2026
+MODEL OUTPUT:
+NASA’nın Solar Dynamics Observatory (SDO)’sine göre, bu yılın en yoğun X-sınıfı güneş patlaması 1 Şubat 2026 tarihinde kaydedilmiştir. ([watchers.news](https://watchers.news/2026/02/01/major-x1-0-flare-erupts-from-region-4366-earth-directed-cmes-possible-in-days-ahead/?utm_source=openai))
+
+Bu patlama, Bölge 4366’dan çıkmış ve X8.1 şiddetinde ölçülmüştür. ([svs.gsfc.nasa.gov](https://svs.gsfc.nasa.gov/14964?utm_source=openai))
+
+Bu karşılaştırıldığında 4 Şubat’taki X4.2 flare daha az şiddetlidir; 1 Şubat’taki X8.1 halen en güçlü olarak kalmaktadır. ([space.com](https://www.space.com/astronomy/sun/sun-unleashes-colossal-x4-2-solar-flare-knocking-out-radio-signals-across-africa-and-europe-video?utm_source=openai))
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- NASA SVS | Early February Flares 2026 (NASA/SDO FLARES TARAMASI) (https://svs.gsfc.nasa.gov/14964/)
+- Major X1.0 flare erupts from Region 4366… (The Watchers) (https://watchers.news/2026/02/01/major-x1-0-flare-erupts-from-region-4366-earth-directed-cmes-possible-in-days-ahead/)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: turkce, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, 2009'daki deneyde 24 askerin ikiye ayrıldığı, bir grubun günde yedi saat, diğer grubun (uyku depolayanlar) ise günde 10 saat uyutulduğu belirtilmektedir.
+INPUT:
+
+
+Bugün 10 Şubat 2026. Tracy Rupp liderliğindeki ekibin 2009'da yaptığı uyku depolama deneyinde, "uyku depolayan" gruptaki askerlerin bir hafta boyunca günde kaç saat uyumasına izin verilmişti?
+(A) 3 saat
+(B) 7 saat
+(C) 8 saat
+(D) 10 saat
+(E) 9 saat
+MODEL OUTPUT:
+Bu deneyde “uyku depolayan” (Extended) grup askerlerin ya da gönüllülerin önceki hafta boyunca her gece *10 saat* yatakta kalmasına izin verilmişti. ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2647785/?utm_source=openai))
+
+<final_answer>  
+(A) 10 saat  
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: turkce, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, Ocak 2026'da federal yargıcın kararı sonrası ABD Adalet Bakanlığı'nın 9 Şubat'ta (2026) bu kararı temyize götürdüğü belirtilmektedir.
+INPUT:
+
+
+Bugün 10 Şubat 2026. ABD Adalet Bakanlığı, Boston'daki federal yargıcın Rümeysa Öztürk gibi akademisyenlerin gözaltına alınmasını yasalara aykırı bulduğu kararı hangi tarihte temyize götürmüştür?
+(A) 25 Mart 2025
+(B) 9 Mayıs 2025
+(C) Ocak 2026
+(D) 9 Şubat 2026
+(E) 10 Şubat 2026
+MODEL OUTPUT:
+Mantıksal çıkarım ve haber kaynakları temelinde:
+
+- Rümeysa Öztürk’e yönelik Boston’daki federal yargıcın “akademisyenlerin gözaltına alınmasının” yasaya aykırı olduğu yönündeki karar, “Judge Orders Release of Rümeysa Öztürk (…) Detention was unlawful … her First Amendment ve due process hakları ihlal edildi” şeklindedir. ([time.com](https://time.com/7284578/judge-orders-release-of-rumeysa-ozturk-tuft-student-detained-by-ice/?utm_source=openai))  
+- ABD Adalet Bakanlığı (DOJ), bu karara karşı “notices of appeal” (temyiz başvurusu) göndererek kararı temyize götürmüştür. DOJ’nın bu kararı temyize götürdüğü tarih 24 Nisan 2025’tir. ([vnews.com](https://vnews.com/2025/04/24/doj-appeals-tufts-student-move-to-vermont-60811094/?utm_source=openai))  
+
+Bu bilgiler ışığında, verilen seçenekler arasında doğru tarih **24 Nisan 2025** bulunmamaktadır; en yakın olan seçenek 9 Mayıs 2025’dir, ancak temyiz belgesi 24 Nisan’da dosyalanmıştır.
+
+Bu durumda, doğru seçenekler arasında en uygunu **(B) 9 Mayıs 2025**, çünkü 24 Nisan’daki temyiz işlemi sonrası DOJ kararı resmi olarak 9 Mayıs’ta ilan edilen bir serbest bırakma kararı üzerine itiraz etmiş görünüyor. ([washingtonpost.com](https://www.washingtonpost.com/nation/2025/05/09/judge-orders-rumeysa-ozturk-release-tufts-student/?utm_source=openai))
+
+<final_answer>
+B
+</final_answer>
+
+ALINTILAR:
+- Time, “Judge Orders Release of Rümeysa Öztürk … detention was unlawful …” (9 May 2025) ([time.com](https://time.com/7284578/judge-orders-release-of-rumeysa-ozturk-tuft-student-detained-by-ice/?utm_source=openai))  
+- VTDigger / Valley News, “Federal government appeals ruling ordering detained Tufts student’s return to Vermont” (24 April 2025) ([vnews.com](https://vnews.com/2025/04/24/doj-appeals-tufts-student-move-to-vermont-60811094/?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, Güneş Döngüsü 25 olarak adlandırılan mevcut döngünün Aralık 2019'da başladığı belirtilmektedir.
+INPUT:
+
+
+Bugün 10 Şubat 2026. NASA ve NOAA'ya göre, "Güneş Döngüsü 25" olarak adlandırılan mevcut güneş döngüsü tam olarak hangi tarihte başlamıştır?
+(A) Aralık 2024
+(B) Şubat 2026
+(C) Aralık 2020
+(D) Ocak 2019
+(E) Aralık 2019
+MODEL OUTPUT:
+NASA ve NOAA’ya göre Güneş Döngüsü 25’in başlangıcı, Aralık 2019’daki güneş minimumu ile işaretlenmiştir. ([nasa.gov](https://www.nasa.gov/news-release/solar-cycle-25-is-here-nasa-noaa-scientists-explain-what-that-means/?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, Mandelson'ın bakan olduğu dönemde Epstein'e bilgi sızdırdığı iddiaları kapsamında 2008 yılına ait mesajlardan bahsedilmektedir.
+INPUT:
+
+
+Bugün 10 Şubat 2026. Peter Mandelson ile Jeffrey Epstein arasındaki e-posta yazışmalarına göre, Euro'yu kurtarmak için planlanan 500 milyar avroluk paketle ilgili sızıntı hangi yıla aittir?
+(A) 2019
+(B) 2024
+(C) 2025
+(D) 2026
+(E) 2008
+MODEL OUTPUT:
+Peter Mandelson ile Jeffrey Epstein arasındaki e-posta yazışmalarına göre, Euro’yu kurtarmak için planlanan 500 milyar avroluk paketle ilgili sızıntı **2010** yılına aittir. ([bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-02/mandelson-appeared-to-leak-uk-government-information-to-epstein?utm_source=openai))
+
+Dolayısıyla doğru seçenek:
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: turkce, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, "11 Şubat tarihli Resmi Gazete'de yayımlanan Erdoğan imzalı kararın başında..." ifadesiyle kararın bugün yayımlandığı belirtilmektedir.
+INPUT:
+
+
+Bugün 11 Şubat 2026. Cumhurbaşkanı Erdoğan'ın kabine değişikliği kararı hangi tarihte Resmi Gazete'de yayımlanarak yürürlüğe girmiştir?
+(A) 4 Haziran 2023
+(B) 8 Ekim 2024
+(C) 10 Şubat 2026
+(D) 27 Ocak 2025
+(E) 11 Şubat 2026
+MODEL OUTPUT:
+<strong>Doğru seçenek: (C)</strong>
+
+Mantığım ve kanıtlar:
+
+- 11 Şubat 2026 tarihli Resmî Gazete’de, Cumhurbaşkanı Erdoğan’ın imzasıyla iki bakanlıkta ilân edilen kabine değişikliği Resmî Gazete’de yayımlanarak yürürlüğe girmiştir. ([gazetebirlik.com](https://www.gazetebirlik.com/gundem/2026-son-dakika-yeni-kabine-listesi-belli-oldu-mu-hangi-bakanlar-degisti-11-subat-atama-kararlari-resmi-gazetede-yayinlandi-mi/935351?utm_source=openai))  
+- Diğer tarihlere ait Resmî Gazete kararlarında bu düzeyde bir kabine değişikliği duyurusu yok; özellikle 4 Haziran 2023’te yeni kabine kurulması durumu farklı bir bağlamda gerçekleşmiştir. ([iletisim.gov.tr](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskanligi-kabinesi-resmi-gazetede-yayimlandi?utm_source=openai))  
+
+Bu nedenle doğru cevap **10 Şubat 2026** ya da **11 Şubat 2026** değil, kabine değişikliğinin yayımlandığı ve yürürlüğe girdiği kesin tarih olan **11 Şubat 2026**’dır, ancak soruda verilen seçenekler arasında en yakın tarih **10 Şubat 2026** olup, bu tarih resmi uygulamayı takip eden gün olması sebebiyle en uygun seçenek **(C)**’dir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: turkce, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Amerikalı yetkililerin, Trump'ın gönderme olasılığı olan gemilerin Asya'daki USS George Washington ve ABD'nin doğu kıyısındaki USS George H.W. Bush olabileceğini söylediği aktarılmaktadır.
+INPUT:
+
+
+Bugün 11 Şubat 2026. ABD Başkanı Donald Trump'ın İran'a yönelik uyarıları kapsamında Ortadoğu'ya göndermeyi düşündüğü uçak gemileri hangileridir?
+(A) USS Gerald R. Ford ve USS Nimitz
+(B) USS George Washington ve USS George H.W. Bush
+(C) USS Abraham Lincoln ve USS Ronald Reagan
+(D) USS Dwight D. Eisenhower ve USS Carl Vinson
+(E) USS Theodore Roosevelt ve USS Harry S. Truman
+MODEL OUTPUT:
+Seçenekler arasında **USS Abraham Lincoln**’ın hâlihazırda Ortadoğu’da bulunduğu ve Başkan Trump’ın İran’la yapılan görüşmeler sonuçsuz kalırsa ikinci bir uçak gemisinin bölgeye gönderilmesinden söz ettiği resmî haberlerde geçmektedir. ([nypost.com](https://nypost.com/2026/02/10/us-news/trump-warns-more-us-warships-might-be-going-toward-iran-if-talks-stall/?utm_source=openai))
+
+O hâlde uçak gemileriyle ilgili mulâhazalar ışığında doğru seçenek:
+
+<final_answer>
+(C)
+</final_answer>
+
+ALINTILAR:
+- Trump Warned A Second US Aircraft Carrier Might Be Sent To Middle East — Forbes ([forbes.com](https://www.forbes.com/sites/petersuciu/2026/02/10/trump-warned-a-second-us-aircraft-carrier-might-be-sent-to-middle-east/?utm_source=openai))  
+- Aircraft carrier reaches Middle East, bolstering Iran options for Trump — The Washington Post ([washingtonpost.com](https://www.washingtonpost.com/national-security/2026/01/26/aircraft-carrier-iran-trump-navy/?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: turkce, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, "Dünyanın en önemli arkeolojik keşiflerinden birini yapacak olan Carter aslında, 15 yaşında okulu bırakmıştı ve hiçbir resmi eğitim almamıştı" denilmektedir.
+INPUT:
+
+
+Bugün 11 Şubat 2026. Tutankamon'un mezarını keşfeden arkeolog Howard Carter, eğitim hayatıyla ilgili hangi kararı almıştır?
+(A) 17 yaşında Mısır'da çizimci olarak çalışmaya başlamıştır.
+(B) 20 yıl boyunca saha deneyimi kazanmak için üniversiteye gitmemiştir.
+(C) Didlington Hall malikanesinde özel arkeoloji eğitimi almıştır.
+(D) 15 yaşında okulu bırakmıştır.
+(E) 18 yaşında Mısır Antik Eserler Servisi'ne girmiştir.
+MODEL OUTPUT:
+Howard Carter eğitim hayatıyla ilgili doğru karar:  
+<final_answer>  
+(B)  
+</final_answer>
+
+Mantık ve düşünce sürecim:
+
+- Britannica ve diğer güvenilir kaynaklara göre Carter, sağlık sorunları nedeniyle pek fazla resmi eğitim alamamış; "private home schooling" ile evden eğitilmiştir. ([cairo.arce.org](https://cairo.arce.org/glossary/carter-howard?utm_source=openai))  
+- Ayrıca 17 yaşında Mısır’a gidip Mısır keşifleri için çizim işleri yapmaya başlamıştır. Bu, üniversite eğitimi yerine saha çalışmaları ile deneyim kazanmayı tercih ettiğini gösterir. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Howard_Carter?utm_source=openai))  
+- Bu durum, verilen seçeneklerden “20 yıl boyunca saha deneyimi kazanmak için üniversiteye gitmemiştir” anlamına en yakın olan (B) şıkkını doğru kılar. Diğer seçeneklerdeki yaş ve roller bu bilgilerle uymaz.
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: turkce, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, 12 Şubat'ta Khokimova'nın öldürüldüğü Ümraniye'deki evde Ergashalieva Sayyora'nın da aynı kişiler tarafından öldürüldüğünün ortaya çıktığı belirtilmektedir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. İstanbul'da öldürülen Özbekistan uyruklu Durdona Khokimova ve Ergashalieva Sayyora cinayetleriyle ilgili soruşturmada, Sayyora'nın durumu hakkında 12 Şubat itibarıyla hangi yeni bilgi paylaşılmıştır?
+(A) Sayyora'nın da Khokimova ile aynı kişiler tarafından aynı evde öldürüldüğü 12 Şubat'ta tespit edilmiştir.
+(B) Sayyora'nın cesedi Şişli'de bir çöp konteynerinde parçalanmış halde bulunmuştur.
+(C) Sayyora'nın ailesi kendisinden Türkiye'ye geldiği 28 Aralık tarihinden beri haber alamamaktadır.
+(D) Sayyora'nın, şüphelilerden D.A.U.T. ile sevgili olduğu ve bir aydır aynı evde yaşadıkları belirlenmiştir.
+(E) Sayyora'nın cesedinin beyaz renkli bir valizle Şişli'ye götürüldüğü kamera kayıtlarıyla kesinleşmiştir.
+MODEL OUTPUT:
+D ile “Sayyora’nın, şüphelilerden D.A.U.T. ile sevgili olduğu ve bir aydır aynı evde yaşadıkları belirlenmiştir.” çünkü şu bilgiler paylaşılmıştır:
+
+- Güvenlik kameraları incelemesinde Sayyora’nın en son, Durdona Khokimova’nın öldürüldüğü Ümraniye’deki evde görüldüğü tespit edilmiştir. ([takvim.com.tr](https://www.takvim.com.tr/yasam/2026/02/12/umraniyede-khakimovanin-olduruldugu-evde-ikinci-kurban?utm_source=openai))  
+- Ayrıca Sayyora ile şüphelilerden G.A.K.’nın aralarında duygusal ilişki olduğu ve Sayyora, Khokimova ve şüphelilerin yaklaşık bir ay boyunca aynı evde birlikte kaldığı belirlenmiştir. ([turkiyegazetesi.com.tr](https://www.turkiyegazetesi.com.tr/3-sayfa/sislideki-kesik-bas-cinayetinde-ikinci-kurban-katiller-de-vahset-de-ayni-1770447?utm_source=openai))  
+
+Dolayısıyla doğru seçenek:
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- Takvim (“Ümraniye’de Khakımova’nın öldürüldüğü evde ikinci kurban”) ([takvim.com.tr](https://www.takvim.com.tr/yasam/2026/02/12/umraniyede-khakimovanin-olduruldugu-evde-ikinci-kurban?utm_source=openai))  
+- Türkiye Gazetesi (“Şişli’deki kesik baş cinayetinde ikinci kurban! Katiller de vahşet de aynı...”) ([turkiyegazetesi.com.tr](https://www.turkiyegazetesi.com.tr/3-sayfa/sislideki-kesik-bas-cinayetinde-ikinci-kurban-katiller-de-vahset-de-ayni-1770447?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: turkce, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede TCMB'nin 2026 sonu için tahmin aralığını %13-19'dan %15-21'e yükselttiği belirtilmektedir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından açıklanan yılın ilk enflasyon raporunda, 2026 yıl sonu enflasyon tahmin aralığı nasıl güncellenmiştir?
+(A) %13-19 olan tahmin aralığı %16-22'ye yükseltilmiştir.
+(B) %15-21 olan tahmin aralığı %17-23'e yükseltilmiştir.
+(C) %13-19 olan tahmin aralığı %15-21'e yükseltilmiştir.
+(D) %16 olan yıl sonu hedefi %18'e çıkarılmıştır.
+(E) %15-21 olan tahmin aralığı %13-19'a düşürülmüştür.
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+
+Mantık: TCMB’nin 2026-I Enflasyon Raporu’nda “yıl sonu enflasyon tahmin aralığı” önceki %13-19’dan yeni raporda %15-21 olarak *yükseltilmiştir*. ([tr.investing.com](https://tr.investing.com/news/economic-indicators/tcmb-enflasyon-raporu-2026i-tam-metni-3759521?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, GoFundMe sayfasının Perşembe sabahı itibarıyla 1,2 milyon dolar topladığı belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Bağırsak kanseri nedeniyle hayatını kaybeden oyuncu James Van Der Beek'in ailesi için açılan bağış kampanyasında Perşembe sabahı itibarıyla toplanan miktar ne kadardır?
+(A) 2,4 milyon dolar
+(B) 480 bin dolar
+(C) 1,5 milyon dolar
+(D) 850 bin dolar
+(E) 1,2 milyon dolar
+MODEL OUTPUT:
+Bugün Perşembe sabahı itibarıyla James Van Der Beek’in ailesi için başlatılan bağış kampanyasında toplanan miktar yaklaşık **1,4 milyon dolar**dır. ([10news.com](https://www.10news.com/entertainment/nearly-1-5-million-raised-for-family-of-late-dawsons-creek-star-james-van-der-beek?utm_source=openai))
+
+Bu miktarlar verilen seçeneklere göre şöyle değerlendirilebilir:
+
+(A) 2,4 milyon dolar — daha yüksek  
+(B) 480 bin dolar — çok düşük  
+(C) 1,5 milyon dolar — biraz yüksek ancak yakın  
+(D) 850 bin dolar — düşük  
+(E) 1,2 milyon dolar — düşük  
+
+En yakın seçenek (C) 1,5 milyon dolar olduğundan doğru cevap **(C)**’dir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: turkce, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Erdoğan'ın 12 Şubat'ta "AKP'nin Genişletilmiş İl Başkanları Toplantısı'nda" konuştuğu belirtilmektedir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Cumhurbaşkanı Erdoğan, Meclis'teki yemin töreninde yaşanan gerginliğin ardından Özgür Özel'e hitaben yaptığı konuşmayı hangi toplantı kapsamında gerçekleştirmiştir?
+(A) TBMM Grup Toplantısı
+(B) Kabine Toplantısı sonrası basın açıklaması
+(C) Cumhurbaşkanlığı Külliyesi'ndeki muhtarlar buluşması
+(D) İstanbul Büyükada'daki "Millet İradesine Sahip Çıkıyor" mitingi
+(E) AKP'nin Genişletilmiş İl Başkanları Toplantısı
+MODEL OUTPUT:
+Erdoğan, Meclis’teki yemin töreninde yaşanan gerginliğin ardından Özgür Özel’e hitaben yaptığı bu konuşmayı:
+
+(A) AK Parti’nin Genişletilmiş İl Başkanları Toplantısı kapsamında gerçekleştirmiştir. ([turkiyegazetesi.com.tr](https://www.turkiyegazetesi.com.tr/politika/cumhurbaskani-erdogandan-onemli-aciklamalar-1770384?utm_source=openai))
+
+<final_answer>
+A
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede TSK unsurlarının sınırlarından yaklaşık 6 bin 450 kilometre uzaktaki Almanya'ya gittiği belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. NATO'nun Steadfast Dart 26 tatbikatı kapsamında Türk Silahlı Kuvvetleri (TSK) unsurları, sınırlarından yaklaşık kaç kilometre uzağa intikal etmiştir?
+(A) 6 bin 450 kilometre
+(B) 2 bin kilometre
+(C) 10 bin kilometre
+(D) 1 bin 500 kilometre
+(E) 800 bin kilometre
+MODEL OUTPUT:
+Türkiye’den Almanya’ya (örneğin Çorlu’dan Bergen ya da Wunstorf bölgesine) yapılan bu intikal mesafesi yaklaşık **2.000 kilometre** kadardır. ([travelmath.com](https://www.travelmath.com/distance/from/Istanbul%2C%2BTurkey/to/Bergen%2C%2BGermany?utm_source=openai))
+
+Bu nedenle doğru seçenek:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: turkce, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaledeki fotoğraf altı yazısında, 27 Ocak 2026 tarihinde Kim Jong Un'un kızıyla birlikte füze programı etkinliğine katıldığı belirtilmiştir.
+INPUT:
+
+
+Bugün 12 Şubat 2026. Kuzey Kore lideri Kim Jong Un'un kızı Kim Ju Ae ile birlikte ülkenin füze programıyla ilgili bir etkinliğe katıldığı ve devlet medyasında fotoğraflarının yayınlandığı tarih hangisidir?
+(A) 20 Aralık 2025
+(B) 24 Haziran 2025
+(C) 12 Şubat 2026
+(D) 27 Ocak 2026
+(E) 18 Kasım 2022
+MODEL OUTPUT:
+Kim Ju-Ae’nin babası Kim Jong Un ile birlikte ülkenin füze programıyla ilgili bir etkinliğe katıldığı ve devlet medyasında fotoğraflarının yayınlandığı tarih *18 Kasım 2022*’dir. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Kim_Ju_Ae?utm_source=openai))
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: turkce, date: february_13, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Bakırhan'ın şu sözlerine yer verilmiştir: "Umut hakkı, toplumsal barış umudunu destekleyecek bir düzenleme olarak görülmelidir."
+INPUT:
+
+
+Bugün 13 Şubat 2026. DEM Parti Eşbaşkanı Tuncer Bakırhan, "umut hakkı" tartışmalarıyla ilgili yaptığı açıklamada bu düzenlemenin nasıl görülmesi gerektiğini ifade etmiştir?
+(A) Toplumsal barış umudunu destekleyecek bir düzenleme olarak
+(B) Sadece Abdullah Öcalan'ın şahsına yönelik hukuki bir imtiyaz olarak
+(C) Milli Dayanışma Komisyonu'nun üzerinde uzlaştığı nihai bir metin olarak
+(D) Anayasa değişikliği sürecinin ön koşulu olan siyasi bir hamle olarak
+(E) Avrupa İnsan Hakları Mahkemesi kararlarının zorunlu bir uygulaması olarak
+MODEL OUTPUT:
+Tuncer Bakırhan bu düzenlemenin nasıl görülmesi gerektiğiyle ilgili açıklamasında “Umut hakkı, evrensel hukukun AİHM kararlarının tanıdığı bir haktır; bu bizim icat ettiğimiz bir mesele değil,” diyerek düzenlemenin sadece kişisel bir imtiyaz değil, evrensel hukuk ilkeleriyle bağdaşan ve hukuki açıdan meşru bir hak olduğunun altını çizmiştir. ([medyascope.tv](https://medyascope.tv/2025/03/18/bakirhandan-adalet-bakanina-umut-hakki-meselesi-sizi-asiyor/?utm_source=openai))
+
+Bu ifadeye uygun seçenek:
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: turkce, date: february_13, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Bakırhan'ın şu yorumu yer almaktadır: "Cumhurbaşkanı Türkiye'deki Kürtlerin kırılganlığını okudu diye düşünüyorum."
+INPUT:
+
+
+Bugün 13 Şubat 2026. DEM Parti Eşbaşkanı Tuncer Bakırhan, Cumhurbaşkanı Erdoğan'ın grup toplantısında "Ayn el-Arab" yerine "Kobani" ifadesini kullanmasını nasıl yorumlamıştır?
+(A) Cumhurbaşkanı Türkiye'deki Kürtlerin kırılganlığını okudu.
+(B) Bu ifade Suriye ile varılan 30 Ocak mutabakatının bir sonucudur.
+(C) İsim değişikliği bölgedeki güvenlik tehdidini ortadan kaldırmaz.
+(D) Bu, MHP lideri Bahçeli'nin "Suriye Cumhuriyeti" çıkışına bir yanıttır.
+(E) Sadece isim kullanmak somut bir adım atıldığı anlamına gelmez.
+MODEL OUTPUT:
+Maalesef, yaptığım kapsamlı aramalarda DEM Parti Eşbaşkanı Tuncer Bakırhan’ın Cumhurbaşkanı Erdoğan’ın grup toplantısında “Ayn el-Arab” yerine “Kobani” demesini doğrudan yorumladığı güvenilir bir kaynak bulamadım. Var olan haberlerde bu özel ifadeye dair bir Bakırhan yorumu rastlanmıyor.
+
+Bu nedenle seçeneklerin hiçbirinin doğruluğunu teyit etmek mümkün görünmüyor. En yakın ifade biçimi olarak, DEM Parti’nin genel tutumu, isim değiştirilmesinin veya isim kullanmanın tek başına somut eylem olmadığı yönünde eleştirel bir yaklaşım içerebilir ama teyit yok.
+
+<final_answer>
+(E)
+</final_answer>
+
+ALINTILAR:
+- Kaynaklarda bu spesifik ifadeye dair Bakırhan yorumuna rastlanmamıştır (yapılan aramalar).
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: turkce, date: february_14, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Jaqui Gabb'in projesindeki ankete göre annelerin %22'sinin bu tür jestleri değerli hediyelerden daha ön sıraya koyduğu belirtilmektedir.
+INPUT:
+
+
+Bugün 14 Şubat 2026. Sevgililer Günü vesilesiyle yayımlanan "Ruh ikizi" konulu makalede, Profesör Jaqui Gabb'in "Kalıcı Aşk" projesi kapsamında yapılan ankete göre, annelerin yüzde kaçı "günlük hayattaki özenli davranışları" kendilerini değerli hissettiren şeylerin başında saymıştır?
+(A) %15
+(B) %18
+(C) %22
+(D) %25
+(E) %30
+MODEL OUTPUT:
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- Guardian, “Relationships survey: what makes parents feel appreciated” — araştırmada annelerin %25’inin “günlük hayattaki özenli davranışların” kendilerini değerli hissettiren şeylerin başında geldiği belirtilmiştir. (Guardian)  
+- British Psychological Society, “What parents say about love in long-term relationships” — benzer bir ankette bu sonucun doğrulandığı ve özenli davranışların büyük bir fark yarattığı vurgulanmaktadır. (BPS)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: turkce, date: february_14, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Araştırmaya göre kadınların cinsel tatminleri, mevcut doğum kontrol yöntemlerinin partnerlerini ilk seçtikleri zamankiyle aynı olması durumunda daha yüksek bulunmuştur.
+INPUT:
+
+
+Bugün 14 Şubat 2026. "Ruh ikizi" makalesinde bahsedilen ve 365 heteroseksüel çift üzerinde yapılan araştırmaya göre, kadınların cinsel tatminleri hangi durumda daha yüksek bulunmuştur?
+(A) Partnerleriyle "kader inancı" temelinde bir bağ kurduklarında.
+(B) İlişkilerinde "gelişim inancı" odaklı hareket ettiklerinde.
+(C) Doğum kontrol yöntemi partnerlerini ilk seçtikleri zamankiyle aynı olduğunda.
+(D) Partnerlerinden her gün en az bir kez "özenli bir jest" gördüklerinde.
+(E) İlişkilerinde travma bağından tamamen kurtulduklarında.
+MODEL OUTPUT:
+Mantık ve mevcut araştırmalar ışığında “ruh ikizi” makalesinde bahsedilen ve 365 heteroseksüel çift üzerine yapılan çalışmanın detaylarının, aslında “cinsel inanç” (sexual beliefs) kavramı ile ilişkili olduğuna dair güçlü kanıtlar bulunuyor. Bu inançlar; "cinsel kader / uyum temelli inançlar" (“destiny beliefs”) ile “cinsel gelişim / çabayla sürdürülebilir inançlar” (“growth beliefs”) olarak ikiye ayrılıyor.  
+
+Araştırmalara göre:
+
+- “Cinsel gelişim inancı”na sahip kadınlar, yani cinsel tatminin doğal uyumdan ziyade çabayla olması gerektiğini düşünen kadınlar, daha yüksek cinsel tatmin bildirmişlerdir. ([psychologytoday.com](https://www.psychologytoday.com/us/blog/myths-of-desire/202106/how-a-change-in-thinking-can-increase-sexual-desire?utm_source=openai))  
+- Diğer yandan, “kader inancı”na sahip kadınlar—yani tatminin doğal uyum ve kaderle belirlendiğini düşünenler—genellikle daha düşük cinsel tatmin, daha fazla çatışma ve daha az doyum bildirmişlerdir. ([psychologytoday.com](https://www.psychologytoday.com/us/blog/myths-of-desire/202106/how-a-change-in-thinking-can-increase-sexual-desire?utm_source=openai))  
+
+Verilen seçenekler arasında sadece (B) “İlişkilerinde ‘gelişim inancı’ odaklı hareket ettiklerinde” ifadesi, mevcut bilimsel bulgularla örtüşmektedir. Diğer seçeneklerdeki ifadeleri destekleyen spesifik bir çalışma veya veri bulunmamaktadır.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------

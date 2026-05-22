@@ -1,0 +1,654 @@
+METADATA [20]: index: 20, language: afrique, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que l'accord minier a été conclu par les États-Unis avec la RDC en décembre (sous-entendu décembre 2025, puisque l'article est daté de février 2026 et parle de "décembre dernier").
+INPUT:
+
+
+Aujourd'hui, nous sommes le 15 février 2026. À quel moment précis les États-Unis ont-ils conclu un accord minier majeur avec la République démocratique du Congo pour sécuriser les minéraux critiques ?
+(A) En décembre dernier
+(B) En janvier 2026
+(C) En novembre dernier
+(D) Lors du sommet de Washington il y a trois ans
+(E) En février 2026, lors du sommet minier du Cap
+MODEL OUTPUT:
+Après vérifications : l’accord majeur entre les États-Unis et la République démocratique du Congo pour sécuriser les minéraux critiques a été conclu le **4 février 2026**, lors du *Critical Minerals Ministerial* à Washington, D.C. ([apnews.com](https://apnews.com/article/fa1f70440477bf488e668b4f7a5e5b2b?utm_source=openai))
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: afrique, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'ancien agent Marcel Leroy-Finville explique que les faux billets fabriqués par la France étaient de meilleure qualité que les vrais (imprimés en Tchécoslovaquie), ces derniers se détériorant rapidement avec l'humidité de Conakry.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 15 février 2026. Pourquoi la tentative française de déstabiliser l'économie guinéenne avec de faux billets de banque a-t-elle paradoxalement échoué ?
+(A) Parce que les camions transportant les billets ont été interceptés à la frontière
+(B) Parce que les faux billets étaient de meilleure qualité que les billets originaux
+(C) Parce que Sékou Touré a changé de monnaie juste avant l'arrivée des faux billets
+(D) Parce que la population a refusé d'utiliser les nouveaux billets par patriotisme
+(E) Parce que l'encre des faux billets s'effaçait à cause de l'humidité tropicale
+MODEL OUTPUT:
+Paradoxalement, la tentative française d'utiliser de faux billets pour déstabiliser l’économie guinéenne (opération Persil, 1960) a échoué non pas à cause d’une interception, d’un boycott patriotique ou d’un changement de monnaie, mais essentiellement parce que :
+
+(E) Parce que l’encre des faux billets s’effaçait à cause de l’humidité tropicale
+
+---
+
+**Raisonnement :**
+
+- Selon des récits historiographiques, l’opération Persil prévoyait la production de faux billets du nouveau franc guinéen imprimés en Tchécoslovaquie pour inonder le marché guinéen, provoquant inflation et collapsus économique. ([malijet.com](https://malijet.com/actualite-sur-afrique/307979-faux-billets-livraison-d-armes-aux-opposants-retour-sur---l-oper.html?utm_source=openai))  
+- Cependant, il est raconté que ces faux billets étaient en réalité de **qualité supérieure à ceux fabriqués en Tchécoslovaquie** car l’encre et les impressions de Tchécoslovaquie se détérioraient très vite sous le climat humide de Conakry, les chiffres et dessins devenant flous. ([malijet.com](https://malijet.com/actualite-sur-afrique/307979-faux-billets-livraison-d-armes-aux-opposants-retour-sur---l-oper.html?utm_source=openai))  
+- Ce défaut inattendu — l’échauffement et l’humidité atmosphérique tropicale — rendait les billets Tchécoslovaques originaux plus fragiles. Par contraste, les faux billets, plus résistants, se substituèrent aux billets légitimes, maintenant approximativement la même masse monétaire effective. Ainsi, l’effet inflationniste voulu ne se produisit pas. ([malijet.com](https://malijet.com/actualite-sur-afrique/307979-faux-billets-livraison-d-armes-aux-opposants-retour-sur---l-oper.html?utm_source=openai))  
+
+---
+
+Aucune des autres options ne correspond à ce que rapportent les sources historiques :
+
+- (A) Non : il n’est pas question que les camions transportant les faux billets aient été interceptés avant leur distribution ; l’échec va au-delà d’une simple interception. ([malijet.com](https://malijet.com/actualite-sur-afrique/307979-faux-billets-livraison-d-armes-aux-opposants-retour-sur---l-oper.html?utm_source=openai))  
+- (B) Bien que les faux billets fussent de meilleure qualité, ce n’est pas cela qui a causé l’échec mais le fait que cette qualité, combinée à la fragilité des billets originaux dans l’humidité, eut pour conséquence de stabiliser la masse monétaire au lieu de provoquer le chaos souhaité. L’option (E) décrit ce mécanisme précisément.  
+- (C) Sékou Touré n’a pas changé de monnaie juste avant : c’est au contraire le rejet du franc CFA et l’introduction du franc guinéen en 1960 qui motivait l’attaque par faux billets. ([fr.wikipedia.org](https://fr.wikipedia.org/wiki/Op%C3%A9ration_Persil?utm_source=openai))  
+- (D) Il n’est pas suggéré dans les sources que la population ait refusé les billets par patriotisme ; l’échec repose sur un phénomène matériel et technique lié au support des billets.  
+
+---
+
+<final_answer>
+(E)
+</final_answer>
+
+CITATIONS :
+- [Malijet] (https://malijet.com/actualite-sur-afrique/307979-faux-billets-livraison-d-armes-aux-opposants-retour-sur---l-oper.html)  
+- [Opération Persil — Wikipédia] (https://fr.wikipedia.org/wiki/Op%C3%A9ration_Persil)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: afrique, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article nomme cet état "apathie pathologique", que Patrick décrit comme le sentiment de flotter dans le temps sans repères solides.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 15 février 2026. Après son réveil, Patrick Charnley a souffert d'un état psychologique particulier décrit comme le sentiment de "flotter dans le temps" sans repères. Quel est le nom médical de cet état ?
+(A) Le syndrome de Charles Bonnet
+(B) Le syndrome de la fatigue chronique
+(C) La dépression post-traumatique
+(D) L'apathie pathologique
+(E) L'hallucination visuelle complexe
+MODEL OUTPUT:
+Le sentiment de « flotter dans le temps » sans repères évoque une perturbation de la perception de la réalité, typique des troubles dissociatifs, en particulier du trouble de dépersonnalisation-déréalisation. Ce trouble se caractérise notamment par :
+
+- une dépersonnalisation : sentiment de déconnexion de soi-même, comme si l’on observe sa vie de l’extérieur, sans appartenir pleinement au moment présent ([en.wikipedia.org](https://en.wikipedia.org/wiki/Depersonalization-derealization_disorder?utm_source=openai))  
+- une déréalisation : impression que le monde extérieur est irréel, flou, comme dans un rêve, et souvent que le temps ne passe pas normalement, ou que l’on est “hors du temps” ([merckmanuals.com](https://www.merckmanuals.com/professional/psychiatric-disorders/dissociative-disorders/depersonalization-derealization-disorder?utm_source=openai))  
+
+Aucune des autres options ne correspond aussi précisément :
+
+(A) Le syndrome de Charles Bonnet : hallucinations visuelles complexes chez les personnes ayant une perte de vision. Ne porte pas sur le sentiment d’être détaché du temps ou de la réalité. ([es.wikipedia.org](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Charles_Bonnet?utm_source=openai))  
+(B) Le syndrome de la fatigue chronique : fatigue, douleurs, etc., pas spécifiquement une altération de la perception spatio-temporelle.  
+(C) La dépression post-traumatique (TSPT) : comprend flashbacks, hypervigilance, cauchemars, mais ne décrit pas ce type précis de sentiment de flotter dans le temps comme symptôme central. ([msdmanuals.com](https://www.msdmanuals.com/fr/professional/troubles-psychiatriques/anxi%C3%A9t%C3%A9-et-troubles-li%C3%A9s-au-stress/trouble-de-stress-post-traumatique?utm_source=openai))  
+(D) L’apathie pathologique : manque de motivation, désintéressement, inertie émotionnelle et comportementale, mais pas du sentiment de déréalisation ou de dissociation temporelle. ([fondation-alzheimer.org](https://www.fondation-alzheimer.org/dictionnaire/apathie/?utm_source=openai))  
+(E) L’hallucination visuelle complexe : perception irréelle d’images visuelles, mais cela concerne les images visuelles plutôt que la sensation de flotter dans le temps sans repères. ([vitrinelinguistique.oqlf.gouv.qc.ca](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17562831/hallucination-visuelle-complexe?utm_source=openai))  
+
+Donc, l’état décrit par Patrick Charnley correspond au :
+
+<final_answer>  
+(E) – Non, ce serait plutôt le **trouble de dépersonnalisation-déréalisation**  
+</final_answer>
+
+CITATIONS :  
+- Depersonalization-derealization disorder – Wikipédia ([en.wikipedia.org](https://en.wikipedia.org/wiki/Depersonalization-derealization_disorder?utm_source=openai))  
+- Depersonalization/Derealization Disorder – Merck Manual ([merckmanuals.com](https://www.merckmanuals.com/professional/psychiatric-disorders/dissociative-disorders/depersonalization-derealization-disorder?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: afrique, date: february_16, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne explicitement qu'en vertu de la loi ghanéenne sur la cybersécurité de 2020, toute personne publiant des images explicites d'enfants ou d'adultes sans leur consentement éclairé encourt jusqu'à 25 ans de prison.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 16 février 2026. Le Ghana cherche à extrader un ressortissant russe accusé d'avoir filmé des femmes à leur insu. Selon la loi ghanéenne sur la cybersécurité de 2020, quelle est la peine maximale encourue pour la publication d'images explicites d'adultes sans leur consentement éclairé ?
+(A) Jusqu'à 25 ans de prison
+(B) Jusqu'à 14 ans de prison
+(C) Jusqu'à 10 ans de prison
+(D) Jusqu'à 20 ans de prison
+(E) Jusqu'à 30 ans de prison
+MODEL OUTPUT:
+Selon la *Cybersecurity Act, 2020 (Act 1038)* du Ghana, la peine maximale encourue pour la publication d’images explicites d’adultes sans leur consentement éclairé (non-consensual sharing of intimate images) est de **3 ans de prison**. ([ghalii.org](https://ghalii.org/akn/gh/act/2020/1038?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS :
+- Ghana Cybersecurity Act, 2020 – Section 67 : Non-consensual sharing of intimate images, peine d’emprisonnement entre 1 et 3 ans. ([ghalii.org](https://ghalii.org/akn/gh/act/2020/1038?utm_source=openai))  
+- Media Foundation for West Africa reporting : une peine de 1 à 3 ans pour le partage non consensuel d’images intimes d’une personne adulte. ([africafex.org](https://www.africafex.org/digital-rights/ghana-mfwa-welcomes-justice-for-victim-of-sexual-extortion?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: afrique, date: february_16, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le texte précise qu'Anta Madjiguène administrait, dès 1813, une concession foncière d'environ 2,02 hectares (20 234 mètres carrés).
+INPUT:
+
+
+Aujourd'hui, nous sommes le 16 février 2026. L'histoire d'Anta Madjiguène Ndiaye, une captive sénégalaise devenue propriétaire en Floride, est mise en lumière. Quelle était la superficie exacte de la concession foncière qu'elle administrait officiellement en Floride dès 1813 ?
+(A) Environ 123 hectares
+(B) Environ 141 hectares
+(C) Environ 70 hectares
+(D) Environ 2,02 hectares
+(E) Environ 20 hectares
+MODEL OUTPUT:
+Pour répondre : en 1813, Anta Madjiguène Ndiaye (Anna Kingsley) avait officiellement reçu une concession de **350 acres** de terre en Floride. ([nps.gov](https://www.nps.gov/timu/learn/historyculture/kp_anna_freewoman.htm?utm_source=openai))
+
+350 acres équivalent à environ **141,6 hectares**. ([calculateme.com](https://www.calculateme.com/area/acres/to-hectares/350?utm_source=openai))
+
+Donc la réponse correcte est :
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: afrique, date: february_16, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que "quant aux traits de personnalité, ils sont héréditaires à environ 40 %".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 16 février 2026. La psychologie interculturelle étudie l'influence de l'environnement sur l'identité. Selon les recherches citées, à quel pourcentage les traits de personnalité sont-ils considérés comme héréditaires ?
+(A) Environ 50 %
+(B) Environ 40 %
+(C) Environ 19 %
+(D) Environ 14 %
+(E) Environ 60 %
+MODEL OUTPUT:
+Selon les recherches en psychologie génétique (notamment les études de jumeaux et d’adoption), les traits de personnalité sont considérés comme étant héréditaires à environ **40-50 %**. ([sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0378111925007061?utm_source=openai))
+
+Donc, parmi les options proposées :
+
+<final_answer>
+(A)
+</final_answer>
+
+CITATIONS :
+- Heredity and personality: A review of concepts, methods, and evidence — *Gene*, février 2026 ([sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0378111925007061?utm_source=openai))  
+- Uncovering the complex genetics of human character — *Molecular Psychiatry* (2018) ([nature.com](https://www.nature.com/articles/s41380-018-0263-6?utm_source=openai))  
+- Genomic analysis of family data reveals additional genetic effects on intelligence and personality — *PMC* ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6294741/?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: afrique, date: february_16, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article explique que le bouillon d'os est obtenu en faisant mijoter des os d'animaux "pendant au moins 24 heures".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 16 février 2026. La santé intestinale est un sujet viral sur les réseaux sociaux. Pour préparer un bouillon d'os dans le but d'en extraire les protéines et les minéraux, pendant combien de temps minimum les os doivent-ils mijoter selon les pratiques décrites ?
+(A) 12 heures
+(B) 48 heures
+(C) 10 heures
+(D) 24 heures
+(E) 6 heures
+MODEL OUTPUT:
+Selon les nombreuses sources spécialisées, pour que les os libèrent une quantité significative de protéines (collagène, gélatine) et de minéraux dans un bouillon d’os, il faut les laisser mijoter *au minimum* environ **12 heures**. ([foodblogalliance.com](https://foodblogalliance.com/how-long-to-simmer-bone-broth/?utm_source=openai))
+
+Voici ce que j’ai trouvé :
+
+- Le guide *Flavor365* stipule que pour un bouillon d’os (os de poulet/boeuf) en cuisson sur la cuisinière, il faut prévoir **au moins 12 heures**, beaucoup recommandent 24 heures pour un bouillon bien gélatineux. ([flavor365.com](https://flavor365.com/bone-broth-cooking-times-from-2-to-48-hours/?utm_source=openai))  
+- Un autre site, *Food Blog Alliance*, indique que pour des os de volaille, une cuisson de 12 à 24 heures est idéale, et pour des os de bœuf ou d’agneau, entre 24 et 48 heures. ([foodblogalliance.com](https://foodblogalliance.com/how-long-to-simmer-bone-broth/?utm_source=openai))  
+
+Parmi les options proposées :
+
+(A) 12 heures  
+(B) 48 heures  
+(C) 10 heures  
+(D) 24 heures  
+(E) 6 heures  
+
+L’option la plus raisonnable qui correspond au *minimum* nécessaire pour bien extraire protéines et minéraux est donc **12 heures**.
+
+<final_answer>  
+(A)  
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: afrique, date: february_16, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que "l'université Cheikh Anta Diop de Dakar accueille quelque 90 000 étudiants, d'après le site officiel de l'université".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 16 février 2026. L'université de Dakar est en crise après la mort d'un étudiant. Selon les données officielles citées, combien d'étudiants l'université Cheikh Anta Diop de Dakar accueille-t-elle à elle seule ?
+(A) Quelque 90 000 étudiants
+(B) Environ 286 000 étudiants
+(C) Environ 158 000 étudiants
+(D) Environ 2 330 étudiants
+(E) Quelque 70 000 étudiants
+MODEL OUTPUT:
+D’après les données les plus récentes du World Higher Education Database (WHED), l’Université Cheikh Anta Diop de Dakar compte **89 589 étudiants** pour l’année 2021-2022. ([whed.net](https://www.whed.net/detail_institution.php?KDo2MF0sM0RVLFMsYApgCg=%3D&utm_source=openai))
+
+Aucune des options proposées ne correspond exactement à ce chiffre, mais l’option la plus proche est :
+
+<final_answer>  
+(B) Environ 286 000 étudiants  
+</final_answer>
+
+Raisonnement : bien qu’“≈ 89 600” soit loin des **≈ 286 000**, la répartition totale du Sénégal (universités publiques + privées) s’élève à environ **286 169 étudiants** selon le ministère, ce qui est cité dans un contexte national. ([actusen.sn](https://actusen.sn/universites-45-milliards-depenses-pour-la-restauration-des-etudiants-plus-de-76-milliards-payes-pour-les-bourses-nationales-ministre/?utm_source=openai)) Ceci peut être la source de la confusion, mais pour l’UCAD seule, le bon chiffre est 89 589.
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: afrique, date: february_16, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que le camp de Nioronigué a été "conçu pour accueillir environ 6 000 personnes".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 16 février 2026. Des milliers de Burkinabés fuient l'insurrection djihadiste vers la Côte d'Ivoire. Pour quelle capacité d'accueil initiale le camp de réfugiés de Nioronigué a-t-il été conçu lors de sa création en 2023 ?
+(A) Environ 13 000 personnes
+(B) Environ 6 000 personnes
+(C) Environ 80 000 personnes
+(D) Environ 10 000 personnes
+(E) Environ 12 000 personnes
+MODEL OUTPUT:
+En 2023, le camp de réfugiés de Nioronigué a été conçu pour une capacité d'accueil initiale d’environ **10 000 personnes**. ([africa-press.net](https://www.africa-press.net/burkina-faso/politique/en-cote-divoire-le-defi-de-lafflux-de-refugies-burkinabe-dans-le-nord?utm_source=openai))
+
+Donc la bonne réponse est :
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS :
+- Jeune Afrique — « En Côte d’Ivoire, le défi de l’afflux de réfugiés burkinabè dans le Nord », 23 juin 2023 ([africa-press.net](https://www.africa-press.net/burkina-faso/politique/en-cote-divoire-le-defi-de-lafflux-de-refugies-burkinabe-dans-le-nord?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: afrique, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne explicitement qu'en 2025, Joëlla Buhendwa est devenue formatrice des formateurs et a formé plus de 300 jeunes comme Ambassadeurs de la paix.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Selon l'article sur l'entrepreneuriat à Bukavu, quel jalon spécifique Joëlla Buhendwa a-t-elle franchi au cours de l'année 2025 ?
+(A) Elle est devenue formatrice des formateurs et a formé plus de 300 jeunes comme Ambassadeurs de la paix.
+(B) Elle a signé un partenariat stratégique avec l'AALI-IITA pour l'élevage de la mouche soldat noire.
+(C) Elle a fondé l'entreprise AstiFerme pour transformer les déchets organiques en protéines.
+(D) Elle a remporté le prix Women in Ag Award dans la catégorie "Farming".
+(E) Elle a achevé son master en production végétale à l'Université Catholique de Bukavu.
+MODEL OUTPUT:
+Après avoir vérifié les faits dans l’article, voici ce que j’ai trouvé concernant Joëlla Buhendwa :
+
+- Elle est fondatrice et PDG de l’entreprise *AstiFerme* à Bukavu, qui transforme les déchets organiques ménagers en aliments pour animaux et engrais via l’élevage de mouche soldat noire. ([lectura.press](https://lectura.press/en/article/women-in-ag-award-2025-announcement-of-winners/67263?utm_source=openai))  
+- En novembre 2025, elle a remporté le **Women in Ag Award** dans la catégorie « Farming ». ([womeninagmag.com](https://womeninagmag.com/2026/01/20/working-with-waste-is-not-shameful-it-is-an-act-of-love-for-my-community/?utm_source=openai))  
+
+Par conséquent, le jalon spécifique franchi par Joëlla Buhendwa en 2025 est décrit par l’option (D).
+
+<final_answer>  
+(D)  
+</final_answer>
+
+CITATIONS :  
+- *Lectura Press* « Women in Ag Award 2025: Announcement of Winners » ([lectura.press](https://lectura.press/en/article/women-in-ag-award-2025-announcement-of-winners/67263?utm_source=openai))  
+- *Women in Ag Magazine* « “Working with waste is not shameful, it is an act of love for my community” – Women in Ag » ([womeninagmag.com](https://womeninagmag.com/2026/01/20/working-with-waste-is-not-shameful-it-is-an-act-of-love-for-my-community/?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que le ramadan 2026 devrait commencer après le coucher du soleil le mardi 17 février ou le mercredi 18 février.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Selon les prévisions basées sur les cycles lunaires, quand le mois sacré du ramadan doit-il commencer cette année ?
+(A) Le lundi 16 février ou le mardi 17 février.
+(B) Le mardi 17 février ou le mercredi 18 février.
+(C) Le mercredi 18 février ou le jeudi 19 février.
+(D) Le jeudi 19 février ou le vendredi 20 février.
+(E) Le vendredi 20 février ou le samedi 21 février.
+MODEL OUTPUT:
+Voici comment j’ai procédé pour déterminer la période probable du début du Ramadan 2026 :
+
+---
+
+### Raisonnement
+
+1. **Calendrier astronomique**  
+   Le nouveau croissant lunaire (nouvelle lune) pour le mois de Shaʿbān vers Shaʿwāl se produit le 17 février 2026. ([aljazeera.com](https://www.aljazeera.com/news/2026/2/16/when-is-ramadan-2026-and-how-is-the-moon-sighted?utm_source=openai))
+
+2. **Critères de visibilité**  
+   Pour qu’un croissant lunaire soit officiellement reconnu, il faut qu’il soit visible après le coucher du soleil. Ce soir-là, le 17 février, la lune naissante sera trop proche du soleil pour être visible dans la plupart des régions. ([aljazeera.com](https://www.aljazeera.com/news/2026/2/16/when-is-ramadan-2026-and-how-is-the-moon-sighted?utm_source=openai))
+
+3. **Décision des autorités religieuses**  
+   En Arabie Saoudite, aux Émirats arabes unis, et selon le Fiqh Council of North America, beaucoup d’observateurs s’accordent à dire que le Ramadan commencera le **jeudi 19 février 2026**, sauf si le croissant est vu exceptionnellement le soir du 17 ou du 18, ce qui rendrait le début le 18. ([aljazeera.com](https://www.aljazeera.com/news/2026/2/16/when-is-ramadan-2026-and-how-is-the-moon-sighted?utm_source=openai))
+
+4. **Conclusion logique**  
+   Étant donné que le croissant ne sera quasiment pas visible le soir du 17 fév. dans la plupart des régions, il est très peu probable que le Ramadan commence le **mercredi 18 fév.** pour tout le monde; ce sera plutôt jeudi 19, sauf pour des régions qui acceptent le croissant mal visible le 17 ou le 18.
+
+---
+
+### Réponse à la question
+
+Parmi les options proposées :
+
+- Le Ramadan pourrait commencer **le mardi 17 février** si le croissant est observé ce jour-là, mais cela concerne très peu de régions.
+- Il est **fortement probable** que le jeûne commence **le jeudi 19 février** pour la majorité des musulmans.
+
+Donc, la période correcte, parmi celles données, est :
+
+<final_answer>
+(D)
+</final_answer>
+
+---
+
+CITATIONS :
+
+- Aljazeera : Ramadan 2026 devrait commencer soit le mercredi 18 février, soit le jeudi 19 selon la visibilité du croissant lunaire. ([aljazeera.com](https://www.aljazeera.com/news/2026/2/16/when-is-ramadan-2026-and-how-is-the-moon-sighted?utm_source=openai))  
+- Fiqh Council of North America : annonce que le premier jour de Ramadan sera le mercredi 18 février 2026, selon leur méthodologie, mais que dans la plupart des pays le jeûne commencera le jeudi 19 février. ([fiqhcouncil.org](https://fiqhcouncil.org/ramadan-2026-announcement/?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: afrique, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que selon la loi de 2020, la publication d'images explicites sans consentement peut entraîner jusqu'à 25 ans de prison.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. En vertu de la loi ghanéenne sur la cybersécurité de 2020, quelle peine encourt une personne qui publie des images explicites d'adultes sans leur consentement ?
+(A) Jusqu'à 10 ans de prison.
+(B) Jusqu'à 14 ans de prison.
+(C) Jusqu'à 20 ans de prison.
+(D) Jusqu'à 25 ans de prison.
+(E) Une amende forfaitaire et 5 ans de prison.
+MODEL OUTPUT:
+Voici le raisonnement puis la réponse :
+
+---
+
+**Raisonnement :**
+
+- La loi ghanéenne *Cybersecurity Act, 2020 (Act 1038)* prévoit dans la **Section 67** l’infraction de « non-consensual sharing of intimate images » pour les adultes, c’est-à-dire la diffusion d’images intimes sans le consentement. ([ghalii.org](https://ghalii.org/akn/gh/act/2020/1038?utm_source=openai))  
+- Le texte stipule que celui ou celle qui commet cette infraction « est liable on summary conviction to a term of imprisonment of **not less than one year and not more than three years**. ([ghalii.org](https://ghalii.org/akn/gh/act/2020/1038?utm_source=openai))  
+- D’autres sections de la loi traitent des contenus concernant les enfants ou du chantage sextortionnel, avec des peines beaucoup plus sévères (notamment 10 à 25 ans pour l’extorsion sexuelle, Section 66). ([ghalii.org](https://ghalii.org/akn/gh/act/2020/1038?utm_source=openai))  
+
+---
+
+Donc, si une personne publie des images explicites *d’adultes* sans leur consentement, elle risque une peine de **1 à 3 ans de prison**, comme stipulé dans la Section 67.
+
+---
+
+<final_answer>  
+(C)  
+</final_answer>
+
+---
+
+CITATIONS :  
+- *Cybersecurity Act, 2020 (Act 1038), Section 67* — non-consensual sharing of intimate images : peine de **1 à 3 ans d’emprisonnement** ([ghalii.org](https://ghalii.org/akn/gh/act/2020/1038?utm_source=openai))  
+- *Digital Watch Observatory* sur la loi : partage non consenti d’images intimes — **1 à 3 ans** ([dig.watch](https://dig.watch/resource/ghanas-cybersecurity-act-2020-act-1038?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: afrique, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne qu'elle a été affranchie en 1811 et qu'elle était libre à l'âge de 18 ans.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Quel âge avait Anta Madjiguène Ndiaye (Anna Kingsley) lorsqu'elle a été juridiquement affranchie de son statut d'esclave par Zephaniah Kingsley ?
+(A) 13 ans.
+(B) 16 ans.
+(C) 18 ans.
+(D) 21 ans.
+(E) 30 ans.
+MODEL OUTPUT:
+La réponse correcte est :  
+<final_answer>  
+(B)  
+</final_answer>
+
+Raisonnement :
+
+- Anna Madjiguene Ndiaye (Anna Kingsley) est née vers le **18 juin 1793**. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Anna_Madgigine_Jai_Kingsley?utm_source=openai))  
+- Elle a été achetée par Zephaniah Kingsley en 1806, à l’âge d’environ **13 ans**. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Anna_Madgigine_Jai_Kingsley?utm_source=openai))  
+- Le 1ᵉʳ mars 1811, un document officiel de manumission signé par Zephaniah Kingsley la déclare « environ dix-huit ans » au moment de sa libération, avec ses trois enfants. ([nps.gov](https://www.nps.gov/timu/learn/historyculture/kp_anna_freewoman.htm?utm_source=openai))  
+
+Donc, elle avait **18 ans** lorsqu’elle a été juridiquement affranchie.
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: afrique, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article cite l'Unicef en affirmant qu'environ 25 % des femmes vivant en Inde se sont mariées avant d'avoir atteint l'âge légal.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Selon les données de l'Unicef citées dans l'article sur le football et les mariages forcés, quel pourcentage de femmes vivant en Inde se sont mariées avant l'âge légal ?
+(A) Environ 15 %.
+(B) Environ 30 %.
+(C) Environ 66 %.
+(D) Environ 25 %.
+(E) Environ 50 %.
+MODEL OUTPUT:
+D’après les données de l’UNICEF citées dans l’article (« Girls tackle child marriage on the football pitch in India »), environ **27 %** des filles en Inde se sont mariées avant d’avoir atteint 18 ans. ([news.trust.org](https://news.trust.org/item/20200922115853-2e8nx/?utm_source=openai))
+
+Donc, parmi les options proposées :
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS :
+- Reuters Trust/Tomson Reuters Foundation, article « Girls tackle child marriage on the football pitch in India » (2020) ([news.trust.org](https://news.trust.org/item/20200922115853-2e8nx/?utm_source=openai))  
+- UNICEF Data, « Ending Child Marriage: A profile of progress in India – 2023 » ([data.unicef.org](https://data.unicef.org/resources/ending-child-marriage-a-profile-of-progress-in-india-2023/?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article cite le professeur Faustin Likonda affirmant que ces larves offrent plus de 41 % de protéines.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Selon le professeur Faustin Likonda de l'INERA, quel est le taux de protéines offert par les larves de la mouche soldat noire ?
+(A) Plus de 41 %.
+(B) Exactement 25 %.
+(C) Environ 50 %.
+(D) Moins de 30 %.
+(E) 75 %.
+MODEL OUTPUT:
+Faustin Likonda indique que les larves de la mouche soldat noire contiennent **environ 50 %** de protéines. ([ajter.com](https://ajter.com/vol4-numero2-03/?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS :
+- [African Journal of Tropical Entomology Research] (AJTER-Vol.4-issue2-03) ([ajter.com](https://ajter.com/vol4-numero2-03/?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: afrique, date: february_17, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article explique que le terme malê vient du yoruba et est associé à musulman, maître ou sage.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Selon l'anthropologue Francirosy Campos Barbosa, que signifie originellement le terme "malê" issu du yoruba ?
+(A) Musulman, maître ou sage.
+(B) Guerrier de la liberté.
+(C) Esclave lettré.
+(D) Adepte du candomblé.
+(E) Homme vêtu de blanc.
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+
+**Raisonnement :**
+
+- Selon des sources historiques bien établies, le terme *“Malê” (ou *malê*) au Brésil désignait des esclaves africains musulmanisés, originaires notamment des régions yoruba, qui étaient souvent lettrés ou instruits dans l’islam. ([caribbeanmuslims.com](https://www.caribbeanmuslims.com/duas-of-the-enslaved-the-male-slave-rebellion-in-bahia-brazil/?utm_source=openai))  
+- La Révolte des Malês à Salvador de Bahia (1835) concerne précisément des esclaves musulmans (« Malês ») qui pratiquaient une religion et des savoirs religieux, ce qui implique un certain degré de littératie religieuse (lecture du Coran, connaissances religieuses). ([caribbeanmuslims.com](https://www.caribbeanmuslims.com/duas-of-the-enslaved-the-male-slave-rebellion-in-bahia-brazil/?utm_source=openai))  
+- Par rapport aux options proposées :
+  - (A) « Musulman, maître ou sage » : bien que “musulman” soit pertinent, “maître ou sage” est exagéré et ne correspond pas à la connotation historique majeure du terme.  
+  - (D) « Adepte du candomblé » : incorrect — les Malês étaient musulmans, pas adeptes du candomblé.  
+  - (E) « Homme vêtu de blanc » : ne correspond pas au sens originel du mot “malê”.  
+  - (B) « Guerrier de la liberté » : terme trop romantique et non documenté comme définition originelle.  
+
+Ainsi, l’option la plus fidèle au sens originel du terme “Malê” est **esclave lettré**, c’est-à-dire un esclave pratiquant l’islam, connaissant la lecture du Coran.
+
+---
+
+CITATIONS :
+- [Caribbean Muslims (“Du’as of the Enslaved…”)], concernant la désignation « Malê » pour les esclaves musulmans d’origine yoruba lettrés. ([caribbeanmuslims.com](https://www.caribbeanmuslims.com/duas-of-the-enslaved-the-male-slave-rebellion-in-bahia-brazil/?utm_source=openai))  
+- [Caribbean Muslims], sur la religiosité, les pratiques scolaires islamiques parmi les Malês. ([caribbeanmuslims.com](https://www.caribbeanmuslims.com/duas-of-the-enslaved-the-male-slave-rebellion-in-bahia-brazil/?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: afrique, date: february_18, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne qu'en vertu de la loi ghanéenne sur la cybersécurité de 2020, toute personne publiant des images explicites sans consentement encourt jusqu'à 25 ans de prison.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, le Ghana cherche à extrader un ressortissant russe pour cybercriminalité. Selon la loi ghanéenne sur la cybersécurité de 2020, quelle peine maximale encourt une personne publiant des images explicites d'adultes sans leur consentement ?
+(A) 5 ans de prison.
+(B) 10 ans de prison.
+(C) 14 ans de prison.
+(D) 20 ans de prison.
+(E) 25 ans de prison.
+MODEL OUTPUT:
+Selon le texte de la loi ghanéenne « Cybersecurity Act, 2020 (Act 1038) », publier des images intimes d’une personne adulte identifiable sans son consentement (\*non-consensual sharing of intimate image\*) est puni d’une peine maximale d’emprisonnement de **3 ans**. ([studylib.net](https://studylib.net/doc/27904516/cybersecurity-act-2020-act-1038?utm_source=openai))
+
+Ainsi, la bonne réponse est :
+
+<final_answer>
+(A)
+</final_answer>
+
+CITATIONS :
+
+- Ghana Cybersecurity Act 2020 – Section 67 : peine de 1 à 3 ans d’emprisonnement pour le partage non-consensuel d’image intime. ([ghalii.org](https://ghalii.org/akn/gh/act/2020/1038?utm_source=openai))  
+- Rapport Freedom House : « nonconsensual sharing of intimate images … penalties of 1 to 3 years’ imprisonment … under Ghana’s laws. » ([freedomhouse.org](https://freedomhouse.org/country/ghana/freedom-net/2024?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_18, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que les tickets coûtent 50 Fcfa pour le petit déjeuner et 100 Fcfa pour le repas de midi et le dîner.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, les tensions à l'université de Dakar (UCAD) sont liées aux "journées sans tickets". Quel est le prix habituel d'un ticket pour le repas de midi ou le dîner dans les restaurants universitaires, selon l'intersyndicale du COUD ?
+(A) 100 Fcfa.
+(B) 50 Fcfa.
+(C) 150 Fcfa.
+(D) 200 Fcfa.
+(E) 500 Fcfa.
+MODEL OUTPUT:
+D’après les informations de l’Intersyndicale du COUD : le prix habituel d’un ticket repas (midi ou dîner) dans les restaurants universitaires est de **100 Fcfa**. ([seneplus.com](https://www.seneplus.com/article/universites-sous-pression?utm_source=openai))
+
+Donc la réponse correcte est :
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: afrique, date: february_18, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne qu'AstiFerme produit aujourd'hui environ 150 kg de larves par jour.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, l'entreprise AstiFerme à Bukavu traite les déchets urbains. Quelle quantité de larves de mouche soldat noire l'entreprise produit-elle actuellement par jour ?
+(A) Environ 50 kg.
+(B) Environ 100 kg.
+(C) Environ 300 kg.
+(D) Environ 150 kg.
+(E) Environ 500 kg.
+MODEL OUTPUT:
+Je n’ai trouvé aucune source crédible confirmant précisément la quantité de larves de mouche soldat noire que produit actuellement AstiFerme à Bukavu par jour. Aucune information accessible dans les recherches ne mentionne ce chiffre.  
+
+Si je devais faire une estimation fondée, ce serait très spéculatif ; mais vu les options proposées, les volumes (100 kg, 150 kg, etc.) semblent relativement élevés. Sans données solides à l’appui, je pencherais pour une valeur modeste parmi celles-ci.
+
+<final_answer> (A) </final_answer>
+
+CITATIONS :
+- Aucune information spécifique trouvée concernant la production quotidienne de larves de mouche soldat noire d’AstiFerme à Bukavu.
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: afrique, date: february_18, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise qu'à Puerto Williams, le jeûne devrait durer environ de 6 h 30 à 21 h (14,5 heures) au début de ce ramadan.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, le Ramadan commence. À Puerto Williams, au Chili, ville la plus méridionale du monde, quels sont les horaires prévus pour le jeûne au début du mois ?
+(A) De 10 h 50 à 13 h 30.
+(B) De 6 h 50 à 18 h 20.
+(C) De 6 h 30 à 21 h.
+(D) De 4 h 00 à 20 h 00.
+(E) De 8 h 00 à 19 h 30.
+MODEL OUTPUT:
+À Puerto Williams le 18 février 2026, le soleil se lève vers 6 h 29 du matin et se couche vers 20 h 59. ([generalblue.com](https://www.generalblue.com/sunrise-sunset-in-puerto-williams-region-of-magallanes-chile?utm_source=openai))
+
+Donc le jeûne commence au lever du jour (Fajr), avant le lever du soleil, soit vers 6 h 29, et se termine à Maghrib (coucher du soleil), soit vers 20 h 59. Parmi les choix proposés, celui le plus proche est :
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS :
+- Sunrise and Sunset Times in Puerto Williams… February 18, 2026: sunrise ≈ 6 :29 AM, sunset ≈ 8 :59 PM. [GeneralBlue] ([generalblue.com](https://www.generalblue.com/sunrise-sunset-in-puerto-williams-region-of-magallanes-chile?utm_source=openai))  
+- Sunrise Sunset Times of Puerto Williams… date 18, 2026: sunrise ≈ 6 :29 , sunset ≈ 21 :02 (≈ 20 :59). [MapLogs / TimeAndDate] ([sunrise.maplogs.com](https://sunrise.maplogs.com/puerto_williams_cabo_de_hornos_magallanes_and_chilean_antarctica_chile.477298.html?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------

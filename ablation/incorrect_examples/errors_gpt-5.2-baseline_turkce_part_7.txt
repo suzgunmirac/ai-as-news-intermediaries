@@ -1,0 +1,500 @@
+METADATA [3]: index: 3, language: turkce, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede İstanbul Cumhuriyet Başsavcılığı'nın açıklamasında Uludağ hakkında "Cumhurbaşkanına alenen hakaret" ve "yanıltıcı bilgiyi alenen yayma" suçlarından soruşturma başlatıldığı belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Gazeteci Alican Uludağ'ın İstanbul Cumhuriyet Başsavcılığı'nın talimatıyla gözaltına alınması ve adliyeye sevk edilmesi süreciyle ilgili olarak, soruşturmaya gerekçe gösterilen suçlamalar nelerdir?
+(A) Terör örgütü üyeliği ve gizli belgeleri yabancı istihbarat servislerine servis etmek
+(B) Vergi usulsüzlüğü yapmak ve izinsiz gösteri yürüyüşlerine katılmak
+(C) Adli yargılamayı etkilemeye teşebbüs ve kamu görevlisine görevinden dolayı hakaret
+(D) Cumhurbaşkanına alenen hakaret ve yanıltıcı bilgiyi alenen yayma
+(E) Kişisel verileri hukuka aykırı olarak ele geçirmek ve yaymak
+MODEL OUTPUT:
+Bu soruya doğru yanıt verebilmem için, 20 Şubat 2026 itibarıyla “Alican Uludağ’ın İstanbul Cumhuriyet Başsavcılığı talimatıyla gözaltına alınıp adliyeye sevk edilmesi” olayına ilişkin **haber metnindeki/soruşturma evrakındaki** suçlamaları teyit etmem gerekiyor. Ancak şu anda canlı haberlere veya güncel veri tabanlarına erişimim olmadığı için, bu spesifik olayda hangi maddelerin gerekçe gösterildiğini güvenilir biçimde doğrulayamıyorum. Bu nedenle seçenekler arasında kesin bir tercih yapmam, uydurma bilgi üretme riski taşır.
+
+Habere ait bir linki ya da gözaltı/sevk yazısında geçen suç isnadını (1-2 cümle) paylaşırsanız, seçeneklerden hangisine karşılık geldiğini hemen işaretleyebilirim.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Bloomberg'in 5 Şubat tarihli haberine göre, sürecin yönetilmesi için küresel danışmanlık şirketi EY (Ernst & Young) yetkilendirilmiş, BTY Construction isimli şirket de danışmanlık yapacaktır.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Türkiye'deki köprü ve otoyolların özelleştirilmesi iddiaları kapsamında, Bloomberg'in haberine göre fizibilite çalışmalarını yönetmek ve danışmanlık yapmak üzere hangi şirketlerin adı geçmektedir?
+(A) McKinsey & Company ve Limak İnşaat
+(B) PwC (PriceWaterhouseCoopers) ve Cengiz Holding
+(C) Deloitte ve Kalyon Grup
+(D) KPMG ve Kolin İnşaat
+(E) EY (Ernst & Young) ve BTY Construction
+MODEL OUTPUT:
+Bloomberg’in Türkiye’deki köprü ve otoyolların olası özelleştirilmesine ilişkin haberinde, fizibilite çalışmalarını yönetmek ve danışmanlık yapmak üzere adı geçen şirketler **KPMG** ve **Kolin İnşaat** olarak aktarılmıştır.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: turkce, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede yer alan "Beğendili Kebap" tablosunda 2026 yılı için toplam maliyet 656,7 TL olarak verilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Türkiye'deki gıda enflasyonunu yemek tarifleri üzerinden inceleyen verilere göre, 4 kişilik bir "Beğendili Kebap"ın 2026 yılındaki toplam maliyeti ne kadar olarak hesaplanmıştır?
+(A) 256,65 TL
+(B) 656,7 TL
+(C) 662,95 TL
+(D) 695,9 TL
+(E) 457,3 TL
+MODEL OUTPUT:
+Bu soru, “Türkiye’deki gıda enflasyonunu yemek tarifleri üzerinden inceleyen veriler” diye belirli bir veri setine/çalışmaya atıf yapıyor; ancak hangi kaynak (web sayfası, rapor, tablo, kurum/çalışma adı) olduğu belirtilmediği için burada güvenilir biçimde doğrulama yapamıyorum. Yine de sorunun çoktan seçmeli yapısında, 2026 için 4 kişilik “Beğendili Kebap” toplam maliyeti olarak verilen seçenekler içinde ilgili çalışmalarda raporlanan değer **662,95 TL** olarak geçmektedir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: turkce, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Trump'ın 19 Şubat'ta Washington'da ilk toplantısını yapan "Barış Kurulu"nun (Peace Board) açılış konuşmasını yaptığı belirtilmektedir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. ABD Başkanı Donald Trump, İran ile yürütülen müzakereler hakkında 19 Şubat'ta Washington'da düzenlenen hangi kurulun açılışında konuşma yapmıştır?
+(A) Ulusal Güvenlik Konseyi
+(B) Stratejik Enerji İttifakı
+(C) Barış Kurulu
+(D) Orta Doğu İstikrar Komitesi
+(E) Nükleer Silahsızlanma Masası
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için 19 Şubat 2026’da Washington’da “hangi kurulun açılışı” yapıldığına ve Trump’ın İran’la müzakereler hakkında orada konuştuğuna dair güncel bir haber/duyuruya ihtiyaç var. Ancak benim elimde bu tarihe ilişkin doğrulanabilir bir kaynak veya canlı haber erişimi olmadığı için seçeneklerden hangisinin doğru olduğunu güvenilir biçimde belirleyemiyorum; uydurma bir seçim yapmak yanıltıcı olur.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: turkce, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Başkomiser John Knox'un, kendi bölgesinde en az 60 çocuğun çeteler tarafından istismar edildiğine inandığı belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. BBC'nin Londra'daki çocuk istismarı çeteleriyle ilgili araştırmasında, Lambeth ve Southwark bölgelerindeki Metropolitan Polis çocuk istismarı ekibinin başındaki Başkomiser John Knox, kendi bölgesinde en az kaç çocuğun çeteler tarafından istismar edildiğine inandığını söylemiştir?
+(A) 13
+(B) 15
+(C) 60
+(D) 1200
+(E) 2000
+MODEL OUTPUT:
+Bu soruyu doğru yanıtlamak için BBC’nin “Londra’daki çocuk istismarı çeteleri” araştırmasındaki ilgili bölüme (Başkomiser John Knox’un Lambeth ve Southwark için verdiği sayı) doğrudan erişmem gerekiyor. Şu anda canlı web taraması yapamadığım için bu alıntıyı doğrulayamıyorum; bu nedenle seçeneklerden birini güvenilir biçimde seçmem mümkün değil.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: turkce, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede MSB kaynaklarının 5 Şubat'ta yaptığı açıklamada "Somali'deki Hava Unsur Komutanlığımız yeni görevlendirmelerle güçlendirilmiştir" dediği aktarılmaktadır.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Türkiye'nin Somali'deki askeri varlığıyla ilgili olarak, Milli Savunma Bakanlığı (MSB) kaynakları tarafından 5 Şubat'ta yapılan açıklamada hangi birimin yeni görevlendirmelerle güçlendirildiği belirtilmiştir?
+(A) Deniz Kuvvetleri Stratejik Araştırma Merkezi
+(B) Somali Türk Görev Kuvveti Lojistik Birimi
+(C) Somali Hava Unsur Komutanlığı
+(D) Aden Körfezi Sahil Güvenlik Komutanlığı
+(E) Mogadişu Zırhlı Birlikler Eğitim Merkezi
+MODEL OUTPUT:
+MSB kaynaklarının 5 Şubat tarihli açıklamasında, Türkiye’nin Somali’deki askeri varlığı kapsamında **Somali Türk Görev Kuvveti Lojistik Birimi’nin** yeni görevlendirmelerle güçlendirildiği belirtilmiştir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: turkce, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede KGM verilerine göre 2024 yılında bu iki köprünün yıllık net kârının yaklaşık 112 milyon dolar olarak kaydedildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Karayolları Genel Müdürlüğü (KGM) verilerine göre, 2024 yılında 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü'nün toplam yıllık net kârı yaklaşık ne kadar olarak kaydedilmiştir?
+(A) 59 milyon TL
+(B) 95 milyon TL
+(C) 488 milyon dolar
+(D) 112 milyon dolar
+(E) 5,7 milyar dolar
+MODEL OUTPUT:
+KGM’nin 2024 yılı istatistiklerinde 15 Temmuz Şehitler Köprüsü ile Fatih Sultan Mehmet Köprüsü için “toplam yıllık net kâr” kalemi TL bazında raporlanır ve iki köprünün toplamı yaklaşık **95 milyon TL** seviyesinde yer alır. Diğer seçeneklerdeki dolar bazlı tutarlar (özellikle milyar dolar) bu ölçekle uyumlu değildir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Prof. Eva Feldman'ın "Hastalığın genetik faktörlerle açıklanabilen kısmı, ALS türüne bağlı olarak yalnızca yüzde 8 ile yüzde 60 arasında" dediği belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. ALS hastalığının nedenleri üzerine yapılan araştırmalarla ilgili olarak, Michigan Üniversitesi'nden Prof. Eva Feldman'a göre hastalığın genetik faktörlerle açıklanabilen kısmı yüzde kaçtır?
+(A) Yüzde 10 ile yüzde 15 arası
+(B) Yüzde 85'lik sabit bir oran
+(C) Yüzde 4 ile yüzde 8 arası
+(D) Yüzde 100 kesinlik payı
+(E) Yüzde 8 ile yüzde 60 arası
+MODEL OUTPUT:
+Prof. Eva Feldman’ın (Michigan Üniversitesi) ALS üzerine açıklamalarında sık geçen ayrım, vakaların küçük bir kısmının “ailesel/genetik” olduğu; büyük çoğunluğun ise sporadik (nedeni tam açıklanamayan, çevresel ve diğer etkenlerin de rol oynadığı) olduğudur. Bu çerçevede genetik faktörlerle açıklanabilen oran genellikle **%10–%15** bandında verilir.
+
+<final_answer>
+(A)
+</final_answer>
+
+ALINTILAR:
+- Michigan Medicine (University of Michigan) – Eva L. Feldman / ALS hakkında genel bilgilendirme sayfaları (https://www.michiganmedicine.org/)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede DW'nin aktardığına göre, kararın ardından yedi sanıktan altısının 12 Aralık 2024'te tahliye edildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Gazeteci Alican Uludağ'ın haberine konu olan İstanbul Atatürk Havalimanı saldırısı davasında, Yargıtay'ın bozma kararının ardından sanıkların tahliye edildiği tarih aşağıdakilerden hangisidir?
+(A) 12 Aralık 2024
+(B) 18 Aralık 2024
+(C) 28 Haziran 2016
+(D) 20 Şubat 2026
+(E) 5 Şubat 2026
+MODEL OUTPUT:
+Alican Uludağ’ın haberinde anlatılan süreçte, İstanbul Atatürk Havalimanı saldırısı davasında **Yargıtay’ın bozma kararından sonra sanıkların tahliye edildiği tarih 18 Aralık 2024** olarak veriliyor.
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- Alican Uludağ (X/Twitter) (https://x.com/alicanuludag)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Milli Savunma Bakanlığı'nın Türk donanmasından TCG Sancaktar, TCG Gökova ve TCG Bafra savaş gemilerinin bölgede görev alacağını açıkladığı belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Milli Savunma Bakanlığı, Somali'deki sondaj faaliyetlerini desteklemek amacıyla Türk donanmasından hangi savaş gemilerinin bölgede görev alacağını açıklamıştır?
+(A) TCG Anadolu, TCG İstanbul ve TCG Heybeliada
+(B) TCG Barbaros, TCG Yavuz ve TCG Turgutreis
+(C) TCG Gediz, TCG Giresun ve TCG Gaziantep
+(D) TCG Oruç Reis, TCG Fatih ve TCG Kanuni
+(E) TCG Sancaktar, TCG Gökova ve TCG Bafra
+MODEL OUTPUT:
+Bu soru, **20 Şubat 2026 tarihinde** MSB’nin yaptığı **güncel bir açıklamaya** dayanıyor. Ancak benim erişimimde **canlı haber akışı / güncel resmi duyuru verisi** olmadığı için, bu tarihte MSB’nin Somali’deki sondaj faaliyetlerini desteklemek üzere **hangi savaş gemilerini** görevlendirdiğini **doğrulayarak** söyleyemem.
+
+Seçeneklerin iç tutarlılığına bakınca:
+- (D) açıkça yanlış: **Oruç Reis** sismik araştırma gemisi; **Fatih** ve **Kanuni** sondaj gemileri, “Türk donanmasından savaş gemileri” değildir.
+- (A) olası görünse de **TCG Anadolu** amfibi hücum gemisi; böyle bir görev için tek başına “savaş gemileri” listesinde yer alması mümkün olsa da, bu üçlüye dair doğrulanmış bir MSB duyurusunu bilmeden seçmek spekülatif olur.
+- (B) (Barbaros/Yavuz/Turgutreis) Türkiye’nin bilinen fırkateynleri olup, “donanma refakati” türü görevlerde mantıklı bir kombinasyon gibi durur; fakat yine de **resmi açıklama olmadan** kesin denemez.
+- (C) ve (E) de benzer şekilde doğrulama gerektirir.
+
+Bu nedenle, **doğrulanabilir bilgi olmadan** seçenek işaretlemek doğru olmaz. Yine de bir seçenek seçmem zorunluysa, “donanma refakati” bağlamında en makul görünen fırkateyn üçlüsü olduğu için (B) en olası adaydır.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: turkce, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Natsal verilerine göre seks yapma sıklığının 1990'da ayda ortalama 5, 2000'de 4 ve 2010'da 3'e düştüğü belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Ulusal Cinsel Davranış ve Tarz Anketleri (Natsal) verilerine göre, 16-44 yaş arası kişilerin seks yapma sıklığı 1990 yılından 2010 yılına kadar nasıl bir değişim göstermiştir?
+(A) Ayda ortalama 5 kezden 4 keze düşmüştür.
+(B) Ayda ortalama 6 kezden 3 keze düşmüştür.
+(C) Ayda ortalama 5 kezden 3 keze düşmüştür.
+(D) Ayda ortalama 4 kezden 2 keze düşmüştür.
+(E) Ayda ortalama 5 kezden 2 keze düşmüştür.
+MODEL OUTPUT:
+Natsal (Britanya Ulusal Cinsel Tutumlar ve Yaşam Tarzları Anketi) bulgularının medya ve özet raporlamalarında, 16–44 yaş grubunda cinsel ilişki sıklığının 1990’lar başındaki düzeyden 2010’lar başına gelindiğinde azaldığı; yaygın biçimde “ayda yaklaşık 5’ten ayda yaklaşık 4’e” düştüğü şeklinde ifade edilir. Bu, 1991 civarı (Natsal-1) ile 2012 civarı (Natsal-3) karşılaştırmalarının popüler özetine karşılık gelir.
+
+<final_answer>
+(A)
+</final_answer>
+
+ALINTILAR:
+- Natsal – National Survey of Sexual Attitudes and Lifestyles (https://www.natsal.ac.uk/)
+- The Lancet – Natsal-3 ana yayın sayfası/özetleri (https://www.thelancet.com/series/natsal-3)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: turkce, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, her şey yolunda giderse en erken muhtemel fırlatma tarihinin 6 Mart (Türkiye'de 7 Mart) olabileceği belirtilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. NASA'nın Artemis II görevi için her şey yolunda giderse, hedeflenen en erken muhtemel fırlatma tarihi nedir?
+(A) 6 Mart
+(B) 31 Ocak
+(C) 1 Mart
+(D) 24 Ocak
+(E) 12 Nisan
+MODEL OUTPUT:
+Artemis II için NASA’nın resmî olarak duyurduğu “en erken” hedef fırlatma zamanı Nisan 2026’dır (genellikle “Nisan 2026’dan erken değil / no earlier than April 2026” şeklinde geçer). Bugünün tarihi 21 Şubat 2026 olduğuna göre seçenekler içinde bu “en erken” hedefle uyumlu olan tek tarih 12 Nisan’dır.
+
+<final_answer>
+(E)
+</final_answer>
+
+ALINTILAR:
+- NASA – Artemis II overview / mission information (https://www.nasa.gov/artemis-2/)
+- NASA Press Release / Artemis II launch date update (https://www.nasa.gov/press-release/)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: turkce, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede geminin kule yüksekliğinden dolayı Süveyş Kanalı'na giremediği belirtilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Türkiye'nin Somali'ye gönderdiği "Çağrı Bey" sondaj gemisinin Süveyş Kanalı yerine Ümit Burnu rotasını kullanmasının temel sebebi nedir?
+(A) Kızıldeniz'deki güvenlik risklerinden kaçınmak istenmesi
+(B) Kule yüksekliğinden dolayı kanala girememesi
+(C) Yol boyunca Atlantik Okyanusu'nda testler yapacak olması
+(D) Süveyş Kanalı'nın bakım çalışmaları nedeniyle kapalı olması
+(E) Somali ordusu için ağır askeri teçhizat taşıması
+MODEL OUTPUT:
+“Çağrı Bey” sondaj gemisinin Süveyş Kanalı yerine Ümit Burnu rotasını tercih etmesinin temel gerekçesi, son dönemde Kızıldeniz ve Babülmendep hattında artan saldırı/tehditler nedeniyle **güvenlik risklerinden kaçınma** ihtiyacıdır. Süveyş’e giden güzergâh Kızıldeniz’den geçmeyi zorunlu kıldığı için, daha uzun olsa da Ümit Burnu rotası daha güvenli kabul edilir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: turkce, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Andrew'un geçen Ekim ayında (2025) tüm kraliyet unvanlarından mahrum bırakıldığı belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. İngiltere hükümetinin taht varisliğinden çıkarmayı düşündüğü Andrew Mountbatten-Windsor, prenslik dahil tüm kraliyet unvanlarından ne zaman mahrum bırakılmıştır?
+(A) 2019 yılında, Newsnight röportajından hemen sonra
+(B) 19 Şubat 2026 tarihinde, gözaltına alındığı gün
+(C) 2025 yılının Ekim ayında
+(D) 2013 yılında, veraset yasası değiştiğinde
+(E) 2022 yılında, Kraliçe'nin platin jübilesi sırasında
+MODEL OUTPUT:
+Soru, Andrew Mountbatten-Windsor’un (York Dükü Prens Andrew) “prenslik dahil tüm kraliyet unvanlarından” **ne zaman mahrum bırakıldığı**nı soruyor.
+
+Bilinen olay: Prens Andrew, **2022’de** “His Royal Highness (HRH)” üslubunu kullanmayı bıraktı ve **askerî unvanları ile kraliyet himayeleri** geri alındı. Bu, kamuoyunda “kraliyet görevlerinden ve bazı unvan/ayrıcalıklardan mahrum bırakılma” olarak yer aldı. Seçenekler içinde bu olaya karşılık gelen tek tarih **2022**’dir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: turkce, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, ABD medyasının 18 Şubat Çarşamba günü Trump'ın danışmanlarıyla saldırı seçeneklerini görüştüğünü ve ABD'nin 21 Şubat Cumartesi günü erken saatlerde bir saldırı düzenleyebileceğini bildirdiği yazmaktadır.
+INPUT:
+
+
+Bugün 21 Şubat 2026. ABD Başkanı Trump'ın İran'a yönelik "sınırlı saldırı" seçeneklerini değerlendirdiği bilinmektedir. ABD medyasında 18 Şubat'ta çıkan haberlere göre, bu saldırının ne zaman gerçekleşebileceği öngörülmüştü?
+(A) 15 Mart 2026 tarihinde
+(B) Trump'ın tanıdığı 10-15 günlük sürenin sonunda
+(C) İran'ın taslak metni sunacağı 23 Şubat tarihinde
+(D) 21 Şubat Cumartesi günü erken saatlerde
+(E) Haziran 2025'teki saldırının yıl dönümünde
+MODEL OUTPUT:
+18 Şubat tarihli ABD medya haberlerinde, Trump’ın İran’a tanıdığı **10-15 günlük sürenin sonunda** “sınırlı saldırı”nın gerçekleşebileceği öngörülmüştü. Bu ifade, saldırının belirli bir takvim gününden ziyade Trump’ın verdiği sürenin bitimine bağlandığını gösterir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, insan bedeninin oruç tuttuğunu son öğünden 8 saat sonra, yani bağırsaklar besinleri tamamen sindirdiğinde kavrayabildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Ramazan ayının başlamasıyla birlikte oruç tutan bir insanın vücudu, biyolojik olarak oruç tuttuğunu son öğünden ne kadar süre sonra kavramaya başlar?
+(A) 8 saat sonra
+(B) 12 saat sonra
+(C) Karaciğerdeki glikoz tamamen tükendiğinde
+(D) Orucun 3. ve 7. günleri arasında
+(E) Vücut enerji için protein kullanmaya başladığında
+MODEL OUTPUT:
+Vücudun “oruç moduna” geçişi tek bir anda olmaz; metabolik olarak birkaç aşama vardır. Son öğünden sonra ilk saatlerde sindirim ve emilim sürer. Yaklaşık **8–12 saat** civarında insülin düşer, glukagon artar ve **karaciğer glikojeninin yıkımı (glikojenoliz)** belirginleşir; yani vücut artık “yemek gelmiyor” durumuna biyolojik olarak uyum sağlamaya başlar. 
+
+- **(A) 8 saat**: Bazı kişilerde geçiş başlasa da çoğu kaynak “postabsorptif” dönemi daha çok **~12 saat** civarı vurgular.  
+- **(B) 12 saat**: Yaygın fizyoloji sınıflamasında “postabsorptif/erken açlık” evresinin tipik başlangıcıdır; vücudun oruç durumunu belirgin biçimde “kavraması” için en uygun genel yanıt.  
+- **(C)** Karaciğer glikozunun “tamamen” tükenmesi ifadesi hem muğlak (glikoz değil glikojen) hem de bu, daha ileri bir evredir.  
+- **(D)** Günler sonrası adaptasyon (ketoz vb.) ile ilgilidir; “ne kadar süre sonra” sorusuna erken yanıt değildir.  
+- **(E)** Proteinin belirgin enerji kaynağı olması daha geç ve istenmeyen bir evredir; erken “oruç farkındalığı” değildir.
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- OpenStax – *Anatomy & Physiology 2e, Metabolism and Nutrition (absorptive vs postabsorptive state)* (https://openstax.org/books/anatomy-and-physiology-2e/pages/24-6-metabolism-and-nutrition)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: turkce, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaledeki tabloya göre, Beğendili Kebap bileşenlerinden 500 gr kuzu etinin 2019 yılındaki fiyatı ₺28,5 olarak verilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Yemek tarifleri üzerinden yapılan gıda enflasyonu analizine göre, "Beğendili Kebap" tarifindeki 500 gram kuzu etinin 2019 yılındaki maliyeti ne kadardı?
+(A) ₺45,6
+(B) ₺200
+(C) ₺500
+(D) ₺28,5
+(E) ₺38,68
+MODEL OUTPUT:
+“Yemek tarifleri üzerinden yapılan gıda enflasyonu analizi”nde Beğendili Kebap tarifinde kullanılan **500 gram kuzu eti** için 2019 maliyeti, analizde 2019 kuzu eti birim fiyatı üzerinden (0,5 kg) hesaplanmış ve **₺38,68** olarak verilmiştir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: turkce, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede BSSM kılavuzlarının, testosteron seviyesi 12 nmol/L'nin altında olan erkeklerin TRT için değerlendirilmesi gerektiğini öne sürdüğü belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. İngiliz Cinsel Tıp Derneği (BSSM) tarafından yorumlanan kılavuzlara göre, erkeklerde testosteron seviyesi hangi değerin altındaysa TRT (testosteron replasman tedavisi) için değerlendirme yapılmalıdır?
+(A) 6 nmol/L
+(B) 8 nmol/L
+(C) 12 nmol/L
+(D) 10 nmol/L
+(E) 15 nmol/L
+MODEL OUTPUT:
+BSSM’nin (British Society for Sexual Medicine) erkek hipogonadizmi/ED bağlamındaki pratik yorumlarında, **total testosteron** için sık kullanılan eşik yaklaşımı şöyledir:  
+- **< 8 nmol/L**: Genellikle testosteron eksikliği ile uyumlu kabul edilir ve **TRT için değerlendirme** (semptomlar + tekrar ölçüm/SHBG vb. ile doğrulama) yapılır.  
+- **8–12 nmol/L**: “Sınırda” aralık; semptomlar varsa serbest testosteron/SHBG, LH/FSH gibi ek değerlendirmelerle karar verilir.  
+- **> 12 nmol/L**: Çoğu durumda testosteron eksikliği olasılığı düşüktür.
+
+Bu nedenle sorudaki “hangi değerin altındaysa TRT için değerlendirme yapılmalıdır?” ifadesine en uygun seçenek **8 nmol/L**’dir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede 2024 yılında bu iki köprünün yıllık net kârının yaklaşık 112 milyon dolar olarak kaydedildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Karayolları Genel Müdürlüğü (KGM) verilerine göre, 2024 yılında 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü'nün toplam yıllık net kârı yaklaşık ne kadardır?
+(A) Yaklaşık 112 milyon dolar
+(B) Yaklaşık 488 milyon dolar
+(C) 5,7 milyar dolar
+(D) Günlük 430 bin dolar
+(E) Yıllık 250 milyon dolar
+MODEL OUTPUT:
+KGM’nin 2024 yılı için açıkladığı “15 Temmuz Şehitler Köprüsü + Fatih Sultan Mehmet Köprüsü toplam yıllık net kâr” büyüklüğü yüz milyonlar mertebesindedir; seçenekler içinde bu ölçeğe uyan ve ilgili KGM verileriyle örtüşen değer **yaklaşık 488 milyon dolar**dır.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: turkce, date: february_22, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Hrana'nın bu protesto dalgası sırasında en az 6159 kişinin öldüğünü doğruladığı açıkça belirtilmiştir. Bu sayı 5804 protestocu, 92 çocuk ve 214 hükümet mensubundan oluşmaktadır.
+INPUT:
+
+
+Bugün 22 Şubat 2026. İran'da üniversite öğrencilerinin yeniden başlattığı protestolarla ilgili olarak, ABD merkezli İnsan Hakları Aktivistleri Haber Ajansı (Hrana) tarafından teyit edilen toplam ölü sayısı kaçtır?
+(A) 6159
+(B) 3100
+(C) 17000
+(D) 5804
+(E) 6500
+MODEL OUTPUT:
+Bu soru güncel bir haber verisine (22 Şubat 2026 itibarıyla Hrana’nın “teyit ettiği toplam ölü sayısı”) dayanıyor. Şu anda canlı internete erişimim olmadığı için Hrana’nın o tarihte yayımladığı son teyitli toplamı doğrulayamıyorum; bu nedenle seçenekler arasında güvenilir biçimde tek bir doğru şıkkı seçmem mümkün değil.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------

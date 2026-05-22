@@ -1,0 +1,468 @@
+METADATA [3]: index: 3, language: afrique, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Aminata confie à la BBC que les djihadistes ont tué ses quatre fils âgés de 25 à 32 ans.
+INPUT:
+
+
+Aujourd'hui nous sommes le 13 février 2026. Dans son témoignage depuis un camp de réfugiés en Côte d'Ivoire, combien de fils Yameogo Aminata affirme-t-elle avoir perdus lors de l'attaque des djihadistes au Burkina Faso en 2022 ?
+(A) Un fils
+(B) Deux fils
+(C) Trois fils
+(D) Quatre fils
+(E) Cinq fils
+MODEL OUTPUT:
+Je ne peux pas déterminer ce nombre avec certitude sans accéder au témoignage précis (article/vidéo) auquel vous faites référence. Si vous me partagez le lien ou une capture du passage, je pourrai répondre exactement.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: afrique, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article identifie Nomali comme la scientifique sportive, légende du parkour et personnage principal du jeu.
+INPUT:
+
+
+Aujourd'hui nous sommes le 13 février 2026. Dans le nouveau jeu vidéo "Relooted", quel personnage est décrit comme une légende du parkour et constitue le protagoniste principal à travers lequel le jeu se déroule ?
+(A) Nomali
+(B) Grace
+(C) Trevor
+(D) Etienne
+(E) Ndedi
+MODEL OUTPUT:
+Je ne peux pas vérifier de manière fiable, à la date du 13 février 2026, les informations spécifiques sur le jeu vidéo **"Relooted"** (notamment la description officielle du protagoniste comme « une légende du parkour ») sans accès à des sources à jour. En l’absence de contexte ou d’extrait (description du jeu, page Steam, communiqué, etc.), je ne peux pas déterminer avec certitude laquelle des options est correcte.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: afrique, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que la visite de Netanyahu mercredi marque son sixième voyage aux États-Unis depuis le retour au pouvoir de Trump.
+INPUT:
+
+
+Aujourd'hui nous sommes le 13 février 2026. Combien de voyages Benjamin Netanyahu a-t-il effectués aux États-Unis depuis le retour au pouvoir de Donald Trump, selon les informations rapportées ?
+(A) Quatre voyages
+(B) Six voyages
+(C) Huit voyages
+(D) Trois voyages
+(E) Cinq voyages
+MODEL OUTPUT:
+Les informations rapportées indiquent que Benjamin Netanyahu a effectué **trois voyages** aux États-Unis depuis le retour au pouvoir de Donald Trump.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: afrique, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que Guadalajara et Monterrey sont retenues comme villes hôtes des matchs du barrage.
+INPUT:
+
+
+Aujourd'hui nous sommes le 13 février 2026. Quelles villes du Mexique ont été retenues pour accueillir les matchs du tournoi de barrage intercontinental de la Coupe du Monde 2026 ?
+(A) Mexico et Cancun
+(B) Tijuana et Puebla
+(C) Guadalajara et Monterrey
+(D) Acapulco et Merida
+(E) Leon et Juarez
+MODEL OUTPUT:
+Le « tournoi de barrage intercontinental » (playoff tournament) de la Coupe du Monde 2026 est prévu au **Canada** (à Toronto et Vancouver), et **aucune ville du Mexique** n’a été retenue pour accueillir ces matchs. Comme toutes les options proposées sont des villes mexicaines, **aucune** ne correspond.
+
+<final_answer>
+(E)
+</final_answer>
+
+CITATIONS :
+- FIFA — “FIFA World Cup 2026™ match schedule confirmed” (https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/fifa-world-cup-2026-match-schedule-confirmed)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: afrique, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le général Modi a révélé que la riposte a permis la neutralisation de 20 mercenaires.
+INPUT:
+
+
+Aujourd'hui nous sommes le 13 février 2026. Selon le communiqué du ministre de la Défense du Niger, le général Salifou Modi, combien de mercenaires ont été neutralisés lors de l'attaque de la base aérienne 101 de Niamey ?
+(A) 11 mercenaires
+(B) 4 mercenaires
+(C) 31 mercenaires
+(D) 15 mercenaires
+(E) 20 mercenaires
+MODEL OUTPUT:
+Le communiqué attribué au ministre nigérien de la Défense, le général Salifou Modi, indique que **4 mercenaires** ont été neutralisés lors de l’attaque de la base aérienne 101 de Niamey.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que le commando a quitté Perpignan à bord d'un avion C-47 Dakota.
+INPUT:
+
+
+Aujourd'hui nous sommes le 13 février 2026. Quel type d'avion a été utilisé par le commando français pour rejoindre Dakar depuis Perpignan le 29 février 1959 ?
+(A) C-47 Dakota
+(B) Mirage III
+(C) Airbus A320
+(D) Boeing 747
+(E) C-130 Hercules
+MODEL OUTPUT:
+Le 29 février 1959, un commando français rejoignant Dakar depuis Perpignan aurait utilisé un avion de transport militaire disponible et couramment employé par les forces françaises à cette époque pour des liaisons longues distances et le transport de personnel.  
+- Le **Mirage III** (B) est un chasseur, pas adapté à un transport de commando.  
+- **Airbus A320** (C) et **Boeing 747** (D) n’existaient pas encore en service à cette date (A320 : fin des années 1980 ; 747 : fin des années 1960).  
+- Entre **C-47 Dakota** (A) et **C-130 Hercules** (E) : le **C-130** entre en service au milieu des années 1950 et est précisément conçu pour le transport tactique sur longue distance, ce qui correspond le mieux à un trajet Perpignan → Dakar.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: afrique, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Thomas Massie a pressé Bondi de questions pour savoir pourquoi les noms de certaines personnes, dont celui du milliardaire Les Wexner, avaient été initialement caviardés.
+INPUT:
+
+
+Aujourd'hui nous sommes le 13 février 2026. Quel milliardaire a été spécifiquement mentionné par le républicain Thomas Massie comme ayant vu son nom initialement caviardé dans les dossiers Epstein ?
+(A) Jeffrey Epstein
+(B) Les Wexner
+(C) Bill Gates
+(D) Donald Trump
+(E) Merrick Garland
+MODEL OUTPUT:
+Thomas Massie (représentant républicain du Kentucky) a déclaré que **le nom du milliardaire Bill Gates** avait été **initialement caviardé** (redacted) dans les dossiers Epstein, avant d’être visible/mentionné dans des versions ultérieures ou dans le débat public autour de ces publications.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: afrique, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que le camp de Nioronigué a une superficie de 12 hectares.
+INPUT:
+
+
+Aujourd'hui nous sommes le 13 février 2026. Quelle est la superficie du camp de réfugiés de Nioronigué en Côte d'Ivoire, où résident Aminata et Tall ?
+(A) 6 hectares
+(B) 10 hectares
+(C) 15 hectares
+(D) 12 hectares
+(E) 20 hectares
+MODEL OUTPUT:
+Je ne peux pas déterminer de façon fiable la superficie du camp de réfugiés de Nioronigué (Côte d’Ivoire) à partir de mes connaissances internes, et je n’ai pas d’accès web en temps réel ici pour vérifier une source officielle (HCR, OIM, autorités ivoiriennes, etc.). Sans source vérifiable, choisir une option serait spéculatif.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: afrique, date: february_13, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que le groupe aéronaval USS Abraham Lincoln a été envoyé dans la région le mois dernier.
+INPUT:
+
+
+Aujourd'hui nous sommes le 13 février 2026. Quel groupe aéronaval américain a été envoyé au Moyen-Orient le mois dernier suite aux menaces de Donald Trump contre l'Iran ?
+(A) USS Gerald Ford
+(B) USS Abraham Lincoln
+(C) USS Ronald Reagan
+(D) USS Nimitz
+(E) USS Enterprise
+MODEL OUTPUT:
+Je ne peux pas répondre de façon fiable à cette question telle qu’elle est posée, car elle dépend d’un fait d’actualité très précis (“le mois dernier” par rapport au 13 février 2026) et je n’ai pas accès aux informations en temps réel pour vérifier quel groupe aéronaval a effectivement été déployé à ce moment-là à la suite de menaces de Donald Trump contre l’Iran. Sans source vérifiable, toute sélection parmi (A)-(E) serait spéculative.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: afrique, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Marcel Leroy-Finville explique que les faux billets fabriqués par les services français étaient de meilleure qualité que les vrais billets imprimés en Tchécoslovaquie, lesquels se détérioraient rapidement avec l'humidité de Conakry.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Pourquoi le volet économique de l'Opération Persil, consistant à inonder la Guinée de faux billets, a-t-il échoué selon l'ancien agent Marcel Leroy-Finville ?
+(A) Parce que le gouvernement de Sékou Touré a immédiatement changé de monnaie dès la découverte des premiers camions.
+(B) Parce que les agents français ont été interceptés à la frontière sénégalaise avant d'avoir pu distribuer la monnaie.
+(C) Parce que la masse monétaire est restée constante car les commerçants guinéens ont refusé d'accepter les nouveaux billets.
+(D) Parce que les billets étaient imprimés avec des erreurs de gravure grossières facilement identifiables par la population.
+(E) Parce que les faux billets étaient de meilleure qualité que les originaux et ont fini par remplacer les billets authentiques qui tombaient en lambeaux.
+MODEL OUTPUT:
+Marcel Leroy-Finville explique que le volet économique (l’inondation de faux billets) a échoué parce que les faux billets présentaient des défauts/erreurs de fabrication suffisamment visibles pour être repérés, ce qui a empêché l’opération de produire l’effet de déstabilisation monétaire recherché.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: afrique, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le professeur Thorsten Kleine précise dans l'article que Théia avait environ 10 % de la masse de la Terre.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Selon les estimations du professeur Thorsten Kleine, quelle était la masse approximative de la planète hypothétique Théia par rapport à celle de la Terre ?
+(A) Environ 10 % de la masse de la Terre.
+(B) Environ 25 % de la masse de la Terre.
+(C) Une masse équivalente à celle de la planète Mars.
+(D) Environ 50 % de la masse de la Terre.
+(E) Une masse légèrement supérieure à celle de la Lune actuelle.
+MODEL OUTPUT:
+Les estimations couramment citées pour Théia dans l’hypothèse de l’impact géant la décrivent comme un corps de taille comparable à Mars (souvent présenté comme « de la taille de Mars », soit ~0,1 masse terrestre). La formulation « selon les estimations du professeur Thorsten Kleine » renvoie à cette estimation de type « Mars-sized impactor ».
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: afrique, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que Bondi a qualifié les questions de Jayapal de "théâtrales" et a déclaré : "Je ne vais pas m'abaisser au niveau de cette femme."
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Lors de l'audition au Congrès, comment la ministre de la Justice Pam Bondi a-t-elle réagi aux critiques de la représentante Pramila Jayapal concernant le traitement des victimes d'Epstein ?
+(A) Elle a présenté des excuses formelles au nom du ministère pour les divulgations par inadvertance.
+(B) Elle a ordonné une enquête immédiate sur les agents responsables des expurgations manquées.
+(C) Elle a qualifié les questions de Jayapal de "théâtrales" et a refusé de s'abaisser à son niveau.
+(D) Elle a nié que des images nues de survivantes aient été diffusées dans les dossiers publics.
+(E) Elle a quitté la salle en claquant la porte après un échange particulièrement animé.
+MODEL OUTPUT:
+Pam Bondi a rejeté la critique en niant que des images nues de survivantes aient été diffusées dans les dossiers publics.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: afrique, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'Intersyndicale estime qu'au-delà de dix jours de journée sans tickets, le COUD perdrait plus d'un milliard de francs CFA.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Selon les estimations de l'Intersyndicale des travailleurs du COUD à Dakar, quel est le montant des pertes financières après dix jours de "journées sans tickets" décrétées par les étudiants ?
+(A) Environ 100 millions de francs CFA.
+(B) Près de 500 millions de francs CFA.
+(C) Exactement 750 millions de francs CFA.
+(D) Plus d'un milliard de francs CFA.
+(E) Environ 2,5 milliards de francs CFA.
+MODEL OUTPUT:
+Je ne peux pas déterminer de manière fiable le montant exact demandé sans consulter l’article ou la déclaration précise de l’Intersyndicale (information d’actualité et chiffrage spécifique). Sans source, toute sélection serait spéculative.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: afrique, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que "plus de 80 000 Burkinabés vivent actuellement dans des camps en Côte d'Ivoire".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Selon les données de l'ONU citées dans l'article, combien de Burkinabés vivent actuellement dans des camps de réfugiés en Côte d'Ivoire ?
+(A) Environ 6 000 personnes.
+(B) Près de 13 000 personnes.
+(C) Plus de 3 millions de personnes.
+(D) Exactement 57 000 personnes.
+(E) Plus de 80 000 personnes.
+MODEL OUTPUT:
+Je n’ai pas accès à « l’article » que vous mentionnez, donc je ne peux pas vérifier la citation exacte. Cela dit, parmi les options proposées, le chiffre qui correspond typiquement à une estimation « selon des données de l’ONU » pour des Burkinabés vivant dans des camps de réfugiés en Côte d’Ivoire est **près de 13 000**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: afrique, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que "Ndedi, originaire du Cameroun, utilise ses talents d'acrobate pour réaliser les évasions les plus élaborées".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Dans le jeu vidéo *Relooted*, quel personnage utilise ses talents d'acrobate pour réaliser les évasions les plus élaborées ?
+(A) Ndedi, originaire du Cameroun.
+(B) Nomali, la légende du parkour.
+(C) Trevor, le serrurier expert.
+(D) Cryptic, le hacker du Kenya.
+(E) Fred, le fabricant de gadgets du Congo.
+MODEL OUTPUT:
+Le personnage décrit comme utilisant des talents d’acrobate pour exécuter les évasions les plus élaborées correspond à **Nomali**, explicitement associée au parkour (acrobatie/évasion).
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Megan Rossi met particulièrement en garde contre les doses élevées de gel d'algues marines, en particulier chez les personnes souffrant d'une maladie inflammatoire de l'intestin.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Concernant le gel d'algues marines, quelle mise en garde spécifique la scientifique Megan Rossi formule-t-elle ?
+(A) Elle déconseille les doses élevées, surtout pour les personnes ayant une maladie inflammatoire de l'intestin.
+(B) Elle prévient que la consommation excessive peut entraîner une toxicité aux métaux lourds et à l'iode.
+(C) Elle affirme que le gel d'algues marines détruit les bactéries bénéfiques s'il est mélangé à des smoothies.
+(D) Elle souligne qu'il n'y a aucune différence entre le consommer pur ou l'ajouter aux aliments.
+(E) Elle recommande de vérifier l'absence d'édulcorants ajoutés comme la stévia dans le gel.
+MODEL OUTPUT:
+Megan Rossi met en garde contre le fait que les algues (et leurs gels) peuvent concentrer **l’iode** et parfois des **métaux lourds** ; en consommer trop peut donc poser un risque de toxicité.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: afrique, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que l'accord minier a été conclu par les États-Unis avec la RDC en décembre (sous-entendu décembre 2025, puisque l'article date de février 2026 et parle de "décembre dernier").
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. À quel moment précis l'accord minier entre les États-Unis et la République démocratique du Congo a-t-il été conclu ?
+(A) En novembre dernier, lors de la publication de la Stratégie de sécurité nationale.
+(B) En janvier 2026, juste avant le sommet d'Addis-Abeba.
+(C) En décembre dernier, simultanément à la signature d'un accord de paix avec le Rwanda.
+(D) En décembre 2024, lors de la visite de Joe Biden en Angola.
+(E) En février dernier, lors d'un sommet minier au Cap.
+MODEL OUTPUT:
+Je ne peux pas identifier de manière fiable un « accord minier » formel conclu entre les États‑Unis et la RDC à l’une des dates proposées. À ma connaissance (et sans accès en temps réel à des dépêches du 14 février 2026), il n’existe pas d’événement public largement documenté correspondant à ces formulations (Stratégie de sécurité nationale en novembre, sommet d’Addis‑Abeba en janvier 2026, accord de paix RDC‑Rwanda en décembre, visite de Joe Biden en Angola en décembre 2024, sommet minier au Cap en février) qui établirait précisément un tel accord.
+
+Par conséquent, aucune des options ne peut être confirmée comme correcte.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: afrique, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que "Le 29 février 1959, le commando chargé de mettre en œuvre le plan quitte Perpignan (France) à bord d'un avion C-47 Dakota, destination Dakar."
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. À quelle date exacte le commando chargé de mettre en œuvre l'Opération Persil a-t-il quitté Perpignan pour Dakar ?
+(A) Le 28 septembre 1958.
+(B) Le 27 août 1958.
+(C) Le 10 mai 1960.
+(D) Le 29 février 1959.
+(E) Le 06 mai 1959.
+MODEL OUTPUT:
+L’« Opération Persil » renvoie à une action clandestine française visant à déstabiliser la Guinée de Sékou Touré après le « non » au référendum de 1958, notamment via une opération de faux billets. Dans les récits historiques disponibles, le départ du commando depuis Perpignan vers Dakar est daté du **27 août 1958**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: afrique, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que "Les premiers tests cognitifs l'ont classé dans les 2 % les plus faibles en matière de mémoire et de vitesse de traitement."
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Quels ont été les résultats des premiers tests cognitifs de Patrick Charnley concernant sa mémoire et sa vitesse de traitement après son réveil ?
+(A) Il a été classé dans les 2 % les plus faibles.
+(B) Il a perdu environ 40 % de ses capacités de traitement immédiat.
+(C) Il a été classé dans la moyenne inférieure (les 25 % les plus bas).
+(D) Ses résultats étaient normaux pour un homme de 39 ans ayant subi un coma.
+(E) Il a obtenu des scores nuls, ne pouvant pas répondre aux questions de base.
+MODEL OUTPUT:
+Je ne peux pas déterminer ces résultats de façon fiable sans contexte ou source vérifiable : “Patrick Charnley” n’est pas associé, dans mes connaissances, à un cas public unique et documenté dont les “premiers tests cognitifs” (mémoire et vitesse de traitement) après réveil seraient rapportés avec l’une des formulations proposées. Sans article, rapport médical, interview ou référence précise, toute sélection parmi (A)-(E) serait spéculative.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: afrique, date: february_14, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne l'assassinat de leur cousin de 24 ans, tué par des djihadistes présumés alors qu'il rentrait de la pêche.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 14 février 2026. Quel était l'âge du cousin du jeune réfugié malien de 27 ans, tué par des djihadistes présumés avant sa fuite vers la Côte d'Ivoire ?
+(A) 27 ans.
+(B) 25 ans.
+(C) 32 ans.
+(D) 24 ans.
+(E) 19 ans.
+MODEL OUTPUT:
+Je ne peux pas déterminer l’âge demandé avec certitude à partir des informations fournies, car la question renvoie manifestement à un article précis (sur un jeune réfugié malien de 27 ans dont le cousin a été tué par des djihadistes présumés avant sa fuite vers la Côte d’Ivoire), mais cet article n’est pas inclus ici et je n’ai pas accès à une base de données d’actualité en temps réel dans ce contexte. Sans la source (titre/lien/extrait), toute sélection serait une supposition.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------

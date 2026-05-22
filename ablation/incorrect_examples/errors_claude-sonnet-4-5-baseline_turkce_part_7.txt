@@ -1,0 +1,835 @@
+METADATA [23]: index: 23, language: turkce, date: february_19, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Türkiye'nin en kalabalık ili İstanbul'da ilk iftar 19 Şubat'ta 18:49'da yapılacak" bilgisi verilmiştir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Ramazan'ın ilk günü olan bugün, İstanbul'da ilk iftar saat kaçta yapılacaktır?
+(A) 18:35
+(B) 18:20
+(C) 19:00
+(D) 18:49
+(E) 18:55
+MODEL OUTPUT:
+Soruyu analiz edeyim:
+
+**Verilen Bilgiler:**
+- Tarih: 19 Şubat 2026
+- Soru, bu tarihin Ramazan'ın ilk günü olduğunu belirtiyor
+- İstanbul'da iftar vakti soruluyor
+
+**Düşünce Süreci:**
+
+1. **Ramazan 2026 Tarihi Kontrolü:**
+   - 2026 yılında Ramazan ayının ne zaman başlayacağını düşünmeliyim
+   - İslami takvim ay döngüsüne göre belirlenir
+   - 2026 yılında Ramazan'ın tahmini başlangıcı Şubat ayının sonları civarında olmalıdır
+
+2. **19 Şubat 2026 ve Ramazan:**
+   - Hesaplamalara göre, 2026 Ramazan'ının başlangıcı yaklaşık 17-18 Şubat civarında beklenmektedir
+   - Ancak kesin tarih hilal görülmesine bağlıdır
+   - Soru, 19 Şubat'ın Ramazan'ın ilk günü olduğunu varsayıyor
+
+3. **İstanbul İftar Vakti (Şubat Sonu):**
+   - Şubat sonunda İstanbul'da güneş batış saati yaklaşık 18:20-18:30 arasındadır
+   - Her gün yaklaşık 2-3 dakika uzamaktadır
+   - 19 Şubat için iftar vakti (güneş batışı) yaklaşık 18:20-18:25 civarında olmalıdır
+
+4. **Seçeneklere Bakış:**
+   - (A) 18:35 - Biraz geç
+   - (B) 18:20 - Şubat sonu için makul
+   - (C) 19:00 - Çok geç (Mart ortası-sonu vakti)
+   - (D) 18:49 - Geç
+   - (E) 18:55 - Geç
+
+Şubat ayının 19'u için İstanbul'da güneş batış vakti (iftar vakti) en mantıklı seçenek **18:20** civarındadır.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_20, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Bloomberg'in 5 Şubat tarihli haberine göre, sürecin yönetilmesi için küresel danışmanlık şirketi EY (Ernst & Young) yetkilendirilmiş, BTY Construction isimli şirket de danışmanlık yapacaktır.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Türkiye'deki köprü ve otoyolların özelleştirilmesi iddiaları kapsamında, Bloomberg'in haberine göre fizibilite çalışmalarını yönetmek ve danışmanlık yapmak üzere hangi şirketlerin adı geçmektedir?
+(A) McKinsey & Company ve Limak İnşaat
+(B) PwC (PriceWaterhouseCoopers) ve Cengiz Holding
+(C) Deloitte ve Kalyon Grup
+(D) KPMG ve Kolin İnşaat
+(E) EY (Ernst & Young) ve BTY Construction
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için 20 Şubat 2026 tarihinden önce yayınlanmış Bloomberg haberlerinde Türkiye'deki köprü ve otoyolların özelleştirilmesi ile ilgili fizibilite çalışmaları ve danışmanlık hizmeti verecek şirketler hakkında bilgi aramam gerekiyor.
+
+Ancak, önemli bir not: Ben bir yapay zeka modeliyim ve gerçek zamanlı bilgiye veya gelecekteki (2026) haberlere erişimim yoktur. Eğitim verilerim belirli bir tarihe kadar olan bilgileri içerir ve bu tarih 2026'dan öncedir. Dolayısıyla, 2026 yılına ait veya bu tarihe yakın spesifik Bloomberg haberlerine doğrudan erişimim bulunmamaktadır.
+
+Bu tür spesifik, güncel ve kaynak bazlı bir soru için:
+- Gerçek Bloomberg haberlerini kontrol etmek
+- Türkiye'deki resmi açıklamaları incelemek
+- İlgili danışmanlık şirketlerinin duyurularını araştırmak
+
+gerekir.
+
+Verilen seçeneklere baktığımda, bunlar uluslararası tanınmış danışmanlık firmaları (McKinsey, PwC, Deloitte, KPMG, EY) ve Türk inşaat şirketlerinin kombinasyonlarından oluşuyor. Ancak doğru cevabı vermek için spesifik Bloomberg haberine erişmem gerekir ki bu benim kapasitemin dışındadır.
+
+Bu soruyu doğru yanıtlayabilmek için güncel haber kaynaklarına erişim gereklidir ve ben bu bilgiye sahip değilim.
+
+<final_answer>
+Bu soruyu güvenilir şekilde yanıtlayamıyorum çünkü belirtilen tarihteki spesifik Bloomberg haberine erişimim bulunmamaktadır.
+</final_answer>
+
+ALINTILAR:
+Yanıt için spesifik kaynaklara erişim sağlanamadı.
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: turkce, date: february_20, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, gözaltı kararının cinsel suçlarla ilgili olmadığı, eski prensin ticaret elçisiyken Jeffrey Epstein ile "gizli bilgileri paylaştığı" iddiasıyla ilgili bir şikayet üzerine "kamu görevinde suistimal şüphesiyle" gerçekleştiği belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Andrew Mountbatten-Windsor'un (Eski Prens Andrew) gözaltına alınmasıyla ilgili olarak, Thames Valley Polisi tarafından yapılan açıklamada gözaltı gerekçesi ne olarak belirtilmiştir?
+(A) Ticaret elçisiyken gizli bilgileri paylaştığı iddiasıyla kamu görevinde suistimal şüphesi
+(B) Virginia Giuffre'nin otobiyografisinde yer alan yeni cinsel istismar kanıtları
+(C) Çinli bir casus olduğu iddia edilen Yang Tengbo ile yürüttüğü ticari ortaklıklar
+(D) Windsor'daki kraliyet konutundan ayrılma emrine karşı gelerek mülkü terk etmemesi
+(E) Sarah Ferguson'un hayır kurumu Sarah's Trust üzerinden yapılan usulsüz ödemeler
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için 20 Şubat 2026 tarihli bir olay hakkında bilgi isteniyor. Ancak ben bir yapay zeka modeliyim ve bilgi tabanım belirli bir tarihte (2024'ün başlarında) sona ermiştir. 20 Şubat 2026 tarihi, benim bilgi tabanımın ötesinde gelecekte bir tarihtir.
+
+Bu nedenle, Andrew Mountbatten-Windsor'un (Eski Prens Andrew) Thames Valley Polisi tarafından gözaltına alınmasıyla ilgili herhangi bir gerçek bilgiye sahip değilim çünkü bu olay ya:
+1. Henüz gerçekleşmemiştir (gelecekteki bir tarih), veya
+2. Benim eğitim verilerim kesildikten sonra gerçekleşmiştir
+
+Soruda verilen seçeneklere bakıldığında:
+- (A) Kamu görevinde suistimal
+- (B) Virginia Giuffre ile ilgili yeni kanıtlar
+- (C) Yang Tengbo ile ticari ortaklıklar
+- (D) Kraliyet konutunu terk etmeme
+- (E) Sarah's Trust üzerinden usulsüz ödemeler
+
+Bu seçeneklerin hiçbirini doğrulayacak veya reddetecek güncel bilgiye sahip değilim.
+
+**Önemli Not:** Bu soru, benim bilgi tabanımın ötesinde bir tarih içerdiği için, gerçek bir olaya dayalı doğru bir cevap veremem. Eğer bu gerçek bir olay ise, güncel haber kaynaklarına başvurmanız gerekir.
+
+<final_answer>
+Bu soruyu yanıtlayamıyorum çünkü 20 Şubat 2026 tarihi benim bilgi tabanımın ötesindedir.
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: turkce, date: february_20, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede yer alan "Beğendili Kebap" tablosunda 2026 yılı için toplam maliyet 656,7 TL olarak verilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Türkiye'deki gıda enflasyonunu yemek tarifleri üzerinden inceleyen verilere göre, 4 kişilik bir "Beğendili Kebap"ın 2026 yılındaki toplam maliyeti ne kadar olarak hesaplanmıştır?
+(A) 256,65 TL
+(B) 656,7 TL
+(C) 662,95 TL
+(D) 695,9 TL
+(E) 457,3 TL
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için 2026 yılına ait Türkiye'deki gıda enflasyonu ve yemek tarifleri maliyetleri hakkında güncel verilere ihtiyaç vardır.
+
+Soru, 20 Şubat 2026 tarihinde, 4 kişilik Beğendili Kebap tarifinin toplam maliyetini sormaktadır. Bu tür spesifik veriler genellikle:
+- Tüketici dernekleri
+- Gıda enflasyonu takip eden platformlar
+- Haber ajansları ve ekonomi siteleri
+tarafından yayınlanmaktadır.
+
+Beğendili Kebap, geleneksel Türk mutfağının önemli yemeklerinden biridir ve şu malzemeleri içerir:
+- Kuzu eti (kebap için)
+- Patlıcan (beğendi için)
+- Süt, un, tereyağı, kaşar peyniri (beğendi sosu için)
+- Domates, biber (kebap için)
+- Çeşitli baharatlar
+
+Verilen seçeneklere baktığımızda:
+- (A) 256,65 TL - Nispeten düşük
+- (B) 656,7 TL - Orta-yüksek
+- (C) 662,95 TL - Orta-yüksek
+- (D) 695,9 TL - Yüksek
+- (E) 457,3 TL - Orta
+
+2026 yılında Türkiye'deki enflasyon trendleri ve et fiyatlarındaki artışlar göz önüne alındığında, 4 kişilik Beğendili Kebap gibi et ağırlıklı bir yemeğin maliyetinin yüksek olması beklenir.
+
+Gıda enflasyonu takip eden çalışmalarda, özellikle et içeren yemeklerin maliyetlerinin önemli ölçüde arttığı bilinmektedir. 4 kişilik bir porsiyon için yaklaşık 500-700 TL aralığı makul görünmektedir.
+
+Seçenekler arasında en olası değer, orta-yüksek kategorisindeki rakamlar gibi görünmektedir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: turkce, date: february_20, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Trump'ın 19 Şubat'ta Washington'da ilk toplantısını yapan "Barış Kurulu"nun (Peace Board) açılış konuşmasını yaptığı belirtilmektedir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. ABD Başkanı Donald Trump, İran ile yürütülen müzakereler hakkında 19 Şubat'ta Washington'da düzenlenen hangi kurulun açılışında konuşma yapmıştır?
+(A) Ulusal Güvenlik Konseyi
+(B) Stratejik Enerji İttifakı
+(C) Barış Kurulu
+(D) Orta Doğu İstikrar Komitesi
+(E) Nükleer Silahsızlanma Masası
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için 19 Şubat 2026 tarihinde Washington'da düzenlenen ve Başkan Trump'ın İran müzakereleri hakkında konuşma yaptığı kurulun hangisi olduğunu belirlememem gerekiyor.
+
+Ancak, bu soruyu yanıtlarken önemli bir kısıtlama ile karşı karşıyayım: Benim bilgi tabanım Nisan 2024'te sona ermektedir ve soru 2026 yılında gerçekleşen bir olay hakkındadır. Bu nedenle, bu gelecekteki olaya dair doğrudan bilgiye sahip değilim.
+
+Soruda belirtilen tarih (19 Şubat 2026) henüz gerçekleşmemiş bir tarihtir ve bu nedenle bu spesifik olayı doğrulayamam veya herhangi bir kaynağa başvuramam.
+
+Bu tür bir soru için, gerçek zamanlı bilgiye veya 2026 yılına ait kaynaklara erişimim olmadığından, doğru bir cevap veremem. Verilen seçenekler arasında:
+
+(A) Ulusal Güvenlik Konseyi - ABD'nin ulusal güvenlik konularını ele alan en üst düzey kurul
+(B) Stratejik Enerji İttifakı
+(C) Barış Kurulu
+(D) Orta Doğu İstikrar Komitesi
+(E) Nükleer Silahsızlanma Masası
+
+İran müzakereleri bağlamında ve tipik ABD hükümet yapıları düşünüldüğünde, Ulusal Güvenlik Konseyi en olası seçenek gibi görünse de, bu gelecekteki bir olay olduğu için kesin bir yanıt veremem.
+
+<final_answer>
+Bu soruyu yanıtlayamıyorum çünkü soru 2026 yılında gerçekleşen bir olay hakkındadır ve benim bilgi tabanım Nisan 2024'te sona ermektedir.
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: turkce, date: february_20, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede MHP Genel Başkan Yardımcısı Feti Yıldız'ın, müstakil yasanın "Nisan ayı öncesinde" meclisten geçebileceğini açıkladığı belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu'nun raporunu tamamlamasının ardından, MHP Genel Başkan Yardımcısı Feti Yıldız'ın açıklamasına göre "müstakil yasa" düzenlemesinin en geç ne zaman meclisten geçmesi beklenmektedir?
+(A) Şubat ayı sonuna kadar
+(B) Mart ayının ilk haftasında
+(C) 2026 yılının sonunda
+(D) Mayıs ayındaki bütçe görüşmelerinden sonra
+(E) Nisan ayı öncesinde
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için verilen bilgileri analiz edeyim:
+
+**Verilen Bilgiler:**
+- Bugünün tarihi: 20 Şubat 2026
+- Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu raporunu tamamlamış
+- MHP Genel Başkan Yardımcısı Feti Yıldız bir açıklama yapmış
+- "Müstakil yasa" düzenlemesinin meclisten geçme zamanlaması sorgulanıyor
+
+**Analiz:**
+
+Soru, MHP Genel Başkan Yardımcısı Feti Yıldız'ın spesifik bir açıklamasına atıfta bulunuyor. Bu açıklamada komisyon raporunun tamamlanmasının ardından müstakil yasa düzenlemesinin "en geç" ne zaman meclisten geçeceği belirtilmiş.
+
+Tarih 20 Şubat 2026 olduğuna göre ve komisyon raporunu tamamlamış durumda:
+
+- **(A) Şubat ayı sonuna kadar**: Sadece 8-10 gün kalmış, çok kısa bir süre
+- **(B) Mart ayının ilk haftasında**: Komisyon sonrası makul bir süre
+- **(C) 2026 yılının sonunda**: Çok uzun bir süre, "en geç" ifadesiyle uyumsuz
+- **(D) Mayıs ayındaki bütçe görüşmelerinden sonra**: Oldukça uzak bir tarih
+- **(E) Nisan ayı öncesinde**: Mart ayı sonuna kadar anlamına gelir, makul bir süre
+
+Komisyon raporunun tamamlanmasının hemen ardından yasalaşma sürecinin başlaması ve "en geç" ifadesi göz önüne alındığında, en mantıklı seçenek komisyon sonrası yakın bir tarih olan Mart ayının ilk haftası görünmektedir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: turkce, date: february_20, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede MSB kaynaklarının 5 Şubat'ta yaptığı açıklamada "Somali'deki Hava Unsur Komutanlığımız yeni görevlendirmelerle güçlendirilmiştir" dediği aktarılmaktadır.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Türkiye'nin Somali'deki askeri varlığıyla ilgili olarak, Milli Savunma Bakanlığı (MSB) kaynakları tarafından 5 Şubat'ta yapılan açıklamada hangi birimin yeni görevlendirmelerle güçlendirildiği belirtilmiştir?
+(A) Deniz Kuvvetleri Stratejik Araştırma Merkezi
+(B) Somali Türk Görev Kuvveti Lojistik Birimi
+(C) Somali Hava Unsur Komutanlığı
+(D) Aden Körfezi Sahil Güvenlik Komutanlığı
+(E) Mogadişu Zırhlı Birlikler Eğitim Merkezi
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için verilen bilgileri analiz edeyim:
+
+**Verilen Bilgiler:**
+- Bugünün tarihi: 20 Şubat 2026
+- Açıklama tarihi: 5 Şubat (2026)
+- Açıklamayı yapan: Milli Savunma Bakanlığı (MSB) kaynakları
+- Konu: Türkiye'nin Somali'deki askeri varlığı
+- Soru: Hangi birimin yeni görevlendirmelerle güçlendirildiği
+
+**Değerlendirme:**
+
+Bu soru, gelecek tarihli (2026) varsayımsal bir senaryo içermektedir. Şu anda 2024 yılındayız ve 2026 yılında yapılacak açıklamalar hakkında gerçek bilgiye sahip değilim.
+
+Ancak, Türkiye'nin Somali'deki mevcut askeri varlığı hakkında bilinen gerçekler:
+- Türkiye, Somali'de TURKSOM (Türk Somali Görev Kuvveti) adında bir askeri eğitim ve danışmanlık misyonu yürütmektedir
+- Bu misyon kapsamında Somali ordusunun eğitimi yapılmaktadır
+- Mogadişu'da bir askeri üs bulunmaktadır
+
+Verilen seçenekler arasında:
+- (B) "Somali Türk Görev Kuvveti Lojistik Birimi" - TURKSOM yapılanmasıyla uyumlu görünüyor
+- Diğer seçenekler daha spesifik ve özel birimler
+
+Gelecek tarihli varsayımsal bir soru olduğu için ve Türkiye'nin Somali'deki mevcut yapılanması göz önüne alındığında, en mantıklı seçenek görev kuvvetinin lojistik birimi gibi görünmektedir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: turkce, date: february_20, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede KGM verilerine göre 2024 yılında bu iki köprünün yıllık net kârının yaklaşık 112 milyon dolar olarak kaydedildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Karayolları Genel Müdürlüğü (KGM) verilerine göre, 2024 yılında 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü'nün toplam yıllık net kârı yaklaşık ne kadar olarak kaydedilmiştir?
+(A) 59 milyon TL
+(B) 95 milyon TL
+(C) 488 milyon dolar
+(D) 112 milyon dolar
+(E) 5,7 milyar dolar
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için 2024 yılına ait Karayolları Genel Müdürlüğü verilerini değerlendirmem gerekiyor.
+
+Öncelikle sorunun bağlamını analiz edelim:
+- 15 Temmuz Şehitler Köprüsü (eski adıyla Boğaziçi Köprüsü)
+- Fatih Sultan Mehmet Köprüsü
+- Bu iki köprünün 2024 yılı toplam yıllık net kârı sorulmaktadır
+
+Seçeneklere baktığımızda:
+- (A) ve (B) TL cinsinden düşük rakamlar
+- (C), (D) ve (E) dolar cinsinden rakamlar
+
+İstanbul Boğazı'ndaki bu iki köprü, geçiş ücretlerinden önemli gelir elde etmektedir. Ancak bu köprüler devlet tarafından işletilmekte ve elde edilen gelirler KGM'ye aittir.
+
+2024 yılı verilerine göre, bu köprülerin işletme gelirleri oldukça yüksektir. Günlük yüzbinlerce aracın geçişi ve geçiş ücretleri düşünüldüğünde:
+
+- (A) 59 milyon TL - Çok düşük görünüyor (yaklaşık 2-3 milyon dolar seviyesi)
+- (B) 95 milyon TL - Yine çok düşük
+- (C) 488 milyon dolar - Makul bir net kâr rakamı
+- (D) 112 milyon dolar - Olası ama düşük
+- (E) 5,7 milyar dolar - Net kâr için çok yüksek, bu gelir rakamı olabilir
+
+İki büyük köprünün yıllık net kârı için en mantıklı seçenek, işletme giderleri düşüldükten sonra kalan tutar olarak **(C) 488 milyon dolar** görünmektedir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_20, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Prof. Eva Feldman'ın "Hastalığın genetik faktörlerle açıklanabilen kısmı, ALS türüne bağlı olarak yalnızca yüzde 8 ile yüzde 60 arasında" dediği belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. ALS hastalığının nedenleri üzerine yapılan araştırmalarla ilgili olarak, Michigan Üniversitesi'nden Prof. Eva Feldman'a göre hastalığın genetik faktörlerle açıklanabilen kısmı yüzde kaçtır?
+(A) Yüzde 10 ile yüzde 15 arası
+(B) Yüzde 85'lik sabit bir oran
+(C) Yüzde 4 ile yüzde 8 arası
+(D) Yüzde 100 kesinlik payı
+(E) Yüzde 8 ile yüzde 60 arası
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için Prof. Eva Feldman'ın ALS hastalığının genetik faktörlerle açıklanabilen kısmı hakkındaki açıklamalarını bulmam gerekiyor.
+
+ALS (Amyotrofik Lateral Skleroz) hastalığı üzerine yapılan araştırmalarda, vakaların büyük çoğunluğunun sporadik (rastgele ortaya çıkan) olduğu, küçük bir kısmının ise genetik faktörlerle açıklanabildiği bilinmektedir.
+
+Prof. Eva Feldman, Michigan Üniversitesi'nde ALS araştırmaları konusunda tanınmış bir nörologdur. Literatürde ve bilimsel kaynaklarda, ALS vakalarının genetik faktörlerle açıklanabilen kısmının genel olarak %5-10 civarında olduğu belirtilmektedir, ancak bazı çalışmalarda bu oran %10-15'e kadar çıkabilmektedir.
+
+Verilen seçeneklere baktığımızda:
+- (A) Yüzde 10 ile yüzde 15 arası - Bu, literatürde sıklıkla bahsedilen ailesel ALS oranıyla uyumludur
+- (B) Yüzde 85'lik sabit bir oran - Bu çok yüksek ve gerçekçi değil
+- (C) Yüzde 4 ile yüzde 8 arası - Bu biraz düşük
+- (D) Yüzde 100 kesinlik payı - Bu imkansız
+- (E) Yüzde 8 ile yüzde 60 arası - Bu aralık çok geniş ve üst sınır çok yüksek
+
+ALS vakalarının yaklaşık %10-15'inin ailesel (genetik) olduğu, geri kalan %85-90'ının ise sporadik olduğu genel kabul görmektedir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_20, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede DW'nin aktardığına göre, kararın ardından yedi sanıktan altısının 12 Aralık 2024'te tahliye edildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Gazeteci Alican Uludağ'ın haberine konu olan İstanbul Atatürk Havalimanı saldırısı davasında, Yargıtay'ın bozma kararının ardından sanıkların tahliye edildiği tarih aşağıdakilerden hangisidir?
+(A) 12 Aralık 2024
+(B) 18 Aralık 2024
+(C) 28 Haziran 2016
+(D) 20 Şubat 2026
+(E) 5 Şubat 2026
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için İstanbul Atatürk Havalimanı saldırısı davası ve Yargıtay'ın bozma kararı sonrası tahliyeler hakkında bilgi sahibi olmam gerekiyor.
+
+İstanbul Atatürk Havalimanı saldırısı 28 Haziran 2016 tarihinde gerçekleşmiş bir terör saldırısıdır. Bu saldırıda çok sayıda kişi hayatını kaybetmiş ve yaralanmıştır.
+
+Dava süreci uzun yıllar devam etmiş ve sanıklar hakkında ağır cezalar verilmiştir. Ancak Yargıtay, yerel mahkemenin kararını bozmuştur.
+
+Gazeteci Alican Uludağ'ın haberine konu olan ve Yargıtay'ın bozma kararının ardından gerçekleşen tahliyeler konusunda:
+
+Yargıtay'ın bozma kararı sonrasında, İstanbul Ağır Ceza Mahkemesi'nde yapılan duruşmada sanıkların tahliye edildiği tarih sorulmaktadır.
+
+Bu tür önemli terör davalarında Yargıtay bozma kararları sonrası yapılan duruşmalarda tahliye kararları verildiğinde bu büyük yankı uyandırmaktadır. 
+
+Verilen seçeneklere baktığımızda:
+- (C) 28 Haziran 2016 - Saldırının gerçekleştiği tarih
+- (D) 20 Şubat 2026 - Sorunun sorulduğu "bugün"
+- Diğer tarihler 2024 ve 2026 yıllarından
+
+Yargıtay bozma kararı sonrası tahliye kararının 2024 yılı sonunda, özellikle 18 Aralık 2024 tarihinde verildiği bilgisi öne çıkmaktadır.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: turkce, date: february_20, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede ABD medyasının 18 Şubat Çarşamba günü Trump'ın saldırı seçeneklerini görüştüğünü ve ABD'nin 21 Şubat Cumartesi günü erken saatlerde bir saldırı düzenleyebileceğini bildirdiği yer almaktadır.
+INPUT:
+
+
+Bugün 20 Şubat 2026. ABD Başkanı Donald Trump'ın İran'a yönelik "10 gün içinde ne olacağını göreceksiniz" uyarısı, ABD medyasında yer alan hangi olası tarihle ilişkilendirilmektedir?
+(A) 19 Şubat Perşembe
+(B) 17 Şubat Salı
+(C) 6 Şubat Cuma
+(D) 21 Şubat Cumartesi
+(E) Mart ortası
+MODEL OUTPUT:
+Soruyu analiz edeyim:
+
+Bugün 20 Şubat 2026 olarak verilimiş. Donald Trump'ın İran'a yönelik "10 gün içinde ne olacağını göreceksiniz" şeklinde bir uyarı yaptığı belirtiliyor ve bu uyarının ABD medyasında hangi tarihle ilişkilendirildiği soruluyor.
+
+Mantıksal yaklaşım:
+- Eğer Trump "10 gün içinde" diyorsa, bu açıklamayı yaptığı tarihten 10 gün sonrasını kastediyor olmalı
+- Bugün 20 Şubat 2026 ise ve bu tarih önemli bir referans noktası olarak verilmişse, Trump'ın açıklamasını muhtemelen bundan yaklaşık 10 gün önce yapmış olması gerekir
+- 20 Şubat'tan 10 gün geriye gidersek: 10 Şubat civarına ulaşırız
+
+Ancak seçeneklere bakıldığında:
+- (A) 19 Şubat Perşembe - Bugüne çok yakın (1 gün önce)
+- (B) 17 Şubat Salı - 3 gün önce
+- (C) 6 Şubat Cuma - 14 gün önce
+- (D) 21 Şubat Cumartesi - Yarın (gelecek)
+- (E) Mart ortası - Gelecek
+
+Eğer Trump açıklamayı 10 Şubat civarında yaptıysa, "10 gün içinde" dediği tarih 20 Şubat civarına denk gelir. Seçeneklerde 10 Şubat yok ama mantıksal olarak en yakın ve anlamlı seçenek, açıklamanın yapıldığı tarih olarak sorulan şey olabilir.
+
+Alternatif yorum: Soru, Trump'ın uyarısının medyada hangi "olası tarih" ile ilişkilendirildiğini soruyor. Bu, gelecekte bir şeyin olacağı tahmin edilen tarihi kastediyor olabilir. 20 Şubat'tan 10 gün sonrası yaklaşık 2 Mart olur, bu da "Mart ortası"na yaklaşabilir, ancak tam değil.
+
+En mantıklı seçenek, Trump'ın bu açıklamayı yaptığı tarihin sorulduğu ve bunun da 10 Şubat civarında olması gerektiği düşünülürse, seçenekler arasında buna en yakın olan **6 Şubat Cuma** olabilir (4 gün fark var ama en yakın seçenek bu).
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_20, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Milli Savunma Bakanlığı'nın Türk donanmasından TCG Sancaktar, TCG Gökova ve TCG Bafra savaş gemilerinin bölgede görev alacağını açıkladığı belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Milli Savunma Bakanlığı, Somali'deki sondaj faaliyetlerini desteklemek amacıyla Türk donanmasından hangi savaş gemilerinin bölgede görev alacağını açıklamıştır?
+(A) TCG Anadolu, TCG İstanbul ve TCG Heybeliada
+(B) TCG Barbaros, TCG Yavuz ve TCG Turgutreis
+(C) TCG Gediz, TCG Giresun ve TCG Gaziantep
+(D) TCG Oruç Reis, TCG Fatih ve TCG Kanuni
+(E) TCG Sancaktar, TCG Gökova ve TCG Bafra
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için öncelikle bazı önemli noktaları değerlendirmem gerekiyor:
+
+**Tarih Analizi:**
+Soru 20 Şubat 2026 tarihli bir gelişmeyi soruyor. Bu, benim bilgi kesim tarihimden (Nisan 2024) sonraki bir tarih. Dolayısıyla bu gelecekteki bir olay hakkında soru soruluyor ve ben bu bilgiye sahip olamam.
+
+**Seçeneklerin Analizi:**
+
+(A) TCG Anadolu (amfibi hücum gemisi), TCG İstanbul (fırkateyn), TCG Heybeliada (korvet)
+
+(B) TCG Barbaros, TCG Yavuz, TCG Turgutreis - Bunlar genellikle fırkateynler
+
+(C) TCG Gediz, TCG Giresun, TCG Gaziantep - Fırkateyn ve korvetler
+
+(D) TCG Oruç Reis, TCG Fatih, TCG Kanuni - Bunlar sismik araştırma gemileri (sondaj gemileri değil, ancak enerji araştırmalarında kullanılır)
+
+(E) TCG Sancaktar, TCG Gökova, TCG Bafra - Mayın avlama gemileri
+
+**Bağlam Değerlendirmesi:**
+Soru "Somali'deki sondaj faaliyetlerini desteklemek" ifadesini kullanıyor. Türkiye'nin Somali ile yakın ilişkileri ve bölgedeki varlığı biliniyor. Sondaj faaliyetlerini desteklemek için genellikle:
+- Güvenlik sağlayacak savaş gemileri
+- Bölgede caydırıcılık oluşturacak deniz varlığı gerekir
+
+**Mantıksal Çıkarım:**
+Gelecekteki bir olayı bilemesem de, sondaj faaliyetlerini desteklemek için deniz güvenliği sağlayabilecek, çeşitli yeteneklere sahip gemiler mantıklı olurdu. Seçenek (A), bir amfibi hücum gemisi, modern fırkateyn ve korvet kombinasyonu sunarak güçlü bir görev gücü oluşturur.
+
+Ancak bu, 2026'da gerçekleşecek bir olay hakkında spekülasyon olacaktır.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: turkce, date: february_21, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, her şey yolunda giderse en erken muhtemel fırlatma tarihinin 6 Mart (Türkiye'de 7 Mart) olabileceği belirtilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. NASA'nın Artemis II görevi için her şey yolunda giderse, hedeflenen en erken muhtemel fırlatma tarihi nedir?
+(A) 6 Mart
+(B) 31 Ocak
+(C) 1 Mart
+(D) 24 Ocak
+(E) 12 Nisan
+MODEL OUTPUT:
+Artemis II görevi için fırlatma tarihini belirlemek için güncel bilgilere bakmam gerekiyor.
+
+Artemis II, NASA'nın Ay çevresine mürettebatlı ilk görevi olacak ve Artemis programının ikinci büyük misyonudur. 
+
+Soruya göre bugün 21 Şubat 2026 ve "her şey yolunda giderse, hedeflenen en erken muhtemel fırlatma tarihi" soruluyor.
+
+NASA'nın resmi planlamalarına göre:
+- Artemis I (mürettebatsız test uçuşu) Kasım 2022'de başarıyla tamamlandı
+- Artemis II başlangıçta 2024 için planlanmıştı ancak çeşitli teknik nedenlerle ertelendi
+- 2024-2025 döneminde yapılan açıklamalarda, Artemis II'nin fırlatma tarihi Eylül 2025'e, ardından Nisan 2026'ya ertelendi
+
+NASA'nın en güncel planlamalarına göre (2025 başı itibariyle yapılan açıklamalar), Artemis II misyonunun fırlatma penceresi Nisan 2026 civarında belirlenmişti. Ancak soru 21 Şubat 2026'dan bahsediyor ve bu tarihte hala fırlatma olmamışsa, verilen seçenekler arasında:
+
+- 24 Ocak ve 31 Ocak tarihleri 21 Şubat 2026'dan önce olduğu için geçersiz
+- Mart ve Nisan tarihleri muhtemel
+
+NASA'nın resmi açıklamalarında Artemis II için Nisan 2026 hedef tarihi belirtilmişti. Ancak "en erken muhtemel" ifadesi ve verilen seçenekler göz önüne alındığında, 12 Nisan en mantıklı seçenek gibi görünüyor.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: turkce, date: february_21, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede geminin kule yüksekliğinden dolayı Süveyş Kanalı'na giremediği belirtilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Türkiye'nin Somali'ye gönderdiği "Çağrı Bey" sondaj gemisinin Süveyş Kanalı yerine Ümit Burnu rotasını kullanmasının temel sebebi nedir?
+(A) Kızıldeniz'deki güvenlik risklerinden kaçınmak istenmesi
+(B) Kule yüksekliğinden dolayı kanala girememesi
+(C) Yol boyunca Atlantik Okyanusu'nda testler yapacak olması
+(D) Süveyş Kanalı'nın bakım çalışmaları nedeniyle kapalı olması
+(E) Somali ordusu için ağır askeri teçhizat taşıması
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için verilen tarih (21 Şubat 2026) ve "Çağrı Bey" sondaj gemisinin Somali'ye gönderilmesi bağlamını değerlendirmem gerekiyor.
+
+**Analiz:**
+
+1. **Tarih bağlamı**: 2024-2025 döneminde Kızıldeniz'de Husi militanlarının gemilere yönelik saldırıları nedeniyle ciddi güvenlik sorunları yaşandı. Birçok gemi Süveyş Kanalı yerine Ümit Burnu rotasını kullanmaya başladı.
+
+2. **Gemi tipi**: "Çağrı Bey" bir sondaj gemisidir - bu tür gemiler petrol/doğalgaz arama faaliyetlerinde kullanılır ve yüksek teknoloji içerir.
+
+3. **Seçeneklerin değerlendirilmesi**:
+   - **(A) Kızıldeniz'deki güvenlik riskleri**: 2024-2025'te Husi saldırıları nedeniyle Kızıldeniz transit geçişleri riskli hale geldi. Değerli bir sondaj gemisi için bu mantıklı bir endişe.
+   
+   - **(B) Kule yüksekliği**: Sondaj gemileri yüksek yapılara sahip olabilir, ancak bu genellikle Süveyş Kanalı geçişini engellemez (kule indirilebilir veya gemi bu geçişler için tasarlanmıştır).
+   
+   - **(C) Atlantik'te testler**: Somali'ye giderken Atlantik Okyanusu'na çıkmak mantıksız bir rota olurdu.
+   
+   - **(D) Kanal bakımı**: Süveyş Kanalı'nın tamamen kapalı olması nadir bir durumdur ve böyle bir durum büyük haber olurdu.
+   
+   - **(E) Askeri teçhizat**: Sondaj gemisi sivil bir gemidir, askeri teçhizat taşıması için uygun değildir.
+
+**Sonuç**: Kızıldeniz'deki Husi saldırıları nedeniyle oluşan güvenlik ortamı, özellikle değerli bir teknoloji gemisi için Ümit Burnu rotasının tercih edilmesinin en mantıklı sebebidir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: turkce, date: february_21, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Andrew'un geçen Ekim ayında (2025) tüm kraliyet unvanlarından mahrum bırakıldığı belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. İngiltere hükümetinin taht varisliğinden çıkarmayı düşündüğü Andrew Mountbatten-Windsor, prenslik dahil tüm kraliyet unvanlarından ne zaman mahrum bırakılmıştır?
+(A) 2019 yılında, Newsnight röportajından hemen sonra
+(B) 19 Şubat 2026 tarihinde, gözaltına alındığı gün
+(C) 2025 yılının Ekim ayında
+(D) 2013 yılında, veraset yasası değiştiğinde
+(E) 2022 yılında, Kraliçe'nin platin jübilesi sırasında
+MODEL OUTPUT:
+Soruyu analiz edeyim:
+
+Soru, Andrew Mountbatten-Windsor'un (York Dükü Prens Andrew) prenslik dahil tüm kraliyet unvanlarından ne zaman mahrum bırakıldığını soruyor.
+
+Bilinen gerçekleri değerlendirelim:
+
+1. **2019 - Newsnight Röportajı**: Prens Andrew, Kasım 2019'da BBC Newsnight'ta Jeffrey Epstein ile ilişkileri hakkında felaket bir röportaj verdi. Bu röportajın ardından kraliyet görevlerinden çekildi, ancak unvanlarını kaybetmedi.
+
+2. **2022 Ocak**: Prens Andrew, Ocak 2022'de Virginia Giuffre'nin cinsel saldırı davasıyla karşı karşıya kaldığında, Kraliçe II. Elizabeth tarafından askeri unvanları ve kraliyet himayelerinden mahrum bırakıldı. Ayrıca "Kraliyet Yüksekliği" (HRH) unvanını kullanamayacağı açıklandı. Ancak teknik olarak "prens" unvanını tamamen kaybetmedi - sadece kullanamaz hale geldi.
+
+3. **2025-2026 olayları**: Soru, 2026 yılında yazılmış gibi kurgulanmış ve "taht varisliğinden çıkarmayı düşündüğü" ifadesi gelecekteki bir eylemi ima ediyor.
+
+Seçeneklere bakıldığında:
+- (A) 2019'da unvanlarını kaybetmedi, sadece görevlerinden çekildi
+- (B) ve (C) 2025-2026 tarihleri kurgulanmış senaryolar gibi görünüyor
+- (D) 2013 veraset yasası değişikliği cinsiyet eşitliğiyle ilgiliydi, Andrew ile değil
+- (E) 2022, gerçek tarihsel olaylarla uyumlu
+
+En doğru cevap **2022 yılı** olmalıdır, çünkü Ocak 2022'de kraliyet unvanları ve HRH statüsünden mahrum bırakıldı.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_21, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, insan bedeninin oruç tuttuğunu son öğünden 8 saat sonra, yani bağırsaklar besinleri tamamen sindirdiğinde kavrayabildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Ramazan ayının başlamasıyla birlikte oruç tutan bir insanın vücudu, biyolojik olarak oruç tuttuğunu son öğünden ne kadar süre sonra kavramaya başlar?
+(A) 8 saat sonra
+(B) 12 saat sonra
+(C) Karaciğerdeki glikoz tamamen tükendiğinde
+(D) Orucun 3. ve 7. günleri arasında
+(E) Vücut enerji için protein kullanmaya başladığında
+MODEL OUTPUT:
+Soruyu analiz edelim:
+
+Soru, vücudun biyolojik olarak "oruç tuttuğunu kavramaya başladığı" zamanı soruyor. Bu, metabolik değişikliklerin başladığı anı ifade ediyor.
+
+**Metabolik Süreç Analizi:**
+
+1. **İlk 4-6 saat (Postprandial dönem):** Son yemekten sonra vücut sindirim halindedir, kan şekeri yüksektir.
+
+2. **6-8 saat sonra:** Sindirim tamamlanır, vücut glikoz homeostazisini sürdürür.
+
+3. **8-12 saat sonra:** Karaciğer glikojen depolarını kullanmaya başlar (glikogenoliz). Bu, vücudun artık dışarıdan besin almadığını "fark ettiği" ve depolara yöneldiği ilk aşamadır.
+
+4. **12-18 saat sonra:** Karaciğer glikojeni önemli ölçüde azalır, glukoneogenez (yağ asitlerinden ve aminoasitlerden glikoz üretimi) başlar.
+
+5. **18-24 saat sonra:** Karaciğer glikojen depoları büyük ölçüde tükenir, vücut ketogeneze (yağ yakımı) geçer.
+
+**Seçeneklerin Değerlendirilmesi:**
+
+- **(A) 8 saat:** Henüz erken, vücut normal gece açlığı gibi davranır.
+
+- **(B) 12 saat:** Glikojen depoları azalmaya başlar ama henüz tam metabolik geçiş olmamıştır.
+
+- **(C) Karaciğerdeki glikoz tamamen tükendiğinde:** Bu, vücudun gerçekten alternatif enerji kaynaklarına (ketoz) geçmek zorunda kaldığı andır. Genellikle 18-24 saat civarında olur ve metabolik olarak "oruç durumu"nun başlangıcı kabul edilir.
+
+- **(D) 3-7. günler arası:** Bu çok geç bir dönem, uzun süreli açlık adaptasyonudur.
+
+- **(E) Protein kullanımı:** Bu, uzun süreli açlıkta son çare olarak başvurulan bir durumdur.
+
+**Sonuç:**
+
+Biyolojik olarak vücudun "oruç tuttuğunu kavraması", normal beslenme metabolizmasından oruç metabolizmasına geçiş anıdır. Bu, karaciğer glikojen depolarının tükenmesi ve ketogenezin başlamasıyla karakterizedir. Bu metabolik geçiş, karaciğerdeki glikoz (glikojen) depolarının tamamen tükenmesiyle gerçekleşir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_21, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede 2024 yılında bu iki köprünün yıllık net kârının yaklaşık 112 milyon dolar olarak kaydedildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Karayolları Genel Müdürlüğü (KGM) verilerine göre, 2024 yılında 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü'nün toplam yıllık net kârı yaklaşık ne kadardır?
+(A) Yaklaşık 112 milyon dolar
+(B) Yaklaşık 488 milyon dolar
+(C) 5,7 milyar dolar
+(D) Günlük 430 bin dolar
+(E) Yıllık 250 milyon dolar
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için 2024 yılına ait Karayolları Genel Müdürlüğü verilerini değerlendirmem gerekiyor.
+
+Soru, 15 Temmuz Şehitler Köprüsü (eski adıyla Boğaziçi Köprüsü) ve Fatih Sultan Mehmet Köprüsü'nün 2024 yılındaki toplam yıllık net kârını soruyor.
+
+Bu köprüler Türkiye'nin önemli gelir kaynakları arasındadır ve geçiş ücretlerinden önemli gelirler elde edilmektedir. Ancak, net kâr hesaplaması için gelirlerden işletme giderleri, bakım-onarım maliyetleri ve diğer operasyonel giderlerin düşülmesi gerekir.
+
+Seçeneklere baktığımda:
+- (A) 112 milyon dolar - nispeten düşük bir rakam
+- (B) 488 milyon dolar - orta-yüksek bir rakam
+- (C) 5,7 milyar dolar - çok yüksek, muhtemelen gelir rakamı olabilir ama net kâr için aşırı yüksek
+- (D) 430 bin dolar günlük - yıllık değil, günlük rakam (yıllığa çevirilirse yaklaşık 157 milyon dolar)
+- (E) 250 milyon dolar
+
+Bu tür altyapı projelerinin net kâr marjları genellikle %10-20 aralığında olur. Eğer toplam gelir birkaç milyar dolar civarındaysa, net kâr birkaç yüz milyon dolar seviyesinde olması beklenir.
+
+2024 yılı verileri göz önüne alındığında ve bu köprülerin yoğun kullanımı düşünüldüğünde, en makul seçenek (B) 488 milyon dolar gibi görünmektedir. Bu rakam, hem köprülerin yüksek gelir potansiyelini hem de işletme maliyetleri düşüldükten sonra kalan net kârı makul bir şekilde yansıtmaktadır.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: turkce, date: february_21, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, hayvanlar üzerinde yapılan deneylerde aşının etkisinin yaklaşık üç ay sürdüğü belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Stanford Üniversitesi'nde geliştirilen "evrensel aşı" burun spreyinin hayvanlar üzerinde yapılan deneylerde koruyucu etkisinin ne kadar sürdüğü tespit edilmiştir?
+(A) Bir ay
+(B) Yaklaşık üç ay
+(C) Altı ay
+(D) Bir yıl
+(E) Bir kış mevsimi boyunca
+MODEL OUTPUT:
+
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_21, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaledeki Hamsili Pilav tablosuna göre, 200 gr kuş üzümünün fiyatı 2019'da ₺4,4 iken 2026'da ₺320 olarak kaydedilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. "Hamsili Pilav" tarifi üzerinden yapılan maliyet analizine göre, hangi malzemenin fiyatı 2019'da ₺4,4 iken 2026'da ₺320'ye yükselmiştir?
+(A) 1 kg hamsi
+(B) 600 gr pirinç
+(C) 200 gr kuş üzümü
+(D) 250 gr yağ
+(E) 300 gr soğan
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için, 2019'dan 2026'ya kadar olan fiyat artışlarını analiz etmem gerekiyor. Soruya göre, bir malzemenin fiyatı 2019'da ₺4,4 iken 2026'da ₺320'ye yükselmiş.
+
+Öncelikle artış oranını hesaplayalım:
+- Artış: ₺320 / ₺4,4 ≈ 72,7 kat artış
+
+Bu oldukça yüksek bir artış oranı. Şimdi hangi malzemenin bu artışı göstermiş olabileceğini düşünelim:
+
+Türkiye'de 2019-2026 döneminde yaşanan yüksek enflasyon göz önüne alındığında:
+
+**(A) 1 kg hamsi**: Hamsi mevsimlik bir balık türüdür ve fiyatı hem mevsime hem de av durumuna göre değişir. Ancak 72 katlık bir artış çok yüksek.
+
+**(B) 600 gr pirinç**: Pirinç temel gıda maddesidir ve fiyatları artsa da genellikle daha kontrollü seyreder.
+
+**(C) 200 gr kuş üzümü**: Kuş üzümü ithal veya yerli olabilir, ancak kuru gıda olarak nispeten stabil fiyatlara sahiptir.
+
+**(D) 250 gr yağ**: Yağ (sıvı yağ veya tereyağı) fiyatları Türkiye'de önemli artışlar göstermiştir. 2019'da 250 gr yağın ₺4,4 olması (1 kg için yaklaşık ₺17,6) ve 2026'da ₺320 olması (1 kg için yaklaşık ₺1.280) mantıklı görünüyor. Özellikle tereyağı ve sıvı yağ fiyatlarındaki dramatik artışlar bilinmektedir.
+
+**(E) 300 gr soğan**: Soğan fiyatları dalgalı olsa da, bu kadar ekstrem bir artış beklenmiyor.
+
+2019-2026 döneminde Türkiye'de en dramatik fiyat artışlarından biri yağ ürünlerinde yaşanmıştır. Yağ fiyatlarının bu dönemde 70-80 kat artması, küresel yağ fiyatları, döviz kuru ve enflasyon göz önüne alındığında en mantıklı seçenektir.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: turkce, date: february_21, model: claude-sonnet-4-5-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede uluslararası ekibin, 13 farklı kedi kanseri türüyle bağlantılı yaklaşık bin tane geni incelediği belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Kedilerde kanser genetiği üzerine yapılan uluslararası çalışmada, 13 farklı kedi kanseri türüyle bağlantılı yaklaşık kaç gen incelenmiştir?
+(A) 500
+(B) 15
+(C) 100
+(D) Yaklaşık 1000
+(E) 135
+MODEL OUTPUT:
+Bu soruyu yanıtlamak için kedilerde kanser genetiği üzerine yapılan uluslararası bir çalışmayı bulmam gerekiyor.
+
+Soru, 13 farklı kedi kanseri türüyle bağlantılı genlerin incelendiği spesifik bir uluslararası çalışmadan bahsediyor. Bu tür bir çalışma, muhtemelen büyük ölçekli bir genomik araştırma olmalıdır.
+
+Kedilerde kanser genetiği araştırmaları düşünüldüğünde:
+- Küçük ölçekli çalışmalar genellikle birkaç düzine gen inceler
+- Orta ölçekli çalışmalar 100-200 gen aralığında olabilir
+- Büyük ölçekli genomik çalışmalar binlerce gen inceleyebilir
+
+Seçeneklere bakıldığında:
+- (A) 500 - Orta-büyük ölçekli bir çalışma için makul
+- (B) 15 - 13 kanser türü için çok az, türbaşına 1 genden bile az
+- (C) 100 - Küçük-orta ölçekli bir çalışma için makul
+- (D) Yaklaşık 1000 - Büyük ölçekli genomik çalışma için makul
+- (E) 135 - Orta ölçekli bir çalışma için makul
+
+13 farklı kedi kanseri türünün incelendiği "uluslararası" bir çalışma vurgusu, bunun kapsamlı bir araştırma olduğunu gösteriyor. Modern genomik çalışmalarda, özellikle birden fazla kanser türünü kapsayan uluslararası işbirlikleri, genellikle geniş gen panelleri veya genom çapında analizler yapar.
+
+Eğer 13 farklı kanser türü inceleniyorsa ve bu uluslararası bir çalışmaysa, her kanser türü için ortalama 10 gen bile olsa 130'a ulaşır. Ancak kanser genetiği çalışmaları genellikle paylaşılan onkogenleri ve tümör baskılayıcı genleri de inceler.
+
+En mantıklı seçenek, uluslararası ve kapsamlı bir çalışma için (E) 135 veya daha büyük ölçekli bir çalışma için (A) 500 veya (D) yaklaşık 1000 olabilir.
+
+135 sayısı, 13 kanser türü göz önüne alındığında (13'ün katlarına yakın olması nedeniyle) özellikle dikkat çekici görünüyor.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------

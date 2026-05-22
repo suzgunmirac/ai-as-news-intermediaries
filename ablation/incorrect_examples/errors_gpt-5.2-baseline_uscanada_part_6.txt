@@ -1,0 +1,468 @@
+METADATA [8]: index: 8, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that O'Neill's goal ended "the US's 352-minute streak without conceding a goal since their opening win over the Czech Republic."
+INPUT:
+
+
+Today is February 20, 2026. The US women's ice hockey team has won Olympic gold in Milan. Before Kristin O'Neill scored for Canada in the second period, how many consecutive minutes had the US team played without conceding a goal?
+(A) 248 minutes
+(B) 280 minutes
+(C) 312 minutes
+(D) 352 minutes
+(E) 402 minutes
+MODEL OUTPUT:
+Kristin O’Neill’s second-period goal ended a long U.S. shutout streak that had been reported as **312 consecutive minutes** without conceding.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article identifies the sisters as "Sekar, 45, of San Francisco, and Clabaugh, 52, of Boise, Idaho."
+INPUT:
+
+
+Today is February 20, 2026. An avalanche near Lake Tahoe has resulted in multiple fatalities, including two sisters. What were the respective ages of the sisters, Caroline Sekar and Liz Clabaugh?
+(A) 38 and 42
+(B) 40 and 45
+(C) 42 and 48
+(D) 44 and 50
+(E) 45 and 52
+MODEL OUTPUT:
+I don’t have access to live news in this chat, and I don’t have enough reliable, up-to-date information in my offline knowledge to confirm the reported ages of Caroline Sekar and Liz Clabaugh from the Feb. 2026 Lake Tahoe avalanche coverage. Given that, I can’t determine the correct option with confidence.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Trump has said he deserves it for ending eight wars since the start of his second term, a claim that is widely disputed."
+INPUT:
+
+
+Today is February 20, 2026. Tensions between the US and Iran are escalating. President Trump has claimed he deserves the Nobel Peace Prize for his foreign policy achievements. How many wars does he claim to have ended since the start of his second term?
+(A) Five wars
+(B) Eight wars
+(C) Ten wars
+(D) Twelve wars
+(E) Fifteen wars
+MODEL OUTPUT:
+President Trump has claimed he has ended **twelve wars** since the start of his second term.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Justin Crump stated the build-up would allow the US to conduct a "fairly intensive and sustained strike rate of about 800 sorties a day."
+INPUT:
+
+
+Today is February 20, 2026. BBC Verify has tracked a significant US military build-up in the Middle East. According to military intelligence expert Justin Crump, what is the estimated daily sortie rate the US could conduct with its current regional assets?
+(A) 400 sorties
+(B) 600 sorties
+(C) 800 sorties
+(D) 1,000 sorties
+(E) 1,200 sorties
+MODEL OUTPUT:
+Justin Crump’s estimate, as cited by BBC Verify in its reporting on the US military build-up in the Middle East, is that the US could generate **around 1,000 sorties per day** with the assets currently in the region.
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS:
+- BBC News (BBC Verify) (https://www.bbc.com/news)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Emergency messages came on Tuesday at 11:30 local time (19:30 GMT) from a group guide's iPhone..."
+INPUT:
+
+
+Today is February 20, 2026. Details have emerged regarding the rescue of skiers trapped in the Lake Tahoe avalanche. At what specific local time were the emergency messages first sent from the group?
+(A) 09:30
+(B) 10:15
+(C) 11:00
+(D) 11:30
+(E) 12:45
+MODEL OUTPUT:
+The reports on the Lake Tahoe avalanche rescue state that the trapped group first sent emergency messages at **11:00 a.m. local time**.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Professor Talbot is quoted saying: "10% of affected people die within the first year, 50% within two-and-a-half years and 90% by five years."
+INPUT:
+
+
+Today is February 20, 2026. Professor Kevin Talbot has provided insights into the progression of ALS following the death of Eric Dane. According to Talbot, what percentage of affected people die within five years of diagnosis?
+(A) 10%
+(B) 30%
+(C) 50%
+(D) 75%
+(E) 90%
+MODEL OUTPUT:
+Professor Kevin Talbot’s statement reflects the commonly cited ALS prognosis that about half of people with ALS die within five years of diagnosis.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Nancy Mace stated: "Today, on his 66th birthday, that call was answered," referring to the arrest.
+INPUT:
+
+
+Today is February 20, 2026. Republican congresswoman Nancy Mace commented on the arrest of Andrew Mountbatten-Windsor in the UK. According to her statement, how old was the former prince on the day of his arrest?
+(A) 66
+(B) 68
+(C) 70
+(D) 72
+(E) 75
+MODEL OUTPUT:
+Nancy Mace’s statement described Andrew Mountbatten-Windsor as **65** on the day of his arrest. Since **65** is not among the provided options, none of (A)–(E) matches.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Nasa's 312-page report comes after the agency commissioned an independent investigation team..."
+INPUT:
+
+
+Today is February 20, 2026. NASA has released a comprehensive report on the failures of the Boeing Starliner mission. How many pages are contained in this final report?
+(A) 156 pages
+(B) 240 pages
+(C) 312 pages
+(D) 405 pages
+(E) 520 pages
+MODEL OUTPUT:
+I don’t have reliable access to NASA’s latest publications in real time, and I don’t have enough information in the prompt to determine the exact page count of a report allegedly released “today” (February 20, 2026). Answering would require checking NASA’s official release directly.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "On Monday, BBC Verify identified the Abraham Lincoln in satellite images... off the coast of Oman, about 700km (430 miles) from Iran."
+INPUT:
+
+
+Today is February 20, 2026. BBC Verify has identified the location of the USS Abraham Lincoln using satellite imagery. On Monday, how far off the coast of Oman was the carrier identified to be?
+(A) 150km
+(B) 240km
+(C) 430km
+(D) 700km
+(E) 950km
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: uscanada, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+According to the article, the new 15% tariffs "will come into force on Tuesday 24 February."
+INPUT:
+
+
+Today is February 21, 2026. US President Donald Trump recently announced a new global tariff of 15% following a Supreme Court ruling. On what specific date are these new tariffs scheduled to come into force?
+(A) Tuesday 24 February
+(B) Friday 20 February
+(C) Saturday 21 February
+(D) Monday 23 February
+(E) Wednesday 25 February
+MODEL OUTPUT:
+The announcement specifies that the new 15% global tariffs are scheduled to take effect on **Monday 23 February**.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: uscanada, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that OpenAI "had identified an account owned by Jesse Van Rootselaar in June 2025 under abuse and enforcement detection."
+INPUT:
+
+
+Today is February 21, 2026. OpenAI recently revealed that it had banned a ChatGPT account owned by Jesse Van Rootselaar, the suspect in the Tumbler Ridge shooting. In what month and year did OpenAI first identify and ban this account?
+(A) February 2026
+(B) September 2025
+(C) June 2025
+(D) January 2025
+(E) July 2025
+MODEL OUTPUT:
+OpenAI’s disclosure said it **first identified and banned** the account in **September 2025**.
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS:
+- CBC News (https://www.cbc.ca/)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: uscanada, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article notes: "However, the Americans have the best defenceman at the Games in Quinn Hughes, who scored the crucial winner against Sweden," and earlier mentions "USA wildly celebrated Quinn Hughes' overtime winner against Sweden in the quarter-final."
+INPUT:
+
+
+Today is February 21, 2026. The USA and Canada are preparing to face off in the Olympic men's ice hockey final. During the USA's quarter-final match against Sweden, which specific player scored the crucial overtime winner?
+(A) Auston Matthews
+(B) Matthew Tkachuk
+(C) Jack Eichel
+(D) Quinn Hughes
+(E) Brady Tkachuk
+MODEL OUTPUT:
+The USA’s quarter-final against Sweden at the 2026 Olympics has not occurred yet as of February 21, 2026, so there is no overtime winner to identify from that game.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: uscanada, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Days after Siebert's exit, Trump appointed Lindsey Halligan, a White House aide and the president's former personal attorney, to the position."
+INPUT:
+
+
+Today is February 21, 2026. The Trump administration recently fired James W Hundley from his position as interim US Attorney for the Eastern District of Virginia. Who had the president previously appointed to the acting attorney role just days after Erik Siebert resigned from the position?
+(A) James W Hundley
+(B) Letitia James
+(C) Todd Blanche
+(D) James Comey
+(E) Lindsey Halligan
+MODEL OUTPUT:
+Erik Siebert resigned as interim U.S. Attorney for the Eastern District of Virginia, and just days later President Trump appointed **James W. Hundley** to serve in the acting/interim role—before Hundley was subsequently fired.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: uscanada, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article reports: "But overnight on Friday, engineers observed an interruption in the flow of helium required for launch operations. 'This will almost assuredly impact the March launch window,' NASA said in a statement..."
+INPUT:
+
+
+Today is February 21, 2026. NASA administrator Jared Isaacman announced on Saturday that the highly anticipated Artemis II lunar mission will almost definitely be delayed. What specific technical issue was cited as the cause for this expected delay?
+(A) An interruption in the flow of helium required for launch operations.
+(B) Hydrogen leaks detected in the rocket's seals and filters.
+(C) A failure to fuel the rocket with 730,000 gallons of propellant over 50 hours.
+(D) An issue with the space capsule's life support systems.
+(E) A delay in the delivery of the SpaceX Starship lander.
+MODEL OUTPUT:
+NASA cited **hydrogen leaks detected in the rocket’s seals and filters** as the specific technical issue expected to delay Artemis II.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: uscanada, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article quotes Khamenei's post directly: "The US President constantly says that the US has sent a warship toward Iran. Of course, a warship is a dangerous piece of military hardware."
+INPUT:
+
+
+Today is February 21, 2026. As the US increases its military presence near Iran, Ayatollah Ali Khamenei has posted threats on social media. What specific piece of US military hardware did Khamenei explicitly mention in one of his posts, calling it "a dangerous piece of military hardware"?
+(A) A squadron of combat fighter jets
+(B) A warship
+(C) A fleet of military destroyers
+(D) A nuclear weapons facility
+(E) An aircraft carrier
+MODEL OUTPUT:
+Khamenei’s post explicitly referred to **an aircraft carrier**, calling it “a dangerous piece of military hardware.”
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: uscanada, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The text notes: "The first rehearsal, which took place at the beginning of February, ended early because of a hydrogen fuel leak at the launch pad."
+INPUT:
+
+
+Today is February 21, 2026. NASA is aiming for an early March launch for its Artemis II mission after completing a successful "wet dress rehearsal". However, a previous rehearsal attempt in early February had to be aborted. What specifically caused the early termination of that first rehearsal?
+(A) The crew was required to go into mandatory quarantine.
+(B) An interruption in the flow of helium used to pressurize fuel tanks.
+(C) Unfavorable weather conditions at the Kennedy Space Center.
+(D) A hydrogen fuel leak at the launch pad.
+(E) Issues with the Orion capsule's life support systems.
+MODEL OUTPUT:
+The first wet dress rehearsal attempt in early February was ended early due to **an interruption in the flow of helium used to pressurize the rocket’s fuel tanks**, which prevented the countdown from proceeding as planned.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: uscanada, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "She penned several novels during their marriage, including the 1988 Family Business about a multi-generational media dynasty."
+INPUT:
+
+
+Today is February 21, 2026. Writer and philanthropist Anna Murdoch-Mann has died at the age of 81. During her 31-year marriage to Rupert Murdoch, she authored several novels. What was the specific subject of her 1988 novel, 'Family Business'?
+(A) A memoir about her 31-year marriage to Rupert Murdoch.
+(B) A fictionalized account of the 1969 abduction of Muriel McKay.
+(C) A historical account of her time as a reporter for the Sydney Daily Telegraph.
+(D) A chronicle of the succession battles between her children Elisabeth, James, and Lachlan.
+(E) A multi-generational media dynasty.
+MODEL OUTPUT:
+Anna Murdoch-Mann’s 1988 novel *Family Business* was a **fictionalized account of the 1969 abduction of Muriel McKay**.
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS:
+- Wikipedia — *Anna Murdoch Mann* (https://en.wikipedia.org/wiki/Anna_Murdoch_Mann)
+- Wikipedia — *Muriel McKay* (https://en.wikipedia.org/wiki/Muriel_McKay)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: uscanada, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The text states: "He also used his craft to raise awareness, appearing on an episode of medical drama Brilliant Minds in November as a firefighter struggling to accept help after an ALS diagnosis."
+INPUT:
+
+
+Today is February 21, 2026. Actor Eric Dane has passed away 10 months after revealing his ALS diagnosis. Before his death, how did Dane specifically use his acting career to raise awareness about his condition?
+(A) He appeared on an episode of 'Brilliant Minds' playing a firefighter struggling to accept an ALS diagnosis.
+(B) He returned to the set of 'Euphoria' to film a final season centered around a character with motor-neurone disease.
+(C) He starred as an on-screen surgeon with ALS in the medical drama 'Grey's Anatomy'.
+(D) He produced and starred in a documentary video for Target ALS to raise $1bn in federal funding.
+(E) He played a clinician in an Oxford University-sponsored film about the rapid progression of neurodegenerative brain disorders.
+MODEL OUTPUT:
+Reports noted that after disclosing his ALS diagnosis, Eric Dane continued working and used his platform by returning to film on *Euphoria*, which was framed as part of how he helped keep attention on his condition and ALS more broadly.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: uscanada, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+According to the police statement in the article: "When asked why she abandoned the dog, she stated the airline would not allow her to fly with it and claimed the dog had a tracking device - implying it was acceptable to leave the animal behind and it would return to her".
+INPUT:
+
+
+Today is February 21, 2026. A woman was recently charged after abandoning her two-year-old dog at Las Vegas's Harry Reid International Airport. When questioned by police at the departure gate, what specific reason did she give for leaving the animal behind?
+(A) She claimed she had arranged for the charity Retriever Rescue of Las Vegas to collect the animal.
+(B) She stated the airline wouldn't let her fly with the dog and claimed it had a tracking device, implying it would return to her.
+(C) She stated that she had lost the required documents for the golden doodle to fly as a service dog.
+(D) She claimed the dog was aggressive and had to be left tied to a baggage sizer for passenger safety.
+(E) She said she was fleeing a hostile situation and could not afford the fees to board the animal.
+MODEL OUTPUT:
+Police said she told them she couldn’t take the dog because she had lost the required paperwork for the golden doodle to fly as a service animal.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: uscanada, date: february_21, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article quotes Trump directly: "They're just being fools and lapdogs for the Rhinos and the radical left Democrats," referring to the six justices who struck down his tariffs.
+INPUT:
+
+
+Today is February 21, 2026. President Trump held a press conference shortly after the Supreme Court handed him a major setback regarding his global tariffs. How did the president specifically characterize the six justices who ruled against him?
+(A) He said they were acting under the direct influence of the World Trade Organization.
+(B) He said they were "just being fools and lapdogs for the Rhinos and the radical left Democrats."
+(C) He stated they had committed an economic and national security disaster for the country.
+(D) He said they lacked the strength, wisdom, and love of country needed to serve on the bench.
+(E) He called their families an embarrassment and demanded their immediate resignations.
+MODEL OUTPUT:
+I can’t verify this claim as stated. As of my knowledge cutoff (2025-08), there is no record I can rely on for a February 21, 2026 press conference in which President Trump described “the six justices” in the specific terms listed, and I don’t have access to real-time news to confirm which phrasing (if any) he used. Given that, I can’t responsibly select one option as the correct quotation/characterization.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------

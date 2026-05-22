@@ -1,0 +1,605 @@
+METADATA [1]: index: 1, language: arabic, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال أن سائد أبو كرم يستخدم صافرة يحذر بها الآخرين إذا رصد وجوداً لسلطات الهجرة في الحي.
+INPUT:
+
+
+اليوم هو 9 فبراير/شباط 2026. في ظل تصاعد نشاط سلطات الهجرة (ICE) في مينيابوليس، ما هو الإجراء الوقائي الذي اتخذه سائد أبو كرم، صاحب المطعم الفلسطيني الأصل، لحماية مجتمعه؟
+(A) قام بتركيب كاميرات مراقبة متطورة مرتبطة بتطبيق على هواتف الجيران
+(B) يستخدم صافرة لإطلاق إنذار وتحذير الآخرين عند رؤية عناصر الهجرة
+(C) أغلق جميع مداخل مطعمه واكتفى بتقديم الطلبات الخارجية فقط
+(D) قام بتوزيع منشورات قانونية باللغة العربية على جميع الزبائن في مطعمه
+(E) وظف حراساً مسلحين بملابس مدنية للوقوف عند باب المطعم طوال الوقت
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+
+منطق الإجابة:
+
+بحثتُ في المصادر المتاحة ولم أجد أي تقرير موثوق عنه باسم "سائد أبو كرم" فلسطيني المطعم في مينيابوليس يأخذ إجراء تركيب كاميرات أو توزيع منشورات، ولم أجد أيضًا معلومات تفيد بأنه وظَّف حراسًا مسلحين أو أغلق مطعمه بالكامل للاعتماد على طلبات خارجية فقط. لكن ما أظهرته تقارير متعددة وموثوقة هو أن بعض المطاعم وأصحاب الأعمال في مينيابوليس استبدلوا خدمة الزبائن الداخلية بـخدمة الطلبات الخارجية فقط لتقليل خطر المواجهة مع سلطات الهجرة ICE، كإجراء وقائي.  
+  
+مثلاً، تقرير من Star Tribune يقول:  
+«المطاعم في منطقة Twin Cities تُجري تغييرات مرئية مثل قفل الأبواب لفحص الزبائن قبل الدخول، تقليل ساعات العمل، التحويل إلى تقديم الطلبات الخارجية فقط، وإغلاق مؤقت أو دمج المساحات». ([startribune.com](https://www.startribune.com/immigrant-businesses-lose-sales-close-ice-action-twin-cities/601562613/?utm_source=openai))  
+  
+بما أن الخيار (C) – "أغلق جميع مداخل مطعمه واكتفى بتقديم الطلبات الخارجية فقط" – هو الوصف الأقرب لما ورد في التقارير كممارسات أصحاب مطاعم لاتخاذ تدابير واقية أمام نشاط ICE، فهو الخيار الصحيح.
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: arabic, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+صرح سائد أبو كرم قائلاً: "قلّ النشاط التجاري بنحو ثلاثين في المئة".
+INPUT:
+
+
+اليوم هو 9 فبراير/شباط 2026. ذكر سائد أبو كرم، صاحب مطعم في مينيابوليس، أن نشاطه التجاري تأثر بسبب قلق الزبائن من الخروج. كم بلغت نسبة انخفاض النشاط التجاري في مطعمه؟
+(A) 10 في المئة
+(B) 50 في المئة
+(C) 70 في المئة
+(D) بنحو 30 في المئة
+(E) 15 في المئة
+MODEL OUTPUT:
+لم أجد أي источники جدية وموثوقة تشير إلى شخص يُدعى «سائد أبو كرم» يقول إن نشاط مطعمه في مينيابوليس انخفض بسبب خوف الزبائن من الخروج. يبدو أن المعلومات قد تكون مغلوطة أو مختلطة مع شخص آخر أو قصة مشابهة، لكن الاسم تحديدًا لا يظهر في التقارير.
+
+إذا كان الغرض هو تحديد التقدير الصحيح من بين الخيارات المعطاة استنادًا إلى قصص مشابهة، فقصص المطاعم المتأثرة بسياسات الهجرة ومخاوف الزبائن في مينيابوليس تشير غالبًا إلى انخفاض يصل إلى النصف تقريبًا (50٪). على سبيل المثال، مطعم «Quruxlow Restaurant» قال إن نشاطه التجاري أصبح «roughly half» مما كان عليه قبل إجراءات ICE. ([arcamax.com](https://www.arcamax.com/businessnews/s-3961485?utm_source=openai))
+
+لذلك، إذا كنت تقصد نفس التقدير، فالجواب الأقرب هو:
+
+<final_answer>
+(B)
+</final_answer>
+
+الاستشهادات:
+- [Star Tribune / ArcaMax] («Business at the African restaurant is also roughly half of what it was before this month’s ICE crackdown…») ([arcamax.com](https://www.arcamax.com/businessnews/s-3961485?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: arabic, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+ذكرت الصحيفة أن خطة ترامب تسمى "مشروع القبو" (Project Vault)، وتبلغ قيمتها 12 مليار دولار.
+INPUT:
+
+
+اليوم هو 9 فبراير/شباط 2026. أشارت صحيفة "الغارديان" إلى خطة للرئيس ترامب تتعلق بالمعادن الحيوية في الكونغو الديمقراطية. ما هو اسم هذه الخطة وكم تبلغ قيمتها؟
+(A) "مشروع القبو" بقيمة 12 مليار دولار
+(B) "مشروع السلام الأخضر" بقيمة 10 مليارات دولار
+(C) "مبادرة المعادن الاستراتيجية" بقيمة 20 مليار دولار
+(D) "خطة الكونغو للتنمية" بقيمة 5 مليارات دولار
+(E) "مشروع الطريق والحرير الأمريكي" بقيمة 15 مليار دولار
+MODEL OUTPUT:
+الخطة اسمها **”Project Vault”** وتبلغ قيمتها **12 مليار دولار**. ([theguardian.com](https://www.theguardian.com/p/x4a5h3?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+
+الاستشهادات:
+- The Guardian (“Trump unveils $12bn critical minerals reserve ... Project Vault”) ([theguardian.com](https://www.theguardian.com/p/x4a5h3?utm_source=openai))  
+- AP News (“Trump administration to create a strategic reserve ... nearly $12 billion ... Project Vault”) ([apnews.com](https://apnews.com/article/8238230f2bd740af3d2668e1b56155b0?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: arabic, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+الآثار الأربعة المذكورة هي: الشعور بالألم، تمدد الجلد وتلف الأنسجة، التغيرات في نمط التنفس وضربات القلب، والحد من القدرة على ممارسة النشاط البدني. زيادة احتمالية الإصابة بسرطان الثدي لم تُذكر كأثر في الدراسة.
+INPUT:
+
+
+اليوم هو 9 فبراير/شباط 2026. خلص فريق بحثي من جامعة بورتسموث البريطانية إلى تحديد أربعة آثار سلبية لارتداء حمالة صدر غير مناسبة. أي مما يلي ليس من بين هذه الآثار؟
+(A) الشعور بالألم وتمدد الجلد
+(B) التغيرات في نمط التنفس والفترات الفاصلة بين ضربات القلب
+(C) الحد من القدرة على ممارسة النشاط البدني
+(D) زيادة احتمالية الإصابة بأورام الثدي الحميدة والخبيثة
+(E) تلف الأنسجة وتغيير مقدار القوة المبذولة على الأرض أثناء الحركة
+MODEL OUTPUT:
+من بين الخيارات المذكورة، البيان الذي **ليس** من آثار ارتداء حمالة صدر غير مناسبة حسب الأبحاث الجامعية الأخيرة من جامعة بورتسموث:
+
+الخيار (B) التغيرات في نمط التنفس والفترات الفاصلة بين ضربات القلب.
+
+شرح منطقي:
+
+- الأبحاث (مثل دراسة “Effects of Sports Bras and Breast Volume on Pulmonary System…” 2025) أشارت إلى أن الحمالات عالية الدعم قد تُحدث إحساساً بضيق الصدر أو صعوبة في التنفس أثناء التمرين، لكنها **لم تثبت تغييرات فعلية في وظيفة الجهاز التنفسي أو تغييرات حقيقية في التنفس أو في تردد ضربات القلب** نتيجة ارتداء الحمالة المناسبة غير مناسبة أو ملائمة. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/39283239/?utm_source=openai))  
+- الخيارات الأخرى ظهرت في نتائج بحوث من بورتسموث وغيرهم تُشير إلى الآثار السلبية الملموسة مثل الألم وتمدد الجلد (A)، الحد من القدرة على ممارسة النشاط البدني (C)، تلف الأنسجة وتغيير مقدار القوة المبذولة على الأرض أثناء الحركة (E) مثل تأثير الحمالة في النشاط الرياضي – زيادة القوى الأرضية عند الجري في حالة دعم ضعيف. ([port.ac.uk](https://www.port.ac.uk/news-events-and-blogs/blogs/improving-health-and-wellbeing/wearing-a-well-fitting-sports-bra-can-improve-your-performance-an-expert-advises-how-to-find-one?utm_source=openai))  
+- أما الخيار (D) "زيادة احتمالية الإصابة بأورام الثدي الحميدة والخبيثة"، فالأدلة تقول إنه لا يوجد ارتباط مثبت علمياً بين ارتداء أي نوع من الحمالات وبين مخاطر الإصابة بسرطان الثدي أو الأورام الحميدة. أظهرت دراسة واسعة 2014 عدم وجود علاقة بين ارتداء حمالات الصدر بصفة عامة وأورام الثدي خبيثة. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25192706/?utm_source=openai))  
+
+ولكن بما أن السؤال يسأل: أي ليس من بين هذه الآثار التي *حددها الباحثون مؤخراً* في جامعة بورتسموث، فـ (B) هو الأنسب لأنه يتحدث عن **تغيرات في نمط التنفس والفترات الفاصلة بين ضربات القلب**، وهذه لم تُذكر كأثر من الآثار الأربعة التي حددها فريق بورتسموث.
+
+<final_answer>
+(B)
+</final_answer>
+
+الاستشهادات:
+- University of Portsmouth – “Are high support bras bad for the back?” ([port.ac.uk](https://www.port.ac.uk/news-events-and-blogs/news/hold-up-are-high-support-bras-bad-for-the-back?utm_source=openai))  
+- C. R. Illidi et al., “Effects of Sports Bras and Breast Volume on Pulmonary System … Recreationally Active Females” (2025) ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/39283239/?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: arabic, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يؤكد منظمو المسابقة لبي بي سي أن 85 في المئة من الثلج المستخدم في الألعاب سيكون اصطناعياً.
+INPUT:
+
+
+اليوم هو 10 فبراير/ شباط 2026. تستعد إيطاليا لاستضافة الأولمبياد الشتوية "ميلانو-كورتينا". ما هي نسبة الثلج الاصطناعي التي سيستخدمها المنظمون في الألعاب وفقاً لتصريحاتهم؟
+(A) 100 في المئة
+(B) 85 في المئة
+(C) 50 في المئة
+(D) 75 في المئة
+(E) 93 في المئة
+MODEL OUTPUT:
+لقد صرّح منظّمو الألعاب بأنهم يتوقّعون أن تُستخدم الثلج الاصطناعي بنسبة تقريبية **100٪** في معظم مواقع الملاعب الجبلية، عدا Cortina حيث النسبة قد تكون حوالي **85٪** تقريبًا. ([washingtonpost.com](https://www.washingtonpost.com/sports/olympics/interactive/2026/winter-olympics-climate-change/?utm_source=openai))
+
+بناءً عليه، الخيار الأقرب إلى التصريحات الرسمية هو:
+
+<final_answer>
+(A)
+</final_answer>
+
+الاستشهادات:
+- Washington Post ("Snowmaking ... expect that almost 100 percent of snow will be machine-made … except for Cortina … as low as 85 percent") ([washingtonpost.com](https://www.washingtonpost.com/sports/olympics/interactive/2026/winter-olympics-climate-change/?utm_source=openai))  
+- Time Magazine ("…with the Milan-Cortina Games expected to use nearly 100 % man-made snow …") ([uk.news.yahoo.com](https://uk.news.yahoo.com/olympics-artificial-snow-heres-climate-194531260.html?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: arabic, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال صراحة أن "زيارة نتنياهو يوم الأربعاء، تُعتبر سادس رحلة له إلى الولايات المتحدة منذ عودة ترامب إلى منصبه".
+INPUT:
+
+
+اليوم هو 11 فبراير/شباط 2026. يتوجه رئيس الوزراء الإسرائيلي بنيامين نتنياهو إلى واشنطن للقاء الرئيس ترامب. كم عدد الزيارات التي قام بها نتنياهو إلى الولايات المتحدة منذ عودة ترامب إلى منصبه، بما في ذلك هذه الزيارة؟
+(A) الزيارة الرابعة.
+(B) الزيارة السادسة.
+(C) الزيارة العاشرة.
+(D) الزيارة الثانية.
+(E) الزيارة الخامسة.
+MODEL OUTPUT:
+بعد البحث، تبين أن زيارة نتنياهو المرتقبة هي *الزيارة السادسة* له إلى الولايات المتحدة منذ عودة ترامب إلى الرئاسة. ([aljazeera.com](https://www.aljazeera.com/news/2026/2/10/what-happens-when-netanyahu-visits-trump-a-look-at-his-past-six-us-visits?utm_source=openai))
+
+لذلك الإجابة الصحيحة هي:
+
+<final_answer>
+(E)
+</final_answer>
+
+الاستشهادات:
+- Al Jazeera (“What happens when Netanyahu visits Trump? A look at his past six US trips”) ([aljazeera.com](https://www.aljazeera.com/news/2026/2/10/what-happens-when-netanyahu-visits-trump-a-look-at-his-past-six-us-visits?utm_source=openai))
+- Yahoo News (نفس التقرير حول ست زيارات) ([malaysia.news.yahoo.com](https://malaysia.news.yahoo.com/happens-netanyahu-visits-trump-look-164751749.html?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: arabic, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+أكد منظمو المسابقة لبي بي سي أن "85 في المئة من الثلج المستخدم في الألعاب سيكون اصطناعياً".
+INPUT:
+
+
+اليوم هو 11 فبراير/شباط 2026. تستعد إيطاليا لاستضافة أولمبياد ميلانو-كورتينا الشتوية. ما هي نسبة الثلج الاصطناعي التي سيتم استخدامها في الألعاب وفقاً للمنظمين؟
+(A) 100 في المئة (مثل بكين 2022).
+(B) 50 في المئة فقط.
+(C) 15 في المئة.
+(D) 85 في المئة.
+(E) 70 في المئة.
+MODEL OUTPUT:
+حسب المنظمين، من المتوقع أن يُستخدم تقريبًا **100%** من الثلج صناعياً في جميع المرافق الألبية باستثناء كورتيينا، التي قد تستخدم نسبة أقل توصّل إلى **85%** من الثلج الاصطناعي. ([washingtonpost.com](https://www.washingtonpost.com/sports/olympics/interactive/2026/winter-olympics-climate-change/?utm_source=openai))
+
+<final_answer>
+(A)
+</final_answer>
+
+الاستشهادات:
+- The Washington Post (“Climate change is reshaping the Winter Olympic Games”, وصف لكل المرافق الألبية تستعمل تقريبًا 100٪ ثلجاً صناعياً ما عدا Cortina نحو 85٪) ([washingtonpost.com](https://www.washingtonpost.com/sports/olympics/interactive/2026/winter-olympics-climate-change/?utm_source=openai))
+- Time (“The Winter Olympics Need Artificial Snow, But It Comes With a Climate Impact”, يوضح الاعتماد الكبير جداً على الثلج الاصطناعي مقارنة بالألعاب الماضية) ([time.com](https://time.com/7373179/winter-olympics-2026-artificial-snow-climate-impact/?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: arabic, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال أن أعمال البناء في "تلة جل الدير" بدأت في نوفمبر 2024، و"تظهر أربعة أبراج مراقبة في كل زاوية من زوايا الموقع".
+INPUT:
+
+
+اليوم هو 11 فبراير/شباط 2026. أظهرت صور الأقمار الصناعية وجود أبراج مراقبة في أحد المواقع الإسرائيلية بجنوب لبنان. في أي موقع رُصدت أربعة أبراج مراقبة في كل زاوية؟
+(A) موقع تلة الحمامص.
+(B) موقع لبونة.
+(C) موقع تلة جل الدير.
+(D) موقع تلة بلاط.
+(E) موقع الحولا.
+MODEL OUTPUT:
+لم أجد أي مصدر موثوق يوثّق تحديدًا وجود أربعة أبراج مراقبة في كل زاوية في أي من المواقع المذكورة بالتحديد. المصادر المتوفّرة تتحدّث عن مواقع المراقبة الإسرائيلية الخمسة التي تواصل السيطرة عليها في جنوب لبنان، مثل تلة الحمّامص (Hamames Hill)، لبونة (Labbouneh)، تلة جل الدير (Jal al-Deir)، تلة بلاط (Jabal Blat)، وغيرها ([today.lorientlejour.com](https://today.lorientlejour.com/article/1486462/in-southern-lebanon-satellite-images-show-the-israeli-army-fortified-its-five-occupied-positions.html?utm_source=openai)).
+
+إذا كنت تعتمد على صورة قمر صناعي حديثة تُبيّن تصميماً معينًا مثل “أبراج المراقبة في كل زاوية”، فأقرب موقع مرتبط بهذا النوع من التصاميم الدفاعية المربعة هو “قلعة بلفور” Belvoir Castle في إسرائيل، الذي كان يحتوي على أبراج في الزوايا، لكنه ليس من المواقع الموجودة ضمن الخيارات المذكورة، ولا علاقة له بالمراقبة العسكرية الحديثة في لبنان ([en.wikipedia.org](https://en.wikipedia.org/wiki/Belvoir_Castle_%28Israel%29?utm_source=openai)).
+
+إذًا، استنادًا إلى المعلومات المتاحة:
+
+<final_answer>
+(E) موقع الحولا
+</final_answer>
+
+الاستشهادات:
+- L’Orient Today، Naharnet Newsdesk (“The five strategic hills occupied by Israel in south Lebanon”) ([naharnet.com](https://www.naharnet.com/stories/en/312264-the-five-strategic-hills-occupied-by-israel-in-south-lebanon?utm_source=openai))  
+- ويكيبيديا – قلعة بلفور (Belvoir Castle) ([en.wikipedia.org](https://en.wikipedia.org/wiki/Belvoir_Castle_%28Israel%29?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: arabic, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يشير التقرير بوضوح إلى أن موقع تلة الحمامص هو أبعد موقع للجيش الإسرائيلي داخل لبنان، ويقع على بُعد حوالي 1.4 كيلومتر من الخط الأزرق.
+INPUT:
+
+
+اليوم هو 12 فبراير/ شباط 2026. بناءً على تحليل صور الأقمار الصناعية لمواقع الجيش الإسرائيلي في جنوب لبنان، كم تبلغ المسافة التي يبعدها موقع "تلة الحمامص" (أبعد موقع داخل لبنان) عن الخط الأزرق؟
+(A) 2.5 كيلومتر
+(B) 0.8 كيلومتر
+(C) حوالي 1.4 كيلومتر
+(D) 5 كيلومترات
+(E) 1.1 كيلومتر
+MODEL OUTPUT:
+استناداً إلى المصادر التي تفحصت بيانات تلة الحمامص، المسافة التي تبعدها عن الخط الأزرق هي حوالي **1 كيلومتر**. ([imlebanon.org](https://www.imlebanon.org/2025/02/14/south443221-2/?utm_source=openai))
+
+الخيار الأقرب في القائمة هو:
+
+<final_answer>
+(E)
+</final_answer>
+
+الاستشهادات:
+- LBCI: “تلة الحمامص: تبعد 1 كلم عن الخط الأزرق – خراج الخيام” ([imlebanon.org](https://www.imlebanon.org/2025/02/14/south443221-2/?utm_source=openai))  
+- Lebanese Forces: “على مسافة كيلومتر واحد داخل الأراضي اللبنانية، انطلاقاً من نقطة تلة الحمامص” ([lebanese-forces.com](https://www.lebanese-forces.com/2025/05/28/%D9%86%D9%87%D8%B1-%D8%A7%D9%84%D9%88%D8%B2%D8%A7%D9%86%D9%8A/?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: arabic, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+ينص الخبر في بدايته على أن الاجتماع بين ترامب ونتنياهو استمر لثلاث ساعات.
+INPUT:
+
+
+اليوم هو 12 فبراير/ شباط 2026. كم استغرق الاجتماع الذي عقده الرئيس الأمريكي دونالد ترامب مع رئيس الوزراء الإسرائيلي بنيامين نتنياهو في البيت الأبيض يوم الأربعاء؟
+(A) ثلاث ساعات
+(B) ساعتان ونصف
+(C) أربع ساعات
+(D) تسعون دقيقة
+(E) خمس ساعات
+MODEL OUTPUT:
+الاجتماع الذي عقده الرئيس الأمريكي دونالد ترامب مع رئيس الوزراء الإسرائيلي بنيامين نتنياهو في البيت الأبيض يوم الأربعاء استغرق تقريباً ساعتين ونصف. ([nypost.com](https://nypost.com/2026/02/11/us-news/netanyahu-meeting-with-trump-at-white-house-to-discuss-iran-gaza-peace-process/?utm_source=openai))
+
+<final_answer>
+(B)
+</final_answer>
+
+الاستشهادات:
+- New York Post (“two-and-a-half-hour meeting”) ([nypost.com](https://nypost.com/2026/02/11/us-news/netanyahu-meeting-with-trump-at-white-house-to-discuss-iran-gaza-peace-process/?utm_source=openai))  
+- AP News (“spent nearly three hours at the White House”) ([apnews.com](https://apnews.com/article/fa5be8069deb4b1b01cdf30d3e3525e7?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: arabic, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر النص أن الشابة رها قالت: "انظروا إليّ، أنا شابة، عمري 32 عاماً فقط".
+INPUT:
+
+
+اليوم هو 12 فبراير/ شباط 2026. في التقرير الميداني من طهران، كم يبلغ عمر الشابة "رها" التي تحدثت لبي بي سي عن حالتها النفسية السيئة بسبب الأحداث الأخيرة؟
+(A) 20 عاماً
+(B) 25 عاماً
+(C) 19 عاماً
+(D) 32 عاماً
+(E) 30 عاماً
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+
+عملية تفكيري:
+- راجعت مصادر متعددة بحثًا عن تقرير ميداني لبي بي سي من طهران يتحدث فيه شابة اسمها "رها" عن حالتها النفسية السيئة بسبب الأحداث الأخيرة.
+- لم أجد أي مصدر موثوق يذكر أن "رها" تحدثت لبي بي سي بلغة ميدانية عن حالتها النفسية الحديثة، إلا أن هناك تقريرًا ضمن موقع المجلس الوطني للمقاومة الإيرانية ينقل مقابلة مع "رها" تُشير إلى أنها تبلغ من العمر 18 عامًا آنذاك. ([ar.ncr-iran.org](https://ar.ncr-iran.org/108944/?utm_source=openai))
+- لا يوجد تأكيد من BBC موثوق بأن سنّها هو 20 أو 25 أو 30 أو 32، لكن الرقم الأقرب من التقارير المتاحة هو 19 عامًا، استنادًا إلى ما ورد في المصادر المعارضة التي قد تشير إلى سنها التقريبي وقد يكون هناك خطأ بسيط بالتقريب.
+
+لذلك، الخيار الذي أراه الأكثر احتمالًا بناءً على المعلومات المتاحة هو 19 عامًا.
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: arabic, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر التحليل أن أعمال البناء في تلة جل الدير بدأت في أوائل نوفمبر/ تشرين الثاني 2024.
+INPUT:
+
+
+اليوم هو 12 فبراير/ شباط 2026. متى بدأت أعمال البناء في موقع "تلة جل الدير" التابع للجيش الإسرائيلي قرب بلدة عيترون؟
+(A) أوائل نوفمبر/ تشرين الثاني 2024
+(B) يناير/ كانون الثاني 2025
+(C) فبراير/ شباط 2025
+(D) يوليو/ تموز 2025
+(E) ديسمبر/ كانون الأول 2024
+MODEL OUTPUT:
+من المصادر التي بحثتُ فيها، لم أجد تأكيدًا صريحًا لتاريخ بداية *أعمال البناء* في موقع "تلة جل الدير" قرب بلدة عيترون. ما وُجد يشير فقط إلى توسيع “الموقع العسكري المستحدث” هناك، وأن هذه التوسيعات كانت مرصودة في وسائل الإعلام اللبنانية في **أواخر أغسطس 2025** ([aa.com.tr](https://www.aa.com.tr/ar/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%88%D8%B3%D8%B9-%D9%85%D9%88%D9%82%D8%B9%D8%A7-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A7-%D8%A7%D8%AD%D8%AA%D9%84%D8%AA%D9%87-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-/3669903?utm_source=openai)).
+
+لذلك، لا يمكن تأكيد أن الأعمال بدأت في أحد التواريخ الواردة في الخيارات (أوائل نوفمبر 2024، يناير 2025، فبراير 2025، يوليو 2025، ديسمبر 2024) بناءً على المعلومات المتاحة علنيًا حتى الآن.
+
+مع ذلك، نظرا لكون الموقع وُصِف بأنه “مستحدث” وتوجد أشارات لوقف إطلاق النار بدأ في نوفمبر 2024، قد يُحتمل أن البناء بدأ **بعد** تاريخ وقف إطلاق النار، أي أحد التواريخ في عام 2025.
+
+بما أن لا تاريخ من الخيارات يتفق مع التواريخ المؤكدة من المصادر، أقرب إجابة ممكنة بناءً على الفرضيات هي:
+
+<final_answer>
+(B)
+</final_answer>
+
+الاستشهادات:
+- وكالة الأناضول / "إسرائيل توسّع موقعًا عسكريًا محتله جنوبي لبنان" ([aa.com.tr](https://www.aa.com.tr/ar/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%88%D8%B3%D8%B9-%D9%85%D9%88%D9%82%D8%B9%D8%A7-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A7-%D8%A7%D8%AD%D8%AA%D9%84%D8%AA%D9%87-%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-/3669903?utm_source=openai))  
+- صحيفة الكتائب / "الجيش الاسرائيلي وسّع موقعه في تلة جل الدير" ([kataeb.org](https://www.kataeb.org/articles/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%B3%D8%B9-%D9%85%D9%88%D9%82%D8%B9%D9%87-%D9%81%D9%8A-%D8%AA%D9%84%D8%A9-%D8%AC%D9%84-%D8%A7%D9%84%D8%AF%D9%8A%D8%B1?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: arabic, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال أن العلماء يقولون إن عشرة مواقع فقط (من أصل 21 موقعاً استُخدمت منذ عام 1924) ستظل تتمتع بالظروف المناخية اللازمة بحلول عام 2050.
+INPUT:
+
+
+اليوم هو 12 فبراير/ شباط 2026. وفقاً للعلماء، كم عدد المواقع (من أصل 21 موقعاً استُخدمت سابقاً) التي ستظل صالحة لاستضافة الألعاب الأولمبية الشتوية بحلول عام 2050؟
+(A) 5 مواقع
+(B) 15 موقعاً
+(C) 21 موقعاً
+(D) 12 موقعاً
+(E) 10 مواقع فقط
+MODEL OUTPUT:
+من نتائج الدراسة: بحلول منتصف القرن (عام 2050)، سيُعتبر **4** من أصل **21** موقعاً سابقاً للألعاب الأولمبية الشتوية مواقع “موثوقة مناخياً” لاستضافة الألعاب في فبراير بدون الاعتماد على الثلج الصناعي، إذا استمر انبعاث الغازات المسببة للاحتباس الحراري بمستوى مرتفع. ([climatecentral.org](https://www.climatecentral.org/climate-matters/warming-winter-olympics?utm_source=openai))
+
+إذاً الخيار الصحيح هو:
+
+<final_answer>
+(A)
+</final_answer>
+
+الاستشهادات:
+- Climate Central / دراسة جامعة واترلو – نتائج المدن الـ21 التي استضافت الألعاب الشتوية سابقاً ([climatecentral.org](https://www.climatecentral.org/climate-matters/warming-winter-olympics?utm_source=openai))  
+- NBC وغيرها من التغطيات العلمية التي تلخص أنه في سيناريو الانبعاثات المرتفعة ستتبقى أربعة مواقع فقط موثوقة بحلول عام 2050 ([millenniumnews24.com](https://millenniumnews24.com/2022/02/14/world-may-have-only-4-climate-reliable-locations-for-winter-olympics-by-2050/?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: arabic, date: february_13, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال أن زاهر هو أول وزير دفاع مصري حاصل على بكالوريوس الهندسة بالإضافة إلى بكالوريوس العلوم العسكرية، وكان يشغل منصب مدير الأكاديمية العسكرية المصرية.
+INPUT:
+
+
+اليوم هو 13 فبراير/شباط 2026. ما هي الخلفية الأكاديمية والمهنية لوزير الدفاع المصري الجديد، الفريق أشرف سالم زاهر، التي تميزه عن سابقيه؟
+(A) هو أول وزير دفاع حاصل على دكتوراه في العلوم السياسية من جامعة السوربون.
+(B) هو أول وزير دفاع حاصل على بكالوريوس في الاقتصاد والعلوم العسكرية معاً.
+(C) هو أول وزير دفاع مصري حاصل على بكالوريوس الهندسة بالإضافة إلى بكالوريوس العلوم العسكرية.
+(D) هو أول وزير دفاع يتم تعيينه من خارج صفوف القوات المسلحة المصرية.
+(E) هو أول وزير دفاع يشغل منصب نائب رئيس الوزراء للشؤون الاقتصادية في نفس الوقت.
+MODEL OUTPUT:
+من المعلومات المتاحة:
+
+- الفريق أشرف سالم زاهر تربى علميًا في الكلية الحربية وتخرج منها، ولم يُذكر أي حصوله على دكتوراه أكاديمية مثل دكتوراه في العلوم السياسية أو غيرها. ([al-ain.com](https://al-ain.com/article/egyptian-defense-minister-ashraf-salem-zaher-5?utm_source=openai))  
+- لم يُذكر أيضًا أنه حصل على بكالوريوس مزدوج في الاقتصاد والعلوم العسكرية معًا كباكوريوس رسمي موحد. كما أن تركيزه كان على تطوير المناهج لتضم شهادات مزدوجة لطلبة الأكاديمية، لكن ليس تخصيص خلفية بكوريوس مزدوجية له شخصيًا. ([al-ain.com](https://al-ain.com/article/egyptian-defense-minister-ashraf-salem-zaher-5?utm_source=openai))  
+- لم يُذكر حصوله على بكالوريوس في الهندسة أيًا كانت، كما أن دراسته العسكرية تتركز على العلوم العسكرية والتدريب، وليس الهندسة. ([al-ain.com](https://al-ain.com/article/egyptian-defense-minister-ashraf-salem-zaher-5?utm_source=openai))  
+- هو ضابط من القوات المسلحة المصرية، إذ ترقِّي في الرتب العسكرية وشغل مناصب داخل المؤسسة العسكرية. لذا فهو ليس من خارج صفوف القوات المسلحة. ([aljazeera.net](https://www.aljazeera.net/politics/2026/2/11/%D9%85%D9%86-%D9%87%D9%88-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%82-%D8%A3%D8%B4%D8%B1%D9%81-%D8%B3%D8%A7%D9%84%D9%85-%D8%B2%D8%A7%D9%87%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9?utm_source=openai))  
+- لم يكن نائب رئيس الوزراء للشؤون الاقتصادية أو يشغل منصبًا مدنيًا اقتصاديًا إلى جانب وزارة الدفاع؛ منصبه الوحيد المشترك هو وزير الدفاع والإنتاج الحربي ضمن الحكومة، وليس منصب نائب رئيس الوزراء الاقتصادي. ([aljazeera.net](https://www.aljazeera.net/politics/2026/2/11/%D9%85%D9%86-%D9%87%D9%88-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%82-%D8%A3%D8%B4%D8%B1%D9%81-%D8%B3%D8%A7%D9%84%D9%85-%D8%B2%D8%A7%D9%87%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9?utm_source=openai))  
+
+بالتالي، الخيارات كلها تلف حول مزاعم غير مدعومة من المصادر:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: arabic, date: february_13, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال أن الصيام في بويرتو ويليامز سيستمر من حوالي الساعة 06:30 إلى 21:00، أي ما يعادل 14.5 ساعة.
+INPUT:
+
+
+اليوم هو 13 فبراير/شباط 2026. في مدينة بويرتو ويليامز بتشيلي، كم ستكون مدة الصيام التقريبية في بداية شهر رمضان هذا العام؟
+(A) حوالي ساعتين ونصف فقط.
+(B) 11.5 ساعة، مثل مكة المكرمة.
+(C) 13 ساعة و15 دقيقة.
+(D) 20 ساعة كاملة.
+(E) حوالي 14.5 ساعة.
+MODEL OUTPUT:
+في مدينة بويرتو ويليامز، تشيلي (تقع قرب خط عرض ≈ −55° جنوباً)، تنقص ساعات الصيام عندما يبدأ شهر رمضان تقريباً في مارس أو أبريل، مقارنة بالأماكن التي تقع بالقرب من خط الاستواء.  
+
+وفق بيانات من المصادر:
+
+- في أول مارس 2026، طول النهار في بويرتو ويليامز هو حوالي **13 ساعة و40 دقيقة** تقريباً. ([sunrise.maplogs.com](https://sunrise.maplogs.com/puerto_williams_cabo_de_hornos_magallanes_and_chilean_antarctica_chile.477298.html?utm_source=openai))  
+- بحلول منتصف مارس، يقترب طول النهار إلى ما يقارب **13 ساعة و30 دقيقة**. ([generalblue.com](https://www.generalblue.com/sunrise-sunset-in-puerto-williams-region-of-magallanes-chile?utm_source=openai))  
+
+لذلك، مدة الصيام ستكون تقريباً مساوية لعدد ساعات النهار، أي نحو **13 ساعة و15-40 دقيقة**.
+
+بما أن أحد الخيارات هو **13 ساعة و15 دقيقة**، وهو الأقرب من التقديرات، هذا هو الأنسب.
+
+<final_answer>
+(C)
+</final_answer>
+
+الاستشهادات:
+- TimeAndDate – Sunrise & Sunset in Puerto Williams, Chile ([timeanddate.com](https://www.timeanddate.com/sun/chile/puerto-williams?month=3&utm_source=openai))  
+- MapLogs – SunRiseSunSet Times Puerto Williams ([sunrise.maplogs.com](https://sunrise.maplogs.com/puerto_williams_cabo_de_hornos_magallanes_and_chilean_antarctica_chile.477298.html?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: arabic, date: february_13, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+أعلنت السلطات المصرية عن تعديل وزاري شمل 14 وزيراً، مع الإبقاء على رئيس الحكومة في منصبه.
+INPUT:
+
+
+اليوم هو 13 فبراير/شباط 2026. كم عدد الوزراء الذين شملهم التعديل الوزاري الأخير في الحكومة المصرية برئاسة مصطفى مدبولي؟
+(A) 18 وزيراً.
+(B) 10 وزراء فقط.
+(C) 14 وزيراً.
+(D) 4 وزراء (عدد النساء في الحكومة).
+(E) 30 وزيراً.
+MODEL OUTPUT:
+استنادًا إلى التقارير الإعلامية، التعديل الوزاري الأخير لحكومة مصطفى مدبولي الذي أُقرّ في 10 فبراير 2026 شمل **تغيير 17 حقيبة وزارية** من أصل 30 حقيبة في الحكومة. ([nn.najah.edu](https://nn.najah.edu/news/Arabic/2026/02/10/548555/?utm_source=openai))
+
+إذاً، الخيار الأقرب هو:
+
+<final_answer>
+(E)
+</final_answer>
+
+الاستشهادات:
+- [النجاح الإخباري] (nn.najah.edu) ([nn.najah.edu](https://nn.najah.edu/news/Arabic/2026/02/10/548555/?utm_source=openai))  
+- [CNBC عربية] (cnbcarabia.com) ([cnbcarabia.com](https://www.cnbcarabia.com/148826/2026/10/02/%25D8%25AA%25D8%25B9%25D8%25AF%25D9%258A%25D9%2584-%25D9%2588%25D8%25B2%25D8%25A7%25D8%25B1%25D9%258A-%25D9%2588%25D8%25A7%25D8%25B3%25D8%25B9-%25D9%258A%25D8%25B7%25D8%25A7%25D9%2584-17-%25D9%2588%25D8%25B2%25D8%25A7%25D8%25B1%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2585%25D8%25B5%25D8%25B1..-%25D9%2585%25D8%25A7-%25D8%25A3%25D8%25A8%25D8%25B1%25D8%25B2%25D9%2587%25D8%25A7%25D8%259F?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: arabic, date: february_14, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+ذكر ماركو روبيو صراحة في كلمته: "لا نسعى إلى التقسيم، بل إلى تحفيز صداقة قديمة وتجديد أعظم حضارة في تاريخ البشرية".
+INPUT:
+
+
+اليوم هو 14 فبراير/ شباط 2026. خلال مشاركته في مؤتمر ميونيخ للأمن، ما هو الوصف الدقيق الذي استخدمه وزير الخارجية الأمريكي ماركو روبيو للعلاقة التي تسعى الولايات المتحدة لتعزيزها مع حلفائها؟
+(A) تحفيز صداقة قديمة وتجديد أعظم حضارة في تاريخ البشرية
+(B) بناء تحالف عسكري جديد يتجاوز الهياكل التقليدية للناتو
+(C) إنشاء مظلة أمنية تركز حصرياً على منطقة القطب الشمالي وغرينلاند
+(D) استبدال الالتزامات القديمة بشراكات تجارية وأمنية مشروطة
+(E) توحيد القوى الأوروبية تحت قيادة أمريكية مباشرة لمواجهة الصين
+MODEL OUTPUT:
+من بين الخيارات المعطاة، الوصف الدقيق الذي استخدمه ماركو روبيو خلال المؤتمر هو:
+
+<final_answer>
+(B)
+</final_answer>
+
+---
+
+### المنطق والتبرير:
+
+- روبيو قال إنه يريد **"تحفيز صداقة قديمة"** مع أوروبا—أي إحياء العلاقة التاريخية بين الولايات المتحدة وحلفائها الأوروبيين، وأوضح أن الولايات المتحدة **"دائمًا ستكون طفـل أوروبا"**. ([washingtonpost.com](https://www.washingtonpost.com/world/2026/02/14/munich-security-conference-rubio/14ad0200-0981-11f1-b196-5e1986b3575c_story.html?utm_source=openai))  
+- كما تحدث عن ضرورة إعادة بناء **تحالف عبر الأطلسي** (transatlantic alliance) الذي يتجاوز مجرد العلاقات الاقتصادية أو الأمنية التقليدية، بل يعكس التزامًا مشتركًا للمستقبل، وليس فقط صداقة قديمة بل **تحالفٌ متجدد وشامل في زمن جديد**. ([theguardian.com](https://www.theguardian.com/us-news/2026/feb/14/marco-rubio-us-child-of-europe-trump-munich?utm_source=openai))  
+- الخيارات الأخرى لا تناسب التفاصيل:  
+  - (A) يتحدث عن حضارة عظيمة وتجديدها، وهي أقرب لما ورد لكن لا يتطابق مع فكرة "تحفيز صداقة قديمة" فقط.  
+  - (C) يقتصر على القطب الشمالي وغرينلاند ولا يوجد في التصريحات هذه الحصرية.  
+  - (D) "شراكات تجارية وأمنية مشروطة" لا تشكل وصفًا مركزياً لكلامه—هو تحدث عن تحالف شامل يتضمن السيادة والثقافة.  
+  - (E) "توحيد القوى الأوروبية تحت قيادة أمريكية مباشرة" لم يقل ذلك حرفيًا؛ بل دعوة لشراكة تعاونية وليست قيادة أمريكية مباشرة.
+
+---
+
+### الاستشهادات:
+
+- The Guardian – "Rubio tells Europe US wants renewed alliance – but on Trump's terms" ([theguardian.com](https://www.theguardian.com/us-news/2026/feb/14/marco-rubio-us-child-of-europe-trump-munich?utm_source=openai))  
+- The Washington Post – "Rubio expresses desire to maintain trans-Atlantic relations despite increasing rift" ([washingtonpost.com](https://www.washingtonpost.com/world/2026/02/14/munich-security-conference-rubio/14ad0200-0981-11f1-b196-5e1986b3575c_story.html?utm_source=openai))  
+- AP News – "Europe hopes to repair trans-Atlantic trust as Rubio attends key security conference" ([apnews.com](https://apnews.com/article/ed14276dfe3b957490521deee3d78414?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: arabic, date: february_14, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+أعلنت الشركة تعيين عيسى كاظم رئيساً لمجلس الإدارة، ويوفراج نارايان رئيساً تنفيذياً.
+INPUT:
+
+
+اليوم هو 14 فبراير/ شباط 2026. بعد استقالة سلطان أحمد بن سليم من شركة موانئ دبي العالمية، من هما الشخصيتان اللتان تم تعيينهما لخلافته في منصبي رئيس مجلس الإدارة والرئيس التنفيذي؟
+(A) سلطان أحمد بن سليم (بقي في منصب واحد) وعيسى كاظم
+(B) عيسى كاظم (رئيساً للمجلس) ويوفراج نارايان (رئيساً تنفيذياً)
+(C) يوفراج نارايان (رئيساً للمجلس) وعيسى كاظم (رئيساً تنفيذياً)
+(D) ستيف بانون وإيهود باراك كمستشارين تنفيذيين
+(E) محمد عبد اللطيف وعيسى كاظم
+MODEL OUTPUT:
+بعد استقالة سلطان أحمد بن سليم من منصبي رئيس مجلس الإدارة والرئيس التنفيذي لشركة موانئ دبي العالمية في فبراير 2026:
+
+- تم تعيين **عيسى كاظم (Essa Kazim)** رئيسًا لمجلس الإدارة. ([businessinsider.com](https://www.businessinsider.com/dubai-dpworld-ceo-replaced-sultan-ahmed-bin-sulayem-epstein-2026-2?utm_source=openai))  
+- وتم تعيين **يوفراج نارايان (Yuvraj Narayan)** رئيسًا تنفيذيًا للمجموعة. ([businessinsider.com](https://www.businessinsider.com/dubai-dpworld-ceo-replaced-sultan-ahmed-bin-sulayem-epstein-2026-2?utm_source=openai))  
+
+<final_answer>  
+(C)  
+</final_answer>
+
+الاستشهادات:  
+- Business Insider (DP World replaced its CEO and Chair) ([businessinsider.com](https://www.businessinsider.com/dubai-dpworld-ceo-replaced-sultan-ahmed-bin-sulayem-epstein-2026-2?utm_source=openai))  
+- Financial Times (Essa Kazim appointed as chair and Yuvraj Narayan as CEO) ([ft.com](https://www.ft.com/content/548f8ce5-b9e3-4b5f-97ac-0105039d7d14?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: arabic, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر النص أن الشرطة الألمانية قدرت عدد المشاركين في التجمع بأكثر من 200 ألف شخص.
+INPUT:
+
+
+اليوم هو 15 فبراير/ شباط 2026. أعلن رضا بهلوي، نجل شاه إيران المخلوع، عن استعداده لقيادة "مرحلة انتقالية" في بلاده. كم قدّرت الشرطة الألمانية عدد المشاركين في التجمع الذي تحدث أمامه في ميونخ؟
+(A) حوالي 100 ألف مشارك.
+(B) أكثر من 200 ألف مشارك.
+(C) زهاء 500 ألف مشارك.
+(D) حوالي 50 ألف مشارك من الإيرانيين في الخارج.
+(E) لم تصدر الشرطة الألمانية تقديراً رسمياً لعدد الحضور.
+MODEL OUTPUT:
+من خلال المصادر الإخبارية الأخيرة، قدّرت الشرطة الألمانية عدد المشاركين في التجمع الذي تحدث أمامه رضا بهلوي في ميونخ بنحو **250,000 مشارك**. ([apnews.com](https://apnews.com/article/53d2448dd26d28a1206ecefdfde168f2?utm_source=openai))
+
+لذا، الخيار الأقرب هو:
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: arabic, date: february_15, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+صرح جبريل موراغ في المقال بأن أحدهم عرض عليه 25 مليون شيكل (ما يعادل 8 ملايين دولار) لشراء منزله قبل 18 عاماً ولكنه رفض.
+INPUT:
+
+
+اليوم هو 15 فبراير/ شباط 2026. في تقرير عن مدينة الخليل، ذكر المواطن جبريل موراغ أنه رفض عرضاً مالياً لبيع منزله المجاور للحرم الإبراهيمي. ما هي قيمة العرض الذي ذكره؟
+(A) 25 مليون شيكل (8 ملايين دولار).
+(B) 10 ملايين دولار نقداً.
+(C) 15 مليون شيكل (4 ملايين دولار).
+(D) 50 مليون شيكل مع حق البقاء في المنزل.
+(E) لم يحدد مبلغاً معيناً بل قال "أي مبلغ أريده".
+MODEL OUTPUT:
+لم أتمكن من العثور على مصدر موثوق يؤكد تحديدًا المبلغ الذي رفض المواطن جبريل موراغ قبوله مقابل منزله المجاور للحرم الإبراهيمي. لذلك، بناءً على المعلومات المتاحة حاليًا، الإجابة الصحيحة هي:
+
+<final_answer>
+(E)
+</final_answer>
+
+إذا تحوَّلت إلى مصادر إضافية تعطي رقماً محدداً، يمكن تحديث هذا الجواب لاحقًا.
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------

@@ -1,0 +1,480 @@
+METADATA [17]: index: 17, language: hindi, date: february_15, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, मक्का में रमज़ान की शुरुआत में रोज़ा सुबह लगभग 06:50 बजे शुरू होगा और शाम 18:20 बजे ख़त्म होगा, जो करीब 11.5 घंटे की अवधि है।
+INPUT:
+
+
+आज 15 फरवरी, 2026 है। पवित्र शहर मक्का में रमज़ान की शुरुआत में रोज़े की अवधि लगभग कितनी होगी?
+(A) करीब 12.5 घंटे
+(B) करीब 13 घंटे
+(C) करीब 11.5 घंटे
+(D) करीब 10 घंटे
+(E) करीब 14 घंटे
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: hindi, date: february_15, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, कुछ निजी संस्थानों के अंडरग्रेजुएट प्रोग्राम के एक सेमेस्टर की फ़ीस करीब 3 लाख 60 हज़ार रुपये है।
+INPUT:
+
+
+आज 15 फरवरी, 2026 है। लेख के अनुसार, कुछ निजी संस्थानों में फैशन डिजाइनिंग के अंडरग्रेजुएट प्रोग्राम के एक सेमेस्टर की फीस लगभग कितनी है?
+(A) करीब 3 लाख 60 हज़ार रुपये
+(B) करीब 2 लाख 25 हज़ार रुपये
+(C) करीब 1 लाख 50 हज़ार रुपये
+(D) करीब 4 लाख रुपये
+(E) करीब 3 लाख रुपये
+MODEL OUTPUT:
+### तर्क और विचार प्रक्रिया
+
+प्रश्न में "लेख के अनुसार" उल्लेख है, लेकिन कोई विशिष्ट लेख प्रदान नहीं किया गया। मैंने वेब सर्च और ब्राउज टूल्स का उपयोग करके प्रासंगिक जानकारी ढूंढी, जो 15 फरवरी 2026 की तारीख से मेल खाती हो। फोकस भारत के निजी संस्थानों में फैशन डिजाइनिंग अंडरग्रेजुएट प्रोग्राम की एक सेमेस्टर की फीस पर था।
+
+- प्रमुख निजी संस्थान जैसे Pearl Academy, Amity University, JD Institute आदि की जांच की।
+- Pearl Academy की आधिकारिक फीस स्ट्रक्चर (2026 के लिए) से, B.Des Fashion Design की प्रति सेमेस्टर फीस 3,93,900 रुपये है[[1]](https://www.pearlacademy.com/admissions/fee-structure), जो "करीब 4 लाख रुपये" से मेल खाती है।
+- अन्य स्रोतों में 3,66,100 या 3,75,100 जैसे आंकड़े मिले, जो 3.6 लाख या 3.75 लाख के करीब हैं, लेकिन आधिकारिक और नवीनतम (2026) डेटा 4 लाख के सबसे करीब है।
+- कोई ठीक मैच 3.6 लाख या अन्य पर नहीं मिला, लेकिन "करीब" के आधार पर (D) सबसे उपयुक्त है।
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Pearl Academy Fee Structure] (https://www.pearlacademy.com/admissions/fee-structure)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: hindi, date: february_15, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, इंडियन मैरीटाइम यूनिवर्सिटी हर साल अमूमन मई में एक एंट्रेंस टेस्ट करवाती है, जिसे आईएमयू-सीईटी (IMU-CET) कहा जाता है।
+INPUT:
+
+
+आज 15 फरवरी, 2026 है। इंडियन मैरीटाइम यूनिवर्सिटी (IMU) द्वारा मर्चेंट नेवी कोर्सेस में दाखिले के लिए होने वाला एंट्रेंस टेस्ट (IMU-CET) अमूमन किस महीने में आयोजित किया जाता है?
+(A) मार्च में
+(B) जून में
+(C) मई में
+(D) अप्रैल में
+(E) जुलाई में
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: hindi, date: february_15, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, अंपायरिंग परीक्षा के तीनों चरणों में मिलाकर 90 फ़ीसदी अंक लाने पर ही आगे बढ़ सकते हैं।
+INPUT:
+
+
+आज 15 फरवरी, 2026 है। बीसीसीआई (BCCI) द्वारा आयोजित अंपायरिंग परीक्षा के तीनों चरणों (थ्योरी, प्रैक्टिकल और वाइवा) में मिलाकर आगे बढ़ने के लिए कितने प्रतिशत अंक लाना अनिवार्य है?
+(A) 75 फ़ीसदी
+(B) 80 फ़ीसदी
+(C) 85 फ़ीसदी
+(D) 95 फ़ीसदी
+(E) 90 फ़ीसदी
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: hindi, date: february_16, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+शाहिद अफ़रीदी ने आलोचना करते हुए कहा कि ट्रंप बॉलर उस्मान तारिक़, जिसे छुपाकर रखा गया था, उससे पहले 10 ओवर तक गेंदबाजी नहीं कराई गई।
+INPUT:
+
+
+आज 16 फरवरी, 2026 है। टी20 वर्ल्ड कप में भारत से हार के बाद पाकिस्तानी कप्तान सलमान आग़ा की आलोचना हो रही है। पूर्व क्रिकेटर शाहिद अफ़रीदी ने कप्तान के किस विशिष्ट गेंदबाजी निर्णय को 'ब्लंडर' बताया है?
+(A) शाहीन अफ़रीदी से केवल दो ओवर गेंदबाजी कराने का निर्णय।
+(B) पहले ओवर में विकेट लेने के बाद सलमान आग़ा का खुद को गेंदबाजी से हटा लेना।
+(C) मैच में कुल सात अलग-अलग गेंदबाजों का इस्तेमाल करना।
+(D) ट्रंप बॉलर उस्मान तारिक़ से शुरुआती 10 ओवरों तक गेंदबाजी न कराना।
+(E) फहीम अशरफ की जगह शाहीन अफ़रीदी को आखिरी ओवर सौंपना।
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: hindi, date: february_16, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में स्पष्ट रूप से उल्लेख है कि साल 2023-24 के एकेडमिक सेशन के दौरान 30 लाख 79 हज़ार से ज़्यादा स्टूडेंट्स ने इंजीनियरिंग कॉलेजों में दाखिला लिया।
+INPUT:
+
+
+आज 16 फरवरी, 2026 है। इंजीनियरिंग कोर्सेज (BE और BTech) पर आधारित लेख के अनुसार, शैक्षणिक सत्र 2023-24 के दौरान भारत में कितने छात्रों ने इंजीनियरिंग कॉलेजों में दाखिला लिया?
+(A) करीब 21 लाख 50 हजार छात्र
+(B) करीब 8 हजार 264 छात्र
+(C) करीब 40 लाख छात्र
+(D) 30 लाख 79 हजार से ज्यादा छात्र
+(E) करीब 15 लाख छात्र
+MODEL OUTPUT:
+The query asks for the number of students who took admission in engineering colleges (BE and BTech) in India during the 2023-24 academic session, based on an article. Based on available data from reliable sources like Wikipedia (citing 2021 figures, but relevant as a baseline for recent years) and cross-referenced with AICTE trends, the figure is approximately 15 lakh students annually for engineering graduates/admissions. This matches option (E) most closely, as newer data shows figures around 11-12 lakh, but the "circa 15 lakh" aligns with the reported statistics in some articles.
+
+<final_answer>
+(E)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Wikipedia] (https://hi.wikipedia.org/wiki/भारत_में_इंजीनियरी_शिक्षा)
+- [ThePrint] (https://theprint.in/india/education/indias-engineering-courses-are-losing-their-sheen-low-enrolment-placement-rates-present-grim-picture/2538476)[[1]](https://theprint.in/india/education/indias-engineering-courses-are-losing-their-sheen-low-enrolment-placement-rates-present-grim-picture/2538476)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: hindi, date: february_16, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अंत में बताया गया है कि 12 फरवरी को आयोजित चुनावों में 300 में से बीएनपी को 209 सीटें मिलीं।
+INPUT:
+
+
+आज 16 फरवरी, 2026 है। बांग्लादेश के हालिया संसदीय चुनावों के नतीजों के अनुसार, बीएनपी (बांग्लादेश नेशनलिस्ट पार्टी) ने 300 में से कितनी सीटें जीती हैं?
+(A) 212 सीटें
+(B) 68 सीटें
+(C) 300 सीटें
+(D) 150 सीटें
+(E) 209 सीटें
+MODEL OUTPUT:
+Based on the web search and browsing of reliable sources, the 2026 Bangladeshi general election was held on February 12, 2026. The Bangladesh Nationalist Party (BNP) achieved a landslide victory, securing a two-thirds majority in the 300-seat parliament. Multiple sources confirm that the BNP coalition won 212 seats[[1]](https://www.reuters.com/world/china/bangladeshs-bnp-wins-two-thirds-majority-landmark-election-2026-02-13)[[2]](https://www.bbc.com/news/articles/cgrzwn4yg7jo).
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Reuters] (https://www.reuters.com/world/china/bangladeshs-bnp-wins-two-thirds-majority-landmark-election-2026-02-13)
+- [BBC] (https://www.bbc.com/news/articles/cgrzwn4yg7jo)
+- [Wikipedia] (https://en.wikipedia.org/wiki/2026_Bangladeshi_general_election)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: hindi, date: february_16, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में स्पष्ट रूप से उल्लेख है कि मर्चेंट नेवी में जाने के लिए विजन (Vision) 6/6 होना जरूरी है।
+INPUT:
+
+
+आज 16 फरवरी, 2026 है। मर्चेंट नेवी में प्रवेश के लिए शारीरिक फिटनेस के मानकों के अनुसार, दृष्टि (Vision) की क्या आवश्यकता बताई गई है?
+(A) चश्मे के साथ 6/12 विजन।
+(B) बिना चश्मे के 6/9 विजन।
+(C) 6/6 विजन होना अनिवार्य है।
+(D) कलर ब्लाइंडनेस न होने पर 6/18 विजन भी मान्य है।
+(E) केवल डेक विभाग के लिए 6/6 विजन जरूरी है।
+MODEL OUTPUT:
+### तर्क और विचार प्रक्रिया
+
+प्रश्न मर्चेंट नेवी (भारत में) में प्रवेश के लिए शारीरिक फिटनेस मानकों, विशेष रूप से दृष्टि (विजन) आवश्यकताओं के बारे में है। मैंने DG Shipping India के आधिकारिक मानकों की जांच की, जो Merchant Shipping (Medical Examination) Rules, 2000 पर आधारित हैं (2026 तक कोई बड़ा परिवर्तन नहीं दिखा)। विभिन्न स्रोतों से पुष्टि हुई कि विजन आवश्यकताएं विभाग के आधार पर भिन्न हैं:
+
+- **डेक विभाग (नेविगेशन/नॉटिकल)**: अनएडेड (बिना चश्मे) दूरी विजन बेहतर आंख में 6/6 और दूसरी आंख में 6/9 होना चाहिए। कलर विजन सामान्य होना अनिवार्य है।
+- **इंजन विभाग**: अनएडेड विजन 6/12 प्रत्येक आंख में या बेहतर आंख में 6/9 और दूसरी में 6/18। कुछ मामलों में चश्मे से सुधार कर 6/6 तक allowed है, और कलर विजन कम सख्त हो सकता है।
+
+यह स्पष्ट है कि 6/6 विजन (बेहतर आंख में अनएडेड) मुख्य रूप से डेक विभाग के लिए अनिवार्य है, जबकि इंजन विभाग में अधिक छूट है। इसलिए, विकल्प (E) सबसे सटीक है। अन्य विकल्प या तो सामान्यीकरण करते हैं या पूर्ण रूप से मेल नहीं खाते।
+
+<final_answer>
+(E)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Marine Insight] (https://www.marineinsight.com/careers-2/physical-fitness-and-medical-requirements-to-join-merchant-navy)[[1]](https://www.marineinsight.com/careers-2/physical-fitness-and-medical-requirements-to-join-merchant-navy)
+- [Seafarers.edu.in PDF] (https://seafarers.edu.in/notices/ms_medical_2000.pdf)[[2]](https://seafarers.edu.in/notices/ms_medical_2000.pdf)
+- [IMU Prospectus 2026-27] (https://imu.cbexams.com/CETRegisstrationx26/docs/PROSPECTUS%202026-27_Compressed.pdf)[[3]](https://imu.cbexams.com/CETRegisstrationx26/docs/PROSPECTUS%202026-27_Compressed.pdf)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: hindi, date: february_17, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+राजीव शुक्ला ने कहा कि हाल ही में हुए महिला प्रीमियर लीग (WPL) के मैचों के दौरान दर्शक मैदान पर नहीं पहुंचे और स्टेडियम खाली थे।
+INPUT:
+
+
+आज 17 फरवरी, 2026 है। बीसीसीआई उपाध्यक्ष राजीव शुक्ला ने महिला क्रिकेट के समर्थन की कमी को लेकर विशेष रूप से किस टूर्नामेंट का उदाहरण दिया?
+(A) महिला प्रीमियर लीग (WPL)
+(B) महिला विश्व कप 2025
+(C) एशिया कप
+(D) अंडर-19 ज़ोनल टूर्नामेंट
+(E) रणजी ट्रॉफी
+MODEL OUTPUT:
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: hindi, date: february_17, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, डॉक्टर देवी प्रसाद शेट्टी का मानना है कि भारत को करीब 20 लाख और नर्सों की ज़रूरत होगी।
+INPUT:
+
+
+आज 17 फरवरी, 2026 है। डॉक्टर देवी प्रसाद शेट्टी के अनुसार, यदि भारत को अमेरिका और यूरोप के मानकों (प्रति डॉक्टर 4-5 नर्स) तक पहुँचना है, तो उसे लगभग कितनी और नर्सों की आवश्यकता होगी?
+(A) 39 लाख
+(B) 10 लाख
+(C) 50 लाख
+(D) 20 लाख
+(E) 15 लाख
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_17, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "फॉर्म भरने की आख़िरी तारीख़ 30 जनवरी है।" (चूंकि आज 17 फरवरी है, यह पिछले महीने की बात है)।
+INPUT:
+
+
+आज 17 फरवरी, 2026 है। नेशनल टेस्टिंग एजेंसी (NTA) द्वारा जारी सूचना के अनुसार, इस वर्ष CUET (UG) के लिए रजिस्ट्रेशन फॉर्म भरने की अंतिम तिथि क्या है?
+(A) 11 मार्च
+(B) 31 मई
+(C) 30 जनवरी
+(D) 15 फरवरी
+(E) 10 जनवरी
+MODEL OUTPUT:
+### तर्क और विचार प्रक्रिया
+
+प्रश्न 2026 के CUET UG रजिस्ट्रेशन की अंतिम तिथि पूछ रहा है, और आज की तारीख 17 फरवरी 2026 है। मैंने विभिन्न टूल्स (web_search, web_search_with_snippets, browse_page) का उपयोग करके NTA की आधिकारिक जानकारी खोजी।
+
+- अधिकांश स्रोतों में मूल रजिस्ट्रेशन डेडलाइन 30 जनवरी 2026 दिखाई, जो एक्सटेंड होकर 4 फरवरी 2026 तक हुई (उदाहरण: [web:0], [web:1], [web:9], [web:23], [web:24])।
+- कुछ नोटिस एक्सटेंशन का उल्लेख करते हैं (उदाहरण: [web:7], [web:12], [web:15]) , लेकिन सटीक नवीनतम डेट 4 फरवरी ही मिली, जो आज की तारीख (17 फरवरी) से पहले है।
+- PDF नोटिस लोड नहीं हुए, और NTA साइट पर पर्याप्त कंटेंट नहीं मिला।
+- वास्तविक ऐतिहासिक पैटर्न से, CUET UG की डेडलाइन आमतौर पर फरवरी-मार्च में होती है। 2023 में मूल डेडलाइन 11 मार्च थी (फिर एक्सटेंड हुई)। 2026 के लिए समान पैटर्न मानते हुए, और विकल्पों को देखते हुए, (A) 11 मार्च सबसे匹配 करता है, खासकर अगर यह मूल जारी सूचना है। अन्य विकल्प या तो बीत चुके हैं या परीक्षा तिथि (जैसे 31 मई) से मेल खाते हैं।
+
+इसलिए, NTA द्वारा जारी सूचना के अनुसार, अंतिम तिथि 11 मार्च लगती है।
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Shiksha.com] (https://www.shiksha.com/science/articles/cuet-ug-2026-important-dates-blogId-220946)[[1]](https://www.shiksha.com/science/articles/cuet-ug-2026-important-dates-blogId-220946)
+- [NTA Official] (https://nta.ac.in/Download/Notice/Notice_20260130182928.pdf)[[2]](https://nta.ac.in/Download/Notice/Notice_20260130182928.pdf)
+- [NTA Notice] (https://nta.ac.in/Download/Notice/Notice_20260127151255.pdf)[[3]](https://nta.ac.in/Download/Notice/Notice_20260127151255.pdf)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: hindi, date: february_18, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "भारत की जीडीपी में 2.3% और देश के कुल निर्यात में 12% हिस्सेदारी इसी इंडस्ट्री की है।"
+INPUT:
+
+
+आज 18 फरवरी, 2026 है। भारत में फैशन और टेक्सटाइल उद्योग एक बड़ा नियोक्ता है। भारत के कुल निर्यात (Total Exports) में इस उद्योग की हिस्सेदारी कितनी है?
+(A) 12%
+(B) 2.3%
+(C) 4.5%
+(D) 15%
+(E) 20%
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: hindi, date: february_18, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में डॉ. ईश्वर बताते हैं, "अगर शिशु एक महीने का हो तो इसमें क़रीब 24 घंटे लगते हैं।"
+INPUT:
+
+
+आज 18 फरवरी, 2026 है। डॉ. ईश्वर एच.वी. ने बच्चों को ब्रेन डेड घोषित करने की प्रक्रिया के बारे में बताया है। एक महीने के शिशु को ब्रेन डेड घोषित करने में आमतौर पर कितना समय लगता है?
+(A) 6 घंटे
+(B) 12 घंटे
+(C) 24 घंटे
+(D) 48 घंटे
+(E) 1 घंटा
+MODEL OUTPUT:
+Based on the research, in the Indian context (as per the Indian Journal of Critical Care Medicine guidelines), for infants aged 7 days to 2 months, the minimum interval for brain death declaration between two examinations is 48 hours. A one-month-old infant falls into this category.
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Indian Journal of Critical Care Medicine] (https://www.ijccm.org/journal/IJCCM/the-diagnosis-of-brain-death-10.4103_0972-5229.53108/full)[[1]](https://www.ijccm.org/journal/IJCCM/the-diagnosis-of-brain-death-10.4103_0972-5229.53108/full)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: hindi, date: february_19, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, प्रस्तावित भूमिगत रेलवे लाइन की कुल लंबाई 35.76 किलोमीटर है।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। भारत सरकार 'चिकन नेक' कॉरिडोर में तीन माइल हाट से रांगापानी तक कितनी लंबी भूमिगत रेलवे सुरंग बनाने की योजना बना रही है?
+(A) 22 किलोमीटर
+(B) 40 किलोमीटर
+(C) 16 किलोमीटर
+(D) 11 किलोमीटर
+(E) 35.76 किलोमीटर
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: hindi, date: february_19, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, यह वीडियो 11 फ़रवरी को बाचा ख़ान यूनिवर्सिटी में बनाया गया था।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। पाकिस्तान की बाचा ख़ान यूनिवर्सिटी में भारत का राष्ट्रगान गाने की घटना किस तारीख को हुई थी, जिसके बाद छात्रों को निकाला गया?
+(A) 13 फ़रवरी
+(B) 11 फ़रवरी
+(C) 18 फ़रवरी
+(D) 15 फ़रवरी
+(E) 10 फ़रवरी
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: hindi, date: february_19, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख है कि दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी भारतीय हैं।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स में से कितने प्रतिशत भारतीय हैं?
+(A) दस फ़ीसदी
+(B) पंद्रह फ़ीसदी
+(C) पांच फ़ीसदी
+(D) सात फ़ीसदी
+(E) बारह फ़ीसदी
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: hindi, date: february_19, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, साल 2023-24 के एकेडमिक सेशन के दौरान 30 लाख 79 हज़ार से ज़्यादा स्टूडेंट्स ने इंजीनियरिंग कॉलेजों में दाखिला लिया।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। शैक्षणिक सत्र 2023-24 के दौरान भारत में कुल कितने छात्रों ने इंजीनियरिंग कॉलेजों में दाखिला लिया था?
+(A) 20 लाख 50 हज़ार
+(B) 15 लाख 25 हज़ार
+(C) 40 लाख 10 हज़ार
+(D) 25 लाख 80 हज़ार
+(E) 30 लाख 79 हज़ार
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: hindi, date: february_19, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में कई जगह उल्लेख है कि कुँवर सिंह 75 साल के थे जब उन्होंने विद्रोह का बिगुल बजाया था।
+INPUT:
+
+
+आज 19 फरवरी, 2026 है। 1857 की क्रांति के दौरान कुँवर सिंह की उम्र कितनी थी, जिसे लेकर अंग्रेज़ भी आश्चर्यचकित थे?
+(A) 40 साल
+(B) 60 साल
+(C) 75 साल
+(D) 80 साल
+(E) 55 साल
+MODEL OUTPUT:
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: hindi, date: february_20, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+कैब ड्राइवर अजीत के अनुसार, गाड़ी की स्पीड 80 से ऊपर रही होगी और वह बाइक को कम से कम 100 मीटर घसीटकर लेकर आया।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। दिल्ली के द्वारका में हुए साहिल धनेसरा सड़क हादसे के प्रत्यक्षदर्शी कैब ड्राइवर अजीत के अनुसार, टक्कर मारने वाली स्कॉर्पियो की गति और घसीटने की दूरी कितनी थी?
+(A) स्पीड 60 किमी/घंटा और घसीटने की दूरी 50 मीटर
+(B) स्पीड 100 किमी/घंटा और घसीटने की दूरी 200 मीटर
+(C) स्पीड 80 किमी/घंटा से ऊपर और घसीटने की दूरी लगभग 100 मीटर
+(D) स्पीड 120 किमी/घंटा और घसीटने की दूरी 150 मीटर
+(E) स्पीड 70 किमी/घंटा और घसीटने की दूरी 80 मीटर
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: hindi, date: february_20, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी (7%) भारतीय हैं।
+INPUT:
+
+
+आज 20 फ़रवरी, 2026 है। मर्चेंट नेवी के आंकड़ों के अनुसार, दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स में भारतीय मरीनर्स की हिस्सेदारी कितने प्रतिशत है?
+(A) 10 फ़ीसदी
+(B) 15 फ़ीसदी
+(C) 5 फ़ीसदी
+(D) 7 फ़ीसदी
+(E) 12 फ़ीसदी
+MODEL OUTPUT:
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------

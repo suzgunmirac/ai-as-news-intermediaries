@@ -1,0 +1,500 @@
+METADATA [6]: index: 6, language: afrique, date: february_17, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article stipule que les États-Unis prévoient d'envoyer 200 soldats supplémentaires au Nigeria.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Combien de soldats supplémentaires les États-Unis prévoient-ils d'envoyer au Nigeria pour former l'armée locale à la lutte contre les militants islamistes ?
+(A) 100 soldats.
+(B) 200 soldats.
+(C) 300 soldats.
+(D) 500 soldats.
+(E) 2 000 soldats.
+MODEL OUTPUT:
+Les États-Unis ont annoncé le déploiement de 200 soldats supplémentaires au Nigeria pour former l'armée locale dans sa lutte contre les groupes jihadistes. Cette décision a été confirmée par le porte-parole de l'armée nigériane, le général Samaila Uba, qui a précisé que ces troupes américaines auront pour mission de former et de soutenir techniquement les forces nigérianes, sans participer directement aux combats. ([acp.cd](https://acp.cd/diplomatie/nigeria-deploiement-de-200-soldats-americains-pour-former-larmee-contre-les-jihadistes/?utm_source=openai))
+
+Ce déploiement s'inscrit dans le cadre d'une coopération renforcée entre les deux pays, visant à améliorer la coordination des opérations combinant frappes aériennes et interventions au sol. Les soldats américains attendus dans les prochaines semaines seront chargés de former et d'accompagner leurs homologues nigérians pour mieux coordonner ces opérations. ([acp.cd](https://acp.cd/diplomatie/nigeria-deploiement-de-200-soldats-americains-pour-former-larmee-contre-les-jihadistes/?utm_source=openai))
+
+Il est important de noter que ce déploiement intervient après que les États-Unis ont mené des frappes aériennes contre des combattants de l'État islamique dans le nord-ouest du Nigeria, à la demande du gouvernement nigérian. ([boursorama.com](https://www.boursorama.com/actualite-economique/actualites/le-nigeria-annonce-l-arrivee-de-100-soldats-americains-supplementaires-db677d53be224f1b314e9f5e2a871034?utm_source=openai))
+
+En résumé, les États-Unis prévoient d'envoyer 200 soldats supplémentaires au Nigeria pour former l'armée locale à la lutte contre les militants islamistes.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: afrique, date: february_17, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique qu'à Longyearbyen, le jeûne ne devrait durer qu'un peu plus de 2 h 30 au début du mois sacré.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Au début du mois sacré du ramadan cette année, quelle sera la durée approximative du jeûne quotidien à Longyearbyen, en Norvège ?
+(A) Environ 6 h 30.
+(B) Un peu plus de 2 h 30.
+(C) Exactement 12 heures.
+(D) Environ 14,5 heures.
+(E) Près de 20 heures.
+MODEL OUTPUT:
+Longyearbyen, situé dans l'archipel du Svalbard en Norvège, est l'une des régions les plus septentrionales habitées au monde. En février, la durée du jour y est extrêmement courte, avec le soleil se levant vers 10h00 et se couchant vers 14h00, offrant environ 4 heures de lumière du jour. Ainsi, au début du mois sacré du Ramadan en 2026, les musulmans de Longyearbyen observeront un jeûne quotidien d'environ 20 heures, de l'aube au coucher du soleil.
+
+Cette situation est similaire à celle d'autres régions proches du cercle polaire arctique, où les durées de jeûne peuvent dépasser 16 heures par jour en raison de la longueur du jour à cette période de l'année. ([lodj.ma](https://www.lodj.ma/Ramadan-2026-des-journees-de-jeune-plus-moderees-grace-a-un-calendrier-hivernal_a161391.html?utm_source=openai))
+
+Il est important de noter que dans ces régions, les autorités religieuses peuvent adapter les horaires de prière et de jeûne en fonction des conditions locales, afin de faciliter l'observance du Ramadan pour les fidèles.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: afrique, date: february_17, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que selon Vladimir Poutine, la vitesse du missile Oreshnik pourrait atteindre 2,5 à 3 km par seconde.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 17 février 2026. Quelle est la vitesse maximale que pourrait atteindre le nouveau missile russe "Oreshnik" selon les déclarations de Vladimir Poutine citées dans l'article ?
+(A) 900 km/h.
+(B) 1,5 km par seconde.
+(C) 2,5 à 3 km par seconde.
+(D) 5 km par seconde.
+(E) Mach 10 (environ 3,4 km par seconde).
+MODEL OUTPUT:
+Selon les déclarations de Vladimir Poutine, le missile russe "Oreshnik" est capable d'atteindre des vitesses allant jusqu'à Mach 10, soit environ 3,4 km par seconde. ([apnews.com](https://apnews.com/article/f8d30cb15b6b1022f2e63263480df3b2?utm_source=openai))
+
+Par conséquent, la réponse correcte est l'option (E).
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que l'USS Abraham Lincoln se trouve au large des côtes d'Oman, à environ 700 km de l'Iran (et à 240 km des côtes d'Oman selon les images Sentinel-2).
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, les tensions militaires persistent près de l'Iran. Selon les analyses d'imagerie satellitaire de BBC Verify, où se situe précisément le porte-avions USS Abraham Lincoln par rapport aux côtes iraniennes ?
+(A) Dans le détroit d'Ormuz, à moins de 50 km des côtes iraniennes.
+(B) Dans le golfe Persique, stationné près de la base navale de Bahreïn.
+(C) En Méditerranée orientale, à proximité de la base de Souda Bay.
+(D) En mer d'Arabie, au large d'Oman, à environ 700 km de l'Iran.
+(E) En mer Rouge, positionné pour surveiller le transit pétrolier de l'île de Kharg.
+MODEL OUTPUT:
+Le 18 février 2026, les tensions militaires près de l'Iran sont élevées. Selon des analyses d'imagerie satellitaire de BBC Verify, le porte-avions USS Abraham Lincoln est positionné dans le golfe Persique, stationné près de la base navale de Bahreïn. Cette localisation le place à proximité des côtes iraniennes, renforçant ainsi la présence militaire américaine dans la région.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le professeur Faustin Likonda de l'INERA affirme que les analyses en laboratoire ont confirmé que ces larves offrent plus de 41 % de protéines.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, l'entreprise AstiFerme à Bukavu révolutionne l'agriculture locale. Selon les analyses de laboratoire citées par le professeur Faustin Likonda, quel est le taux de protéines contenu dans les larves de la mouche soldat noire ?
+(A) Environ 15 % de protéines.
+(B) Exactement 25 % de protéines.
+(C) Entre 30 % et 35 % de protéines.
+(D) Près de 55 % de protéines.
+(E) Plus de 41 % de protéines.
+MODEL OUTPUT:
+Les larves de la mouche soldat noire (Hermetia illucens) sont reconnues pour leur richesse en protéines. Selon une étude menée par Mosengo et al. (2025), ces larves contiennent environ 50,5 % de protéines. ([ajter.com](https://ajter.com/wp-content/uploads/2025/07/Mosengo-et_al_AJTER_Vol_4_2_2025.pdf?utm_source=openai)) Cette valeur est nettement supérieure à celle mentionnée dans l'option (C), qui indique une teneur en protéines comprise entre 30 % et 35 %. Ainsi, l'option (D), qui stipule que les larves contiennent près de 55 % de protéines, est la plus proche de cette estimation.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne explicitement que "plus de 10 000 infirmières qui vivaient en Nouvelle-Zélande sont parties en Australie l'année dernière".
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, la Nouvelle-Zélande fait face à un exode massif de ses citoyens. Combien d'infirmières vivant en Nouvelle-Zélande sont parties s'installer en Australie au cours de l'année dernière ?
+(A) Plus de 10 000 infirmières.
+(B) Environ 5 000 infirmières.
+(C) Exactement 7 500 infirmières.
+(D) Près de 15 000 infirmières.
+(E) Moins de 2 000 infirmières.
+MODEL OUTPUT:
+Les données disponibles concernant l'émigration des infirmières néo-zélandaises vers l'Australie au cours de l'année écoulée sont limitées. Cependant, une note d'information du ministère de la Santé de Nouvelle-Zélande, datée de 2024, indique que, entre juillet 2022 et août 2023, 80 % des demandes d'attestation de situation régulière (letter of good standing) à l'Ordre des infirmiers ont été envoyées en Australie. Bien que ce chiffre ne précise pas le nombre exact d'infirmières concernées, il suggère une mobilité significative du personnel infirmier vers l'Australie. ([oecd.org](https://www.oecd.org/fr/publications/perspectives-des-migrations-internationales-2025_695789d1-fr/full-report/international-migration-of-health-professionals-to-oecd-countries_fea88ae4.html?utm_source=openai))
+
+En l'absence de données précises sur le nombre d'infirmières ayant émigré, il est difficile de déterminer avec certitude l'option correcte parmi celles proposées. Toutefois, compte tenu de la tendance générale à l'émigration et des informations disponibles, il est plausible que le nombre d'infirmières ayant quitté la Nouvelle-Zélande pour l'Australie au cours de l'année écoulée soit inférieur à 2 000.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne qu'en vertu de la loi ghanéenne sur la cybersécurité de 2020, toute personne publiant des images explicites sans consentement encourt jusqu'à 25 ans de prison.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, le Ghana cherche à extrader un ressortissant russe pour cybercriminalité. Selon la loi ghanéenne sur la cybersécurité de 2020, quelle peine maximale encourt une personne publiant des images explicites d'adultes sans leur consentement ?
+(A) 5 ans de prison.
+(B) 10 ans de prison.
+(C) 14 ans de prison.
+(D) 20 ans de prison.
+(E) 25 ans de prison.
+MODEL OUTPUT:
+La loi ghanéenne sur la cybersécurité de 2020 vise à protéger les individus contre diverses formes de cybercriminalité, y compris la diffusion non consensuelle d'images explicites. Bien que les détails précis des peines varient en fonction de la gravité de l'infraction et des circonstances spécifiques, les peines maximales pour des infractions similaires dans d'autres juridictions africaines sont souvent élevées. Par exemple, en Côte d'Ivoire, la loi relative à la cybersécurité et à la protection des données à caractère personnel prévoit des peines d'emprisonnement pouvant atteindre 10 ans pour des infractions liées à la diffusion non consensuelle d'images intimes. ([ivoire-juriste.com](https://www.ivoire-juriste.com/2026/02/revengeporn-en%20cote-d-ivoire-comprendre%20la-loi-et-agir-efficacement.html?utm_source=openai))
+
+En l'absence d'informations spécifiques sur la peine maximale prévue par la loi ghanéenne de 2020 pour la publication d'images explicites d'adultes sans leur consentement, il est raisonnable de supposer que la peine maximale est comparable à celle d'autres juridictions africaines, soit 10 ans de prison.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique qu'à Longyearbyen, le jeûne ne devrait durer qu'entre 10 h 50 et 13 h 30 environ, soit un peu plus de 2 h 30.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, le Ramadan commence. À Longyearbyen, en Norvège, quelle sera approximativement la durée du jeûne quotidien au début de ce mois sacré ?
+(A) Un peu plus de 2 h 30.
+(B) Environ 6 h 30.
+(C) Exactement 9 heures.
+(D) Environ 11 heures et 30 minutes.
+(E) Plus de 14 heures et 30 minutes.
+MODEL OUTPUT:
+Le Ramadan 2026 commence le 18 février. À Longyearbyen, en Norvège, la durée du jeûne quotidien au début de ce mois sacré est d'environ 12 heures et 4 minutes. ([isubqo.com](https://isubqo.com/horaires-de-iftar/norway?utm_source=openai)) Cette durée est nettement plus longue que celle observée dans de nombreuses autres régions du monde. Par exemple, à Paris, le jeûne dure environ 12 heures et 8 minutes le 18 février 2026. ([jolimatin.com](https://jolimatin.com/ramadan-2026-pour-la-diaspora-algerienne-en-europe-et-au-canada/?utm_source=openai)) Ainsi, la durée du jeûne à Longyearbyen est supérieure à celle de Paris, mais elle reste inférieure à 14 heures et 30 minutes.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise qu'à la fin du jeu, les joueurs apportent les artefacts récupérés au Musée des civilisations africaines à Dakar, au Sénégal.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, le jeu vidéo "Relooted" explore la restitution des biens culturels. Dans quel lieu réel les joueurs doivent-ils apporter les artefacts récupérés à la fin du jeu ?
+(A) Au British Museum à Londres.
+(B) Au Musée du Quai Branly à Paris.
+(C) Au Palais royal de Kumasi au Ghana.
+(D) Au Musée des civilisations africaines à Dakar.
+(E) Au Musée national de Zambie à Lusaka.
+MODEL OUTPUT:
+Le jeu vidéo "Relooted" se concentre sur la restitution des artefacts africains conservés dans des musées occidentaux. Les joueurs y récupèrent des objets culturels tels que les bronzes du Bénin et le tambour sacré Ngadji des Pokomos, confisqué par les autorités coloniales britanniques en 1902. ([rtbf.be](https://www.rtbf.be/article/relooted-un-jeu-video-ou-l-on-recupere-des-artefacts-africains-dans-les-musees-occidentaux-11569396?utm_source=openai))
+
+À la fin du jeu, les artefacts récupérés sont restitués au Palais royal de Kumasi, au Ghana, lieu emblématique de la culture et de l'histoire ghanéennes. Ce choix souligne l'importance de retourner ces objets à leur contexte culturel d'origine.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que les tickets coûtent 50 Fcfa pour le petit déjeuner et 100 Fcfa pour le repas de midi et le dîner.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, les tensions à l'université de Dakar (UCAD) sont liées aux "journées sans tickets". Quel est le prix habituel d'un ticket pour le repas de midi ou le dîner dans les restaurants universitaires, selon l'intersyndicale du COUD ?
+(A) 100 Fcfa.
+(B) 50 Fcfa.
+(C) 150 Fcfa.
+(D) 200 Fcfa.
+(E) 500 Fcfa.
+MODEL OUTPUT:
+Selon les informations disponibles, les restaurants universitaires de l'Université Cheikh Anta Diop de Dakar (UCAD) proposent des repas à des tarifs subventionnés par l'État. Chaque étudiant paie 250 FCFA par jour pour trois repas (petit-déjeuner, déjeuner et dîner), tandis que l'État verse aux exploitants un minimum de 2 250 FCFA par étudiant et par jour. ([senenews.com](https://www.senenews.com/actualites/le-ministere-de-lenseignement-superieur-parle-voici-toute-la-verite-sur-les-bourses_575624.html?utm_source=openai))
+
+Cependant, les options proposées dans la question ne correspondent pas directement à ces tarifs. Par exemple, le petit-déjeuner est facturé à 50 FCFA, et le déjeuner et le dîner à 100 FCFA chacun, totalisant 250 FCFA pour les trois repas. ([coudsn.com](https://www.coudsn.com/restaurer.html?utm_source=openai))
+
+Étant donné que les options de réponse ne correspondent pas exactement aux tarifs mentionnés, il est possible qu'il y ait une confusion ou une mise à jour des tarifs depuis les dernières informations disponibles.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique qu'environ 60 % des citoyens néo-zélandais qui quittent leur pays s'installent en Australie.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, la migration des Néo-Zélandais vers l'Australie s'intensifie. Quel pourcentage des citoyens néo-zélandais quittant leur pays choisissent de s'installer en Australie ?
+(A) Environ 25 %.
+(B) Environ 40 %.
+(C) Environ 50 %.
+(D) Environ 75 %.
+(E) Environ 60 %.
+MODEL OUTPUT:
+Selon les données disponibles, environ 50 % des citoyens néo-zélandais quittant leur pays choisissent de s'installer en Australie. En 2023, la Nouvelle-Zélande a enregistré une perte migratoire nette de 44 700 citoyens, dont plus de la moitié se sont dirigés vers l'Australie. ([nouvellezelandeservices.com](https://www.nouvellezelandeservices.com/blog-nzs/2023/11/21/perte-migratoire-nette-record-de-citoyens-neo-zelandais?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que selon Vladimir Poutine, la vitesse du missile Oreshnik pourrait atteindre 2,5 à 3 km par seconde.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, la Russie utilise son nouveau missile "Oreshnik" en Ukraine. Selon les déclarations de Vladimir Poutine, quelle vitesse ce missile pourrait-il atteindre ?
+(A) 900 km/h.
+(B) 2,5 à 3 km par seconde.
+(C) Mach 1.
+(D) 5 500 km/h.
+(E) 10 km par minute.
+MODEL OUTPUT:
+Vladimir Poutine a déclaré que le missile hypersonique "Oreshnik" atteint une vitesse de Mach 10, soit environ 12 350 km/h. ([lexpress.fr](https://www.lexpress.fr/monde/vladimir-poutine-confirme-que-la-russie-a-frappe-lukraine-avec-un-nouveau-missile-balistique-NQJBA62WAJHI7PVDQ7SMITRV4M/?utm_source=openai)) Parmi les options proposées, la plus proche est (D) 5 500 km/h, bien que cette valeur soit inférieure à la vitesse réelle du missile.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise qu'à Puerto Williams, le jeûne devrait durer environ de 6 h 30 à 21 h (14,5 heures) au début de ce ramadan.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, le Ramadan commence. À Puerto Williams, au Chili, ville la plus méridionale du monde, quels sont les horaires prévus pour le jeûne au début du mois ?
+(A) De 10 h 50 à 13 h 30.
+(B) De 6 h 50 à 18 h 20.
+(C) De 6 h 30 à 21 h.
+(D) De 4 h 00 à 20 h 00.
+(E) De 8 h 00 à 19 h 30.
+MODEL OUTPUT:
+Le Ramadan commence le 18 février 2026. À Puerto Williams, Chili, les heures de lever et de coucher du soleil sont respectivement à 6 h 29 et 20 h 59, offrant une durée de jour d'environ 14 heures et 30 minutes. ([generalblue.com](https://www.generalblue.com/sunrise-sunset-in-puerto-williams-region-of-magallanes-chile?utm_source=openai))
+
+Les horaires de jeûne pour le Ramadan sont généralement déterminés par les heures de prière, notamment le Fajr (prière de l'aube) et le Maghrib (prière du coucher du soleil). Cependant, ces horaires spécifiques ne sont pas fournis dans les sources disponibles. En l'absence de ces informations précises, il est difficile de déterminer les horaires exacts du jeûne pour le 18 février 2026 à Puerto Williams.
+
+Parmi les options proposées, l'option (B) "De 6 h 50 à 18 h 20" semble la plus plausible, car elle correspond à une durée de jeûne d'environ 11 heures et 30 minutes, ce qui est typique dans les régions proches de l'équateur pendant cette période de l'année.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne le "Corridor de la Liberté" comme étant le projet reliant les mines de Guinée à un port libérien.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, les projets d'infrastructure en Afrique sont discutés. Comment s'appelle le projet de construction reliant les mines de fer de Guinée à un port libérien, impliquant la société Ivanhoe Atlantic ?
+(A) Le Corridor de la Renaissance.
+(B) Le Projet Accra Reset.
+(C) L'Agenda 2063.
+(D) Le Corridor de la Liberté.
+(E) Le Pont Trans-Atlantique.
+MODEL OUTPUT:
+Le projet de construction reliant les mines de fer de Guinée à un port libérien, impliquant la société Ivanhoe Atlantic, est connu sous le nom de "Projet Kon Kweni". Ce projet vise à exporter le minerai extrait du mont Nimba en Guinée vers le port de Buchanan au Libéria, en utilisant le chemin de fer Yekepa–Buchanan. ([cri.org](https://cri.org/guinee-projet-dextraction-menace-forets-populations-locales/?utm_source=openai))
+
+Le nom "Kon Kweni" est directement lié au site minier concerné, le mont Nimba, également appelé Nimba. ([miningweekly.com](https://www.miningweekly.com/article/kon-kweni-iron-ore-project-liberiaguineasierra-leonecte-divoire-2025-11-07?utm_source=openai))
+
+Parmi les options proposées, aucune ne correspond au nom officiel de ce projet. Ainsi, la réponse correcte est l'option (E) : "Le Pont Trans-Atlantique".
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: afrique, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne un crâne vieux de 300 000 ans découvert dans l'actuelle Zambie, appelé Kabwe 1.
+INPUT:
+
+
+Aujourd'hui, le 18 février 2026, le jeu "Relooted" met en scène la récupération de fossiles humains. Quel est l'âge estimé du crâne "Kabwe 1" (ou Broken Hill Man) que l'équipe de Nomali doit récupérer ?
+(A) 10 000 ans.
+(B) 50 000 ans.
+(C) 100 000 ans.
+(D) 250 000 ans.
+(E) 300 000 ans.
+MODEL OUTPUT:
+Le crâne "Kabwe 1", également connu sous le nom d'"Homme de Broken Hill", a été découvert en 1921 à Kabwe, en Zambie. Des études récentes ont estimé son âge à environ 299 000 ± 25 000 ans, suggérant qu'il date du Pléistocène moyen. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/32296179/?utm_source=openai))
+
+Par conséquent, l'âge estimé du crâne "Kabwe 1" est d'environ 300 000 ans.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: afrique, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article stipule : « En vertu de la loi ghanéenne sur la cybersécurité de 2020, toute personne publiant des images explicites d'enfants ou d'adultes sans leur consentement éclairé encourt jusqu'à 25 ans de prison. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. Un ressortissant russe est accusé au Ghana d'avoir filmé des femmes à leur insu. Quelle peine maximale encourt une personne pour la publication d'images explicites sans consentement selon la loi ghanéenne sur la cybersécurité de 2020 ?
+(A) 10 ans de prison.
+(B) 14 ans de prison.
+(C) 15 ans de prison.
+(D) 20 ans de prison.
+(E) 25 ans de prison.
+MODEL OUTPUT:
+La loi ghanéenne sur la cybersécurité de 2020 contient des dispositions spécifiques visant à protéger les enfants en ligne, notamment en ce qui concerne les images indécentes d'enfants, l'extorsion sexuelle et la cyberprédation d'enfants. ([issafrica.s3.amazonaws.com](https://issafrica.s3.amazonaws.com/site/uploads/ocwar-t-7-fr.pdf?utm_source=openai)) Cependant, les informations disponibles ne précisent pas la peine maximale encourue pour la publication d'images explicites sans consentement selon cette loi.
+
+En l'absence de détails spécifiques sur les peines prévues par la loi ghanéenne sur la cybersécurité de 2020, il est difficile de déterminer avec certitude la peine maximale encourue pour la publication d'images explicites sans consentement.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: afrique, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : « Mais à Longyearbyen, en Norvège... cela ne devrait durer qu'entre 10 h 50 et 13 h 30 environ (un peu plus de 2 h 30) au début du mois sacré. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. En raison de la position géographique, la durée du jeûne du Ramadan varie considérablement. Combien de temps devrait durer le jeûne à Longyearbyen, en Norvège, au début de ce mois sacré ?
+(A) Un peu plus de 2 h 30.
+(B) Environ 9 heures.
+(C) Environ 11,5 heures.
+(D) Environ 13 heures et 15 minutes.
+(E) Environ 14,5 heures.
+MODEL OUTPUT:
+La durée du jeûne pendant le Ramadan varie considérablement en fonction de la latitude et de la période de l'année. À Longyearbyen, en Norvège, située au-delà du cercle polaire arctique, les journées sont extrêmement longues en février et mars. En 2026, le Ramadan devrait débuter vers le 17 ou 18 février, coïncidant avec la fin de l'hiver et le début du printemps dans l'hémisphère nord. Cette période est caractérisée par des journées plus longues, mais pas encore aussi longues qu'en été. Ainsi, à Longyearbyen, la durée du jeûne au début du Ramadan serait d'environ 14,5 heures.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: afrique, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : « Avec chaque torsion activée ou désactivée, il générait 553 particules de microplastiques par litre d'eau. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. L'exposition aux microplastiques peut survenir lors de gestes quotidiens simples. Selon une étude australienne, combien de morceaux de microplastiques le simple fait de dévisser une capsule de bouteille en plastique génère-t-il par litre d'eau ?
+(A) 250 particules.
+(B) 553 particules.
+(C) 11,6 milliards de particules.
+(D) 3,1 milliards de particules.
+(E) 145 particules.
+MODEL OUTPUT:
+Selon une étude australienne, le simple fait de dévisser une capsule de bouteille en plastique génère environ 11,6 milliards de microplastiques par litre d'eau. ([media24.fr](https://media24.fr/2025/06/22/les-bouteilles-en-verre-contiennent-plus-de-microplastiques-que-celles-en-plastique-ou-en-aluminium-une-etude-francaise-bouleverse-les-idees-recues/?utm_source=openai))
+
+Les autres options mentionnées dans la question ne correspondent pas aux données disponibles.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: afrique, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise : « Beaucoup de blessés ont nécessité un sauvetage intensif pour être extraits de la boue ; leurs âges variaient de 24 à 32 ans. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. En janvier 2024, un accident dans une mine d'or illégale en Tanzanie (région de Simiyu) a causé la mort de 22 travailleurs. Quelle était la tranche d'âge de ces victimes ?
+(A) Entre 18 et 25 ans.
+(B) Entre 30 et 45 ans.
+(C) Entre 20 et 40 ans.
+(D) Entre 15 et 30 ans.
+(E) Entre 24 et 32 ans.
+MODEL OUTPUT:
+En janvier 2024, un accident dans une mine d'or illégale à Ng'alita, dans le district de Bariadi, région de Simiyu, en Tanzanie, a entraîné la mort de 22 mineurs. Les autorités ont indiqué que les victimes étaient âgées de 24 à 38 ans. ([zonebourse.com](https://www.zonebourse.com/cours/indice/DOW-JONES-AFRICA-TITANS-5-3966403/actualite/L-effondrement-d-une-mine-d-or-en-Tanzanie-fait-22-morts-selon-un-haut-responsable-45737248/?utm_source=openai))
+
+Par ailleurs, un autre rapport mentionne que la plupart des victimes étaient des jeunes mineurs âgés de 25 à 35 ans. ([impact.sn](https://www.impact.sn/notes/Tanzanie-au-moins-21-mineurs-tues-dans-l-effondrement-d-une-mine-d-or_b77802449.html?utm_source=openai))
+
+Ces informations suggèrent que la tranche d'âge des victimes se situe principalement entre 24 et 38 ans.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: afrique, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que les épis sont transportés par camion vers un port près de Dakar, chargés sur un porte-conteneurs, et que "Six jours plus tard, ils seront en vente dans un supermarché britannique."
+INPUT:
+
+
+Nous sommes le 20 février 2026. Des légumes cultivés au Sénégal sont exportés vers le Royaume-Uni pendant l'hiver. Selon les informations fournies, combien de temps s'écoule-t-il entre le moment où les épis de maïs sont chargés sur un porte-conteneurs au port de Dakar et leur mise en vente dans un supermarché britannique ?
+(A) Six jours
+(B) Une semaine exactement
+(C) Cinq heures
+(D) Dix jours
+(E) Vingt-quatre heures
+MODEL OUTPUT:
+Le transport maritime des épis de maïs du port de Dakar au Royaume-Uni implique plusieurs étapes, chacune avec des délais spécifiques. Après le chargement des épis de maïs sur un porte-conteneurs au port de Dakar, le transit maritime vers le Royaume-Uni dure généralement entre 7 et 14 jours, selon l'itinéraire et les escales éventuelles. ([vosreponses.com](https://vosreponses.com/quels-sont-les-delais-de-livraison-lagos-dakar/?utm_source=openai)) Une fois arrivés au Royaume-Uni, les épis de maïs subissent des formalités douanières et de déchargement, ce qui peut ajouter quelques jours supplémentaires. En tenant compte de ces étapes, le délai total entre le chargement des épis de maïs au port de Dakar et leur mise en vente dans un supermarché britannique est d'environ 10 à 14 jours. Par conséquent, l'option la plus proche est (D) Dix jours.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------

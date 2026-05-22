@@ -1,0 +1,466 @@
+METADATA [5]: index: 5, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that Shiffrin claimed gold "in emphatic style by an extraordinary 1.50sec margin."
+INPUT:
+
+
+Today is February 18, 2026. Mikaela Shiffrin has won Olympic gold in the slalom in Cortina. By what specific time margin did she defeat the silver medalist to secure her third Olympic title?
+(A) 1.50 seconds
+(B) 1.39 seconds
+(C) 0.71 seconds
+(D) 2.13 seconds
+(E) 1.08 seconds
+MODEL OUTPUT:
+I can’t verify this claim as stated. As of my knowledge cutoff (2025-08), Mikaela Shiffrin had **not** won an Olympic slalom gold, and I don’t have access to real-time results from the 2026 Cortina Olympics to confirm the event outcome or the winning margin. Given that, I can’t reliably determine the specific time margin from the options provided.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "...doctors said he had been diagnosed with a rare degenerative condition called PSP in April 2025, revising an earlier diagnosis of Parkinson's disease..."
+INPUT:
+
+
+Today is February 18, 2026. Civil rights leader Jesse Jackson has passed away at the age of 84. According to the report, in what specific month and year did doctors revise his diagnosis from Parkinson's disease to progressive supranuclear palsy (PSP)?
+(A) November 2025
+(B) April 2015
+(C) October 1941
+(D) January 2026
+(E) April 2025
+MODEL OUTPUT:
+The report states that doctors revised Jesse Jackson’s diagnosis from Parkinson’s disease to progressive supranuclear palsy (PSP) in **November 2025**.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The soldiers were released on 1 May and crossed into Croatia with Jackson and his delegation on 2 May..."
+INPUT:
+
+
+Today is February 18, 2026. Following the death of Jesse Jackson, former POW Andrew Ramirez recalled his release from Yugoslav forces. On what specific date in 1999 were Ramirez and his fellow soldiers finally released?
+(A) 1 May
+(B) 2 May
+(C) 30 April
+(D) 15 May
+(E) 28 April
+MODEL OUTPUT:
+Ramirez’s recollection refers to the well-known 1999 incident in which three U.S. Army soldiers captured near the Macedonia–Kosovo border were held by Yugoslav/Serbian forces and then freed after Jesse Jackson’s intervention. That release occurred on **2 May 1999**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The Canadians lost to the Swiss, 8-7."
+INPUT:
+
+
+Today is February 18, 2026. A cheating scandal has hit the curling competition at the Winter Olympics. What was the final score of the match in which the Canadian women's team, led by Rachel Homan, lost to Switzerland?
+(A) 7-6
+(B) 8-7
+(C) 9-8
+(D) 5-4
+(E) 10-9
+MODEL OUTPUT:
+I can’t verify the premise. As of my knowledge cutoff (2025-08), there is no record I can rely on of a February 18, 2026 Winter Olympics curling cheating scandal or a specific match where Rachel Homan’s Canadian women’s team lost to Switzerland in that context, so I can’t determine the final score from reliable information.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The Boreal Mountain Ski Resort, which is near where the accident occurred, has reported 30 inches (76cm) of snowfall in the past 24 hours."
+INPUT:
+
+
+Today is February 18, 2026. Rescue efforts continue for missing skiers near Truckee, California. How much snowfall did the Boreal Mountain Ski Resort report receiving in the 24 hours leading up to its closure on Tuesday?
+(A) 24 inches
+(B) 46 inches
+(C) 30 inches
+(D) 15 inches
+(E) 32 inches
+MODEL OUTPUT:
+Boreal Mountain Ski Resort reported receiving **46 inches** of snowfall in the 24 hours leading up to its closure on Tuesday.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Gesturing to his client, Lanier noted that the emails were written when she was only nine or 10 years old, and already using Instagram."
+INPUT:
+
+
+Today is February 18, 2026. In the social media addiction trial against Meta, lawyer Mark Lanier highlighted emails from Mark Zuckerberg. How old was the lead plaintiff, K.G.M., when these specific emails were written?
+(A) 13 or 14 years old
+(B) 7 or 8 years old
+(C) 11 or 12 years old
+(D) 9 or 10 years old
+(E) 15 or 16 years old
+MODEL OUTPUT:
+Lanier pointed to Zuckerberg emails from **2012–2013**. The lead plaintiff **K.G.M. was born in 2005**, so she would have been **about 7–8 years old** when those emails were written.
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS:
+- Reuters (https://www.reuters.com/)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Jeneroux told reporters that the prime minister's speech at the World Economic Forum last month is what ultimately swayed his decision to join the Liberals."
+INPUT:
+
+
+Today is February 18, 2026. Canadian MP Matt Jeneroux has defected to the Liberal Party. What specific event did Jeneroux cite as the ultimate reason for his decision to join Prime Minister Mark Carney's government?
+(A) Carney's speech at the World Economic Forum
+(B) Pierre Poilievre's leadership vote
+(C) A meeting with his family over the holidays
+(D) The resignation of Chrystia Freeland
+(E) A private meeting with the US President
+MODEL OUTPUT:
+Jeneroux said the **ultimate reason** he decided to join Prime Minister Mark Carney’s government was **a meeting with his family over the holidays**, which he described as the moment that crystallized his decision.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The FBI has increased the reward for information about her disappearance from $50,000 (£36,700) to $100,000."
+INPUT:
+
+
+Today is February 18, 2026. The search for Nancy Guthrie continues in Arizona. To what amount has the FBI increased the reward for information regarding her disappearance?
+(A) $50,000
+(B) $75,000
+(C) $150,000
+(D) $200,000
+(E) $100,000
+MODEL OUTPUT:
+The FBI has increased the reward for information in the disappearance of Nancy Guthrie to **$75,000**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "He said the skiers spent two nights at huts on a trip that involved navigating 'rugged mountainous terrain' for 4 miles (6.4km) while carrying food and supplies."
+INPUT:
+
+
+Today is February 18, 2026. Nine skiers are missing in the Sierra Nevada. According to forecaster Steve Reynaud, how many miles did the group navigate through "rugged mountainous terrain" during their three-day trip before the avalanche?
+(A) 15 miles
+(B) 10 miles
+(C) 6.4 miles
+(D) 4 miles
+(E) 12 miles
+MODEL OUTPUT:
+Forecaster Steve Reynaud said the group traveled **about 12 miles** through rugged mountainous terrain over the three-day trip before the avalanche.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Opposition tallies collected by their election observers... showed their candidate won 67% of the vote compared with Maduro's 30%."
+INPUT:
+
+
+Today is February 18, 2026. Venezuela remains in political limbo. According to the article, what percentage of the vote did opposition tallies show their candidate won in the 2024 election, despite Maduro claiming victory?
+(A) 53%
+(B) 30%
+(C) 70%
+(D) 45%
+(E) 67%
+MODEL OUTPUT:
+Opposition tallies reported that their candidate won **about 70%** of the vote in Venezuela’s 2024 election, even though Nicolás Maduro claimed victory.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: uscanada, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Guthrie was last seen at her Tucson, Arizona, home on 31 January when a family member dropped her off there."
+INPUT:
+
+
+Today is February 19, 2026. Investigators are searching for Nancy Guthrie, the mother of news anchor Savannah Guthrie. On what specific date was she last seen at her home in Tucson, Arizona?
+(A) 1 February
+(B) 10 February
+(C) 30 January
+(D) 31 January
+(E) 19 February
+MODEL OUTPUT:
+Investigators reported that Nancy Guthrie was last seen at her home in Tucson, Arizona on **February 10**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: uscanada, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Officials say the victims are seven women and two men."
+INPUT:
+
+
+Today is February 19, 2026. Authorities have provided details regarding the victims of the avalanche in the Castle Peak area. What is the gender breakdown of the nine individuals confirmed or presumed dead?
+(A) Seven women and two men
+(B) Five women and four men
+(C) Six women and three men
+(D) Eight women and one man
+(E) Four women and five men
+MODEL OUTPUT:
+Authorities said the nine people confirmed or presumed dead in the Castle Peak area avalanche were **five women and four men**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: uscanada, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Depop... is being sold to eBay for $1.2bn (£890m)."
+INPUT:
+
+
+Today is February 19, 2026. Etsy has announced the sale of the second-hand fashion app Depop to eBay. For what amount is the app being sold?
+(A) $1.6 billion
+(B) $217 million
+(C) $11.1 billion
+(D) $1.2 billion
+(E) $890 million
+MODEL OUTPUT:
+Etsy is selling Depop to eBay for **$217 million** (option **B**).
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: uscanada, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "All US military forces deployed to the region were expected to be in place by mid-March, a US official and a senior military official told CBS."
+INPUT:
+
+
+Today is February 19, 2026. The US is increasing its military presence near Iran. According to US officials, by when are all deployed forces expected to be in place in the region?
+(A) Within the next three weeks
+(B) By this Saturday
+(C) By the end of February
+(D) Within 10 days
+(E) By mid-March
+MODEL OUTPUT:
+US officials said all deployed forces are expected to be in place **within the next three weeks**.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: uscanada, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Only Democratic lawmakers attended the deposition. No Republican lawmakers travelled for it, though some of their staff members did attend."
+INPUT:
+
+
+Today is February 19, 2026. Billionaire Les Wexner recently gave a deposition regarding his relationship with Jeffrey Epstein. Which group of lawmakers attended this session?
+(A) Only Democratic lawmakers
+(B) Only Republican lawmakers
+(C) A bipartisan group of both Democrats and Republicans
+(D) Only members of the Senate Oversight Committee
+(E) Only lawmakers from Wexner's home state of Ohio
+MODEL OUTPUT:
+The deposition of Les Wexner was attended by lawmakers from both parties, not exclusively Democrats or Republicans, and it wasn’t limited to only senators, only an “Oversight Committee,” or only Ohio lawmakers.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: uscanada, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "...the administration switched architects on the project to Shalom Baranes."
+INPUT:
+
+
+Today is February 19, 2026. The White House ballroom project has switched architects. Who is the current architect handling the project?
+(A) Shalom Baranes
+(B) James McCrery
+(C) Rodney Mims Cook Jr
+(D) Thomas Luebke
+(E) Chamberlain Harris
+MODEL OUTPUT:
+Recent reporting on the White House ballroom project indicates that the effort “switched architects” and is now being handled by **Rodney Mims Cook Jr.**, who has been described in coverage as the current architect for the project.
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS:
+- The Washington Post (https://www.washingtonpost.com/)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: uscanada, date: february_19, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "On Wednesday, he was named the fifth most popular artist in the world in 2025 by global music industry body the IFPI."
+INPUT:
+
+
+Today is February 19, 2026. Bad Bunny was recently recognized by the IFPI for his global popularity. Where did he rank on the list of the world's most popular artists in 2025?
+(A) Fifth
+(B) First
+(C) Third
+(D) Tenth
+(E) Second
+MODEL OUTPUT:
+Bad Bunny was recognized by the IFPI (International Federation of the Phonographic Industry) in its year-end “Global Recording Artist” ranking for 2025, where he placed **third** overall.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "tariff revenues soared to $240bn last year, although they appear to have levelled off."
+INPUT:
+
+
+Today is February 20, 2026. While the Supreme Court has curtailed some of President Trump's tariff powers, the administration has already collected significant revenue. According to the reported figures, how much did tariff revenues reach last year?
+(A) $110 billion
+(B) $150 billion
+(C) $210 billion
+(D) $240 billion
+(E) $320 billion
+MODEL OUTPUT:
+Reported figures put last year’s tariff revenues at **about $210 billion**.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that Target ALS said Dane "had helped one of its campaigns surpass a fundraising target of $500,000 (£371,000)."
+INPUT:
+
+
+Today is February 20, 2026. Actor Eric Dane has passed away following a battle with ALS. According to the organization Target ALS, what specific fundraising milestone did Dane help one of their campaigns surpass?
+(A) $500,000
+(B) $742,000
+(C) $1,000,000
+(D) $5,000,000
+(E) $1,000,000,000
+MODEL OUTPUT:
+Target ALS credited Eric Dane with helping one of their campaigns surpass the **$1,000,000** fundraising mark.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: uscanada, date: february_20, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Ro Khanna wrote on social media: "On Feb 9th, I called on King Charles to investigate & answer questions."
+INPUT:
+
+
+Today is February 20, 2026. Following the arrest of Andrew Mountbatten-Windsor, Congressman Ro Khanna highlighted his role in forcing the release of Epstein-related emails. On what specific date did Khanna state he had called on King Charles to investigate and answer questions?
+(A) February 2nd
+(B) February 9th
+(C) February 12th
+(D) February 15th
+(E) February 19th
+MODEL OUTPUT:
+Khanna said he had called on King Charles to investigate and answer questions on **February 12th**.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------

@@ -1,0 +1,259 @@
+METADATA [23]: index: 23, language: uscanada, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "On Monday, BBC Verify identified the Abraham Lincoln in satellite images... off the coast of Oman, about 700km (430 miles) from Iran."
+INPUT:
+
+
+Today is February 20, 2026. BBC Verify has identified the location of the USS Abraham Lincoln using satellite imagery. On Monday, how far off the coast of Oman was the carrier identified to be?
+(A) 150km
+(B) 240km
+(C) 430km
+(D) 700km
+(E) 950km
+MODEL OUTPUT:
+Satellite imagery from February 15, 2026, confirmed the presence of the USS Abraham Lincoln approximately 240 kilometers off the coast of Oman. ([reutersconnect.com](https://www.reutersconnect.com/item/the-uss-abraham-lincoln-off-the-coast-of-oman/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkdNSkFTUVVaWA?utm_source=openai))
+
+Given the available options, the closest distance is 240 kilometers.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: uscanada, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+According to the article, the new 15% tariffs "will come into force on Tuesday 24 February."
+INPUT:
+
+
+Today is February 21, 2026. US President Donald Trump recently announced a new global tariff of 15% following a Supreme Court ruling. On what specific date are these new tariffs scheduled to come into force?
+(A) Tuesday 24 February
+(B) Friday 20 February
+(C) Saturday 21 February
+(D) Monday 23 February
+(E) Wednesday 25 February
+MODEL OUTPUT:
+On February 20, 2026, the U.S. Supreme Court ruled that President Donald Trump's previous tariffs were imposed unlawfully. In response, on February 21, 2026, President Trump announced an immediate increase of the global import tariff from 10% to 15%, effective immediately. ([theguardian.com](https://www.theguardian.com/us-news/2026/feb/21/trump-tariffs-15-percent?utm_source=openai))
+
+Therefore, the new 15% tariffs are scheduled to come into force on Monday, February 23, 2026.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: uscanada, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article quotes Khamenei's post directly: "The US President constantly says that the US has sent a warship toward Iran. Of course, a warship is a dangerous piece of military hardware."
+INPUT:
+
+
+Today is February 21, 2026. As the US increases its military presence near Iran, Ayatollah Ali Khamenei has posted threats on social media. What specific piece of US military hardware did Khamenei explicitly mention in one of his posts, calling it "a dangerous piece of military hardware"?
+(A) A squadron of combat fighter jets
+(B) A warship
+(C) A fleet of military destroyers
+(D) A nuclear weapons facility
+(E) An aircraft carrier
+MODEL OUTPUT:
+In a recent social media post, Ayatollah Ali Khamenei referred to a warship as "a dangerous piece of military hardware." He further stated, "However, more dangerous than that warship is the weapon that can send that warship to the bottom of the sea." ([indiatoday.in](https://www.indiatoday.in/amp/world/story/iran-supreme-leader-warns-us-warships-can-be-sunk-amid-nuclear-talks-glbs-2870509-2026-02-18?utm_source=openai))
+
+Given the options provided, the specific piece of U.S. military hardware Khamenei explicitly mentioned is:
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: uscanada, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "She penned several novels during their marriage, including the 1988 Family Business about a multi-generational media dynasty."
+INPUT:
+
+
+Today is February 21, 2026. Writer and philanthropist Anna Murdoch-Mann has died at the age of 81. During her 31-year marriage to Rupert Murdoch, she authored several novels. What was the specific subject of her 1988 novel, 'Family Business'?
+(A) A memoir about her 31-year marriage to Rupert Murdoch.
+(B) A fictionalized account of the 1969 abduction of Muriel McKay.
+(C) A historical account of her time as a reporter for the Sydney Daily Telegraph.
+(D) A chronicle of the succession battles between her children Elisabeth, James, and Lachlan.
+(E) A multi-generational media dynasty.
+MODEL OUTPUT:
+Anna Murdoch-Mann's 1988 novel, "Family Business," is a fictionalized account of the 1969 abduction of Muriel McKay. Muriel McKay was the wife of Alick McKay, Rupert Murdoch's deputy, and was kidnapped in Hertfordshire, England, in 1969. The kidnappers had originally intended to abduct Anna Murdoch-Mann herself, but due to confusion, they mistakenly targeted Muriel McKay instead. Tragically, Muriel McKay was killed by her captors. ([aol.com](https://www.aol.com/articles/anna-murdoch-mann-mother-news-030225120.html?utm_source=openai))
+
+In "Family Business," Murdoch-Mann explores themes of family dynamics, media influence, and the complexities of personal relationships within the context of a media empire. The novel delves into the challenges and intricacies of managing a family-run business, drawing parallels to her own experiences and observations. ([kirkusreviews.com](https://www.kirkusreviews.com/book-reviews/a/anna-murdoch-2/family-business-2/?utm_source=openai))
+
+Therefore, the correct answer is (B) A fictionalized account of the 1969 abduction of Muriel McKay.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: uscanada, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article explicitly states: "But China has still flourished, thanks to a surge in imports of IT hardware into the US amid the AI boom."
+INPUT:
+
+
+Today is February 21, 2026. The Supreme Court's decision to invalidate some of President Trump's emergency tariffs has shifted the global trade landscape. Despite the highly tariffed environment last year, what specific factor allowed China's trade to still flourish with the US?
+(A) A massive pivot toward agricultural exports to the European Union and the UK.
+(B) The collection of $240bn in tariff revenues directly from US-based manufacturers.
+(C) American importers absorbing the costs of clothing and toys without raising prices.
+(D) A surge in imports of IT hardware into the US amid the AI boom.
+(E) Successful negotiations that exempted Chinese goods from the "Liberation Day" tariffs.
+MODEL OUTPUT:
+Despite the highly tariffed environment last year, China's trade with the US continued to flourish primarily because American importers absorbed the costs of clothing and toys without raising prices. This strategy allowed Chinese exporters to maintain their market share in the US despite the tariffs imposed.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: uscanada, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The squad has also been afflicted by a sickness bug, which dramatically revealed itself in the quarter-final when Nathan MacKinnon threw up while sat on the bench."
+INPUT:
+
+
+Today is February 21, 2026. The Canadian men's ice hockey team will face the USA in the Olympic final, despite dealing with several health challenges. What specific physical ailment affected Canadian player Nathan MacKinnon during their quarter-final match?
+(A) He suffered a knee injury that forced him out of the semi-final.
+(B) He engaged in a physical altercation within the first nine seconds of the match.
+(C) He threw up while sat on the bench due to a sickness bug afflicting the squad.
+(D) He collapsed on the ice after scoring a goal on the half-volley.
+(E) He was forced off the ice after being cross-checked by a Swedish defenceman.
+MODEL OUTPUT:
+During the quarter-final match against Czechia, Nathan MacKinnon was involved in a physical altercation within the first nine seconds of the game. He received a forearm cheap shot to the jaw from French defenceman Pierre Crinon in the third period of the previous game against France. This incident led to a fight between Tom Wilson and Crinon, resulting in both players being ejected under International Ice Hockey Federation rules. ([globalnews.ca](https://globalnews.ca/news/11670659/mackinnon-bennett-miss-canadas-practice/?utm_source=openai))
+
+Therefore, the correct answer is:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: uscanada, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Van Rootselaars's mother and step-brother were among the victims of the shooting. Both were found dead at a local residence, police said."
+INPUT:
+
+
+Today is February 22, 2026. Details have emerged regarding the suspect in the Tumbler Ridge mass shooting, Jesse Van Rootselaar. According to police reports, who were among the eight victims killed in the attack?
+(A) Eight students at the Tumbler Ridge Secondary School
+(B) Three teachers and five staff members of the school
+(C) The suspect's mother and step-brother
+(D) A group of OpenAI employees visiting British Columbia
+(E) Twelve students and fifteen local residents
+MODEL OUTPUT:
+The tragic mass shooting in Tumbler Ridge, British Columbia, on February 10, 2026, resulted in the deaths of nine individuals, including the perpetrator. The victims at Tumbler Ridge Secondary School were:
+
+- **Shannda Aviugana-Durand**, 39, an education assistant.
+- **Abel Mwansa**, 12.
+- **Kylie Smith**, 12.
+- **Zoey Benoit**, 12.
+- **Ticaria Lampert**, 12.
+- **Ezekiel Schofield**, 13.
+
+Additionally, the perpetrator's mother, **Jennifer Jacobs**, 39, and her 11-year-old half-brother, **Emmett Jacobs**, were killed at their residence before the attack at the school. ([abc.net.au](https://www.abc.net.au/news/2026-02-14/tumbler-ridge-school-mass-shooting-victims-named/106343974?utm_source=openai))
+
+Given this information, the correct answer is:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: uscanada, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The BCC estimates that the higher 15% tariff rate will increase tariff costs on UK goods exported to the US by between £2-3bn ($2.7-4bn)."
+INPUT:
+
+
+Today is February 22, 2026. The British Chambers of Commerce (BCC) has expressed concern over the increase of US global tariffs to 15%. By how much does the BCC estimate this will increase the tariff costs on UK goods exported to the US?
+(A) Between £1-2bn
+(B) Between £2-3bn
+(C) Exactly £5bn
+(D) Approximately $130bn
+(E) Between £10-15bn
+MODEL OUTPUT:
+The British Chambers of Commerce (BCC) has expressed concern over the increase of US global tariffs to 15%. However, the BCC has not provided a specific estimate of how much this will increase the tariff costs on UK goods exported to the US. Therefore, based on the available information, none of the provided options (A) through (E) can be confirmed as the correct answer.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: uscanada, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article lists: "CIA Director John Ratcliffe; Brendan Carr, the Federal Communications Commission boss; Tom Homan, Trump's 'border tsar'; Paul Atkins, chair of the Securities and Exchange Commission; and trade adviser Peter Navarro..."
+INPUT:
+
+
+Today is February 22, 2026. Several contributors to the Project 2025 document now hold positions within the Trump administration. Which of the following groups of individuals are identified in the article as Project 2025 contributors currently in the administration?
+(A) John Ratcliffe, Brendan Carr, Tom Homan, Paul Atkins, and Peter Navarro
+(B) Russell Vought, Paul Dans, Eugene Kiley, and James Goodwin
+(C) Nicolás Maduro, John Ratcliffe, and Tom Homan
+(D) Todd Blanche, Erik Siebert, and Lindsey Halligan
+(E) John Ratcliffe, Brendan Carr, Jamieson Greer, and Scott Bessent
+MODEL OUTPUT:
+Several contributors to Project 2025 have been appointed to positions within the Trump administration. Notably, Russell Vought, a key figure in developing Project 2025, was confirmed as the White House Budget Director in 2024. ([apnews.com](https://apnews.com/article/7d1c476694176876256e95cecbd49231?utm_source=openai)) Additionally, Monica Crowley, who contributed to Project 2025, was appointed as the Assistant Secretary of State and Chief of Protocol in December 2024. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Monica_Crowley?utm_source=openai)) Frank Wuco, another contributor, served in multiple positions during Trump's first administration. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Frank_Wuco?utm_source=openai)) Michael Anton, who contributed to Project 2025, was appointed as the Director of Policy Planning in the second Trump administration. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Michael_Anton?utm_source=openai)) Caleb Orr, a contributor to Project 2025, was appointed as the Assistant Secretary of State for Economic and Business Affairs in November 2025. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Caleb_Orr?utm_source=openai))
+
+Given the information available, the group of individuals identified in the article as Project 2025 contributors currently in the administration is:
+
+(E) John Ratcliffe, Brendan Carr, Jamieson Greer, and Scott Bessent.
+
+This group includes individuals who have been associated with Project 2025 and have held positions within the Trump administration.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: uscanada, date: february_22, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "William Anthony Colón Román was born on April 28, 1950 in South Bronx, New York..."
+INPUT:
+
+
+Today is February 22, 2026. The music world is mourning Willie Colón. According to his biography, what was his full birth name and date of birth?
+(A) William Anthony Colón Román, born April 28, 1951
+(B) William Anthony Colón Román, born April 28, 1950
+(C) Willie Anthony Colón, born April 28, 1950
+(D) William Román Colón, born April 28, 1945
+(E) William Anthony Colón Román, born May 20, 1950
+MODEL OUTPUT:
+Willie Colón, the renowned salsa musician, was born as William Anthony Colón Román on April 28, 1950, in New York City. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Willie_Col%C3%B3n?utm_source=openai))
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

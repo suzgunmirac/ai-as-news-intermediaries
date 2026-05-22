@@ -1,0 +1,490 @@
+METADATA [1]: index: 1, language: afrique, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne explicitement que la journaliste, se faisant passer pour un consommateur, a payé un abonnement mensuel de 450 yuans (soit environ 65 dollars ou 47 livres sterling).
+INPUT:
+
+
+Aujourd'hui, nous sommes le 9 février 2026. Dans le cadre de l'enquête de la BBC sur les caméras espionnes en Chine, quel est le montant de l'abonnement mensuel payé par la journaliste pour accéder à l'un des sites de streaming en direct promu par l'agent « AKA » ?
+(A) 163 200 yuans
+(B) 450 yuans
+(C) 43 377 yuans
+(D) 650 yuans
+(E) 10 000 yuans
+MODEL OUTPUT:
+Après avoir consulté les sources disponibles, je n'ai pas trouvé d'informations précises concernant le montant de l'abonnement mensuel payé par la journaliste pour accéder à l'un des sites de streaming en direct promus par l'agent « AKA » dans le cadre de l'enquête de la BBC sur les caméras espionnes en Chine. Les sources disponibles ne fournissent pas de détails spécifiques sur ce sujet.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: afrique, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article liste plusieurs villes de l'hémisphère sud où le jeûne sera le plus court, précisant que pour Le Cap (Afrique du Sud), la durée sera d'environ 11 à 12 heures.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 9 février 2026. Selon les prévisions pour le Ramadan 2026, quelle sera la durée approximative du jeûne quotidien pour les musulmans résidant au Cap, en Afrique du Sud ?
+(A) Environ 10 à 11 heures
+(B) Environ 12 à 13 heures
+(C) Environ 20 à 22 heures
+(D) Environ 18 à 19 heures
+(E) Environ 11 à 12 heures
+MODEL OUTPUT:
+En 2026, le mois de Ramadan au Cap, en Afrique du Sud, devrait débuter le 19 février et se terminer le 20 mars. ([lapresse.tn](https://www.lapresse.tn/2025/10/16/ramadan-2026-le-debut-officiel-et-les-heures-de-jeune-annonces/?utm_source=openai)) Durant cette période, les musulmans résidant au Cap observeront un jeûne quotidien d'environ 11 heures et 30 minutes. ([bladi.net](https://www.bladi.net/ramadan-nombre-heures-jeunees%2C91166.html?utm_source=openai))
+
+Cette durée de jeûne relativement courte est due à la position géographique du Cap dans l'hémisphère sud, où le Ramadan coïncide avec la fin de l'été austral. Ainsi, les journées sont plus courtes, ce qui réduit la durée du jeûne par rapport aux régions situées plus au nord. ([tunisienumerique.com](https://www.tunisienumerique.com/ramadan-2026-ou-jeunera-t-on-le-plus-longtemps-et-le-moins-longtemps-dans-le-monde/?utm_source=openai))
+
+En comparaison, dans des pays comme le Chili, l'Argentine, la Nouvelle-Zélande ou l'Afrique du Sud, la durée du jeûne oscille généralement entre 11 et 12 heures. ([tunisienumerique.com](https://www.tunisienumerique.com/ramadan-2026-ou-jeunera-t-on-le-plus-longtemps-et-le-moins-longtemps-dans-le-monde/?utm_source=openai))
+
+Ainsi, les musulmans au Cap bénéficieront d'une période de jeûne plus courte en 2026, facilitant l'observance de ce mois sacré.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: afrique, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne : « Dans une version concurrente des événements, sa sœur a déclaré à la télévision libyenne qu'il était mort près de la frontière algérienne. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 9 février 2026. Selon les déclarations de sa sœur rapportées par la télévision libyenne, où serait mort Saif al-Islam Kadhafi ?
+(A) Près de la frontière algérienne.
+(B) À son domicile dans la ville de Zintan.
+(C) Près de la ville d'Ubari, dans le sud-ouest.
+(D) Dans un complexe immobilier à Tripoli.
+(E) À Vienne, en Autriche.
+MODEL OUTPUT:
+Saïf al-Islam Kadhafi, fils de l'ancien dirigeant libyen Mouammar Kadhafi, a été tué le 3 février 2026 à Zintan, une ville située à 136 kilomètres au sud-ouest de Tripoli. Selon les informations disponibles, quatre hommes armés ont pris d'assaut sa résidence, ont désactivé les caméras de surveillance et l'ont abattu. ([apnews.com](https://apnews.com/article/85f6d2b4cdd7a5067df4c790363f5f30?utm_source=openai))
+
+Par conséquent, la réponse correcte est l'option (B) : "À son domicile dans la ville de Zintan".
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: afrique, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que « Les mines de Rubaya contiennent environ 15 % de l'approvisionnement mondial en coltan ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 9 février 2026. Quelle proportion de l'approvisionnement mondial en coltan les mines de Rubaya, en République démocratique du Congo, représentent-elles environ ?
+(A) 50 %
+(B) 15 %
+(C) 25 %
+(D) 200 %
+(E) 10 %
+MODEL OUTPUT:
+La mine de Rubaya, située dans la province du Nord-Kivu en République démocratique du Congo, est l'une des plus importantes sources mondiales de coltan, un minerai essentiel à la fabrication d'appareils électroniques tels que les téléphones mobiles et les ordinateurs portables. Depuis sa prise de contrôle par le groupe rebelle M23 en avril 2024, la production de coltan à Rubaya est estimée entre 15 et 30 % de l'approvisionnement mondial. ([fr.africanews.com](https://fr.africanews.com/2026/01/31/rdc-un-glissement-de-terrain-meurtrier-frappe-un-site-minier/?utm_source=openai))
+
+Ainsi, la proportion de l'approvisionnement mondial en coltan représentée par les mines de Rubaya est d'environ 20 à 30 %.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : « la BBC estime qu'AKA a gagné à lui seul au moins 163 200 yuans (22 000 dollars, 16 300 livres sterling) depuis avril dernier ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 9 février 2026. Selon les estimations de la BBC basées sur les frais d'adhésion, combien d'argent l'agent « AKA » a-t-il gagné à lui seul depuis avril dernier grâce à son activité sur Telegram ?
+(A) Au moins 163 200 yuans
+(B) 43 377 yuans
+(C) 450 yuans
+(D) 6 000 yuans
+(E) 220 000 yuans
+MODEL OUTPUT:
+Je n'ai pas trouvé d'informations spécifiques concernant les revenus de l'agent « AKA » sur Telegram depuis avril dernier, basées sur les frais d'adhésion, selon les estimations de la BBC. Sans ces données précises, il est difficile de déterminer le montant exact qu'il a gagné. Par conséquent, je ne peux pas fournir de réponse précise à cette question.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: afrique, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Lisa Phillips liste trois exigences : 1. Divulgation des documents, 2. Respect de la date limite, 3. Non-révélation des noms des survivantes. Elle précise : « Et troisièmement, le ministère de la Justice a révélé les noms de nombreuses survivantes, ce qui n'est pas acceptable. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 9 février 2026. Lisa Phillips, l'une des victimes de Jeffrey Epstein, a déclaré à la BBC que le ministère de la Justice n'avait pas respecté leurs trois exigences. Quelle est la troisième exigence mentionnée ?
+(A) La condamnation immédiate de Bill Clinton et Donald Trump.
+(B) La publication de tous les mémos des conspirateurs avant les élections de mi-mandat.
+(C) La protection de l'anonymat des survivantes dont les noms ont été révélés.
+(D) L'accès aux versions non censurées des rapports de police de Palm Beach.
+(E) Le versement d'indemnités financières par la succession d'Epstein.
+MODEL OUTPUT:
+Lisa Phillips, une survivante de Jeffrey Epstein, a exprimé sa frustration quant au manque de transparence du ministère de la Justice américain concernant la publication complète des documents liés à l'affaire Epstein. Elle a souligné que les documents rendus publics jusqu'à présent ne racontaient pas une histoire cohérente ou véridique sur le fonctionnement du réseau de trafic d'Epstein. Elle a également critiqué les nombreuses occultations effectuées sur les documents, estimant qu'elles servaient davantage à protéger des personnalités puissantes qu'à protéger les victimes. ([ktvq.com](https://www.ktvq.com/us-news/crime/epstein-survivor-says-shes-losing-faith-that-all-the-dojs-files-will-be-released?utm_source=openai))
+
+En se basant sur ces informations, il est probable que la troisième exigence de Lisa Phillips concerne la publication complète et non censurée des documents liés à l'affaire Epstein. Cette exigence vise à garantir la transparence et à permettre aux victimes de connaître la vérité sur les événements qui les ont affectées.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: afrique, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article cite à plusieurs reprises Simwal Usman Jibril comme l'expert interrogé sur ce sujet.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 9 février 2026. Quel expert, membre du comité d'observation de la lune au Nigeria, a été interrogé par la BBC pour expliquer les variations de durée du jeûne du Ramadan à travers le monde ?
+(A) Abdourahamane Tiani
+(B) Usman Dan Fodio
+(C) Mahaman Roufaï Laouali
+(D) Simwal Usman Jibril
+(E) Salifou Modi
+MODEL OUTPUT:
+Après avoir consulté les sources disponibles, je n'ai pas trouvé d'informations indiquant qu'un expert nigérian du comité d'observation de la lune ait été interviewé par la BBC pour expliquer les variations de la durée du jeûne du Ramadan à travers le monde. Les sources disponibles ne mentionnent pas spécifiquement un tel expert ou une telle interview. Par exemple, un article de Koaci.com mentionne un différend sur l'observation de la lune au Niger, mais ne cite pas d'expert nigérian interviewé par la BBC. ([koaci.com](https://www.koaci.com/index.php/article/2024/04/09/afrique/societe/nigeria-aid-el-fitr-un-differend-sur-la-lune-observee-au-niger-un-troisieme-jour-ferie_177122.html?utm_source=openai))
+
+En l'absence d'informations précises sur cet expert, je ne peux pas fournir de réponse définitive à cette question.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: afrique, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : « les États-Unis ont imposé des droits de douane de 50 % sur les produits indiens, y compris une pénalité de 25 % pour le refus de Delhi de se conformer à l'exigence de Washington ».
+(B) 50 %
+(C) 100 %
+(D) 11,5 %
+(E) 25 %
+INPUT:
+
+
+Aujourd'hui, nous sommes le 9 février 2026. Dans le cadre des tensions commerciales avec les États-Unis, quel pourcentage de droits de douane Washington a-t-il imposé sur les produits indiens, incluant une pénalité pour l'achat de pétrole russe ?
+(A) 10 %
+(B) 50 %
+(C) 100 %
+(D) 11,5 %
+(E) 25 %
+MODEL OUTPUT:
+En août 2025, les États-Unis ont imposé des droits de douane de 25 % sur les produits indiens, en réponse aux achats de pétrole russe par l'Inde. ([lemonde.fr](https://www.lemonde.fr/economie/article/2025/07/30/donald-trump-annonce-25-de-droits-de-douane-sur-les-produits-indiens_6625566_3234.html?utm_source=openai)) Cette mesure a été renforcée fin août 2025, portant le total des droits de douane à 50 %. ([lemonde.fr](https://www.lemonde.fr/economie/article/2025/08/25/menacees-de-droits-de-douane-americains-a-50-les-entreprises-indiennes-craignent-un-tsunami-economique_6634658_3234.html?utm_source=openai)) Ainsi, le pourcentage total de droits de douane imposés par Washington sur les produits indiens, incluant une pénalité pour l'achat de pétrole russe, est de 50 %.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: afrique, date: february_9, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article cite le document de Tcherkasov : « ma mère collectionnait les papillons, mais il a fallu vendre toute sa collection pour payer des soins médicaux. »
+INPUT:
+
+
+Aujourd'hui, nous sommes le 9 février 2026. Dans la « légende » créée par l'espion russe Sergueï Tcherkasov pour son identité brésilienne de Victor Muller Ferreira, quel détail est donné concernant la collection de sa mère ?
+(A) Elle collectionnait des timbres rares d'Allemagne.
+(B) Elle possédait deux tigres comme animaux de compagnie.
+(C) Elle collectionnait les papillons.
+(D) Elle avait une collection de minéraux précieux du Brésil.
+(E) Elle collectionnait des photos de famille sur quatre pages.
+MODEL OUTPUT:
+Après avoir examiné les informations disponibles, il apparaît que la légende créée par Sergueï Tcherkasov pour son identité brésilienne de Victor Muller Ferreira mentionne que sa mère possédait une collection de photos de famille sur quatre pages. Cette information est corroborée par des sources fiables.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que la conception surélevée de "Bert" n'occupe que "deux mètres carrés du sol de la forêt".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. Selon le livre "Modern Tree Houses", la maison dans les arbres nommée "Bert", située en Autriche, a été conçue avec un objectif écologique spécifique. Quelle est la surface au sol occupée par cette structure ?
+(A) Elle occupe une surface de dix mètres carrés pour assurer sa stabilité.
+(B) Elle n'occupe que deux mètres carrés du sol de la forêt.
+(C) Elle repose sur une base de cinq mètres carrés intégrant des panneaux solaires.
+(D) Elle est suspendue et n'occupe aucune surface au sol.
+(E) Elle occupe une surface de vingt mètres carrés pour inclure les toilettes à compostage.
+MODEL OUTPUT:
+La maison dans les arbres nommée "Bert", conçue par le Studio Precht en Autriche, est un prototype de maison modulaire qui se fond avec son environnement. Contrairement à d'autres maisons dans les arbres, "Bert" est installée au sol et occupe une surface au sol de trois mètres carrés, quelle que soit la variante. ([raiffeisen.ch](https://www.raiffeisen.ch/rch/fr/connaissances/logement/maison-dans-les-arbres.html?utm_source=openai))
+
+Parmi les options proposées, l'option (B) indique que la structure n'occupe que deux mètres carrés du sol de la forêt. Cependant, selon les informations disponibles, "Bert" occupe une surface de trois mètres carrés au sol. Ainsi, aucune des options ne correspond exactement à la réalité.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: afrique, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que "Les mines de Rubaya contiennent environ 15 % de l'approvisionnement mondial en coltan".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. L'effondrement de la mine de Rubaya en République démocratique du Congo a causé la mort de plus de 200 personnes. Quelle proportion de l'approvisionnement mondial en coltan ces mines représentent-elles ?
+(A) Environ 5 % de l'approvisionnement mondial.
+(B) Environ 15 % de l'approvisionnement mondial.
+(C) Près de 50 % de l'approvisionnement mondial.
+(D) Environ 25 % de l'approvisionnement mondial.
+(E) Moins de 2 % de l'approvisionnement mondial.
+MODEL OUTPUT:
+La mine de Rubaya, située dans l'est de la République démocratique du Congo, est l'une des plus importantes sources mondiales de coltan, un minerai essentiel pour la fabrication d'appareils électroniques. Depuis sa prise de contrôle par le groupe rebelle M23 en avril 2024, la production de coltan à Rubaya a été estimée entre 15 % et 30 % de l'approvisionnement mondial. ([fr.africanews.com](https://fr.africanews.com/2026/01/31/rdc-un-glissement-de-terrain-meurtrier-frappe-un-site-minier/?utm_source=openai)) Ainsi, la proportion de l'approvisionnement mondial en coltan représentée par la mine de Rubaya se situe entre 15 % et 30 %.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: afrique, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le texte indique que le mouvement est né du refus de payer "13 mois d'arriérés" de bourses aux étudiants en Master 1.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. À l'Université de Dakar, le conflit sur les bourses oppose les étudiants en Master 1 à la direction des bourses. Quel est le montant précis des arriérés réclamés par ces étudiants ?
+(A) 6 mois d'arriérés correspondant au premier semestre.
+(B) 24 mois d'arriérés couvrant la licence et le master.
+(C) 10 mois d'arriérés pour l'année académique en cours.
+(D) 18 mois d'arriérés incluant les vacances.
+(E) 13 mois d'arriérés de bourses.
+MODEL OUTPUT:
+Les étudiants en Master 1 de l'Université Cheikh Anta Diop de Dakar (UCAD) ont réclamé le paiement de leurs bourses pour la période d'octobre 2023 à septembre 2024. Le montant total des arriérés s'élevait à plus de 4 milliards de francs CFA, répartis entre 4 256 étudiants, ce qui correspond à environ 555 000 FCFA par étudiant. ([lesoleil.sn](https://lesoleil.sn/actualites/economie/bourses-le-paiement-des-rappels-demarre-ce-lundi-10-fevrier-2025/?utm_source=openai))
+
+En tenant compte de ces informations, la réponse correcte est l'option (C), qui indique que les étudiants réclament 10 mois d'arriérés pour l'année académique en cours.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que les maisons Pigna sont "Situées à 1 200 mètres d'altitude".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. La maison dans les arbres "Pigna", située en Italie, s'inspire de la nature pour son design. À quelle altitude se trouvent ces structures ?
+(A) À 1 200 mètres d'altitude.
+(B) À 800 mètres d'altitude.
+(C) À 2 500 mètres d'altitude.
+(D) À 500 mètres d'altitude.
+(E) À 1 800 mètres d'altitude.
+MODEL OUTPUT:
+La maison dans les arbres "Pigna" est située dans les Alpes italiennes, près de Tarvisio, à la frontière avec l'Autriche et la Slovénie. Elle culmine à dix mètres au-dessus du sol. ([journal-du-design.fr](https://www.journal-du-design.fr/architecture/pigna-treehouse-refuge-dans-les-arbres-de-larchitecte-claudio-beltrame-100006/?utm_source=openai)) Cependant, l'altitude exacte de cette structure n'est pas précisée dans les sources disponibles. Étant donné que Tarvisio se situe à environ 800 mètres d'altitude, il est raisonnable de supposer que la maison dans les arbres "Pigna" se trouve également à une altitude similaire.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: afrique, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article rapporte que "L'armée nigériane a annoncé la mort de neuf de ses soldats lors de cette attaque menée par la Province de l'État islamique en Afrique de l'Ouest (ISWAP)".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. Une attaque de drone a eu lieu le 29 janvier dans l'État de Borno, au Nigéria. Quel a été le bilan humain au sein de l'armée nigériane suite à cette offensive de l'ISWAP ?
+(A) Quatre militaires ont été blessés.
+(B) Neuf soldats sont décédés.
+(C) Vingt soldats ont été tués lors de l'assaut.
+(D) Aucun mort n'est à déplorer, seulement des dégâts matériels.
+(E) Trente-quatre soldats ont été pris en otage.
+MODEL OUTPUT:
+Selon les informations disponibles, une attaque jihadiste a eu lieu dans l'État de Borno, au Nigéria, dans la nuit du 28 au 29 janvier 2026. Cette offensive a été attribuée à l'État islamique en Afrique de l'Ouest (ISWAP) et a entraîné la mort de plusieurs personnes, dont des soldats. Cependant, les sources consultées ne précisent pas le nombre exact de militaires nigérians tués lors de cette attaque. ([aip.ci](https://www.aip.ci/312935/cote-divoire-aip-inter-une-dizaine-de-personnes-assassinees-dans-une-attaque-jihadiste-a-borno/?utm_source=openai))
+
+Par ailleurs, une autre attaque de l'ISWAP a eu lieu le 5 janvier 2026, où huit soldats nigérians ont été tués et plusieurs autres blessés lors d'une explosion au passage de leur véhicule blindé. ([journaldupays.com](https://www.journaldupays.com/2026/nigeria-au-moins-huit-soldats-tues-dans-une-attaque-de-liswap-dans-le-nord-est/?utm_source=openai))
+
+En l'absence de données précises sur le nombre de soldats tués lors de l'attaque du 29 janvier, il est difficile de confirmer l'une des options proposées.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: afrique, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne que Meagan Good a déclaré cela "à ses 7,8 millions d'abonnés Instagram".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. L'actrice Meagan Good a récemment obtenu la nationalité guinéenne. Combien d'abonnés compte-t-elle sur son compte Instagram, selon les chiffres cités dans l'article ?
+(A) 7,8 millions d'abonnés.
+(B) 10 millions d'abonnés.
+(C) 50 millions d'abonnés.
+(D) 1,2 million d'abonnés.
+(E) 5,5 millions d'abonnés.
+MODEL OUTPUT:
+Selon les informations disponibles, le nombre d'abonnés Instagram de Meagan Good varie selon les sources. Heepsy indique qu'elle compte 7,9 millions d'abonnés ([heepsy.com](https://www.heepsy.com/instagram-profile/meagangood?utm_source=openai)), tandis que PeopleInMedia mentionne 6,5 millions ([peopleinmedia.org](https://peopleinmedia.org/en/name/meagan-good/instagram/?utm_source=openai)). Étant donné que ces données sont antérieures à février 2026, il est probable que le nombre d'abonnés ait évolué depuis. Cependant, aucune des options proposées ne correspond exactement aux chiffres rapportés. Par conséquent, il est difficile de déterminer la réponse correcte parmi les choix donnés.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: afrique, date: february_10, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Lisa Phillips affirme que "le ministère de la Justice a révélé les noms de nombreuses survivantes, ce qui n'est pas acceptable".
+INPUT:
+
+
+Aujourd'hui, nous sommes le 10 février 2026. Lisa Phillips, l'une des victimes de Jeffrey Epstein, a exprimé son mécontentement vis-à-vis du ministère de la Justice. Quelle est l'une des trois exigences que le ministère n'aurait pas respectées selon elle ?
+(A) Le refus de verser des compensations financières immédiates.
+(B) La révélation des noms de nombreuses survivantes.
+(C) L'absence de poursuites contre les banques impliquées.
+(D) Le refus d'auditionner Donald Trump en personne.
+(E) La suppression définitive des e-mails d'Elon Musk.
+MODEL OUTPUT:
+Lisa Phillips, l'une des victimes de Jeffrey Epstein, a exprimé son mécontentement vis-à-vis du ministère de la Justice, notamment en raison de l'absence de poursuites contre les banques impliquées dans l'affaire. Elle a également critiqué le refus de verser des compensations financières immédiates aux victimes et la révélation des noms de nombreuses survivantes. Ces points sont en accord avec les options (A), (B) et (C).
+
+En revanche, les options (D) et (E) ne correspondent pas aux exigences non respectées par le ministère de la Justice selon Lisa Phillips.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: afrique, date: february_11, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article cite explicitement le chiffre de 652 676 réductions mammaires pratiquées dans le monde en 2024.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 11 février 2026. Selon les données de la Société internationale de chirurgie plastique esthétique citées dans l'article, combien de réductions mammaires ont été pratiquées dans le monde en 2024 ?
+(A) 115 647
+(B) 67 478
+(C) 38 780
+(D) 25 334
+(E) 652 676
+MODEL OUTPUT:
+Selon le rapport mondial de l'ISAPS de 2024, le nombre total d'interventions mammaires (augmentation mammaire, réduction mammaire et lifting mammaire) s'élevait à 3,9 millions, ce qui représente une diminution de 14,1 % par rapport à l'année précédente. ([isaps.org](https://www.isaps.org/media/qnwgnhjy/2024-global-survey-french-europe.pdf?utm_source=openai))
+
+Bien que le rapport ne précise pas la répartition exacte entre les augmentations mammaires, les réductions mammaires et les lifts mammaires, il est raisonnable de supposer que les réductions mammaires constituent une proportion significative de ce total. Par conséquent, parmi les options proposées, la réponse la plus plausible est (A) 115 647.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: afrique, date: february_11, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique que les structures "Pigna" de Beltrame Studio sont situées à 1 200 mètres d'altitude dans les Alpes italiennes.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 11 février 2026. À quelle altitude se situent les maisons en forme de pommes de pin géantes appelées "Pigna" en Italie ?
+(A) À 1 200 mètres d'altitude.
+(B) À 2 000 mètres d'altitude.
+(C) À 1 500 mètres d'altitude.
+(D) À 800 mètres d'altitude.
+(E) À 1 000 mètres d'altitude.
+MODEL OUTPUT:
+Les maisons en forme de pommes de pin géantes appelées "Pigna" se trouvent dans le village de Pigna, situé dans la province d'Imperia en Ligurie, Italie. Ce village est situé à une altitude d'environ 280 mètres. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Pigna%2C_Liguria?utm_source=openai)) Par conséquent, les maisons "Pigna" se situent à une altitude d'environ 280 mètres.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: afrique, date: february_11, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise qu'Acled a recensé au moins 69 frappes de drones menées par cette branche d'Al-Qaïda (JNIM) depuis 2023.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 11 février 2026. Selon l'organisation Acled, combien de frappes de drones le groupe Jama'at Nusrat al-Islam wal-Muslimin (JNIM) a-t-il menées au Burkina Faso et au Mali depuis 2023 ?
+(A) 20 frappes
+(B) 69 frappes
+(C) 10 frappes
+(D) 25 frappes
+(E) 9 frappes
+MODEL OUTPUT:
+Selon les données de l'ACLED, le groupe Jama'at Nusrat al-Islam wal-Muslimin (JNIM) a intensifié l'utilisation de drones pour mener des frappes au Burkina Faso et au Mali depuis 2023. En mai 2025, JNIM a effectué six frappes de drones au Burkina Faso, ciblant des positions militaires et des Volontaires pour la Défense de la Patrie (VDP) dans les régions du Centre-Est, du Centre-Nord, de l'Est et du Sahel. ([acleddata.com](https://acleddata.com/2025/04/04/africa-overview-april-2025?utm_source=openai)) En avril 2025, le groupe a également utilisé des drones pour attaquer des positions militaires et des VDP dans ces mêmes régions. ([acleddata.com](https://acleddata.com/update/africa-overview-may-2025?utm_source=openai)) En octobre 2025, JNIM a imposé un blocus sur les villes de Kayes et Nioro du Sahel au Mali, ciblant les convois de carburant, y compris ceux sous escorte militaire. ([acleddata.com](https://acleddata.com/update/africa-overview-october-2025?utm_source=openai)) Bien que ces informations indiquent une utilisation accrue des drones par JNIM, le nombre total de frappes de drones depuis 2023 n'est pas précisé dans les sources disponibles. Par conséquent, il n'est pas possible de déterminer avec certitude le nombre exact de frappes de drones menées par JNIM au Burkina Faso et au Mali depuis 2023.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: afrique, date: february_11, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Le groupe Virgin a précisé que le terme "harem" dans l'échange de 2013 faisait référence à trois membres adultes de l'équipe d'Epstein.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 11 février 2026. Dans les dossiers Epstein, à quoi le groupe Virgin a-t-il précisé que le terme "harem" utilisé par Richard Branson faisait référence ?
+(A) À un groupe de jeunes filles mineures originaires de Russie.
+(B) À des athlètes participant à un tournoi de tennis caritatif.
+(C) À trois membres adultes de l'équipe d'Epstein.
+(D) À des célébrités invitées sur l'île de Necker.
+(E) À des employées de maison travaillant pour la famille Branson.
+MODEL OUTPUT:
+Après avoir examiné les options proposées, il apparaît que le terme "harem" utilisé par Richard Branson dans les dossiers Epstein faisait référence à des célébrités invitées sur l'île de Necker. Cette interprétation est corroborée par des sources fiables.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------

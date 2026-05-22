@@ -1,0 +1,230 @@
+METADATA [17]: index: 17, language: turkce, date: february_21, model: claude-sonnet-4-5
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede BSSM kılavuzlarının, testosteron seviyesi 12 nmol/L'nin altında olan erkeklerin TRT için değerlendirilmesi gerektiğini öne sürdüğü belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. İngiliz Cinsel Tıp Derneği (BSSM) tarafından yorumlanan kılavuzlara göre, erkeklerde testosteron seviyesi hangi değerin altındaysa TRT (testosteron replasman tedavisi) için değerlendirme yapılmalıdır?
+(A) 6 nmol/L
+(B) 8 nmol/L
+(C) 12 nmol/L
+(D) 10 nmol/L
+(E) 15 nmol/L
+MODEL OUTPUT:
+Arama sonuçlarına göre, İngiliz Cinsel Tıp Derneği (BSSM) kılavuzlarında testosteron replasman tedavisi (TRT) için değerlendirme eşikleri açıkça belirtilmiştir.
+
+BSSM kılavuzlarına göre:
+
+Semptomatik erkeklerde tedavi müdahalesi için eşikler şu şekildedir: 8 nmol/L'nin altındaki total testosteron (TT) seviyesi veya 180 pmol/L'nin altındaki serbest testosteron (FT) seviyesi (sabah 8-11 arası alınan 2 ayrı ölçüme dayanarak) genellikle testosteron tedavisi gerektirir.
+
+12 nmol/L'nin üzerindeki TT seviyesi veya 225 pmol/L'nin üzerindeki FT seviyesi testosteron tedavisi gerektirmez.
+
+8 ile 12 nmol/L arasındaki seviyeler, semptomlara bağlı olarak minimum 6 aylık bir testosteron tedavisi denemesi gerektirebilir.
+
+Dolayısıyla, BSSM kılavuzlarına göre TRT için değerlendirme yapılması gereken kritik eşik **8 nmol/L'nin altı**dır.
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- British Society for Sexual Medicine Guidelines on Adult Testosterone Deficiency, with Statements for Practice (https://academic.oup.com/jsm/article/14/12/1504/6973374)
+- British Society for Sexual Medicine Guidelines on Adult Testosterone Deficiency, With Statements for UK Practice - ResearchGate (https://www.researchgate.net/publication/321449902_British_Society_for_Sexual_Medicine_Guidelines_on_Adult_Testosterone_Deficiency_With_Statements_for_UK_Practice)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: turkce, date: february_21, model: claude-sonnet-4-5
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, hayvanlar üzerinde yapılan deneylerde aşının etkisinin yaklaşık üç ay sürdüğü belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Stanford Üniversitesi'nde geliştirilen "evrensel aşı" burun spreyinin hayvanlar üzerinde yapılan deneylerde koruyucu etkisinin ne kadar sürdüğü tespit edilmiştir?
+(A) Bir ay
+(B) Yaklaşık üç ay
+(C) Altı ay
+(D) Bir yıl
+(E) Bir kış mevsimi boyunca
+MODEL OUTPUT:
+
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_21, model: claude-sonnet-4-5
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaledeki Hamsili Pilav tablosuna göre, 200 gr kuş üzümünün fiyatı 2019'da ₺4,4 iken 2026'da ₺320 olarak kaydedilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. "Hamsili Pilav" tarifi üzerinden yapılan maliyet analizine göre, hangi malzemenin fiyatı 2019'da ₺4,4 iken 2026'da ₺320'ye yükselmiştir?
+(A) 1 kg hamsi
+(B) 600 gr pirinç
+(C) 200 gr kuş üzümü
+(D) 250 gr yağ
+(E) 300 gr soğan
+MODEL OUTPUT:
+Sorunuzu yanıtlamak için "Hamsili Pilav" tarifinin maliyet analizi hakkında güncel bilgilere ihtiyacım var. Bu konuda arama yapayım.Arama sonuçlarında Hamsili Pilav maliyet analizi hakkında genel bilgi buldum ama spesifik malzeme fiyatlarını göremedim. Daha detaylı bilgi için başka bir arama yapayım.İlk arama sonucunda BBC'nin yaptığı bir hesaplama olduğunu gördüm ama detaylı malzeme fiyatlarını bulamadım. Daha spesifik bir arama yapmalıyım.İlk arama sonucunda bulduğum bilgilere göre, Hamsili pilavın maliyeti 2019'dan 2026'ya yüzde 1196,4 artmış. Ancak, arama sonuçlarında spesifik olarak hangi malzemenin 2019'da ₺4,4 iken 2026'da ₺320'ye yükseldiğine dair detaylı bilgi bulamadım.
+
+Soruda verilen bilgilere göre:
+- 2019'da ₺4,4 olan bir malzeme
+- 2026'da ₺320'ye yükselmiş
+- Bu yaklaşık 72,7 kat artış anlamına geliyor
+
+Hamsili pilav tarifinde kullanılan malzemeler genellikle:
+- Hamsi (balık)
+- Pirinç
+- Kuş üzümü
+- Yağ (sıvı yağ veya tereyağı)
+- Soğan
+
+Bu kadar dramatik bir artış gösterebilecek malzeme düşündüğümüzde, özellikle kuş üzümü gibi kuru meyve ürünleri veya yağ gibi temel gıda ürünleri öne çıkıyor. Ancak elimdeki arama sonuçlarında bu spesifik fiyat karşılaştırmasını içeren detaylı BBC analizi bulunmuyor.
+
+**Düşünce Süreci:**
+
+Arama sonuçlarında BBC'nin yaptığı bir maliyet analizi olduğunu görüyorum ancak spesifik malzeme fiyatlarına ulaşamadım. Soruda verilen bilgiler çok spesifik (₺4,4'ten ₺320'ye) ve bu tür detaylı bir analiz muhtemelen BBC Türkçe'nin yaptığı bir çalışmada yer alıyor olmalı.
+
+Verilen seçeneklere baktığımda:
+- (A) 1 kg hamsi
+- (B) 600 gr pirinç
+- (C) 200 gr kuş üzümü
+- (D) 250 gr yağ
+- (E) 300 gr soğan
+
+₺4,4'ten ₺320'ye (yaklaşık 73 kat) artış gösterebilecek bir ürün düşündüğümüzde, Türkiye'de son yıllarda en dramatik fiyat artışlarını gösteren ürünler arasında yağ ve kuru gıdalar öne çıkıyor. Özellikle yağ fiyatlarındaki artışlar medyada sıkça yer aldı.
+
+Ancak elimde bu spesifik soruyu doğrulayacak kaynak olmadığı için kesin bir cevap veremiyorum.
+
+<final_answer>
+Üzgünüm, yaptığım aramalarda BBC'nin Hamsili Pilav tarifi üzerinden yaptığı maliyet analizinde hangi malzemenin 2019'da ₺4,4 iken 2026'da ₺320'ye yükseldiğine dair spesifik bilgiye ulaşamadım. Arama sonuçlarında hamsili pilavın genel maliyetinin 2019'dan 2026'ya %1196,4 arttığı bilgisi var, ancak malzeme bazında detaylı fiyat karşılaştırması bulunamadı. Bu soruyu doğru yanıtlayabilmek için BBC'nin orijinal analizine erişmem gerekiyor.
+</final_answer>
+
+ALINTILAR:
+- Diken - BBC hesapladı: Evde yemek hazırlamanın maliyeti 2019'dan bu yana nasıl değişti? (https://www.diken.com.tr/bbc-hesapladi-evde-yemek-hazirlamanin-maliyeti-2019dan-bu-yana-nasil-degisti/)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_22, model: claude-sonnet-4-5
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede OpenAI'ın, saldırıdan (12 Şubat 2026) altı ay önce (Haziran 2025) hesabı engellediği belirtilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Kanada'daki silahlı saldırı şüphelisi Jesse Van Rootselaar ile ilgili olarak OpenAI şirketi, şüphelinin ChatGPT hesabını saldırıdan ne kadar süre önce engellediğini açıklamıştır?
+(A) 6 ay
+(B) 1 yıl
+(C) 2 ay
+(D) 8 ay
+(E) 1 ay
+MODEL OUTPUT:
+Sorunuzu yanıtlamak için güncel bilgilere ihtiyacım var. Jesse Van Rootselaar ve OpenAI'nin ChatGPT hesabını engellemesiyle ilgili bilgileri araştırayım.Arama sonuçlarından elde ettiğim bilgilere göre, hesabın ne zaman engellendiğini daha net görmek için ek bir arama yapayım.Mükemmel! Şimdi bilgileri analiz edeyim:
+
+**Zaman Çizelgesi:**
+- Hesap Haziran 2025'te engellenmiş
+- Saldırı 10 Şubat 2026'da gerçekleşmiş
+- Bugün 22 Şubat 2026
+
+**Süre Hesaplaması:**
+Haziran 2025'ten Şubat 2026'ya kadar geçen süre yaklaşık 8 aydır.
+
+Birden fazla kaynak bu bilgiyi doğruluyor:
+- CP24: "Hesap Haziran 2025'te, geçen haftaki korkunç toplu saldırıdan yedi aydan fazla bir süre önce yasaklandı"
+- The Print: "OpenAI, Van Rootselaar ile ilişkili bir hesabı yaklaşık sekiz ay önce tespit etti"
+
+**DÜŞÜNCE SÜRECİ:**
+
+OpenAI şirketi, Jesse Van Rootselaar'ın ChatGPT hesabını Haziran 2025'te "şiddet faaliyetlerini ilerletme" gerekçesiyle engellemiştir. Saldırı ise 10 Şubat 2026'da gerçekleşmiştir. 
+
+Haziran 2025'ten Şubat 2026'ya kadar geçen süre:
+- Haziran 2025 → Şubat 2026 = 8 ay
+
+Kaynaklarda bu süre "yaklaşık 8 ay" veya "yedi aydan fazla" olarak belirtilmektedir. En doğru ifade 8 aydır.
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- CP24 (https://www.cp24.com/news/canada/2026/02/21/chatgpt-account-linked-to-bc-mass-shooter-banned-for-violating-policy-company-says/)
+- The Print (https://theprint.in/world/openai-flagged-banned-canada-suspect-8-months-before-mass-shooting-didnt-alert-police/2860218/)
+- CBC News (https://www.cbc.ca/news/canada/british-columbia/openai-tumbler-ridge-shooter-ban-9.7100497)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_22, model: claude-sonnet-4-5
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "S&P 500 yüzde 0,45, Dow Jones yüzde 0,07 ve Nasdaq yüzde 0,42 oranında artış gösterdi" bilgisi verilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Trump'ın gümrük vergisi açıklamalarının ardından Wall Street'te endeksler yükselirken, Dow Jones endeksi yüzde kaç oranında artış göstermiştir?
+(A) %0,45
+(B) %0,42
+(C) %0,15
+(D) %0,10
+(E) %0,07
+MODEL OUTPUT:
+Arama sonuçlarında farklı kaynaklarda farklı rakamlar görüyorum. Daha net bilgi almak için ek bir arama yapayım.Arama sonuçlarını incelediğimde, 20 Şubat 2026 tarihinde (Cuma günü) Trump'ın gümrük vergisi açıklamalarının ardından Wall Street'te endekslerin yükseldiğine dair farklı kaynaklarda farklı rakamlar görüyorum:
+
+**Kaynak 1 (FXStreet):** Dow, 200 puan düşüşün ardından 49.600 civarında işlem görmek üzere 207 puan, yani %0,42 artışla yükseldi.
+
+**Kaynak 2 (Türkiye Görüş):** S&P 500 yüzde 0,45, Dow Jones yüzde 0,07 ve Nasdaq yüzde 0,42 oranında artış gösterdi.
+
+**Kaynak 7 (Newsfindy):** Dow Jones Industrial Average 230,81 puan veya yüzde 0,47 değer kazanarak 49.625,97'de kapandı.
+
+Farklı kaynaklarda farklı rakamlar var. Bunun nedeni, bazı kaynakların gün içi hareketleri, bazılarının ise kapanış değerlerini rapor etmesi olabilir. En güvenilir veri kapanış değerleridir.
+
+Kapanış değerlerine göre, Dow Jones endeksi **%0,47** artış göstermiştir. Ancak verilen seçeneklerde %0,47 bulunmuyor. En yakın seçenek **(B) %0,42**'dir ve bu rakam da bazı kaynaklarda geçmektedir.
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- FXStreet (https://www.fxstreet.com.tr/news/dow-jones-industrial-average-yuksek-mahkemenin-trumpin-gumruk-tarifelerini-iptal-etmesiyle-yukseliyor-202602201617)
+- Türkiye Görüş (https://www.turkiyegorus.com/trumpin-ek-gumruk-vergilerine-yargi-engeli)
+- Newsfindy (https://www.newsfindy.com/haber-trumpin-gumruk-vergilerinin-iptali-sonrasi-abdde-hisse-senetleri-yukseldi-35626.html)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_22, model: claude-sonnet-4-5
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "18 Şubat'ta yayımlanan raporla ilgili..." ifadesi geçmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. TBMM Başkanı Numan Kurtulmuş'un başkanlık ettiği Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu'nun raporu hangi tarihte yayımlanmıştır?
+(A) 20 Şubat
+(B) 21 Şubat
+(C) 2 Şubat
+(D) 6 Şubat
+(E) 18 Şubat
+MODEL OUTPUT:
+Arama sonuçlarına göre, Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu'nun 18 Şubat 2026 tarihinde gerçekleştirdiği 21'inci toplantısında yapılan oylamada, nitelikli çoğunlukla kabul edilen komisyon raporu, TBMM'nin internet sitesinde yayımlandı.
+
+Raporun komisyonda kabul edildiği tarih 18 Şubat 2026'dır. Ancak sorunun sorduğu şey raporun ne zaman yayımlandığıdır. Arama sonuçlarındaki haberlerin yaşı "1 day ago" ve "2 days ago" olarak gösterilmektedir. Bugün 22 Şubat 2026 olduğuna göre, "2 days ago" 20 Şubat'a denk gelir.
+
+Raporun 18 Şubat'ta komisyonda kabul edildiği ve ardından TBMM internet sitesinde yayımlandığı belirtilmektedir. Haberlerin tarihleri göz önüne alındığında, raporun yayımlanma tarihi 20 Şubat 2026 olarak değerlendirilebilir.
+
+<final_answer>
+(A)
+</final_answer>
+
+ALINTILAR:
+- Gazetem İzmir (https://www.gazetemizmir.com/milli-dayanisma-kardeslik-ve-demokrasi-komisyonu-raporu-yayimlandi/133134)
+- İlkhaber Gazetesi (https://www.ilkhaber-gazetesi.com/siyaset/milli-dayanisma-kardeslik-ve-demokrasi-komisyonu-raporu-yayimlandi-381716)
+- Bursa Hakimiyet (https://www.bursahakimiyet.com.tr/gundem/milli-dayanisma-kardeslik-ve-demokrasi-komisyonu-raporu-yayimlandi-1580327)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

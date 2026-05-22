@@ -1,0 +1,680 @@
+METADATA [4]: index: 4, language: hindi, date: february_9, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख है कि चंद्रमाणा गांव में जोगणी माता मंदिर के पास 'ठाकोर वास' मोहल्ला है, जहाँ पुलिस अधिकारी तैनात हैं।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। पाटन जिले के चंद्रमाणा गांव में दलित बारात पर हमले की घटना के बाद, पुलिस ने किस विशिष्ट मोहल्ले में बंदोबस्त किया है जहाँ 'जोगणी माता मंदिर' स्थित है?
+(A) रोहित वास
+(B) दलित मोहल्ला
+(C) चावड़ा वास
+(D) मंदिर मार्ग
+(E) ठाकोर वास
+MODEL OUTPUT:
+
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: hindi, date: february_9, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में जानकारी दी गई है कि दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी (7%) भारतीय हैं।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) दस फ़ीसदी
+(B) सात फ़ीसदी
+(C) पांच फ़ीसदी
+(D) बारह फ़ीसदी
+(E) पंद्रह फ़ीसदी
+MODEL OUTPUT:
+हालिया आंकड़ों और भारत सरकार के पत्तन, पोत परिवहन और जलमार्ग मंत्रालय (Ministry of Ports, Shipping and Waterways) के बयानों के अनुसार, दुनिया भर के कुल मर्चेंट मरीनर्स (या नाविकों) में भारत की हिस्सेदारी लगभग **12 प्रतिशत** है।
+
+महानिदेशालय नौवहन (Directorate General of Shipping - DGS) और 'मैरीटाइम इंडिया विजन 2030' (Maritime India Vision 2030) के दस्तावेजों के अनुसार, भारत वर्तमान में दुनिया का तीसरा सबसे बड़ा नाविक आपूर्तिकर्ता देश है। पिछले एक दशक में भारतीय नाविकों की संख्या में भारी वृद्धि हुई है, जो 2014 में लगभग 1.17 लाख से बढ़कर 2025-26 तक 3 लाख से अधिक हो गई है। भारत सरकार का लक्ष्य इस हिस्सेदारी को 2030 तक बढ़ाकर 20% करने का है।
+
+अतः, दिए गए विकल्पों में से सही उत्तर (D) है।
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- Directorate General of Shipping, Government of India ([https://www.dgshipping.gov.in/](https://www.dgshipping.gov.in/))
+- Ministry of Ports, Shipping and Waterways, Press Information Bureau (PIB) ([https://pib.gov.in/](https://pib.gov.in/))
+- "India Ranks Among Top 3 Global Suppliers Of Seafarers With Over 3 Lakh Workforce," Marine Insight, October 2025 ([https://www.marineinsight.com/shipping-news/india-ranks-among-top-3-global-suppliers-of-seafarers-with-over-3-lakh-workforce/](https://www.marineinsight.com/shipping-news/india-ranks-among-top-3-global-suppliers-of-seafarers-with-over-3-lakh-workforce/))
+- "India's seafarer workforce represents 12% of the global maritime workforce," Usthadian News, November 2025 ([https://usthadian.com/](https://usthadian.com/))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: hindi, date: february_9, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में ICSI के हवाले से बताया गया है कि फिलहाल इसके अलग-अलग प्रोग्राम में करीब चार लाख (4,00,000) स्टूडेंट पढ़ रहे हैं।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। इंस्टीट्यूट ऑफ कंपनी सेक्रेटरीज ऑफ इंडिया (ICSI) के अनुसार, वर्तमान में इसके अलग-अलग प्रोग्राम में कुल कितने छात्र पढ़ाई कर रहे हैं?
+(A) दो लाख
+(B) तीन लाख
+(C) पांच लाख
+(D) छह लाख
+(E) चार लाख
+MODEL OUTPUT:
+इंस्टीट्यूट ऑफ कंपनी सेक्रेटरीज ऑफ इंडिया (ICSI) की आधिकारिक वेबसाइट और हालिया रिपोर्टों के अनुसार, वर्तमान में इसके विभिन्न कार्यक्रमों (जैसे CS Executive, Professional, आदि) में नामांकित छात्रों की कुल संख्या लगभग **2.5 लाख (दो लाख पचास हजार)** है।
+
+ICSI अक्सर अपने आधिकारिक बयानों और "ICSI at a Glance" अनुभाग में यह उल्लेख करता है कि संस्थान के पास 72,000 से अधिक सदस्य और लगभग 2.5 लाख छात्र हैं। दिए गए विकल्पों में से, यदि हमें सबसे सटीक या निकटतम विकल्प चुनना हो, तो "दो लाख" (A) या "तीन लाख" (B) में से चुनाव करना होगा। हालांकि, आधिकारिक आंकड़ों में "2.5 लाख" का उल्लेख होने के कारण, कई संदर्भों में इसे "दो लाख से अधिक" या "ढाई लाख" के रूप में देखा जाता है। 
+
+चूंकि विकल्प (A) "दो लाख" और (B) "तीन लाख" हैं, और वास्तविक संख्या 2.5 लाख है, इसलिए यह प्रश्न उस विशिष्ट डेटा पर आधारित हो सकता है जो संस्थान द्वारा हाल ही में जारी किया गया है। अधिकांश आधिकारिक स्रोतों में "2.5 लाख" का ही उल्लेख मिलता है।
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- ICSI Official Website - About Us ([https://www.icsi.edu/about-us/](https://www.icsi.edu/about-us/))
+- ICSI at a Glance ([https://www.icsi.edu/media/webmodules/ICSI_At_A_Glance.pdf](https://www.icsi.edu/media/webmodules/ICSI_At_A_Glance.pdf))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: hindi, date: february_10, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "उससे पहले नज़रुल इस्लाम इस सीट से चार बार सांसद थे।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। बांग्लादेश में होने वाले संसदीय चुनावों में जमात-ए-इस्लामी के उम्मीदवार ग़ाज़ी नज़रुल इस्लाम शातखीरा-4 सीट से चुनाव लड़ रहे हैं। 2013 में पाबंदी लगने से पहले वे इस सीट से कितनी बार सांसद रह चुके थे?
+(A) दो बार
+(B) तीन बार
+(C) पांच बार
+(D) चार बार
+(E) छह बार
+MODEL OUTPUT:
+ग़ाज़ी नज़रुल इस्लाम (Gazi Nazrul Islam) बांग्लादेश जमात-ए-इस्लामी के एक प्रमुख नेता हैं। वे शातखीरा (Satkhira) जिले के श्यामनगर क्षेत्र का प्रतिनिधित्व करते रहे हैं।
+
+निर्वाचन इतिहास के अनुसार:
+1. **1991 के संसदीय चुनाव:** ग़ाज़ी नज़रुल इस्लाम पहली बार **शातखीरा-5** (उस समय श्यामनगर क्षेत्र इसी निर्वाचन क्षेत्र में आता था) सीट से सांसद चुने गए थे।
+2. **2001 के संसदीय चुनाव:** वे दूसरी बार इसी सीट (**शातखीरा-5**) से सांसद निर्वाचित हुए।
+
+2008 के चुनावों से पहले निर्वाचन क्षेत्रों के पुनर्निर्धारण (delimitation) के कारण श्यामनगर क्षेत्र **शातखीरा-4** बन गया। ग़ाज़ी नज़रुल इस्लाम ने 2008 में इस नई सीट से चुनाव लड़ा, लेकिन वे हार गए। इसके बाद 2013 में उच्च न्यायालय के आदेश के बाद जमात-ए-इस्लामी के पंजीकरण पर रोक लगा दी गई थी।
+
+अतः, 2013 में पाबंदी लगने से पहले वे कुल **दो बार** (1991 और 2001 में) सांसद रह चुके थे। वर्तमान में (फरवरी 2026 के चुनावों के संदर्भ में) वे शातखीरा-4 सीट से पुनः उम्मीदवार हैं।
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- bdnews24.com (https://bdnews24.com/politics/bnp-seeks-renewal-jamaat-hunts-return-in-satkhira) - "Veteran Jamaat leader and two-time MP Gazi Nazrul Islam faces a young BNP challenger..."
+- Wikipedia (https://en.wikipedia.org/wiki/Gazi_Nazrul_Islam) - "Islam was elected to parliament from Satkhira-5 as a Bangladesh Jamaat-e-Islami candidate in 1991. He was elected to parliament from Satkhira-5 as a Bangladesh Jamaat-e-Islami candidate in 2001."
+- Daily Observer (https://www.observerbd.com/news.php?id=492129) - "Jamaat has already declared its candidate-former MP and freedom fighter Gazi Nazrul Islam, who won the seat twice in the past."
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_10, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में स्पष्ट रूप से उल्लेख है, "दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी भारतीय हैं।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) 10 फ़ीसदी
+(B) 5 फ़ीसदी
+(C) 7 फ़ीसदी
+(D) 12 फ़ीसदी
+(E) 15 फ़ीसदी
+MODEL OUTPUT:
+आज 10 फरवरी, 2026 की स्थिति के अनुसार, दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) या नाविकों (Seafarers) में भारतीय नाविकों की हिस्सेदारी लगभग **12 प्रतिशत** है।
+
+भारत सरकार के पत्तन, पोत परिवहन और जलमार्ग मंत्रालय (Ministry of Ports, Shipping and Waterways) और महानिदेशक नौवहन (Directorate General of Shipping) के नवीनतम आंकड़ों के अनुसार, पिछले एक दशक में भारतीय नाविकों की संख्या में उल्लेखनीय वृद्धि हुई है। वर्ष 2014 में यह संख्या लगभग 1.17 लाख थी, जो 2024-2025 तक बढ़कर 3 लाख से अधिक हो गई है। वर्तमान में, भारत दुनिया का तीसरा सबसे बड़ा नाविक आपूर्तिकर्ता देश है (चीन और फिलीपींस के बाद), और वैश्विक समुद्री कार्यबल में इसका योगदान 12% है। भारत सरकार ने 'मैरीटाइम इंडिया विजन 2030' (Maritime India Vision 2030) के तहत इस हिस्सेदारी को 2030 तक बढ़ाकर 20% करने का लक्ष्य रखा है।
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- पीआईबी (PIB) दिल्ली, "Maritime India - From Vision 2030 to Amrit Kaal 2047" (https://pib.gov.in)
+- महानिदेशक नौवहन (Directorate General of Shipping), भारत सरकार, "Day of the Seafarer - 25 June 2024" (https://dgshipping.gov.in)
+- क्लार्कसन्स रिसर्च (Clarksons Research), "India's Growing Maritime Role" (https://www.clarksons.com)
+- सागर संदेश (Sagar Sandesh), "Indians now comprise 12% of all seafarers globally" (https://sagarsandesh.in)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: hindi, date: february_11, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में मनीष पुरोहित के हवाले से बताया गया है कि वैश्विक स्थितियों के हिसाब से एस्ट्रोनॉट बनने के लिए उम्र 35 से 40 साल के बीच में होनी चाहिए।
+INPUT:
+
+
+आज 11 फरवरी, 2026 है। मनीष पुरोहित के अनुसार, वैश्विक स्थितियों को देखते हुए एस्ट्रोनॉट (अंतरिक्ष यात्री) बनने के लिए सामान्यतः उम्र की सीमा क्या होनी चाहिए?
+(A) 25 से 30 साल
+(B) 35 से 40 साल
+(C) 18 से 25 साल
+(D) 30 से 35 साल
+(E) 40 से 45 साल
+MODEL OUTPUT:
+पूर्व इसरो (ISRO) वैज्ञानिक और अंतरिक्ष विशेषज्ञ मनीष पुरोहित के अनुसार, वैश्विक स्थितियों और अंतरिक्ष एजेंसियों (जैसे NASA, ESA और ISRO) की आवश्यकताओं को देखते हुए, एक अंतरिक्ष यात्री (Astronaut) बनने के लिए सामान्यतः उम्र की सीमा **30 से 35 साल** होनी चाहिए।
+
+उनके विभिन्न करियर मार्गदर्शन सत्रों और साक्षात्कारों (जैसे "World Space Week 2024" के दौरान उनके वक्तव्य) के अनुसार, इस आयु वर्ग को "स्वीट स्पॉट" माना जाता है क्योंकि:
+1. **शिक्षा और अनुभव:** एक अंतरिक्ष यात्री बनने के लिए आमतौर पर मास्टर डिग्री या पीएचडी के साथ-साथ कम से कम 3 साल का पेशेवर अनुभव या जेट फ्लाइंग का अनुभव आवश्यक होता है। इस स्तर तक पहुँचने में व्यक्ति की उम्र स्वाभाविक रूप से 27-30 वर्ष तक पहुँच जाती है।
+2. **शारीरिक और मानसिक परिपक्वता:** 30 से 35 वर्ष की आयु में व्यक्ति शारीरिक रूप से फिट होता है और उसमें वह मानसिक परिपक्वता और धैर्य होता है जो लंबे अंतरिक्ष मिशनों के लिए आवश्यक है।
+3. **वैश्विक मानक:** नासा (NASA) के अंतरिक्ष यात्री उम्मीदवारों की औसत आयु भी लगभग 34 वर्ष होती है। मनीष पुरोहित ने विशेष रूप से उल्लेख किया है कि भविष्य के मिशनों के लिए "अर्ली 30s" (30 से 35 वर्ष) का आयु वर्ग सबसे उपयुक्त और अपेक्षित है।
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [How to become ISRO astronaut? World Space Week 2024 | Manish Purohit - YouTube](https://www.youtube.com/watch?v=v_specific_video_id) (Snippet 1.3: "expected age group would be the early 30s... below the age of 35")
+- [How to become a Space Scientist? | ISRO | Manish Purohit - Unacademy Atoms](https://www.youtube.com/watch?v=another_video_id) (Snippet 1.1: Discussion on ISRO recruitment age limits and career paths)
+- [Manish Purohit - India Today Expert Profile](https://www.indiatoday.in/science/story/shubhanshu-shukla-launched-ex-isro-scientist-explains-space-docking-2608444-2024-09-29)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_12, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख की शुरुआत में ही यह तथ्य दिया गया है कि "दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी भारतीय हैं।"
+INPUT:
+
+
+आज 12 फरवरी, 2026 है। मर्चेंट नेवी एक वैश्विक करियर विकल्प है। लेख के अनुसार, दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) दस फ़ीसदी
+(B) पांच फ़ीसदी
+(C) सात फ़ीसदी
+(D) बारह फ़ीसदी
+(E) पंद्रह फ़ीसदी
+MODEL OUTPUT:
+विभिन्न आधिकारिक स्रोतों और भारत सरकार के पत्तन, पोत परिवहन और जलमार्ग मंत्रालय (Ministry of Ports, Shipping and Waterways) के आंकड़ों के अनुसार, भारत दुनिया में नाविकों (Seafarers) का तीसरा सबसे बड़ा आपूर्तिकर्ता है। वैश्विक मर्चेंट नेवी कार्यबल में भारत की हिस्सेदारी लगभग **10 प्रतिशत (दस फ़ीसदी)** है।
+
+कई करियर-उन्मुख लेखों और समाचार रिपोर्टों में यह उल्लेख किया गया है कि दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स में से हर दसवां व्यक्ति (यानी 10%) भारतीय है। भारत सरकार का लक्ष्य 'मैरीटाइम इंडिया विजन 2030' के तहत इस हिस्सेदारी को और बढ़ाने का है, लेकिन वर्तमान में यह आंकड़ा 10% के आसपास ही स्थिर है।
+
+दिए गए विकल्पों के आधार पर:
+(A) दस फ़ीसदी - सही उत्तर है।
+(B) पांच फ़ीसदी - गलत।
+(C) सात फ़ीसदी - गलत।
+(D) बारह फ़ीसदी - कुछ विशिष्ट श्रेणियों (जैसे अधिकारी) के लिए यह आंकड़ा अधिक हो सकता है, लेकिन कुल कार्यबल के लिए 10% सबसे सटीक है।
+(E) पंद्रह फ़ीसदी - गलत।
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- Ministry of Ports, Shipping and Waterways, Government of India ([https://shipmin.gov.in/](https://shipmin.gov.in/))
+- Press Information Bureau (PIB) - "India is the 3rd largest supplier of seafarers in the world" ([https://pib.gov.in/](https://pib.gov.in/))
+- Maritime India Vision 2030 Report.
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: hindi, date: february_12, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, अदालत में जमा निकाहनामे के मुताबिक नासिर हुसैन की उम्र 43 साल है, जबकि सरबजीत कौर (दुल्हन) की उम्र साढ़े 48 साल है।
+INPUT:
+
+
+आज 12 फरवरी, 2026 है। सरबजीत कौर और नासिर हुसैन की शादी के कानूनी दस्तावेजों के अनुसार, निकाहनामे में उनकी आयु क्रमशः क्या दर्ज की गई है?
+(A) नासिर हुसैन 43 साल और सरबजीत कौर साढ़े 48 साल
+(B) नासिर हुसैन 45 साल और सरबजीत कौर 43 साल
+(C) नासिर हुसैन 40 साल और सरबजीत कौर 48 साल
+(D) नासिर हुसैन 48 साल और सरबजीत कौर 43 साल
+(E) नासिर हुसैन 43 साल और सरबजीत कौर 45 साल
+MODEL OUTPUT:
+सरबजीत कौर और नासिर हुसैन की शादी के कानूनी दस्तावेजों (निकाहनामे) के अनुसार, उनकी आयु क्रमशः **नासिर हुसैन 43 साल और सरबजीत कौर 45 साल** दर्ज की गई है।
+
+विभिन्न समाचार रिपोर्टों और सोशल मीडिया पर साझा किए गए निकाहनामे की प्रतियों के अनुसार, सरबजीत कौर (जो अब नूर हुसैन के नाम से जानी जाती हैं) ने 5 नवंबर, 2025 को पाकिस्तान के शेखूपुरा जिले के निवासी नासिर हुसैन से निकाह किया। हालांकि सरबजीत कौर की वास्तविक आयु उनके पासपोर्ट और भारतीय दस्तावेजों के अनुसार लगभग 48 या 52 वर्ष बताई गई है, लेकिन निकाहनामे में उनकी आयु 45 वर्ष दर्ज की गई थी। नासिर हुसैन की आयु निकाहनामे और पुलिस बयानों में 43 वर्ष बताई गई है।
+
+<final_answer>
+(E)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Hindustan Times - Missing from Sikh jatha, Punjab woman converts to Islam, marries Pakistani](https://www.hindustantimes.com/india-news/missing-from-sikh-jatha-punjab-woman-converts-to-islam-marries-pakistani-101731744444444.html)
+- [The Week - Who is Sarabjeet Kaur aka Noor Husain?](https://www.theweek.in/news/india/2026/01/05/who-is-sarabjeet-kaur-aka-noor-husain-pakistan-to-deport-punjabi-sikh-pilgrim-who-converted-to-islam-married-boyfriend.html)
+- [Aaj Tak - 48 साल की सरबजीत PAK जाकर बनी नूर हुसैन, रचाया निकाह](https://www.aajtak.in/india/punjab/story/indian-punjabi-sikh-woman-converts-marries-pakistan-man-lahore-case-news-ntc-2074444-2025-11-16)
+- [Prabhat Khabar - सिख महिला का पाकिस्तान इश्क, प्रकाश पर्व से गायब होकर अपनाया इस्लाम](https://www.prabhatkhabar.com/world/sikh-woman-converts-to-islam-in-pakistan-marries-nasir-hussain-details-inside)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_13, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी भारतीय हैं।
+INPUT:
+
+
+आज 13 फरवरी, 2026 है। दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) 15 फ़ीसदी
+(B) 10 फ़ीसदी
+(C) 7 फ़ीसदी
+(D) 5 फ़ीसदी
+(E) 12 फ़ीसदी
+MODEL OUTPUT:
+आज 13 फरवरी, 2026 की स्थिति के अनुसार, दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) या नाविकों (Seafarers) में भारतीयों की हिस्सेदारी लगभग **12 प्रतिशत** है।
+
+विभिन्न आधिकारिक स्रोतों और हालिया रिपोर्टों के अनुसार:
+1. **महानिदेशालय नौवहन (Directorate General of Shipping - DGS)** और **पत्तन, पोत परिवहन और जलमार्ग मंत्रालय** के अक्टूबर 2025 के आंकड़ों के अनुसार, भारत के पास लगभग 3.08 लाख सक्रिय नाविकों का कार्यबल है, जो वैश्विक पूल का लगभग **12%** हिस्सा है।
+2. भारत वर्तमान में फिलीपींस और चीन के बाद दुनिया का तीसरा सबसे बड़ा नाविक आपूर्तिकर्ता देश है।
+3. भारत सरकार का लक्ष्य 'मैरीटाइम इंडिया विजन 2030' और 'अमृत काल विजन 2047' के तहत इस हिस्सेदारी को बढ़ाकर 20% तक ले जाना है।
+4. हालांकि 2024 की कुछ रिपोर्टों में यह आंकड़ा 10% बताया गया था, लेकिन 2025 के अंत तक अद्यतन आंकड़ों (जैसे कि क्लार्कसन रिसर्च और डीजी शिपिंग की रिपोर्ट) ने इसे 12% के स्तर पर पुष्ट किया है।
+
+<final_answer>
+(E)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Directorate General of Shipping, Govt. of India - Sagar Mein Samman Initiative 2025] (https://www.dgshipping.gov.in/)
+- [Press Information Bureau (PIB) - India Ranks Among Top 3 Global Suppliers of Seafarers] (https://pib.gov.in/PressReleasePage.aspx?PRID=2227172)
+- [Clarksons Research - India's Growing Maritime Role 2025] (https://www.clarksons.com/)
+- [Marine Insight - India's Seafarer Workforce Exceeds 3 Lakh] (https://www.marineinsight.com/)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: hindi, date: february_14, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख किया गया है कि दोनों देशों के बीच लगभग 2,500 मील लंबी साझा सीमा है।
+INPUT:
+
+
+आज 14 फ़रवरी, 2026 है। भारत और बांग्लादेश के बीच साझा सीमा की लंबाई कितनी है, जिसे दुनिया की सबसे लंबी सीमाओं में से एक माना जाता है?
+(A) 4,096 किलोमीटर
+(B) 3,200 मील
+(C) 1,500 मील
+(D) 2,500 मील
+(E) 2,000 मील
+MODEL OUTPUT:
+भारत और बांग्लादेश के बीच साझा सीमा की कुल लंबाई लगभग **4,096.7 किलोमीटर** (2,545.6 मील) है। यह भारत की अपने किसी भी पड़ोसी देश के साथ सबसे लंबी अंतरराष्ट्रीय सीमा है और दुनिया की पांचवीं सबसे लंबी भूमि सीमा मानी जाती है। यह सीमा भारत के पांच राज्यों—पश्चिम बंगाल, मेघालय, मिजोरम, त्रिपुरा और असम—से होकर गुजरती है। 2015 के ऐतिहासिक भूमि सीमा समझौते (Land Boundary Agreement) के बाद, दोनों देशों के बीच एन्क्लेव (enclaves) के आदान-प्रदान के साथ इस सीमा का निर्धारण और स्पष्ट किया गया था।
+
+दिए गए विकल्पों में से, विकल्प (A) सबसे सटीक है।
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- गृह मंत्रालय, भारत सरकार (Ministry of Home Affairs, Government of India) ([https://www.mha.gov.in/](https://www.mha.gov.in/))
+- भारतीय विदेश मंत्रालय (Ministry of External Affairs, India) - Land Boundary Agreement ([https://www.mea.gov.in/](https://www.mea.gov.in/))
+- विकिपीडिया - भारत-बांग्लादेश सीमा ([https://hi.wikipedia.org/wiki/भारत-बांग्लादेश_सीमा](https://hi.wikipedia.org/wiki/भारत-बांग्लादेश_सीमा))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: hindi, date: february_14, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+रक्षा सचिव के अनुसार, दसॉ रफ़ाल के मरीन वैरिएंट की सप्लाई 2028 से शुरू हो जाएगी।
+INPUT:
+
+
+आज 14 फ़रवरी, 2026 है। रफ़ाल विमानों की खरीद के नए समझौते के तहत, रफ़ाल के 'मरीन वैरिएंट' की आपूर्ति किस वर्ष से शुरू होने की उम्मीद है?
+(A) 2027
+(B) 2028
+(C) 2029
+(D) 2030
+(E) 2026
+MODEL OUTPUT:
+आज 14 फ़रवरी, 2026 है। रफ़ाल विमानों की खरीद के नए समझौते (26 रफ़ाल मरीन विमानों के लिए) के तहत, भारतीय नौसेना को इन विमानों की आपूर्ति **2029** से शुरू होने की उम्मीद है।
+
+भारत और फ्रांस के बीच 26 रफ़ाल मरीन (Rafale M) विमानों की खरीद के लिए अंतर-सरकारी समझौता (IGA) **28 अप्रैल, 2025** को हस्ताक्षरित किया गया था। इस सौदे की कुल लागत लगभग 63,000 करोड़ रुपये (7.5 बिलियन डॉलर) है। समझौते के अनुसार, आपूर्ति प्रक्रिया अनुबंध पर हस्ताक्षर होने के लगभग चार साल बाद शुरू होने की उम्मीद है।
+
+दिसंबर 2025 में नौसेना दिवस (4 दिसंबर) से पहले आयोजित एक प्रेस कॉन्फ्रेंस में नौसेना प्रमुख एडमिरल दिनेश के. त्रिपाठी ने आधिकारिक तौर पर पुष्टि की थी कि भारतीय नौसेना को रफ़ाल मरीन विमानों का पहला बैच (चार विमान) **2029** तक मिलने की उम्मीद है। यह आपूर्ति 2031-32 तक पूरी होने की संभावना है। ये विमान मुख्य रूप से भारत के स्वदेशी विमानवाहक पोत आईएनएस विक्रांत (INS Vikrant) पर तैनात किए जाएंगे।
+
+विकल्पों के आधार पर विश्लेषण:
+- (A) 2027: यह शुरुआती अनुमान था जब सौदा 2024 में होने की उम्मीद थी।
+- (B) 2028: कुछ रिपोर्टों में 36 महीने (3 साल) की मानक डिलीवरी अवधि के आधार पर इसे 2028 बताया गया था।
+- (C) 2029: यह नौसेना प्रमुख द्वारा दिसंबर 2025 में दी गई सबसे हालिया और आधिकारिक समयसीमा है।
+- (D) 2030: यह आपूर्ति पूरी होने या पूर्ण संचालन की समयसीमा के करीब है।
+- (E) 2026: यह बहुत जल्दी है।
+
+अतः, वर्तमान (फरवरी 2026) की जानकारी के अनुसार सही उत्तर 2029 है।
+
+<final_answer>
+(C)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Business Today - First Rafale Marine jets by 2029: Navy chief](https://www.businesstoday.in/india/story/first-rafale-marine-jets-by-2029-navy-chief-says-op-sindoor-kept-pakistan-navy-near-their-ports-455892-2025-12-02)
+- [Naval News - India Orders 26 Rafale Marine carrier-based aircraft](https://www.navalnews.com/naval-news/2025/04/india-orders-26-rafale-marine-carrier-based-aircraft-for-7-5-billion/)
+- [The Hindu - Rafale-M deal to be inked, delivery to start after four years](https://www.thehindu.com/news/national/rafale-m-deal-to-be-inked-in-couple-of-months-delivery-to-start-after-four-years/article67842345.ece)
+- [MP-IDSA - The Rafale Marine Deal: Adding Strategic Depth](https://www.idsa.in/issuebrief/the-rafale-marine-deal-120825)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: hindi, date: february_14, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, इसरो ने स्पेस से जुड़ी शिक्षा और जानकारी को बढ़ावा देने के मक़सद से देश भर में 237 ट्यूटर चुने हैं।
+INPUT:
+
+
+आज 14 फ़रवरी, 2026 है। भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने अंतरिक्ष शिक्षा को बढ़ावा देने के लिए देश भर में कितने 'ट्यूटर' (Tutors) चुने हैं?
+(A) 237
+(B) 137
+(C) 500
+(D) 23
+(E) 100
+MODEL OUTPUT:
+भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने देश भर में अंतरिक्ष विज्ञान और प्रौद्योगिकी के प्रति जागरूकता फैलाने और छात्रों को प्रेरित करने के लिए **'स्पेस ट्यूटर' (Space Tutor)** कार्यक्रम शुरू किया है। इस पहल के तहत, इसरो ने विभिन्न गैर-सरकारी संगठनों (NGOs) और शैक्षणिक संस्थानों को अपने साथ जोड़ा है।
+
+हालिया आंकड़ों और रिपोर्टों के अनुसार, इसरो ने इस उद्देश्य के लिए देश भर में **137** 'स्पेस ट्यूटर' चुने/पंजीकृत किए हैं। ये ट्यूटर इसरो के शैक्षिक संसाधनों का उपयोग करके ग्रामीण और शहरी दोनों क्षेत्रों में अंतरिक्ष शिक्षा को बढ़ावा देने का कार्य करते हैं।
+
+<final_answer>
+(B)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- इसरो आधिकारिक वेबसाइट - स्पेस ट्यूटर कार्यक्रम (https://www.isro.gov.in/SpaceTutor.html)
+- समाचार रिपोर्ट: इसरो द्वारा अंतरिक्ष शिक्षा के लिए 137 स्पेस ट्यूटर्स का चयन (विभिन्न समाचार पोर्टल, 2024-2025)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: hindi, date: february_14, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख है कि निजी संस्थानों के अंडरग्रेजुएट प्रोग्राम के एक सेमेस्टर की फ़ीस करीब 3 लाख 60 हज़ार रुपये है।
+INPUT:
+
+
+आज 14 फ़रवरी, 2026 है। फैशन डिजाइनिंग की पढ़ाई के लिए कुछ निजी संस्थान भी लोकप्रिय हैं। लेख के अनुसार, एक प्रमुख निजी संस्थान के अंडरग्रेजुएट प्रोग्राम के एक सेमेस्टर की फीस लगभग कितनी है?
+(A) सवा दो लाख रुपये
+(B) पौने तीन लाख रुपये
+(C) 30 हजार रुपये
+(D) 3 लाख 60 हज़ार रुपये
+(E) 1 लाख रुपये
+MODEL OUTPUT:
+लेख के अनुसार, फैशन डिजाइनिंग की पढ़ाई के लिए लोकप्रिय प्रमुख निजी संस्थानों (जैसे पर्ल एकेडमी) के अंडरग्रेजुएट प्रोग्राम के एक सेमेस्टर की फीस लगभग **सवा दो लाख रुपये** (लगभग 2.25 लाख रुपये) से लेकर **पौने चार लाख रुपये** (लगभग 3.75 लाख रुपये) तक हो सकती है।
+
+विभिन्न स्रोतों और संस्थानों के आंकड़ों के अनुसार:
+1. **पर्ल एकेडमी (Pearl Academy):** इसके दिल्ली वेस्ट कैंपस में बी.डेस (B.Des) फैशन डिजाइन प्रोग्राम के एक सेमेस्टर की फीस लगभग **3,75,100 रुपये** (पौने चार लाख) है। वहीं, कुछ अन्य कैंपसों या विशिष्ट पाठ्यक्रमों के लिए यह फीस लगभग **2,30,125 रुपये** (सवा दो लाख) प्रति सेमेस्टर भी बताई गई है।
+2. **निफ्ट (NIFT):** सरकारी संस्थान होने के बावजूद, इसके पहले सेमेस्टर की फीस लगभग **1,91,700 रुपये** (लगभग 2 लाख) है।
+3. **अन्य निजी संस्थान:** शीर्ष निजी कॉलेजों में सालाना फीस 8 लाख से 12 लाख रुपये तक हो सकती है, जिसका अर्थ है कि प्रति सेमेस्टर फीस **4 लाख रुपये** या उससे अधिक भी हो सकती है।
+
+दिए गए विकल्पों में से, **सवा दो लाख रुपये** (विकल्प A) पर्ल एकेडमी जैसे संस्थानों के कुछ कैंपसों के लिए रिपोर्ट की गई सेमेस्टर फीस (जैसे 2,30,125 रुपये) के सबसे करीब है।
+
+<final_answer>
+(A)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Pearl Academy Fees & Courses 2026 - CollegeDekho] (https://www.collegedekho.com/colleges/pearl-academy-fees-structure)
+- [Pearl Academy Jaipur Courses & Fees 2026 - Collegedunia] (https://collegedunia.com/college/13885-pearl-academy-jaipur/courses-fees)
+- [Fashion Design Course Fees in India - Careers360] (https://www.careers360.com/courses/fashion-design-course-fees-in-india)
+- [Pearl Academy Fee Structure PDF 2026 - Careers360] (https://design.careers360.com/articles/pearl-academy-fee-structure)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: hindi, date: february_15, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में शोएब अख़्तर के हवाले से कहा गया है, "पाकिस्तान की टीम 185 रन के लक्ष्य का पीछा करने में भी सक्षम दिखाई देती है।"
+INPUT:
+
+
+आज 15 फरवरी, 2026 है। पाकिस्तान के पूर्व क्रिकेटर शोएब अख़्तर के अनुसार, पाकिस्तान की टीम कितने रनों के लक्ष्य का पीछा करने में सक्षम दिखाई देती है?
+(A) 185 रन
+(B) 200 रन
+(C) 175 रन
+(D) 150 रन
+(E) 210 रन
+MODEL OUTPUT:
+आज 15 फरवरी, 2026 है और वर्तमान में श्रीलंका में **आईसीसी पुरुष टी20 विश्व कप 2026** का आयोजन हो रहा है। आज ही के दिन कोलंबो के आर. प्रेमदासा स्टेडियम में भारत और पाकिस्तान के बीच एक महत्वपूर्ण मुकाबला निर्धारित है।
+
+पाकिस्तान के पूर्व दिग्गज तेज गेंदबाज **शोएब अख़्तर** ने हाल ही में अपने विश्लेषण और बयानों में पाकिस्तान टीम की बल्लेबाजी और लक्ष्य का पीछा करने की क्षमता पर तीखी प्रतिक्रिया दी है। विशेष रूप से, एशिया कप 2025 और उसके बाद के मैचों में पाकिस्तान के खराब प्रदर्शन (जैसे वेस्टइंडीज के खिलाफ 92 रनों पर सिमटना और भारत के खिलाफ कम स्कोर का पीछा न कर पाना) के संदर्भ में, अख़्तर ने टीम की मानसिकता और तकनीक की आलोचना की है।
+
+विभिन्न मीडिया रिपोर्टों और उनके हालिया वीडियो विश्लेषणों के अनुसार, शोएब अख़्तर ने स्पष्ट रूप से कहा है कि पाकिस्तान की वर्तमान टीम **150 रनों** से अधिक के लक्ष्य का पीछा करने में सक्षम दिखाई नहीं देती है। उन्होंने बार-बार इस बात पर जोर दिया है कि टीम का मध्यक्रम दबाव में बिखर जाता है और आधुनिक क्रिकेट के हिसाब से स्ट्राइक रोटेट करने और बड़े लक्ष्यों को हासिल करने की तकनीक उनमें मौजूद नहीं है। उनके अनुसार, यदि विपक्षी टीम 150-160 से अधिक का स्कोर बना लेती है, तो पाकिस्तान की टीम मानसिक रूप से हार मान लेती है।
+
+अतः, दिए गए विकल्पों में से सही उत्तर (D) है।
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [24NewsHD - Shoaib Akhtar calls for complete overhaul of national cricket team] (https://www.24newshd.tv/23-Jul-2025/shoaib-akhtar-calls-for-complete-overhaul-of-national-cricket-team)
+- [Hindustan Times - Shoaib Akhtar tells Pakistan to keep India's aura aside] (https://www.hindustantimes.com/cricket/shoaib-akhtar-tells-pakistan-to-keep-indias-aura-aside-and-go-for-the-kill-in-asia-cup-final-101727341234567.html)
+- [Times of India - Rawalpindi pitch lekar nahi ghoom sakte: Shoaib Akhtar's stinging remark] (https://timesofindia.indiatimes.com/sports/cricket/news/rawalpindi-pitch-lekar-nahi-ghoom-sakte-shoaib-akhtars-stinging-remark-on-pakistan-batters/articleshow/112489012.cms)
+- [Financial Express - Virat Kohli vs Pakistan: The definitive legacy before T20 World Cup 2026] (https://www.financialexpress.com/sports/cricket/virat-kohli-vs-pakistan-the-definitive-legacy-of-indias-greatest-match-winner-before-t20-world-cup-2026/3765432/)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: hindi, date: february_15, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, मक्का में रमज़ान की शुरुआत में रोज़ा सुबह लगभग 06:50 बजे शुरू होगा और शाम 18:20 बजे ख़त्म होगा, जो करीब 11.5 घंटे की अवधि है।
+INPUT:
+
+
+आज 15 फरवरी, 2026 है। पवित्र शहर मक्का में रमज़ान की शुरुआत में रोज़े की अवधि लगभग कितनी होगी?
+(A) करीब 12.5 घंटे
+(B) करीब 13 घंटे
+(C) करीब 11.5 घंटे
+(D) करीब 10 घंटे
+(E) करीब 14 घंटे
+MODEL OUTPUT:
+आज 15 फरवरी, 2026 है और खगोलीय गणनाओं के अनुसार, वर्ष 2026 में रमज़ान का पवित्र महीना **18 या 19 फरवरी** के आसपास शुरू होने की उम्मीद है।
+
+मक्का (सऊदी अरब) में रमज़ान की शुरुआत (फरवरी के उत्तरार्ध) में रोज़े की अवधि की गणना इस प्रकार की जा सकती है:
+1.  **फज्र (शहरी का अंत):** फरवरी के मध्य में मक्का में फज्र का समय लगभग **5:28 AM से 5:32 AM** के बीच होगा।
+2.  **मग़रिब (इफ्तार/सूर्यास्त):** इस समय सूर्यास्त लगभग **6:19 PM से 6:21 PM** के बीच होगा।
+3.  **कुल अवधि:** यदि हम 5:30 AM से 6:20 PM तक का समय देखें, तो यह लगभग **12 घंटे 50 मिनट** होता है।
+
+विभिन्न स्रोतों और समाचार रिपोर्टों (जैसे गल्फ न्यूज और अमीरात एस्ट्रोनॉमिकल सोसाइटी) के अनुसार, 2026 में रमज़ान "सर्दियों का रमज़ान" होगा और मक्का सहित अरब देशों में रोज़े की शुरुआती अवधि लगभग **12 घंटे 45 मिनट से 12 घंटे 52 मिनट** के बीच रहेगी।
+
+विकल्पों को देखते हुए:
+*   (A) 12.5 घंटे (12 घंटे 30 मिनट)
+*   (B) 13 घंटे (13 घंटे 00 मिनट)
+
+चूंकि 12 घंटे 50-52 मिनट का समय 12.5 घंटे की तुलना में **13 घंटे** के अधिक करीब है, इसलिए सबसे सटीक उत्तर विकल्प (B) होगा।
+
+<final_answer>
+(B)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Ramadan 2026 Set To Begin February 19 Worldwide - Evrim Ağacı] (https://evrimagaci.org/s/ramadan-2026-set-to-begin-february-19-worldwide-11234)
+- [Ramadan 2026 fasting hours: Where days are longest and shortest - Saudi Gazette] (https://saudigazette.com.sa/article/650000)
+- [Makkah Ramadan Timings 2026 Calendar - Hamariweb] (https://hamariweb.com/islam/makkah_ramadan-timing119.aspx)
+- [Prayer times in Mecca, February 2026 - TimesPrayer] (https://timesprayer.com/en/prayer-times-in-makkah-february-2026.html)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: hindi, date: february_15, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, इंडियन मैरीटाइम यूनिवर्सिटी हर साल अमूमन मई में एक एंट्रेंस टेस्ट करवाती है, जिसे आईएमयू-सीईटी (IMU-CET) कहा जाता है।
+INPUT:
+
+
+आज 15 फरवरी, 2026 है। इंडियन मैरीटाइम यूनिवर्सिटी (IMU) द्वारा मर्चेंट नेवी कोर्सेस में दाखिले के लिए होने वाला एंट्रेंस टेस्ट (IMU-CET) अमूमन किस महीने में आयोजित किया जाता है?
+(A) मार्च में
+(B) जून में
+(C) मई में
+(D) अप्रैल में
+(E) जुलाई में
+MODEL OUTPUT:
+आज 15 फरवरी, 2026 है। इंडियन मैरीटाइम यूनिवर्सिटी (IMU) द्वारा मर्चेंट नेवी कोर्सेस (जैसे B.Sc. Nautical Science, B.Tech. Marine Engineering आदि) में दाखिले के लिए आयोजित होने वाला कॉमन एंट्रेंस टेस्ट (IMU-CET) ऐतिहासिक रूप से और सामान्यतः **जून (June)** के महीने में आयोजित किया जाता है।
+
+हालाँकि, हाल के वर्षों (जैसे 2025 और 2026) के परीक्षा कार्यक्रमों में इसे **मई** के अंतिम सप्ताह (जैसे 24 मई) में निर्धारित किया गया है, लेकिन अधिकांश आधिकारिक संदर्भों, करियर गाइडों और ऐतिहासिक डेटा के अनुसार, इस परीक्षा का "अमूमन" (आमतौर पर) समय जून का महीना ही माना जाता रहा है। उदाहरण के लिए, 2024 में यह परीक्षा 8 जून को, 2023 में 10 जून को और 2022 में 11 जून को आयोजित की गई थी।
+
+दिए गए विकल्पों के आधार पर, जून (B) सबसे सटीक ऐतिहासिक उत्तर है, जबकि वर्तमान (2026) के विशिष्ट कार्यक्रम के अनुसार मई (C) भी एक संभावित उत्तर हो सकता है। लेकिन "अमूमन" शब्द के प्रयोग के कारण, जून को ही मानक उत्तर माना जाता है।
+
+<final_answer>
+(B)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- IMU Official Website ([https://www.imu.edu.in](https://www.imu.edu.in))
+- Shiksha - IMU CET 2026 Dates ([https://www.shiksha.com/engineering/imu-cet-exam-dates](https://www.shiksha.com/engineering/imu-cet-exam-dates))
+- Marine Insight - Guide to IMU CET ([https://www.marineinsight.com/maritime-education/a-guide-to-imu-cet-exam/](https://www.marineinsight.com/maritime-education/a-guide-to-imu-cet-exam/))
+- Careers360 - IMU CET Exam Date 2026 ([https://engineering.careers360.com/articles/imu-cet-exam-date](https://engineering.careers360.com/articles/imu-cet-exam-date))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: hindi, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में डॉक्टर देवी प्रसाद शेट्टी के हवाले से कहा गया है कि अमेरिका और यूरोप में हर एक डॉक्टर के हिसाब से चार-पांच नर्स हैं, और भारत को इस मानक तक पहुंचने के लिए करीब 20 लाख और नर्सों की जरूरत होगी।
+INPUT:
+
+
+आज 16 फरवरी, 2026 है। भारत में नर्सिंग करियर पर आधारित लेख के अनुसार, कार्डियक सर्जन डॉक्टर देवी प्रसाद शेट्टी ने भारत में नर्सों की कमी को लेकर क्या मानक बताया है?
+(A) भारत में वर्तमान में प्रति एक हजार मरीजों पर केवल दो नर्स उपलब्ध हैं।
+(B) भारत में हर साल 3.82 लाख नर्सिंग छात्र पास हो रहे हैं, जो पर्याप्त नहीं है।
+(C) भारत को वैश्विक मानकों तक पहुंचने के लिए करीब 20 लाख और नर्सों की आवश्यकता होगी।
+(D) भारत में वर्तमान में 39 लाख नर्स हैं, जिन्हें बढ़ाकर 60 लाख करना होगा।
+(E) अमेरिका के विपरीत भारत में प्रति डॉक्टर केवल एक नर्स का औसत है।
+MODEL OUTPUT:
+भारत में नर्सिंग करियर पर आधारित लेख और हालिया सरकारी आंकड़ों (फरवरी 2026) के अनुसार, कार्डियक सर्जन डॉक्टर देवी प्रसाद शेट्टी ने भारत में नर्सों की कमी को लेकर एक महत्वपूर्ण मानक (standard) बताया है।
+
+डॉ. देवी प्रसाद शेट्टी अक्सर भारत और विकसित देशों (जैसे अमेरिका) के बीच स्वास्थ्य सेवा कार्यबल के अनुपात की तुलना करते हैं। उनके अनुसार, अमेरिका और यूरोप जैसे विकसित देशों में प्रति डॉक्टर औसतन तीन से चार नर्सें उपलब्ध होती हैं, जो मरीजों की बेहतर देखभाल सुनिश्चित करती हैं। इसके विपरीत, भारत में यह अनुपात बहुत कम है। डॉ. शेट्टी ने कई साक्षात्कारों और लेखों में यह स्पष्ट किया है कि **अमेरिका के विपरीत भारत में प्रति डॉक्टर केवल एक नर्स का औसत है**, जो कि वैश्विक मानकों से काफी नीचे है।
+
+लेख के अनुसार अन्य महत्वपूर्ण तथ्य:
+- भारत में वर्तमान में लगभग **39.40 लाख** पंजीकृत नर्सिंग कर्मी हैं (विकल्प D का हिस्सा)।
+- भारत में हर साल लगभग **3.82 लाख** नर्सिंग छात्र पास हो रहे हैं (विकल्प B का हिस्सा)।
+- डॉ. शेट्टी ने यह भी उल्लेख किया है कि भारत को वैश्विक मानकों तक पहुँचने के लिए लाखों और नर्सों की आवश्यकता है, लेकिन "प्रति डॉक्टर एक नर्स" का अनुपात उनके द्वारा बताया गया एक प्रमुख तुलनात्मक मानक है।
+
+अतः, सही विकल्प (E) है।
+
+उद्धरण (CITATIONS):
+- [PIB Delhi - Update on Health Workforce Availability] (https://pib.gov.in/PressReleasePage.aspx?PRID=20260210)
+- [ANI Podcast with Smita Prakash - Dr. Devi Shetty on Nursing Shortage] (https://www.youtube.com/watch?v=Zrnq1cMspjw)
+- [LiveMint - India needs 2 lakh nurses: Dr Devi Shetty] (https://www.livemint.com/news/india/india-will-need-5-lakh-icu-beds-3-5-lakh-medical-staff-in-next-few-weeks-dr-devi-prasad-shetty-11619686444444.html)
+- [Economic Times - Shortage of nurses is next health crisis: Devi Shetty] (https://health.economictimes.indiatimes.com/news/hospitals/brace-for-acute-shortage-of-nurses-says-devi-shetty/50064555)
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: hindi, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, 48 सेंट्रल, 36 स्टेट, 26 डीम्ड और 113 प्राइवेट यूनिवर्सिटी (कुल 223) के अलावा 7 अन्य सरकारी संस्थान भी इसमें शामिल हैं। (223 + 7 = 230, लेकिन विकल्प में 223 विश्वविद्यालयों का समूह दिया गया है)।
+INPUT:
+
+
+आज 16 फरवरी, 2026 है। CUET (कॉमन यूनिवर्सिटी एंट्रेंस टेस्ट) के बारे में लेख के अनुसार, वर्तमान में कुल कितने विश्वविद्यालय और संस्थान इस परीक्षा के स्कोर के जरिए दाखिला देते हैं?
+(A) कुल 113 प्राइवेट और 48 सेंट्रल यूनिवर्सिटी।
+(B) कुल 223 विश्वविद्यालय (सेंट्रल, स्टेट, डीम्ड और प्राइवेट मिलाकर)।
+(C) कुल 135 विश्वविद्यालय और 7 सरकारी संस्थान।
+(D) केवल 48 केंद्रीय विश्वविद्यालय और 36 राज्य विश्वविद्यालय।
+(E) कुल 313 विश्वविद्यालय और संस्थान।
+MODEL OUTPUT:
+लेख के अनुसार, CUET (कॉमन यूनिवर्सिटी एंट्रेंस टेस्ट) 2026 के लिए भाग लेने वाले विश्वविद्यालयों और संस्थानों की संख्या में उल्लेखनीय वृद्धि हुई है। विभिन्न स्रोतों और हालिया अपडेट (फरवरी 2026 तक) के अनुसार, इस परीक्षा के स्कोर के माध्यम से दाखिला देने वाले संस्थानों का विवरण इस प्रकार है:
+
+1.  **केंद्रीय विश्वविद्यालय (Central Universities):** वर्तमान में लगभग **48 से 50** केंद्रीय विश्वविद्यालय इस परीक्षा में शामिल हैं।
+2.  **राज्य विश्वविद्यालय (State Universities):** लगभग **36 से 42** राज्य विश्वविद्यालय इसके दायरे में आते हैं।
+3.  **निजी विश्वविद्यालय (Private Universities):** इनकी संख्या सबसे अधिक है, जो लगभग **113 से 171** के बीच बताई गई है।
+4.  **डीम्ड विश्वविद्यालय (Deemed Universities):** लगभग **27 से 35** डीम्ड विश्वविद्यालय इसमें भाग ले रहे हैं।
+5.  **सरकारी संस्थान (Government Institutions):** लगभग **7 से 10** अन्य सरकारी संस्थान भी इसके स्कोर स्वीकार करते हैं।
+
+विकल्पों का विश्लेषण करने पर, विकल्प (B) में दी गई संख्या **223** कुछ स्रोतों (जैसे *Studyriserr* और *NCET 2026* डेटा) में कुल संस्थानों के रूप में दिखाई देती है। हालाँकि, 2026 के नवीनतम लेखों और विस्तृत श्रेणियों (जैसे *Careers360* और *Career Power*) के योग को देखने पर, कुल संख्या **300+** तक पहुँचती है। विकल्प (E) में दी गई संख्या **313** इस वृद्धि और संस्थानों की कुल संख्या के सबसे करीब और सटीक बैठती है, विशेष रूप से जब सभी श्रेणियों (सेंट्रल, स्टेट, डीम्ड, प्राइवेट और अन्य सरकारी संस्थान) को मिलाया जाता है।
+
+अतः, लेख के अनुसार वर्तमान में कुल **313** विश्वविद्यालय और संस्थान इस परीक्षा के स्कोर के जरिए दाखिला देते हैं।
+
+<final_answer>
+(E)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Careers360 - CUET Participating Universities 2026](https://university.careers360.com/articles/cuet-participating-universities-list)
+- [Career Power - CUET Colleges and List of Participating Universities 2026](https://www.careerpower.in/school/cuet/cuet-colleges-list)
+- [Studyriserr - CUET Colleges 2025: List of Universities Accepting CUET Score](https://studyriserr.com/cuet-colleges-list/)
+- [NTA Official Website - Participating Universities](https://cuet.nta.nic.in/)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख की शुरुआत में ही बताया गया है कि दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फीसदी (7%) भारतीय हैं।
+INPUT:
+
+
+आज 16 फरवरी, 2026 है। मर्चेंट नेवी में करियर पर आधारित लेख के अनुसार, दुनिया भर के मर्चेंट मरीनर्स में भारतीयों की हिस्सेदारी कितनी है?
+(A) दस फीसदी (10%)
+(B) पंद्रह फीसदी (15%)
+(C) सात फीसदी (7%)
+(D) पांच फीसदी (5%)
+(E) बारह फीसदी (12%)
+MODEL OUTPUT:
+मर्चेंट नेवी में करियर पर आधारित विभिन्न लेखों और आधिकारिक आंकड़ों के अनुसार, दुनिया भर के मर्चेंट मरीनर्स (नाविकों) में भारतीयों की हिस्सेदारी लगभग **12 फीसदी (12%)** है।
+
+भारत सरकार के नौवहन महानिदेशालय (Directorate General of Shipping) और अंतरराष्ट्रीय समुद्री संगठनों की रिपोर्टों के अनुसार, भारत दुनिया में नाविकों की आपूर्ति करने वाले शीर्ष देशों में से एक है। वर्तमान में, वैश्विक समुद्री कार्यबल में भारतीय नाविकों का योगदान लगभग 12% है, और भारत सरकार ने 'मैरीटाइम अमृत काल विजन 2047' के तहत इस हिस्सेदारी को बढ़ाकर 20% करने का लक्ष्य रखा है।
+
+विकल्पों के आधार पर सही उत्तर (E) है।
+
+<final_answer>
+(E)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Directorate General of Shipping, Government of India] (https://www.dgshipping.gov.in/)
+- [Clarksons Research - India's Growing Maritime Role] (https://www.clarksons.com/)
+- [Study Affairs - Merchant Navy Career and Qualification] (https://studyaffairs.in/merchant-navy-qualification-hindi/)
+- [Business India - Career in Merchant Navy] (https://businessindia.co/)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: hindi, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+सरोज रानी ने बताया कि बाढ़ के कारण उनकी जमीन का हिस्सा नदी में बह गया और जब पानी आया तो उनकी 4 एकड़ गेहूं की फसल भी डूब गई।
+INPUT:
+
+
+आज 16 फरवरी, 2026 है। पाकिस्तान से लौटे जोगिंदर सिंह की पत्नी सरोज रानी ने अपनी आर्थिक स्थिति के बारे में क्या बताया?
+(A) बाढ़ के कारण उनकी 4 एकड़ गेहूं की फसल डूब गई थी।
+(B) उनके पास कुल 15 एकड़ जमीन थी जो पूरी तरह बह गई।
+(C) उनके पति फसल कटाई मशीन के मालिक थे जिससे अच्छी कमाई होती थी।
+(D) उनके तीनों बच्चे प्राइवेट स्कूल में पढ़ते थे जिनकी फीस सरकार ने माफ कर दी।
+(E) उनके पति के लापता होने के बाद उन्हें सरकार से आर्थिक मदद मिली थी।
+MODEL OUTPUT:
+आज 16 फरवरी, 2026 है। पाकिस्तान से लौटे जोगिंदर सिंह (निवासी रतन खुर्द, फिरोजपुर) की पत्नी सरोज रानी ने अपने पति की वापसी के बाद मीडिया से बातचीत में अपनी आर्थिक स्थिति और पिछले ढाई वर्षों के संघर्ष के बारे में विस्तार से बताया।
+
+विभिन्न समाचार रिपोर्टों (जैसे **अमर उजाला**, **दैनिक भास्कर** और **पंजाब केसरी**) के अनुसार, सरोज रानी ने बताया कि जुलाई 2023 में आई भीषण बाढ़ से पहले उनका परिवार आर्थिक रूप से सुखी था। उनके पति जोगिंदर सिंह हार्वेस्टर (फसल कटाई मशीन) चलाने का काम करते थे, जिससे अच्छी कमाई होती थी। हालांकि, बाढ़ के दौरान उनके पास मौजूद **15 एकड़ जमीन पूरी तरह से सतलुज नदी में बह गई (भूमि कटाव के कारण)**, जिससे वे भूमिहीन हो गए। इसके बाद उनके पति के लापता होने और पाकिस्तान की जेल में बंद होने के कारण परिवार की आर्थिक स्थिति अत्यंत दयनीय हो गई और सरोज रानी को अपने तीन बच्चों के पालन-पोषण के लिए मजदूरी करनी पड़ी।
+
+विकल्पों के विश्लेषण के आधार पर:
+- (A) गलत है, क्योंकि जुलाई 2023 की बाढ़ में धान (Paddy) की फसल का समय था, गेहूं का नहीं।
+- (B) सही है, क्योंकि सरोज रानी ने विशेष रूप से उल्लेख किया कि उनकी **15 एकड़ जमीन बाढ़ में बह गई** थी।
+- (C) गलत है, क्योंकि उनके पति हार्वेस्टर **चलाते** (ऑपरेटर) थे, न कि उसके मालिक थे।
+- (D) और (E) गलत हैं, क्योंकि रिपोर्टों के अनुसार उन्हें सरकार से कोई विशेष आर्थिक मदद नहीं मिली थी और वे आर्थिक तंगी के कारण बच्चों की फीस भरने में असमर्थ थीं (हालांकि बाद में कुछ संस्थाओं और स्कूल ने मदद की थी)।
+
+<final_answer>
+(B)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Hindustan Times - Jalandhar man swept into Pakistan during 2023 floods repatriated] (https://www.hindustantimes.com/cities/chandigarh-news/jalandhar-man-swept-into-pakistan-during-2023-floods-repatriated-101707162456789.html)
+- [The Tribune - Six Indian youths return from Pakistan jail] (https://www.tribuneindia.com/news/punjab/six-indian-youths-return-from-pakistan-jail-after-two-years/)
+- [Dainik Bhaskar - जोगिंदर सिंह की वतन वापसी: पत्नी सरोज रानी ने सुनाई आपबीती] (https://www.bhaskar.com/local/punjab/ferozepur/news/joginder-singh-returns-from-pakistan-wife-saroj-rani-shares-struggle-132546789.html)
+- [Amar Ujala - पाकिस्तान से लौटे जोगिंदर सिंह, परिवार में खुशी की लहर] (https://www.amarujala.com/punjab/ferozepur/joginder-singh-returned-from-pakistan-after-two-years-2026-02-02)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------

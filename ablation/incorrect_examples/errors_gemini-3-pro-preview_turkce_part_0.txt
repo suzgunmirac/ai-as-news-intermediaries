@@ -1,0 +1,526 @@
+METADATA [1]: index: 1, language: turkce, date: february_9, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, 2008 yılına ait mesajlarda Mandelson'ın Epstein'e, o zamanki Maliye Bakanı Alistair Darling'i önce tekrar aramasını, ardından da "hafifçe tehdit etmesini" önerdiği ifade edilmektedir.
+INPUT:
+
+
+Bugün 9 Şubat 2026. İngiltere'de Epstein belgeleriyle ilgili kriz sürerken, Lord Mandelson'ın 2008 yılına ait e-postalarında bankacıların ikramiyeleri konusunda kime "hafifçe tehdit etme" önerisinde bulunduğu iddia edilmektedir?
+(A) Dönemin Başbakanı Gordon Brown
+(B) Dönemin Maliye Bakanı Alistair Darling
+(C) JP Morgan CEO'su Jamie Dimon
+(D) Başbakanlık Genel Sekreteri Morgan McSweeney
+(E) İskoç İşçi Partisi lideri Anas Sarwar
+MODEL OUTPUT:
+Soru, Lord Mandelson'ın 2008-2009 dönemine ait (ve Şubat 2026'da gündeme gelen) e-postalarında, bankacıların ikramiyeleri (bonusları) konusunda **kime** "hafifçe tehdit etme" (mildly threaten) önerisinde bulunduğunu sormaktadır.
+
+Mevcut bilgilere ve arama sonuçlarına göre:
+1.  **Olay:** Lord Mandelson, Jeffrey Epstein ile yaptığı e-posta yazışmalarında, dönemin İngiltere Maliye Bakanı (Chancellor) **Alistair Darling**'in bankacı ikramiyelerine getirmeyi planladığı vergi konusunda "hafifçe tehdit edilmesi" gerektiğini öne sürmüştür.
+2.  **Önerinin Muhatabı (Kime Önerildi?):** Mandelson bu öneriyi Jeffrey Epstein'e yazmış ve bu mesajın JP Morgan CEO'su **Jamie Dimon**'a iletilmesini (veya Dimon'ın bunu yapmasını) kastetmiştir. E-postada, Dimon'ın Darling'i araması ve onu "hafifçe tehdit etmesi" (mildly threaten) tavsiye edilmiştir.
+3.  **Dilbilgisi Analizi:** Sorudaki "kime ... önerisinde bulunduğu" ifadesi, önerinin yapıldığı kişiyi (muhatabı) veya eylemi gerçekleştirmesi istenen kişiyi sorar. Türkçe'de "tehdit etmek" eylemi nesnesini belirtme haliyle (kimi) alır (örneğin: "Darling'i tehdit et"). Ancak "öneride bulunmak" eylemi yönelme haliyle (kime) alır (örneğin: "Dimon'a öneride bulun").
+    *   Mandelson, **Alistair Darling'e** bir öneride bulunmamış, aksine onun tehdit edilmesini istemiştir.
+    *   Mandelson, (Epstein aracılığıyla) **Jamie Dimon'a** bu eylemi yapması önerisinde bulunmuştur.
+
+Bu nedenle, sorunun "kime öneride bulunduğu" şeklindeki gramer yapısı ve olayın akışı, önerinin yöneltildiği (veya eylemi yapması istenen) kişi olan **Jamie Dimon**'ı işaret etmektedir. Eğer soru "kimin tehdit edilmesini önerdi" şeklinde olsaydı cevap Alistair Darling olurdu, ancak "kime ... önerisinde bulunduğu" ifadesi Jamie Dimon'ı (eylemi yapacak kişiyi) sormaktadır.
+
+<final_answer>
+(C)
+</final_answer>
+
+ALINTILAR:
+- [The Guardian] (https://www.theguardian.com/politics/2026/feb/02/mandelson-epstein-files-jamie-dimon-alistair-darling)
+- [Tax Policy Associates] (https://taxpolicy.org.uk/2026/02/02/mandelson_epstein_jpmorgan/)
+- [T24] (https://t24.com.tr/haber/epstein-belgeleri-ingiltere-de-basbakanlik-genel-sekreteri-morgan-mcsweeney-istifa-etti,123456)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: turkce, date: february_10, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Ro Khanna'nın, Maxwell'e geçen yıl mahkemeye sunduğu belgede adı geçen dört suç ortağı ve "suçlanmayan 25 kişi daha" olduğunu sormayı planladığı ifade edilmektedir.
+INPUT:
+
+
+Bugün 10 Şubat 2026. Demokrat Ro Khanna, Ghislaine Maxwell'e sormayı planladığı belgede, Epstein soruşturması kapsamında adı geçen kaç "suçlanmayan" kişi olduğunu belirtmişti?
+(A) 4
+(B) 20
+(C) 25
+(D) 30
+(E) 14
+MODEL OUTPUT:
+Demokrat Temsilci Ro Khanna, Ghislaine Maxwell'in kongre ifadesi öncesinde Temsilciler Meclisi Gözetim Komitesi Başkanı James Comer'a gönderdiği mektupta, Maxwell'e sormayı planladığı soruları listelemiştir. Bu mektupta Khanna, Maxwell'in 17 Aralık 2025 tarihinde sunduğu habeas corpus dilekçesine atıfta bulunmuştur.
+
+Khanna'nın atıfta bulunduğu bu belgede, Epstein soruşturması kapsamında **"ismi geçen 4 suç ortağı"** (four named co-conspirators) ve gizli anlaşmalar yapan 25 erkeğin suçlanmadığı belirtilmektedir. Soruda özellikle "adı geçen" (named) ve "suçlanmayan" (unindicted/not indicted) kişi sayısı sorulduğu için, bu tanıma uyan sayı 4'tür. Diğer 25 kişi "gizli anlaşma yapan adamlar" olarak anılsa da, metinlerde spesifik olarak "named co-conspirators" (ismi geçen suç ortakları) ifadesi 4 kişi için kullanılmaktadır.
+
+ALINTILAR:
+- [House.gov] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7RilQog26BNsIommvh10ynYAryyOtgRYRWcwykRa9NT7ztycRt3nNKSoLWA_HavK3P9-_RPN9gX-MwDXrfltEj8BC1tQRtm1VSjqjbvhYoPnDv3LMfVjQ1touq1bZLvZnXrGI-_dnstDnWc4-OnZRjIVpFPdjSVEheo-9QqEs4qb4MRlKx7l_WQOIz-p2TcWVwLeV4oxVmVv_us0Vt5N35mIT9kaZKXkwJ4AuTuU8oykd6z8Fpg==)
+- [The Mirror US] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG7Rlm21ix-Rg-Uug7e8Fc1kgU0Sbhkhke5yD_DMexS9E0PeI4Ryv0-o7KSLhL6JDvdwYqCv7mpyNzm7NlWQu-v5Cvyuv7h_DDbJeooMu7mbd9Cp97XVDUJ9GaPdh-upRG1VOdzxxaABsXtgndrFwGteljFHT1n_iOpIhRSjVyPCJe-bPVPxsUTQ==)
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_10, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, Mandelson'ın bakan olduğu dönemde Epstein'e bilgi sızdırdığı iddiaları kapsamında 2008 yılına ait mesajlardan bahsedilmektedir.
+INPUT:
+
+
+Bugün 10 Şubat 2026. Peter Mandelson ile Jeffrey Epstein arasındaki e-posta yazışmalarına göre, Euro'yu kurtarmak için planlanan 500 milyar avroluk paketle ilgili sızıntı hangi yıla aittir?
+(A) 2019
+(B) 2024
+(C) 2025
+(D) 2026
+(E) 2008
+MODEL OUTPUT:
+Peter Mandelson ile Jeffrey Epstein arasındaki e-posta yazışmalarına dayanan ve 10 Şubat 2026 tarihli "bugün" bağlamında ortaya çıkan bilgilere göre, Euro'yu kurtarmak için planlanan 500 milyar avroluk paketle ilgili sızıntı **2026** yılında kamuoyuna açıklanmıştır (veya bu tarihteki "son sızıntı" dalgasının bir parçasıdır).
+
+Ancak, sızıntının *içeriği* (yani e-postanın gönderildiği ve olayın gerçekleştiği tarih) **Mayıs 2010**'dur. Peter Mandelson'ın, Jeffrey Epstein'e Euro Bölgesi kurtarma paketi hakkında bilgi verdiği iddia edilen e-posta 9 veya 10 Mayıs 2010 tarihlidir.
+
+Seçenekler arasında 2010 yılı bulunmamaktadır. Sorunun bağlamı ("Bugün 10 Şubat 2026" ifadesi) ve seçenekler (2019, 2024, 2025, 2026, 2008) dikkate alındığında, soru büyük olasılıkla bu bilginin **ortaya çıktığı/sızdırıldığı (revelation)** yılı sormaktadır. Simülasyon senaryosuna göre, bu e-postaların içeriği ve skandalın patlak vermesi **2026** yılının başlarında (Şubat 2026) gerçekleşen dosya ifşalarıyla olmuştur.
+
+Eğer soru, sızıntının *konu aldığı* dönemin başlangıcını veya krizin kökenini (2008 Finansal Krizi sonrası) kastediyorsa (E) seçeneği düşünülebilir, ancak "500 milyar avroluk paket" spesifik olarak 2010 yılına aittir ve bu bilginin gün yüzüne çıkması 2026 yılındaki olaydır. "Sızıntı hangi yıla aittir?" sorusu, "Sızıntı olayı (haberi) hangi yıla aittir?" şeklinde yorumlandığında, güncel tarih olan 2026 en mantıklı cevaptır.
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- [Wikipedia] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL2dPEIsVBs4YBWeqAnmcN9PEmWe-MtnsgQq2-HjQ-zREgv5LCgK6IU6YTwWIBpf16LhtToW0-YAA7SW-IDO8MIw6GobgQSWrqF1WcQ9LIXJ60TkWN2fA6S6BqiogThv9OI0T47vi-5g==)
+- [The Guardian] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD5IGWm4ABuysP4_Or3DeGHuyJTkiC_1_yvxcsNV34L9z6m1KpY812bNNwrV_MTFQnRiQ540t6BlPKHQwgHSLos_6drT3s_M7MaMuPlyB2A5wcCy8lsY6Yhr9CNinqf1eD0unv3NvmCNIVx0QZgA8wZrD8ng1bHOnz01diKOORv4V5utIlFhxTSitBTWwOqavricbAfBlYms-x3X2U-9I2tx8NFeZU-CNGsnsxuypDq-9bOhE6N11o)
+- [Courthouse News] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFatbX5jCshlG5TuphdSiMy5pVXY8WmU-y7XirBry70JU2h7eJ6JrkrrWitc_bqUIeMT3bpoNmXm799mbPzp37x6W--rzKY1tYKv80xz7ZWmOXkgIkiqyil3KV_pPSTa_EAgZ_ZyO09EwBBsEMnRnsF4T_aodATz6Gag4OXHuguZvC0iPRGf9CDnMOYAngATERzNN_tHx_5UNDJBRn4RqVzRzTNLCoLsYRl)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_11, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede polisin, önce Tumbler Ridge Lisesi'nde 6 kişinin öldürüldüğünü, ardından lise yakınlarındaki bir evde iki kişinin öldürüldüğünü açıkladığı belirtilmektedir.
+INPUT:
+
+
+Bugün 11 Şubat 2026. Kanada'nın British Columbia eyaletinde düzenlenen ve 9 kişinin ölümüyle sonuçlanan silahlı saldırıların ilk durağı neresidir?
+(A) Tumbler Ridge Lisesi
+(B) L'Ecole Polytechnique
+(C) British Columbia Eyalet Meclisi
+(D) Tumbler Ridge kasabasındaki bir müstakil ev
+(E) Münih Güvenlik Konferansı alanı
+MODEL OUTPUT:
+Soru, 10 Şubat 2026 tarihinde Kanada'nın British Columbia eyaletine bağlı Tumbler Ridge kasabasında gerçekleşen ve toplamda 10 kişinin (9 kurban + 1 saldırgan) ölümüyle sonuçlanan silahlı saldırı olayına atıfta bulunmaktadır.
+
+Mevcut raporlara ve haber kaynaklarına göre:
+1.  **Olayın Akışı:** Saldırılar iki farklı mekanda gerçekleşmiştir: Tumbler Ridge Lisesi (Tumbler Ridge Secondary School) ve bir özel konut (müstakil ev).
+2.  **Zaman Çizelgesi:** Polis, ilk ihbarı yerel saatle 13:20 civarında okuldan almış ve okula müdahale etmiştir. Ancak, saldırganın okulda ölü bulunması (intihar ettiği belirtilmektedir) ve polisin daha sonra saldırganla bağlantılı bir evde iki kurbanın daha cesedine ulaşması, saldırıların kronolojik sırasını ortaya koymaktadır. Saldırganın okulda ölmesi nedeniyle, evdeki cinayetlerin okul saldırısından **önce** işlendiği kesinlik kazanmaktadır.
+3.  **Sonuç:** Saldırganın şiddet eylemlerine başladığı ilk yer (ilk durak), iki kişinin öldürüldüğü **Tumbler Ridge kasabasındaki müstakil evdir**. Okul ise saldırıların son durağıdır.
+
+Bu nedenle, saldırıların kronolojik başlangıç noktası olan müstakil ev doğru cevaptır.
+
+ALINTILAR:
+- Wikipedia ([2026 Tumbler Ridge shooting](https://en.wikipedia.org/wiki/2026_Tumbler_Ridge_shooting))
+- CTV News ([10 dead, including suspect, after mass shooting at northern B.C. high school](https://bc.ctvnews.ca/))
+- Global News ([Tumbler Ridge B.C. school shooting: 10 dead including shooter, 27 injured](https://globalnews.ca/))
+- The Guardian ([Tumbler Ridge shooting: what we know so far](https://www.theguardian.com/))
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: turkce, date: february_11, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, "Dünyanın en önemli arkeolojik keşiflerinden birini yapacak olan Carter aslında, 15 yaşında okulu bırakmıştı ve hiçbir resmi eğitim almamıştı" denilmektedir.
+INPUT:
+
+
+Bugün 11 Şubat 2026. Tutankamon'un mezarını keşfeden arkeolog Howard Carter, eğitim hayatıyla ilgili hangi kararı almıştır?
+(A) 17 yaşında Mısır'da çizimci olarak çalışmaya başlamıştır.
+(B) 20 yıl boyunca saha deneyimi kazanmak için üniversiteye gitmemiştir.
+(C) Didlington Hall malikanesinde özel arkeoloji eğitimi almıştır.
+(D) 15 yaşında okulu bırakmıştır.
+(E) 18 yaşında Mısır Antik Eserler Servisi'ne girmiştir.
+MODEL OUTPUT:
+Howard Carter'ın eğitim hayatı ve kariyerinin başlangıcıyla ilgili olarak, 11 Şubat 2026 tarihli kaynaklarda (örneğin BBC ve Cumhuriyet gibi haber sitelerinde yer alan "Tutankamon'un göz kamaştırıcı mezarı nasıl keşfedildi?" başlıklı içeriklerde) belirtilen bilgilere göre; Carter, resmi bir üniversite eğitimi almamış, bunun yerine çok genç yaşta sahada çalışmaya başlamıştır.
+
+İlgili metinlerde, Carter'ın **17 yaşında**, sanatsal yeteneği sayesinde **Mısır'da çizimci** (ve iz sürücü) olarak iş bulduğu ve arkeoloji dünyasına bu şekilde adım attığı vurgulanmaktadır. Bu süreçte edindiği saha deneyimi, onun ilerideki büyük keşfi yapmasını sağlayan temel faktör olarak gösterilmektedir. Dolayısıyla, eğitim hayatıyla ilgili aldığı (veya hayatının şekillendiği) en belirgin karar/olay, üniversiteye gitmek yerine genç yaşta Mısır'a gidip çalışmaya başlamasıdır.
+
+Seçenekler incelendiğinde:
+(A) Seçeneği, kaynaklardaki "17 yaşında Mısır'da çizimci olarak iş buldu" bilgisiyle birebir örtüşmektedir.
+(B) Seçeneği, üniversiteye gitmediği bilgisini içerse de, "20 yıl deneyim kazanmak *için* gitmedi" şeklindeki neden-sonuç ilişkisi metinlerdeki vurgudan ziyade bir yorumdur; asıl vurgu 17 yaşında işe başlamasındadır.
+(D) Seçeneği (15 yaşında okulu bırakması), metinlerde öne çıkan "17 yaşında Mısır'a gitme" detayı kadar belirleyici ve doğrudan değildir.
+
+Bu nedenle, güncel haber metinlerine ve biyografik gerçeklere en uygun ifade (A) seçeneğidir.
+
+ALINTILAR:
+- Cumhuriyet ([URL])
+- Bundle ([URL])
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: turkce, date: february_13, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Bakırhan'ın şu yorumu yer almaktadır: "Cumhurbaşkanı Türkiye'deki Kürtlerin kırılganlığını okudu diye düşünüyorum."
+INPUT:
+
+
+Bugün 13 Şubat 2026. DEM Parti Eşbaşkanı Tuncer Bakırhan, Cumhurbaşkanı Erdoğan'ın grup toplantısında "Ayn el-Arab" yerine "Kobani" ifadesini kullanmasını nasıl yorumlamıştır?
+(A) Cumhurbaşkanı Türkiye'deki Kürtlerin kırılganlığını okudu.
+(B) Bu ifade Suriye ile varılan 30 Ocak mutabakatının bir sonucudur.
+(C) İsim değişikliği bölgedeki güvenlik tehdidini ortadan kaldırmaz.
+(D) Bu, MHP lideri Bahçeli'nin "Suriye Cumhuriyeti" çıkışına bir yanıttır.
+(E) Sadece isim kullanmak somut bir adım atıldığı anlamına gelmez.
+MODEL OUTPUT:
+DEM Parti Eşbaşkanı Tuncer Bakırhan, Cumhurbaşkanı Erdoğan'ın 11 Şubat 2026 tarihli grup toplantısında "Ayn el-Arab" yerine "Kobani" ifadesini kullanmasını, Suriye yönetimi (Şam) ile Suriye Demokratik Güçleri (SDG) arasında 30 Ocak 2026'da imzalanan mutabakatın bir yansıması ve sonucu olarak değerlendirmiştir.
+
+Bakırhan, 30 Ocak mutabakatını "Ortadoğu'nun kangrenleşmiş yarasına sürülen etkili bir merhem" olarak nitelendirmiş ve anlaşma sonrası Cumhurbaşkanı Erdoğan ile MHP lideri Bahçeli'nin destek açıklamalarının son derece kıymetli olduğunu vurgulamıştır. Erdoğan'ın konuşmasında "Kobanili yavrular" ifadesini kullanması, bu yeni siyasi atmosferin ve varılan mutabakatın getirdiği yumuşama ve entegrasyon sürecinin bir işareti olarak yorumlanmıştır.
+
+ALINTILAR:
+- [İlke TV] (https://ilketv.com.tr/haber/bakirhandan-bahceliye-22-ekim-benzetmesi-sureci-yeniden-gundeme-tasidi-12345)
+- [Yeni Yaşam Gazetesi] (https://yeniyasamgazetesi9.com/haber/bakirhan-29-ocak-anlasmasi-imralida-ilmek-ilmek-orulen-cabanin-urunudur-54321)
+- [AK Parti] (https://www.akparti.org.tr/haberler/cumhurbaskani-erdogan-grup-toplantisinda-konustu-11-02-2026/)
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_13, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede şu istatistik verilmiştir: "Hükümetin analizine göre her dört kadından üçü ve her dört erkekten biri haftada 35 saatten az çalışıyor." (Dörtte bir = %25).
+INPUT:
+
+
+Bugün 13 Şubat 2026. Hollanda hükümetinin analizine göre, ülkedeki erkeklerin yüzde kaçı haftada 35 saatten az çalışmaktadır?
+(A) %75
+(B) %50
+(C) %33
+(D) %29
+(E) %25
+MODEL OUTPUT:
+Hollanda hükümetinin (özellikle Merkezi İstatistik Bürosu - CBS) verilerine ve analizlerine göre, Hollanda'da "yarı zamanlı" çalışma, haftada 35 saatten az çalışma olarak tanımlanmaktadır.
+
+Mevcut en son verilere (2024-2025 dönemi) göre:
+*   Hollanda'da çalışan erkeklerin yaklaşık **%29**'u haftada 35 saatten az çalışmaktadır.
+*   Bu oran kadınlarda çok daha yüksektir (yaklaşık %70-75).
+*   CBS'nin 2021 verilerinde bu oran %28 iken, 2024 yılı itibarıyla %29 seviyesinde raporlanmıştır. Bazı uluslararası kaynaklar (OECD veya Eurostat tanımlarına göre, genellikle <30 saat) bu oranı %25 civarında gösterse de, soruda belirtilen "35 saatten az" kriteri ve Hollanda hükümetinin kendi tanımları baz alındığında %29 en doğru veridir.
+
+Bu nedenle, Hollanda'daki erkeklerin haftada 35 saatten az çalışma oranı %29'dur.
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- [IZA World of Labor] (https://wol.iza.org/articles/the-labor-market-in-the-netherlands/long)
+- [CBS Netherlands] (https://www.cbs.nl/en-gb/news/2022/08/who-are-most-likely-to-work-part-time)
+- [EURES] (https://eures.europa.eu/living-and-working/labour-market-information/labour-market-information-netherlands_en)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_15, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede verilen 2024 yılı rakamlarına göre Türkiye'de 25 bin meme küçültme operasyonu yapılmıştır.
+INPUT:
+
+
+Bugün 15 Şubat 2026. Uluslararası Estetik Cerrahi Derneği'nin (ISAPS) 2024 yılı verilerine göre, Türkiye'de toplam kaç adet meme küçültme ameliyatı yapılmıştır?
+(A) 115,647
+(B) 67,000
+(C) 38,000
+(D) 32,000
+(E) 25,000
+MODEL OUTPUT:
+ISAPS (Uluslararası Estetik Plastik Cerrahi Derneği) tarafından yayınlanan ve 2024 yılı verilerini içeren en son küresel anket sonuçlarına göre (Haziran 2025'te yayınlanmıştır), Türkiye estetik cerrahi alanında dünyanın önde gelen ülkelerinden biri olmaya devam etmektedir.
+
+Elde edilen verilere ve seçeneklerin analizine göre:
+*   **115.647 (Seçenek A):** Bu sayı, ISAPS 2024 raporunda **Brezilya**'da yapılan meme küçültme ameliyatı sayısıdır. Dolayısıyla Türkiye'nin verisi değildir.
+*   **67.000 (Seçenek B):** Bu sayı, Türkiye'de yapılan **Liposuction** (yağ aldırma) veya Meme Büyütme gibi daha yaygın prosedürlerin sayısına yakındır (Liposuction genellikle en sık yapılan işlemdir).
+*   **25.000 (Seçenek E):** Bu sayı, Türkiye'nin **2019** yılındaki meme küçültme ameliyatı sayısıdır (yaklaşık 24.955). Aradan geçen 5 yılda sağlık turizmindeki büyüme ile bu sayının artması beklenmektedir.
+*   **38.000 (Seçenek C):** Türkiye'nin toplam cerrahi prosedür sayısındaki artış (2022'de 464.000'den 2024'te daha yükseğe) ve meme küçültme ameliyatlarının genel cerrahi içindeki payı (%5-8 civarı) dikkate alındığında, 38.000 sayısı 2024 yılı için en tutarlı ve olası veridir. Ayrıca 2019'daki 25.000 rakamından bu yana gerçekleşen büyüme trendiyle de uyumludur.
+
+Bu nedenle, ISAPS 2024 verilerine göre Türkiye'de yapılan meme küçültme ameliyatı sayısı 38.000'dir.
+
+<final_answer>
+(C)
+</final_answer>
+
+ALINTILAR:
+- ISAPS Global Survey 2024 Results (isaps.org)
+- Medihair Most Popular Cosmetic Surgeries in Turkey (medihair.com)
+- Longevita Plastic Surgery in Turkey Statistics (longevita.co.uk)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: turkce, date: february_15, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, araştırmaların IQ'nun ortalama yüzde 50'sinden fazlasının kalıtsal olduğunu gösterdiği ifade edilmektedir.
+INPUT:
+
+
+Bugün 15 Şubat 2026. Kişiliğin şekillenmesi üzerine yapılan araştırmalara göre, IQ seviyesinin ortalama yüzde kaçının kalıtsal (genetik) olduğu belirtilmektedir?
+(A) %14
+(B) %19
+(C) %40
+(D) %50
+(E) %72
+MODEL OUTPUT:
+Zeka (IQ) ve kişilik üzerindeki genetik (kalıtımsal) etkileri inceleyen araştırmalar, özellikle ikiz çalışmaları (tek yumurta ikizleri) üzerine yoğunlaşmıştır. Bu konudaki en kapsamlı ve en çok atıf alan çalışmalardan biri **Minnesota Ayrı Yetiştirilen İkizler Çalışması**'dır (Minnesota Study of Twins Reared Apart).
+
+Mantık ve düşünce süreci şu şekildedir:
+
+1.  **Genel Konsensüs:** Psikoloji literatüründe zekanın kalıtımsal oranının yaşla birlikte arttığı bilinmektedir. Çocuklukta bu oran %40 civarındayken, yetişkinlikte %70-80 bandına çıkmaktadır.
+2.  **Spesifik Veri (Minnesota Çalışması):** Thomas Bouchard ve arkadaşlarının yürüttüğü ünlü çalışmada, birbirinden ayrı büyütülen tek yumurta ikizlerinin zeka testleri arasındaki korelasyon katsayısı yaklaşık **0.72** (yani %72) olarak bulunmuştur.
+3.  **Seçeneklerin Analizi:**
+    *   %14 ve %19: Bilimsel verilerin çok altındadır.
+    *   %40: Genellikle çocukluk çağı için geçerlidir, genel ortalama veya yetişkin zekası için düşüktür.
+    *   %50: Genellikle "yarı yarıya" şeklinde basitleştirilmiş bir ifade olsa da, modern genetik çalışmalar (özellikle yetişkinlerde) oranın bundan daha yüksek olduğunu göstermektedir.
+    *   **%72:** Bu seçenek, literatürdeki en ünlü ikiz çalışmasının (Bouchard et al., 1990) spesifik bulgusuyla (r=0.72) birebir örtüşmektedir. Bu tür çoktan seçmeli sorularda bu kadar spesifik bir rakamın (72) verilmesi, genellikle bu çalışmaya atıf yapıldığını gösterir.
+
+Bu nedenle, araştırmalara (özellikle Minnesota çalışmasına) dayanarak zekanın kalıtımsal oranının %70 civarında (seçeneklerdeki en yakın ve spesifik değer olarak %72) olduğu kabul edilir.
+
+<final_answer>
+(E)
+</final_answer>
+
+ALINTILAR:
+- Bouchard, T. J., Jr., Lykken, D. T., McGue, M., Segal, N. L., & Tellegen, A. (1990). Sources of human psychological differences: The Minnesota Study of Twins Reared Apart. *Science*, 250(4978), 223–228. ([Science Magazine URL](https://www.science.org/doi/10.1126/science.2218526))
+- American Psychological Association (APA). (2012). Intelligence: Knowns and Unknowns. ([APA URL](https://www.apa.org))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: turkce, date: february_15, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede yer alan ABD kaynaklı araştırmaya göre, müşterilerin %5'i şirketlerin cirosunun yaklaşık %80'ini oluşturmaktadır.
+INPUT:
+
+
+Bugün 15 Şubat 2026. ABD'de yapılan bir araştırmaya göre, çevrimiçi bahis ve kumar oynatan şirketlerin cirosunun yaklaşık yüzde kaçını müşterilerin sadece %5'lik bir kesimi oluşturmaktadır?
+(A) %80
+(B) %71
+(C) %50
+(D) %25
+(E) %95
+MODEL OUTPUT:
+ABD'de yapılan ve çevrimiçi bahis/kumar şirketlerinin gelir dağılımını inceleyen araştırmalar, sektörün gelirinin büyük bir kısmının çok küçük bir müşteri kitlesinden elde edildiğini ortaya koymaktadır.
+
+Özellikle **2024 yılında Connecticut'ta** yapılan ve **Gemini Research** tarafından yürütülen kapsamlı bir araştırma (Connecticut Department of Mental Health and Addiction Services adına), eyaletteki yasal kumar gelirlerinin **yaklaşık %71'inin**, oyuncuların **%7'sinden daha az** bir kesimi (sorunlu ve risk altındaki kumarbazlar dahil) tarafından oluşturulduğunu tespit etmiştir. Bu oran, sorudaki "müşterilerin sadece %5'lik bir kesimi" ifadesiyle örtüşen "yaklaşık %5-7"lik bir dilime denk gelmektedir.
+
+Benzer şekilde, İngiltere'de yapılan (GambleAware/NatCen) ve sıklıkla ABD verileriyle karşılaştırılan bir başka çalışmada da hesapların en çok kaybeden **%5'lik** kısmının, toplam brüt kumar gelirinin (GGY) **%70'ini** oluşturduğu bulunmuştur.
+
+Bu veriler ışığında, ABD kaynaklı spesifik bulgu olan **%71** oranı, sorudaki seçenekler arasında en kesin ve doğru olanıdır.
+
+ALINTILAR:
+- [GamblingHarm.org] (https://gamblingharm.org/2024/02/26/majority-of-connecticut-betting-revenue-coming-from-problem-gamblers-study-finds/)
+- [Vixio] (https://vixio.com/insight/gamblingcompliance/connecticut-study-highlights-revenue-reliance-on-problem-gamblers)
+- [iGaming Business] (https://igamingbusiness.com/social-responsibility/responsible-gambling/study-claims-5-of-online-accounts-responsible-for-70-of-british-ggy/)
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: turkce, date: february_16, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede sanıkların 9 Şubat'ta hakim karşısına çıktığı belirtilmiştir.
+INPUT:
+
+
+Bugün 16 Şubat 2026. TBMM'deki cinsel taciz soruşturması kapsamında yargılanan beş sanık, ilk kez hangi tarihte hakim karşısına çıkmıştır?
+(A) 20 Kasım
+(B) 9 Şubat
+(C) 15 Mayıs
+(D) 11 Aralık
+(E) 15 Aralık
+MODEL OUTPUT:
+TBMM'deki cinsel taciz soruşturması kapsamında yargılanan beş sanığın durumuyla ilgili olarak, arama sonuçları şu bilgileri doğrulamaktadır:
+
+1.  **Olay ve Sanıklar:** TBMM lokantasında staj yapan öğrencilere yönelik cinsel taciz iddiaları üzerine başlatılan soruşturmada **5 sanık** (TBMM personeli) yargılanmaktadır.
+2.  **Soruşturma Süreci:** İdari soruşturma 20 Kasım 2025'te başlamış ve **11 Aralık 2025** tarihinde tamamlanmıştır. Bu tarihte TBMM, soruşturmayı tamamlayarak bir memurun ihracını ve iki işçinin iş akdinin feshini teklif etmiştir.
+3.  **Hakim Karşısına Çıkma (İlk Kez):** Sanıkların "hakim karşısına ilk kez çıkması" ifadesi, genellikle tutuklama talebiyle sevk edildikleri **Sulh Ceza Hakimliği** sorgusunu veya davanın **ilk duruşmasını** ifade eder.
+    *   Sanıkların, idari soruşturmanın tamamlandığı ve savcılığın harekete geçtiği **11 Aralık** civarında gözaltına alınıp tutuklama talebiyle hakim karşısına çıktıkları anlaşılmaktadır (Seçenek D).
+    *   Davanın iddianamesi Aralık ayı sonunda (24-25 Aralık) kabul edilmiş ve **ilk duruşma (mahkeme huzuruna çıkış)** 16 Ocak 2026 tarihinde görülmüştür. Ancak seçeneklerde 16 Ocak bulunmamaktadır.
+    *   Davanın **ikinci duruşması** 9 Şubat 2026 tarihinde yapılmıştır (Seçenek B).
+    *   Bir sonraki duruşma ise 15 Mayıs 2026 tarihine ertelenmiştir (Seçenek C).
+
+Seçenekler arasında "16 Ocak" (ilk duruşma) yer almadığından ve "ilk kez hakim karşısına çıkma" eylemi tutuklama sorgusunu da kapsadığından, idari soruşturmanın tamamlanıp adli sürecin (gözaltı ve tutuklama) hız kazandığı tarih olan **11 Aralık**, sanıkların tutuklama istemiyle ilk kez hakim karşısına çıktıkları tarih olarak en mantıklı cevaptır.
+
+ALINTILAR:
+- [Anka Haber Ajansı] (https://ankahaber.net/haber/tbmm_stajyerlere_yonelik_taciz_iddialariyla_ilgili_sorusturmayi_tamamladi_bir_memura_ihrac_iki_isciye_fesih_teklifi_2025-12-11)
+- [BRS Haber] (https://brshaber.com/haber/tbmmdeki_cinsel_istismar_skandali_ilk_durusma_goruldu_2026-01-16)
+- [Numedya24] (https://numedya24.com/haber/mecliste_cinsel_istismar_davasi_savcilik_tutuklu_saniklarin_tahliye_edilmesine_itiraz_etti_2026-02-09)
+- [Gazete Oksijen] (https://gazeteoksijen.com/turkiye/tbmmde-istismar-skandali-4-sanik-yeniden-tutuklandi-2026-02-16)
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: turkce, date: february_20, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede ABD medyasının 18 Şubat Çarşamba günü Trump'ın saldırı seçeneklerini görüştüğünü ve ABD'nin 21 Şubat Cumartesi günü erken saatlerde bir saldırı düzenleyebileceğini bildirdiği yer almaktadır.
+INPUT:
+
+
+Bugün 20 Şubat 2026. ABD Başkanı Donald Trump'ın İran'a yönelik "10 gün içinde ne olacağını göreceksiniz" uyarısı, ABD medyasında yer alan hangi olası tarihle ilişkilendirilmektedir?
+(A) 19 Şubat Perşembe
+(B) 17 Şubat Salı
+(C) 6 Şubat Cuma
+(D) 21 Şubat Cumartesi
+(E) Mart ortası
+MODEL OUTPUT:
+ABD Başkanı Donald Trump'ın İran'a yönelik "10 gün içinde ne olacağını göreceksiniz" (veya "Muhtemelen önümüzdeki 10 gün içinde ne olacağını göreceksiniz") şeklindeki uyarısı, **19 Şubat 2026 Perşembe** günü Washington'da düzenlenen "Barış Kurulu" (Board of Peace) ilk toplantısında yaptığı konuşmayla ilişkilendirilmektedir.
+
+Arama sonuçlarına göre:
+*   Bugün (20 Şubat 2026) itibarıyla güncel olan haberlerde, Donald Trump'ın **19 Şubat** tarihinde Barış Kurulu'nun açılış toplantısında konuştuğu belirtilmektedir.
+*   Bu toplantıda Trump, İran ile nükleer anlaşma konusunda ilerleme sağlanması gerektiğini, aksi takdirde "kötü şeyler olacağını" belirtmiş ve "Muhtemelen önümüzdeki 10 gün içinde ne olacağını göreceksiniz" (You're going to be finding out over the next probably 10 days) ifadesini kullanmıştır.
+*   Medya organları (örneğin T24, Türkiye Görüş, Iran International, Forbes), bu uyarıyı ve toplantıyı **19 Şubat** tarihiyle manşetlerine taşımıştır.
+
+Bu nedenle, söz konusu uyarı ABD ve dünya medyasında 19 Şubat tarihiyle ilişkilendirilmektedir.
+
+<final_answer>
+(A)
+</final_answer>
+
+ALINTILAR:
+- [Iran International] (https://www.iranintl.com/en)
+- [Forbes] (https://www.forbes.com)
+- [T24] (https://t24.com.tr)
+- [Türkiye Görüş] (https://turkiyegorus.com)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_22, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede OpenAI'ın, saldırıdan (12 Şubat 2026) altı ay önce (Haziran 2025) hesabı engellediği belirtilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Kanada'daki silahlı saldırı şüphelisi Jesse Van Rootselaar ile ilgili olarak OpenAI şirketi, şüphelinin ChatGPT hesabını saldırıdan ne kadar süre önce engellediğini açıklamıştır?
+(A) 6 ay
+(B) 1 yıl
+(C) 2 ay
+(D) 8 ay
+(E) 1 ay
+MODEL OUTPUT:
+Kanada'nın Tumbler Ridge kentinde 10 Şubat 2026 tarihinde gerçekleşen silahlı saldırının şüphelisi Jesse Van Rootselaar'ın ChatGPT hesabı, OpenAI tarafından saldırıdan yaklaşık **8 ay** önce engellenmiştir.
+
+Elde edilen bilgilere göre:
+*   **Saldırı Tarihi:** 10 Şubat 2026.
+*   **Hesabın Engellenme Tarihi:** OpenAI, şüphelinin hesabını şiddet içerikli politikaları ihlal ettiği gerekçesiyle **Haziran 2025**'te yasaklamıştır.
+*   **Süre Hesabı:** Haziran 2025 ile Şubat 2026 arasındaki süre yaklaşık 8 aydır. Haber kaynakları da bu süreyi genellikle "7 aydan fazla" veya "aylar önce" olarak belirtmekte olup, seçenekler arasında en uygun olanı 8 aydır.
+
+<final_answer>
+(D)
+</final_answer>
+
+ALINTILAR:
+- CTV News (https://www.ctvnews.ca/canada/chatgpt-account-linked-to-b-c-mass-shooter-banned-for-violating-policy-company-says-1.7205123)
+- CBC News (https://www.cbc.ca/news/canada/british-columbia/openai-chatgpt-tumbler-ridge-shooter-1.7121543)
+- 1News (https://www.1news.co.nz/2026/02/22/canada-school-shooters-chatgpt-account-flagged-months-ago/)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_22, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Yaklaşık 6,5 kilometrelik bu yolculuk 12 saat kadar sürecek" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 22 Şubat 2026. NASA'nın Artemis II görevi için Uzay Fırlatma Sistemi (SLS) roketini montaj binasından fırlatma rampasına taşıyacağı yaklaşık 6,5 kilometrelik yolculuğun ne kadar sürmesi beklenmektedir?
+(A) 12 saat
+(B) 24 saat
+(C) 6 saat
+(D) 48 saat
+(E) 10 saat
+MODEL OUTPUT:
+NASA'nın Artemis II görevi için Uzay Fırlatma Sistemi (SLS) roketini Araç Montaj Binası'ndan (VAB) fırlatma rampasına (Launch Complex 39B) taşıma işlemi, "rollout" (fırlatma rampasına çıkış) olarak bilinir.
+
+Mevcut bilgilere ve NASA'nın standart operasyon prosedürlerine göre mantık şu şekildedir:
+1.  **Mesafe ve Hız:** VAB ile fırlatma rampası arasındaki mesafe yaklaşık 6,5 kilometre (4,2 mil) civarındadır. Bu devasa roketi taşıyan Paletli Taşıyıcı (Crawler-Transporter 2), yük altındayken maksimum yaklaşık 0,8 mil/saat (1,3 km/saat) hızla hareket eder.
+2.  **Tahmini Süre:** Sadece hareket süresi yaklaşık 5-6 saat olsa da, işlem sırasında duraklamalar, sistem kontrolleri, seviye ayarlamaları ve çok yavaş hızlanma/yavaşlama süreçleri gereklidir.
+3.  **Beklenti ve Gerçekleşmeler:**
+    *   NASA'nın Artemis I görevi için yaptığı benzer yolculuklar genellikle **10 ila 12 saat** arasında sürmüştür.
+    *   Artemis II görevi için yapılan planlamalarda ve basın açıklamalarında, bu yolculuğun genellikle **8 ila 12 saat** sürmesinin beklendiği belirtilmektedir.
+    *   Simüle edilen veya geleceğe yönelik senaryolarda (örneğin Ocak 2026'daki ilk çıkış), yolculuğun yaklaşık **10 saat** (veya operasyonel gecikmelerle 12 saate kadar) sürmesi öngörülür. Ancak standart "beklenen süre" sorulduğunda, NASA'nın resmi tahmin aralığının ortalaması olan **10 saat** en yaygın ve kabul gören cevaptır.
+
+Seçenekler arasında 10 saat (E) ve 12 saat (A) birbirine yakındır, ancak "beklenmektedir" ifadesi planlanan süreyi (yaklaşık 10 saat veya bir vardiya) işaret eder. Gerçekleşen süreler bazen 11-12 saati bulsa da, resmi beklenti genellikle 10 saat civarındadır.
+
+<final_answer>
+(E)
+</final_answer>
+
+ALINTILAR:
+- [NASA Artemis 2 Moon Mission Delayed To April After Rocket Issue - Forbes] (https://www.forbes.com/sites/jamiecartereurope/2026/02/21/nasa-artemis-2-moon-mission-delayed-to-april-after-rocket-issue/)
+- [Artemis II - Wikipedia] (https://en.wikipedia.org/wiki/Artemis_II)
+- [NASA rolls out Artemis II rocket to launch pad for astronauts' flight to the moon] (http://www.collectspace.com/news/news-011726a-nasa-artemis-ii-rollout-launch-pad.html)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_22, model: gemini-3-pro-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "18 Şubat'ta yayımlanan raporla ilgili..." ifadesi geçmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. TBMM Başkanı Numan Kurtulmuş'un başkanlık ettiği Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu'nun raporu hangi tarihte yayımlanmıştır?
+(A) 20 Şubat
+(B) 21 Şubat
+(C) 2 Şubat
+(D) 6 Şubat
+(E) 18 Şubat
+MODEL OUTPUT:
+Arama sonuçlarına göre, TBMM Başkanı Numan Kurtulmuş başkanlığındaki "Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu", raporunu 18 Şubat 2026 tarihindeki toplantısında oy çokluğuyla kabul etmiştir. Ancak raporun kamuoyuyla paylaşılması ve TBMM'nin internet sitesinde **yayımlanması** 20 Şubat 2026 tarihinde gerçekleşmiştir.
+
+Elde edilen bilgiler ışığında:
+*   **18 Şubat 2026:** Rapor komisyonda kabul edildi.
+*   **20 Şubat 2026:** Rapor TBMM internet sitesinde yayımlandı.
+
+Soru raporun yayımlandığı tarihi sorduğu için doğru cevap 20 Şubat'tır.
+
+ALINTILAR:
+- [bursasaati.com.tr] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu44FCraHZjc7CXO5NsJWQjVZXkCuGbavLGu-5fmiGyZ1GRuKSPL1XFcThNb76QPsa5wSAqzS1ulFWwJCF97vYAdg3-ALJKwghfRGnBzPWsDwheWEM2LFmvQOTWjy7dkYX8l7BXiY_0UCEbd2I4IkhUuiXe9o5SXcm9zZKdn1E-RU-8olAiFx5HwdTdr_ouj865KdUTcmlJt8LLw==)
+- [24saatgazetesi.com] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD4wcnIZo6qcMx4rIzybJ5s-A0_UgUCp3sOdOSoHH3clkOAEALbrqmLtRqB0t0Wf0MDO3HpUsiKV7stNUnS3A1bktywYJ8uPCNwEojVlm7yDCuc10ChNk9WCaMwVkAzNtIxdyDIpxVs3KmT_gUinycHhwjNo7DYpKxLDcRgRSHb0nYhmfpkPfHrqWaPa9AnwjdooPpcwLm2yZzx5Jl830=)
+- [bbnhaber.com.tr] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk3JGm6QqXRAIt7FWGSoSX-9PgfcXDGE2Xj_1IbIPbuPLhaIiX2eNwhmYXsmCVDIkne-REOkjFqVbNSzrHRK78sVRqV4Hld4g1vMp589v4NLLPVjpBxLjtObKJvq8pl2EpMpPFDFJJ1Z7iiMq7jM0dsIvdrTg_RLOoWKlMytK411rGOdMTultEae-11rxx8B76NiLvuvs4C14DZnAhiz_9Gu8x)
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

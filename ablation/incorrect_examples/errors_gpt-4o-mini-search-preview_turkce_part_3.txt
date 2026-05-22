@@ -1,0 +1,510 @@
+METADATA [13]: index: 13, language: turkce, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Dr. Steenson, dört yaşın üzerindeki fazla kilolu ve obez erkek çocukların her gün 140-500 fazla kalori tükettiğini belirtmiştir.
+INPUT:
+
+
+Bugün 18 Şubat 2026. İngiliz Beslenme Vakfı'ndan Dr. Simon Steenson'ın paylaştığı verilere göre, dört yaşın üzerindeki fazla kilolu erkek çocuklar her gün ortalama ne kadar fazla kalori tüketmektedir?
+(A) 160-290
+(B) 100-300
+(C) 200-600
+(D) 140-500
+(E) 50-150
+MODEL OUTPUT:
+Dr. Simon Steenson'ın verilerine göre, dört yaşın üzerindeki fazla kilolu erkek çocuklar, her gün ortalama 200-600 kalori daha fazla tüketmektedir. Bu, normal kilolu çocuklara kıyasla günde 200-600 kalori daha fazla alım anlamına gelir.
+
+Bu bilgiye dayanarak, doğru seçenek (C) 200-600'dür.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: turkce, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+İçişleri Bakanlığı sözcüsü Nureddin el-Baba, 42 kaçırma iddiasından sadece birinin "gerçek bir kaçırma" olduğunu açıklamıştır.
+INPUT:
+
+
+Bugün 18 Şubat 2026. Suriye İçişleri Bakanlığı sözcüsü Kasım ayında yaptığı açıklamada, soruşturdukları 42 kaçırma iddiasından kaç tanesinin "gerçek bir kaçırma" olduğunu tespit ettiklerini söylemiştir?
+(A) 1
+(B) 42
+(C) 26
+(D) 16
+(E) 4
+MODEL OUTPUT:
+Suriye İçişleri Bakanlığı sözcüsünün Kasım ayında yaptığı açıklamada, soruşturdukları 42 kaçırma iddiasından 16'sının "gerçek bir kaçırma" olarak tespit edildiği belirtilmiştir. ([mfa.gov.tr](https://www.mfa.gov.tr/sc_-23_-disisleri-bakanligi-sozcusu-oncu-keceli-nin-israil-in-sam-kirsalindaki-beyt-cin-kasabasina-yonelik-saldirilari-hk-sc.tr.mfa?utm_source=openai))
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Başsavcılık, gece operasyonları sırasında 50 gramdan fazla "marihuana"nın ele geçirildiğini açıklamıştır.
+INPUT:
+
+
+Bugün 18 Şubat 2026. İstanbul'daki ünlülere yönelik uyuşturucu operasyonunda, Başsavcılık tarafından yapılan açıklamaya göre ne kadar "marihuana" ele geçirilmiştir?
+(A) 10 gram
+(B) 100 gram
+(C) 1 kg
+(D) 500 gram
+(E) 50 gramdan fazla
+MODEL OUTPUT:
+İstanbul Cumhuriyet Başsavcılığı tarafından 17 Şubat 2026 tarihinde yürütülen bir soruşturma kapsamında, "kamuoyunca bilinen şahıslara" yönelik uyuşturucu suçlamalarıyla düzenlenen operasyonda 25 şüpheliden 17'si yakalanmış ve toplam 52,46 gram marihuana ele geçirilmiştir. ([yolcutvhaber.com](https://www.yolcutvhaber.com/haber/unlu-isimlere-uyusturucu-operasyonu-17-gozalti?utm_source=openai))
+
+Bu miktar, 50 gramdan fazla olup, 100 gramdan azdır.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: turkce, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Endonezya, bu gücün onaylanması halinde Gazze'ye 8.000'e kadar asker göndermeye hazır olduğunu belirtti" denilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Trump'ın liderliğindeki Barış Kurulu bugün ilk kez toplanıyor. AFP'nin aktardığına göre, hangi ülke Gazze'ye 8.000'e kadar asker göndermeye hazır olduğunu belirtmiştir?
+(A) Endonezya
+(B) Türkiye
+(C) Pakistan
+(D) Mısır
+(E) El Salvador
+MODEL OUTPUT:
+Bugün, 19 Şubat 2026 tarihinde, ABD Başkanı Donald Trump'ın liderliğindeki Barış Kurulu ilk kez Washington'da toplanıyor. Toplantıya 20'den fazla ülkenin katılması bekleniyor. Beyaz Saray Sözcüsü Karoline Leavitt, toplantıya katılan ülkelerin Gazze'nin yeniden inşası için toplamda 5 milyar dolarlık bir bütçe taahhüt ettiklerini açıkladı. ([cnbce.com](https://www.cnbce.com/haberler/gazze-baris-kurulu-toplaniyor-yeniden-insa-icin-5-milyar-dolar-ayrildi-h25245?utm_source=openai))
+
+Toplantıya Türkiye'yi temsilen Dışişleri Bakanı Hakan Fidan katılacak. ([yenisafak.com](https://www.yenisafak.com/gundem/bakan-fidan-cumhurbaskani-erdogani-temsilen-baris-kurulunun-ilk-toplantisina-katilacak-4798481?utm_source=openai))
+
+İsrail basınında yer alan haberlere göre, Fas, Arnavutluk ve Yunanistan, Uluslararası Barış Gücü (ISF) kapsamında Gazze'ye asker göndermeyi planlıyor. ([haber7.com](https://www.haber7.com/dunya/haber/3605076-israil-basini-3-ulke-daha-gazzeye-asker-gonderecek?utm_source=openai))
+
+Ancak, mevcut kaynaklarda, Gazze'ye 8.000'e kadar asker göndermeye hazır olduğunu belirten bir ülkenin adı belirtilmemiştir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: turkce, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "ABD'deki bir araştırma, çevrimiçi bahis ve kumar oynayanların yaklaşık %5'inin, şirketlerin cirosunun yaklaşık %80'ini oluşturduğunu söylüyor" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Türkiye'de kumar bağımlılığı artış gösteriyor. Makalede yer alan ABD merkezli bir araştırmaya göre, çevrimiçi bahis şirketlerinin cirosunun yaklaşık %80'ini müşterilerin yüzde kaçlık bir kesimi oluşturmaktadır?
+(A) %1,2
+(B) %20
+(C) %10
+(D) %15
+(E) %5
+MODEL OUTPUT:
+ABD merkezli bir araştırmaya göre, çevrimiçi bahis şirketlerinin cirosunun yaklaşık %80'ini, müşterilerin %1,2'lik bir kesimi oluşturmaktadır. Bu, kumar endüstrisinde "çoklu çekim" olarak bilinen bir olguyu yansıtmaktadır; yani, toplam gelirin büyük bir kısmı, küçük bir müşteri grubundan elde edilmektedir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: turkce, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Feti Yıldız da... müstakil yasanın Nisan ayı öncesinde meclisten geçebileceğini açıklamıştı" denilmektedir.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Türkiye'deki demokratikleşme süreci kapsamında hazırlanan "müstakil yasa" ile ilgili olarak MHP Genel Başkan Yardımcısı Feti Yıldız, bu düzenlemenin en geç hangi tarihe kadar meclisten geçebileceğini açıklamıştır?
+(A) Mart ayı sonu
+(B) Nisan ayı öncesi
+(C) Haziran ayı başı
+(D) Ramazan Bayramı sonrası
+(E) Yıl sonuna kadar
+MODEL OUTPUT:
+MHP Genel Başkan Yardımcısı Feti Yıldız, 4 Şubat 2026 tarihinde yaptığı açıklamada, "Nisan, geç bir ay" diyerek, yasal düzenlemelerin Meclis'e sunulmasının Nisan ayından önce gerçekleşmesini beklediğini ifade etmiştir. ([serbestiyet.com](https://serbestiyet.com/haberler/komisyon-ortak-raporu-icin-partilerin-koordinatorleri-biraraya-geldi-yildiz-kanun-teklifi-sureci-uzamaz-diye-dusunuyorum-231046/?utm_source=openai))
+
+Bu açıklamaya dayanarak, Feti Yıldız'ın düzenlemenin en geç Mart ayı sonuna kadar Meclis'ten geçmesini beklediği sonucuna varılabilir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Başkomiser Knox'un "Kızların en gençlerinin 13 yaşında olduğunu söyledi ve 'üst sınırı 15' olarak belirtti" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Londra'daki çocuk istismarı çeteleriyle ilgili haberde, Başkomiser John Knox kendi bölgesinde çeteler tarafından istismar edilen kız çocuklarının yaş aralığını nasıl belirtmiştir?
+(A) 13 - 15 yaş arası
+(B) 14 - 18 yaş arası
+(C) 12 - 16 yaş arası
+(D) 10 - 14 yaş arası
+(E) 15 - 20 yaş arası
+MODEL OUTPUT:
+Başkomiser John Knox, Londra'nın güneyindeki Lambeth ve Southwark bölgelerindeki çocuk istismarı çeteleriyle ilgili yaptığı açıklamada, çetelerin içindeki kızların en gençlerinin 13 yaşında olduğunu ve üst sınırının 15 olduğunu belirtmiştir. ([t24.com.tr](https://t24.com.tr/haber/bbc-ortaya-cikardi-londra-da-genc-kizlari-cinsel-iliskiye-zorlayan-ceteler%2C1300718?utm_source=openai))
+
+Bu bilgilere dayanarak, doğru seçenek (D) 10 - 14 yaş arasıdır.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "2018'den bir başka yazışmada ise şirket... 'ergenlik öncesi' yaş grubundaki kullanıcıları platformda tutma konusunu ele alıyor" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 19 Şubat 2026. Meta'ya karşı açılan davada sunulan şirket içi yazışmalara göre, Meta hangi yıldan itibaren "ergenlik öncesi" yaş grubundaki kullanıcıları platformda tutma konusunu ele almaya başlamıştır?
+(A) 2015
+(B) 2017
+(C) 2018
+(D) 2019
+(E) 2022
+MODEL OUTPUT:
+Meta'nın "ergenlik öncesi" yaş grubundaki kullanıcıları platformda tutma konusunu ele almaya başladığı yıl, mahkemeye sunulan şirket içi yazışmalara göre 2019'dur. ([gazeteoksijen.com](https://gazeteoksijen.com/bilim-ve-teknoloji/meta-ceosu-zuckerberg-juri-karsisinda-cocuklari-bilincli-olarak-bagimli-yapmakla-suclaniyor-266158?utm_source=openai))
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: turkce, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Bloomberg'in 5 Şubat tarihli haberine göre, sürecin yönetilmesi için küresel danışmanlık şirketi EY (Ernst & Young) yetkilendirilmiş, BTY Construction isimli şirket de danışmanlık yapacaktır.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Türkiye'deki köprü ve otoyolların özelleştirilmesi iddiaları kapsamında, Bloomberg'in haberine göre fizibilite çalışmalarını yönetmek ve danışmanlık yapmak üzere hangi şirketlerin adı geçmektedir?
+(A) McKinsey & Company ve Limak İnşaat
+(B) PwC (PriceWaterhouseCoopers) ve Cengiz Holding
+(C) Deloitte ve Kalyon Grup
+(D) KPMG ve Kolin İnşaat
+(E) EY (Ernst & Young) ve BTY Construction
+MODEL OUTPUT:
+Bloomberg'de Türkiye'deki köprü ve otoyolların özelleştirilmesiyle ilgili fizibilite çalışmalarını yönetmek ve danışmanlık yapmak üzere adı geçen şirketler arasında McKinsey & Company ve Limak İnşaat bulunmaktadır. Bu nedenle doğru cevap (A) seçeneğidir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: turkce, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede yer alan "Beğendili Kebap" tablosunda 2026 yılı için toplam maliyet 656,7 TL olarak verilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Türkiye'deki gıda enflasyonunu yemek tarifleri üzerinden inceleyen verilere göre, 4 kişilik bir "Beğendili Kebap"ın 2026 yılındaki toplam maliyeti ne kadar olarak hesaplanmıştır?
+(A) 256,65 TL
+(B) 656,7 TL
+(C) 662,95 TL
+(D) 695,9 TL
+(E) 457,3 TL
+MODEL OUTPUT:
+Beğendili Kebap, kuzu eti ve közlenmiş patlıcanla hazırlanan zengin bir yemektir. 2024 yılında, 4 kişilik bir Beğendili Kebap'ın maliyeti 534,35 TL olarak hesaplanmıştır. ([gidabulteni.com](https://www.gidabulteni.com/gida/orneklerle-yemeklerin-maliyet-hesabi/316?utm_source=openai)) Bu dönemde, 2019'dan 2024'e kadar olan 5 yıllık süreçte, maliyetin %1251 oranında arttığı gözlemlenmiştir.
+
+2024 ile 2026 yılları arasında enflasyon oranları ve gıda fiyatlarındaki artışlar dikkate alındığında, maliyetin daha da yükselmesi beklenmektedir. Ancak, 2026 yılına ait kesin bir maliyet verisi mevcut değildir.
+
+Bu bilgiler ışığında, 2026 yılında 4 kişilik bir Beğendili Kebap'ın maliyetinin yaklaşık 695,9 TL olması muhtemeldir.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: turkce, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede MHP Genel Başkan Yardımcısı Feti Yıldız'ın, müstakil yasanın "Nisan ayı öncesinde" meclisten geçebileceğini açıkladığı belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu'nun raporunu tamamlamasının ardından, MHP Genel Başkan Yardımcısı Feti Yıldız'ın açıklamasına göre "müstakil yasa" düzenlemesinin en geç ne zaman meclisten geçmesi beklenmektedir?
+(A) Şubat ayı sonuna kadar
+(B) Mart ayının ilk haftasında
+(C) 2026 yılının sonunda
+(D) Mayıs ayındaki bütçe görüşmelerinden sonra
+(E) Nisan ayı öncesinde
+MODEL OUTPUT:
+MHP Genel Başkan Yardımcısı Feti Yıldız, 4 Şubat 2026 tarihinde yaptığı açıklamada, Millî Dayanışma, Kardeşlik ve Demokrasi Komisyonu'nun ortak raporunun önümüzdeki hafta tamamlanacağını belirtmiştir. ([serbestiyet.com](https://serbestiyet.com/haberler/komisyon-ortak-raporu-icin-partilerin-koordinatorleri-biraraya-geldi-yildiz-kanun-teklifi-sureci-uzamaz-diye-dusunuyorum-231046/?utm_source=openai)) Bu raporun ardından, yasal düzenlemelerin Meclis gündemine gelmesi beklenmektedir. Yıldız, Nisan ayının geç bir tarih olduğunu ifade etmiş ve sürecin uzamaması gerektiğini vurgulamıştır. ([serbestiyet.com](https://serbestiyet.com/haberler/komisyon-ortak-raporu-icin-partilerin-koordinatorleri-biraraya-geldi-yildiz-kanun-teklifi-sureci-uzamaz-diye-dusunuyorum-231046/?utm_source=openai)) Bu bilgilere dayanarak, müstakil yasa düzenlemesinin en geç Mart ayının ilk haftasında Meclis'ten geçmesi beklenmektedir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: turkce, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Başkomiser John Knox'un, kendi bölgesinde en az 60 çocuğun çeteler tarafından istismar edildiğine inandığı belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. BBC'nin Londra'daki çocuk istismarı çeteleriyle ilgili araştırmasında, Lambeth ve Southwark bölgelerindeki Metropolitan Polis çocuk istismarı ekibinin başındaki Başkomiser John Knox, kendi bölgesinde en az kaç çocuğun çeteler tarafından istismar edildiğine inandığını söylemiştir?
+(A) 13
+(B) 15
+(C) 60
+(D) 1200
+(E) 2000
+MODEL OUTPUT:
+Metropolitan Polis çocuk istismarı ekibinin başındaki Başkomiser John Knox, Lambeth ve Southwark bölgelerinde çeteler tarafından en az 1.200 çocuğun istismar edildiğine inandığını belirtmiştir. 
+
+Bu bilgiye dayanarak, doğru seçenek (D) 1.200'dür.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: turkce, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede ABD'nin dünyanın en büyük savaş gemisi olan USS Gerald R Ford'u Orta Doğu'ya gönderdiği ve geminin önümüzdeki üç hafta içinde bölgeye varmasının beklendiği bildirilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. ABD'nin Orta Doğu'daki askeri varlığını artırma çalışmaları kapsamında, dünyanın en büyük savaş gemisi olarak bilinen ve önümüzdeki üç hafta içinde bölgeye varması beklenen gemi hangisidir?
+(A) USS Abraham Lincoln
+(B) USS Arleigh Burke
+(C) USS Nimitz
+(D) USS Sudan
+(E) USS Gerald R Ford
+MODEL OUTPUT:
+ABD'nin Orta Doğu'daki askeri varlığını artırma çabaları kapsamında, bölgeye gönderilen uçak gemisi taarruz grubu arasında USS Abraham Lincoln öne çıkmaktadır. Bu uçak gemisi, Umman açıklarında tespit edilmiş ve bölgedeki tansiyonun yüksek seyrettiğine işaret etmiştir. ([cumhuriyet.com.tr](https://www.cumhuriyet.com.tr/dunya/abd-orta-dogu-daki-askeri-varligini-artirdi-2479742?utm_source=openai))
+
+Diğer seçeneklere baktığımızda:
+
+- **USS Arleigh Burke**: Bir muhrip sınıfı savaş gemisidir ve uçak gemisi değildir.
+
+- **USS Nimitz**: Daha önce Orta Doğu'da görev yapmış olsa da, mevcut kaynaklarda bölgeye gönderildiğine dair bir bilgi bulunmamaktadır.
+
+- **USS Sudan**: Böyle bir gemi mevcut değildir.
+
+- **USS Gerald R. Ford**: Dünyanın en büyük uçak gemisi olarak bilinse de, mevcut kaynaklarda bölgeye gönderildiğine dair bir bilgi bulunmamaktadır.
+
+Bu değerlendirmelere dayanarak, doğru cevap **(A) USS Abraham Lincoln** olacaktır.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: turkce, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede KGM verilerine göre 2024 yılında bu iki köprünün yıllık net kârının yaklaşık 112 milyon dolar olarak kaydedildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Karayolları Genel Müdürlüğü (KGM) verilerine göre, 2024 yılında 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü'nün toplam yıllık net kârı yaklaşık ne kadar olarak kaydedilmiştir?
+(A) 59 milyon TL
+(B) 95 milyon TL
+(C) 488 milyon dolar
+(D) 112 milyon dolar
+(E) 5,7 milyar dolar
+MODEL OUTPUT:
+15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü'nün 2024 yılına ait net kâr verilerine ulaşmak için Karayolları Genel Müdürlüğü'nün (KGM) resmi raporlarına başvurmak gerekmektedir. Ancak, mevcut arama sonuçlarında bu spesifik verilere rastlayamadım. Örneğin, KGM'nin 2001-2019 yıllarına ait otoyol ve köprü gelirleri raporunda, 2019 yılına kadar olan veriler bulunmaktadır. ([kgm.gov.tr](https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Istatistikler/OtoyolMaliBilgilerie/OtoyolVeKopruGelirleri%282001-2019%29.pdf?utm_source=openai))
+
+Bu nedenle, 2024 yılına ait net kâr verilerine ulaşmak için KGM'nin güncel raporlarını veya resmi açıklamalarını incelemeniz önerilir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Prof. Eva Feldman'ın "Hastalığın genetik faktörlerle açıklanabilen kısmı, ALS türüne bağlı olarak yalnızca yüzde 8 ile yüzde 60 arasında" dediği belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. ALS hastalığının nedenleri üzerine yapılan araştırmalarla ilgili olarak, Michigan Üniversitesi'nden Prof. Eva Feldman'a göre hastalığın genetik faktörlerle açıklanabilen kısmı yüzde kaçtır?
+(A) Yüzde 10 ile yüzde 15 arası
+(B) Yüzde 85'lik sabit bir oran
+(C) Yüzde 4 ile yüzde 8 arası
+(D) Yüzde 100 kesinlik payı
+(E) Yüzde 8 ile yüzde 60 arası
+MODEL OUTPUT:
+Prof. Eva Feldman, Michigan Üniversitesi'nde nöroloji profesörüdür ve ALS (Amyotrofik Lateral Skleroz) hastalığı üzerine önemli araştırmalar yapmıştır. Özellikle, ALS hastalığının tedavisi üzerine kök hücre tedavisi çalışmalarını yürütmüştür. ([turkals.wordpress.com](https://turkals.wordpress.com/2011/10/07/1-uluslararasi-katilimli-kok-hucre-arastirmalari-kongresi/?utm_source=openai))
+
+Ancak, ALS hastalığının genetik nedenleri üzerine yaptığı araştırmalarda, genetik faktörlerin hastalığın neden olduğu kısmın yaklaşık %10 ile %15 arasında olduğunu belirtmiştir. Bu da, ALS'nin genetik faktörlerin yanı sıra çevresel etmenlerin de etkisiyle ortaya çıkan bir hastalık olduğunu göstermektedir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede DW'nin aktardığına göre, kararın ardından yedi sanıktan altısının 12 Aralık 2024'te tahliye edildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 20 Şubat 2026. Gazeteci Alican Uludağ'ın haberine konu olan İstanbul Atatürk Havalimanı saldırısı davasında, Yargıtay'ın bozma kararının ardından sanıkların tahliye edildiği tarih aşağıdakilerden hangisidir?
+(A) 12 Aralık 2024
+(B) 18 Aralık 2024
+(C) 28 Haziran 2016
+(D) 20 Şubat 2026
+(E) 5 Şubat 2026
+MODEL OUTPUT:
+İstanbul Atatürk Havalimanı saldırısı davasında, Yargıtay'ın bozma kararının ardından sanıkların tahliye edildiği tarih, 5 Şubat 2026'dır. Bu tarihte, Yargıtay'ın bozma kararının ardından sanıkların tahliye edildiği haberi, gazeteci Alican Uludağ tarafından duyurulmuştur.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: turkce, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede ABD medyasının 18 Şubat Çarşamba günü Trump'ın saldırı seçeneklerini görüştüğünü ve ABD'nin 21 Şubat Cumartesi günü erken saatlerde bir saldırı düzenleyebileceğini bildirdiği yer almaktadır.
+INPUT:
+
+
+Bugün 20 Şubat 2026. ABD Başkanı Donald Trump'ın İran'a yönelik "10 gün içinde ne olacağını göreceksiniz" uyarısı, ABD medyasında yer alan hangi olası tarihle ilişkilendirilmektedir?
+(A) 19 Şubat Perşembe
+(B) 17 Şubat Salı
+(C) 6 Şubat Cuma
+(D) 21 Şubat Cumartesi
+(E) Mart ortası
+MODEL OUTPUT:
+ABD Başkanı Donald Trump, 19 Şubat 2026 tarihinde Washington'da düzenlenen Gazze Barış Forumu toplantısında İran'a yönelik açıklamalarda bulundu. Trump, İran'la anlamlı bir anlaşma yapmaları gerektiğini, aksi takdirde kötü şeylerin olabileceğini belirtti. Bu sürecin 10 gün içinde netleşebileceğini ifade etti. ([aa.com.tr](https://www.aa.com.tr/tr/dunya/trumptan-irana-yeni-uyari-anlamli-bir-anlasma-yapmaliyiz-aksi-takdirde-kotu-seyler-olur/3834983?utm_source=openai))
+
+Bu açıklamalar, Trump'ın 19 Şubat Perşembe günü yaptığı konuşmada, İran'la ilgili sürecin 10 gün içinde netleşebileceğini ve bu süre zarfında bir anlaşma yapmaları gerektiğini vurguladığını göstermektedir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: turkce, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Natsal verilerine göre seks yapma sıklığının 1990'da ayda ortalama 5, 2000'de 4 ve 2010'da 3'e düştüğü belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Ulusal Cinsel Davranış ve Tarz Anketleri (Natsal) verilerine göre, 16-44 yaş arası kişilerin seks yapma sıklığı 1990 yılından 2010 yılına kadar nasıl bir değişim göstermiştir?
+(A) Ayda ortalama 5 kezden 4 keze düşmüştür.
+(B) Ayda ortalama 6 kezden 3 keze düşmüştür.
+(C) Ayda ortalama 5 kezden 3 keze düşmüştür.
+(D) Ayda ortalama 4 kezden 2 keze düşmüştür.
+(E) Ayda ortalama 5 kezden 2 keze düşmüştür.
+MODEL OUTPUT:
+Ulusal Cinsel Davranış ve Tarz Anketleri (Natsal) verilerine göre, 16-44 yaş arasındaki bireylerin cinsel ilişki sıklığı 1990 ile 2010 yılları arasında azalmıştır. 1990 yılında bu yaş grubundaki bireyler ayda ortalama 6 kez cinsel ilişkiye girerken, 2010 yılında bu sayı ayda 5 kez olarak kaydedilmiştir. ([tele1.com.tr](https://www.tele1.com.tr/arastirma-dunya-genelinde-cinsel-iliski-sikligi-azaliyor?utm_source=openai))
+
+Bu bilgilere dayanarak, doğru seçenek:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: turkce, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Charlotte'un hastanede tedavi gördüğü dönemde resim, seramik ve şarkı yazmak gibi mesleki terapiler yaptığı belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Beden dismorfik bozukluğu teşhisi konan Charlotte, hastanede tedavi gördüğü dönemde mükemmeliyetçiliğini kontrol altına almak için hangi mesleki terapileri yapmıştır?
+(A) Sosyal medya detoksu ve ayna karşısında konuşma terapisi
+(B) Moda tasarımı ve tekstil odaklı grup çalışmaları
+(C) Bilişsel davranışçı terapi ve maruz bırakma egzersizleri
+(D) Resim, seramik ve şarkı yazmak
+(E) Yoga, meditasyon ve doğa yürüyüşleri
+MODEL OUTPUT:
+Beden dismorfik bozukluğu (BDB), bireylerin bedenleriyle ilgili algılarında bozulma ve bu algılara aşırı odaklanma ile karakterize edilen bir durumdur. Tedavi sürecinde, mükemmeliyetçilik gibi olumsuz düşünce kalıplarını ele almak amacıyla çeşitli terapötik yaklaşımlar kullanılmaktadır.
+
+Bilişsel Davranışçı Terapi (BDT), BDB tedavisinde altın standart olarak kabul edilir. Bu terapi, bireylerin beden algısıyla ilgili çarpıtılmış düşüncelerini tanımlamalarına ve yeniden yapılandırmalarına yardımcı olur. Ayrıca, kaçınma ve kontrol etme gibi işlevsiz davranışları azaltmaya yönelik stratejiler içerir. Maruz bırakma ve tepki önleme (ERP) teknikleri, örneğin, makyajsız dışarı çıkma gibi egzersizleri içerir. ([imagopsikoloji.com](https://www.imagopsikoloji.com/beden-dismorfik-bozuklugu/?utm_source=openai))
+
+Bu bağlamda, Charlotte'un hastanede tedavi gördüğü dönemde mükemmeliyetçiliğini kontrol altına almak için uyguladığı mesleki terapi, Bilişsel Davranışçı Terapi ve maruz bırakma egzersizlerini içermiştir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: turkce, date: february_21, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, ABD medyasının 18 Şubat Çarşamba günü Trump'ın danışmanlarıyla saldırı seçeneklerini görüştüğünü ve ABD'nin 21 Şubat Cumartesi günü erken saatlerde bir saldırı düzenleyebileceğini bildirdiği yazmaktadır.
+INPUT:
+
+
+Bugün 21 Şubat 2026. ABD Başkanı Trump'ın İran'a yönelik "sınırlı saldırı" seçeneklerini değerlendirdiği bilinmektedir. ABD medyasında 18 Şubat'ta çıkan haberlere göre, bu saldırının ne zaman gerçekleşebileceği öngörülmüştü?
+(A) 15 Mart 2026 tarihinde
+(B) Trump'ın tanıdığı 10-15 günlük sürenin sonunda
+(C) İran'ın taslak metni sunacağı 23 Şubat tarihinde
+(D) 21 Şubat Cumartesi günü erken saatlerde
+(E) Haziran 2025'teki saldırının yıl dönümünde
+MODEL OUTPUT:
+ABD Başkanı Donald Trump, 18 Şubat 2026 tarihinde İran'a yönelik olası bir askeri saldırıyı değerlendirdiğini belirtmiştir. Trump, Beyaz Saray'da bazı valilerin katıldığı bir kahvaltı etkinliği öncesinde, bir gazetecinin "İran'a yönelik sınırlı bir askeri saldırı mı düşünüyorsunuz?" sorusuna, "Sanırım bunu düşündüğümü söyleyebilirim." şeklinde yanıt vermiştir. ([aa.com.tr](https://www.aa.com.tr/tr/dunya/trump-irana-sinirli-askeri-saldiri-sanirim-bunu-dusundugumu-soyleyebilirim/3835984?utm_source=openai))
+
+Bu açıklama, Trump'ın İran'a yönelik sınırlı bir askeri saldırıyı düşündüğünü ve bu kararın önümüzdeki 10-15 gün içinde netleşebileceğini göstermektedir. ([axios.com](https://www.axios.com/2026/02/19/trump-iran-strike-10-day-deal?utm_source=openai))
+
+Bu bilgilere dayanarak, 18 Şubat 2026 tarihinde ABD medyasında, Trump'ın İran'a yönelik olası saldırısının en iyi ihtimalle günler sonra gerçekleşebileceği öne sürülmüştür. ([aa.com.tr](https://www.aa.com.tr/tr/dunya/nyt-abdnin-irana-olasi-saldirisi-gunler-sonra-olacak/3799895?utm_source=openai))
+
+Sonuç olarak, Trump'ın İran'a yönelik olası saldırısının ne zaman gerçekleşebileceğine dair en yakın tahmin, 10-15 gün içinde bir karar verilmesi ve saldırının birkaç gün içinde gerçekleşebileceği yönündedir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------

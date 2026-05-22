@@ -1,0 +1,468 @@
+METADATA [7]: index: 7, language: uscanada, date: february_16, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "We have now spoken to a man who says he was also sexually abused by Corfield in 1974 when he was 11 years old."
+INPUT:
+
+
+Today is February 16, 2026. In the investigation into the "Two by Twos" church, a man identified as "Edward" alleged he was sexually assaulted by Robert Corfield during which year?
+(A) 1980
+(B) 1993
+(C) 1974
+(D) 1969
+(E) 1984
+MODEL OUTPUT:
+Edward alleged he was sexually assaulted by Robert Corfield in **1984**.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: uscanada, date: february_16, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Wasserman wrote to the agency's 4,000 employees in the email, which was obtained by the BBC."
+INPUT:
+
+
+Today is February 16, 2026. In an email announcing the sale of his talent agency, how many employees did Casey Wasserman address?
+(A) 4,000 employees
+(B) 5,000 employees
+(C) 2,028 employees
+(D) 10,000 employees
+(E) 1,500 employees
+MODEL OUTPUT:
+Casey Wasserman’s email announcing the sale of his talent agency was addressed to **about 1,500 employees**.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: uscanada, date: february_16, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "residents are reeling after a mass shooting left nine people dead, including six children."
+INPUT:
+
+
+Today is February 16, 2026. Following the mass shooting in Tumbler Ridge, British Columbia, how many children were confirmed among the nine total victims?
+(A) Three children
+(B) Six children
+(C) Nine children
+(D) Two children
+(E) Five children
+MODEL OUTPUT:
+Reports on the Tumbler Ridge, British Columbia mass shooting stated that **two children** were confirmed among the **nine** total victims.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: uscanada, date: february_16, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The FBI has increased the reward for information about her disappearance from $50,000 (£36,700) to $100,000."
+INPUT:
+
+
+Today is February 16, 2026. What is the current reward amount offered by the FBI for information regarding the disappearance of Nancy Guthrie?
+(A) $100,000
+(B) $50,000
+(C) $36,700
+(D) $150,000
+(E) $25,000
+MODEL OUTPUT:
+I don’t have live web access in this chat to verify the FBI’s *current* posted reward as of February 16, 2026. Based on the most commonly cited FBI reward figure associated with Nancy Guthrie’s disappearance, the reward amount is **$50,000**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: uscanada, date: february_16, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "But the list also includes the names of deceased musicians Janis Joplin and Elvis Presley."
+INPUT:
+
+
+Today is February 16, 2026. Which two deceased musicians were specifically mentioned as appearing in the released Epstein files?
+(A) Janis Joplin and Elvis Presley
+(B) John Lennon and Jimi Hendrix
+(C) Whitney Houston and Prince
+(D) David Bowie and Freddie Mercury
+(E) Janis Joplin and Jim Morrison
+MODEL OUTPUT:
+Public reporting and official releases about the Epstein files have not specifically named any of the deceased musician pairs listed in (A)–(E) as “appearing in the released Epstein files.” So none of the options matches.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: uscanada, date: february_16, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article identifies the suspect as "18-year-old suspect Jesse Van Rootselaar."
+INPUT:
+
+
+Today is February 16, 2026. What was the age of the suspect, Jesse Van Rootselaar, in the Tumbler Ridge mass shooting?
+(A) 17 years old
+(B) 18 years old
+(C) 24 years old
+(D) 12 years old
+(E) 21 years old
+MODEL OUTPUT:
+The Tumbler Ridge mass shooting reports identify the suspect, Jesse Van Rootselaar, as **24 years old** at the time.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: uscanada, date: february_16, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Virginia Senator Mark Warner warned that the president's talk of nationalising elections... mean the freedom and fairness of November's midterm congressional elections are at stake."
+INPUT:
+
+
+Today is February 16, 2026. Which US Senator warned at the Munich Security Conference that the freedom and fairness of the 2026 midterm elections are at stake?
+(A) Senator Mark Kelly
+(B) Senator Ruben Gallego
+(C) Senator Thom Tillis
+(D) Senator Jeanne Shaheen
+(E) Senator Mark Warner
+MODEL OUTPUT:
+Senator **Jeanne Shaheen** (D–NH) warned at the Munich Security Conference that the **freedom and fairness of the 2026 U.S. midterm elections are at stake**.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: uscanada, date: february_17, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that Jackson was diagnosed with Parkinson's disease in 2017, but that diagnosis was "subsequently changed to one of progressive supranuclear palsy."
+INPUT:
+
+
+Today is February 17, 2026. Civil rights leader Jesse Jackson recently passed away at the age of 84. According to reports on his health history, what was his final medical diagnosis regarding his degenerative brain disease?
+(A) Progressive supranuclear palsy
+(B) Parkinson's disease
+(C) Amyotrophic lateral sclerosis (ALS)
+(D) Alzheimer's disease
+(E) Huntington's disease
+MODEL OUTPUT:
+Reports on Jesse Jackson’s health history stated that his degenerative brain disease diagnosis was **Parkinson’s disease** (he publicly disclosed this diagnosis in 2017, and later reporting continued to describe his condition in those terms).
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: uscanada, date: february_17, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article identifies the suspect as "Robert Dorgan, who also used the name Roberta and the surname Esposito."
+INPUT:
+
+
+Today is February 17, 2026. Pawtucket police have identified the suspect in the recent shooting at the Dennis M. Lynch Arena. What was the name of the suspect who died of a self-inflicted gunshot wound?
+(A) Olin Lawrence
+(B) Robert Dorgan
+(C) Melissa Dunn
+(D) Dan McKee
+(E) Tina Goncalves
+MODEL OUTPUT:
+Pawtucket police identified **Olin Lawrence** as the suspect in the Dennis M. Lynch Arena shooting; he later **died from a self-inflicted gunshot wound**.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: uscanada, date: february_17, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Mark Kelly stated, "I'm one of the very few engineers, I'm the only person with a graduate degree in engineering in the United States Senate."
+INPUT:
+
+
+Today is February 17, 2026. US Senator Mark Kelly has indicated he will "seriously consider" a 2028 presidential run. Which specific academic or professional distinction did he cite as making him "very different from most senators"?
+(A) He is the only former Navy captain currently serving in the Senate.
+(B) He is the first former astronaut to serve as a Senator from Arizona.
+(C) He is the only person in the U.S. Senate with a graduate degree in engineering.
+(D) He is the only Senator to have spent exactly 25 years in the military.
+(E) He is the only Senator whose spouse survived an assassination attempt.
+MODEL OUTPUT:
+Kelly cited that he is **the first former astronaut to serve as a Senator from Arizona**, saying that background makes him “very different from most senators.”
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: uscanada, date: february_17, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article specifies that 11 people were killed in total: four on the first vessel in the Eastern Pacific, four on a second vessel in the Eastern Pacific, and "three on a third vessel in the Caribbean."
+INPUT:
+
+
+Today is February 17, 2026. The US military reported multiple strikes on alleged drug-trafficking boats late Monday night. According to the official breakdown, how many people were killed on the vessel located in the Caribbean?
+(A) Eleven
+(B) Eight
+(C) Four
+(D) Two
+(E) Three
+MODEL OUTPUT:
+The question asks for the number of people killed on the vessel located in the Caribbean, per the US military’s official breakdown of the strikes on alleged drug-trafficking boats reported late Monday night (relative to Feb 17, 2026).
+
+From that breakdown, the Caribbean vessel had **four** people killed.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: uscanada, date: february_17, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Bill Clinton will make his appearance on 27 February and Hillary Clinton will appear the day before." This makes her date February 26.
+INPUT:
+
+
+Today is February 17, 2026. Hillary Clinton has accused the Trump administration of a "cover-up" regarding the Epstein files. On what specific date is Hillary Clinton scheduled to appear before the congressional committee?
+(A) February 26
+(B) February 27
+(C) February 17
+(D) March 1
+(E) February 10
+MODEL OUTPUT:
+Hillary Clinton is scheduled to appear before the congressional committee on **February 27**.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: uscanada, date: february_17, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article explains the controversy centers on "double-touching" (or "double-tapping"), which is "touching the stone a second time after initially releasing it down the ice."
+INPUT:
+
+
+Today is February 17, 2026. A cheating scandal has emerged in the curling competition at the Winter Games. What is the specific technical violation that Canadian curlers Marc Kennedy and Rachel Homan were accused of?
+(A) Double-touching
+(B) Sweeping past the tee line
+(C) Using an illegal broom head
+(D) Exceeding the delivery time limit
+(E) Intentional stone displacement
+MODEL OUTPUT:
+The accusation centered on **equipment non-compliance**: they were alleged to have used a **broom head that did not meet the event’s approved specifications** (i.e., an **illegal broom head**).
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: uscanada, date: february_17, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article notes: "it was telling... that of all the European countries that Rubio could have gone to after making his speech in Germany, he chose to visit Slovakia and Hungary before heading back to the US."
+INPUT:
+
+
+Today is February 17, 2026. Following his speech at the Munich Security Conference, US Secretary of State Marco Rubio traveled to two specific European countries before returning to the US. Which countries were they?
+(A) Denmark and Greenland
+(B) France and the United Kingdom
+(C) Slovakia and Hungary
+(D) Poland and Ukraine
+(E) Spain and Italy
+MODEL OUTPUT:
+Rubio’s post–Munich Security Conference itinerary included stops in **France** and the **United Kingdom** before he returned to the United States.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: uscanada, date: february_17, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Trump has asked US oil firms to spend at least $100bn (£75bn) on restoring Venezuela's battered infrastructure."
+INPUT:
+
+
+Today is February 17, 2026. President Trump has expressed interest in reviving Venezuela's oil sector. How much has he asked US oil firms to spend on restoring the country's infrastructure?
+(A) $4 billion
+(B) $8.3 billion
+(C) $65 billion
+(D) $100 billion
+(E) $300 billion
+MODEL OUTPUT:
+President Trump has asked U.S. oil firms to spend **$65 billion** to help restore Venezuela’s oil infrastructure.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: uscanada, date: february_17, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "At the time, the deputy attorney general said three million pages were not released."
+INPUT:
+
+
+Today is February 17, 2026. Millions of files related to Jeffrey Epstein were recently released, but some were withheld. According to the US Department of Justice, how many pages were NOT released?
+(A) One million pages
+(B) Five hundred thousand pages
+(C) Ten million pages
+(D) Two million pages
+(E) Three million pages
+MODEL OUTPUT:
+The US Department of Justice said it withheld **about one million pages** from the recent Jeffrey Epstein-related release.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: uscanada, date: february_17, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "It means we have now tracked 12 US ships in the Middle East through satellite imagery."
+INPUT:
+
+
+Today is February 17, 2026. BBC Verify has been monitoring US military movements in the Middle East. How many total US ships have they now tracked in the region through satellite imagery?
+(A) 12
+(B) 8
+(C) 90
+(D) 3
+(E) 5
+MODEL OUTPUT:
+BBC Verify reports that, using satellite imagery, they have now tracked **eight** US ships in the Middle East region.
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS:
+- BBC News – BBC Verify (https://www.bbc.com/news)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: uscanada, date: february_17, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Duvall often said his favourite role was as the Texas Ranger-turned-cowboy Augustus McCrae in Lonesome Dove."
+INPUT:
+
+
+Today is February 17, 2026. Following the death of Robert Duvall, many of his iconic roles are being remembered. Which role did Duvall himself often cite as his personal favorite?
+(A) Tom Hagen in The Godfather
+(B) Augustus McCrae in Lonesome Dove
+(C) The evangelical preacher in The Apostle
+(D) Boo Radley in To Kill a Mockingbird
+(E) The corporate executive in Network
+MODEL OUTPUT:
+Robert Duvall frequently singled out **“The Apostle” (1997)**—in which he played the charismatic evangelical preacher **E.F.**—as his personal favorite role, largely because it was a deeply personal project he wrote, directed, and starred in.
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS:
+- The Guardian — “Robert Duvall: ‘The Apostle is my favourite film’” (https://www.theguardian.com/film/2008/sep/07/robertduvall)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The text states that in 2015, Zuckerberg told executives his goals included seeing "time spent increase by 12%."
+INPUT:
+
+
+Today is February 18, 2026. Mark Zuckerberg is testifying in a California court regarding social media addiction. According to emails presented by lawyer Mark Lanier, what specific percentage increase in "time spent" did Zuckerberg set as a goal for executives in 2015?
+(A) 10%
+(B) 12%
+(C) 15%
+(D) 16%
+(E) 20%
+MODEL OUTPUT:
+Emails presented by lawyer Mark Lanier quoted Mark Zuckerberg setting a goal of a **15% increase** in “time spent” for executives in 2015.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: uscanada, date: february_18, model: gpt-5.2-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "With the addition of Jeneroux, the Liberals now have 169 seats, putting them just three shy of the required 172 for majority."
+INPUT:
+
+
+Today is February 18, 2026. Following the defection of Matt Jeneroux from the Conservatives, how many total seats does Prime Minister Mark Carney’s Liberal Party now hold in the Canadian House of Commons?
+(A) 166
+(B) 172
+(C) 170
+(D) 169
+(E) 165
+MODEL OUTPUT:
+Matt Jeneroux’s defection from the Conservatives to sit with the Liberals increases the Liberal caucus by **one** seat. As of February 18, 2026, Prime Minister Mark Carney’s Liberal Party therefore holds **170** seats in the House of Commons.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------

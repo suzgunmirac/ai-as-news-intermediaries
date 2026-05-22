@@ -1,0 +1,219 @@
+METADATA [17]: index: 17, language: arabic, date: february_13, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+أعلنت السلطات المصرية عن تعديل وزاري شمل 14 وزيراً، مع الإبقاء على رئيس الحكومة في منصبه.
+INPUT:
+
+
+اليوم هو 13 فبراير/شباط 2026. كم عدد الوزراء الذين شملهم التعديل الوزاري الأخير في الحكومة المصرية برئاسة مصطفى مدبولي؟
+(A) 18 وزيراً.
+(B) 10 وزراء فقط.
+(C) 14 وزيراً.
+(D) 4 وزراء (عدد النساء في الحكومة).
+(E) 30 وزيراً.
+MODEL OUTPUT:
+### عملية التفكير
+السؤال يتعلق بعدد الوزراء الذين شملتهم التعديل الوزاري الأخير في الحكومة المصرية برئاسة مصطفى مدبولي، والتاريخ هو 13 فبراير 2026. بعد البحث في مصادر متعددة، تبين أن التعديل الأخير حدث في 10-11 فبراير 2026، حيث وافق البرلمان على التعديل، وأدى الرئيس السيسي مراسم أداء اليمين.
+
+- معظم المصادر تشير إلى 13 أو 14 وزيراً جديداً (مثل تعيينات جديدة تماماً).
+- ومع ذلك، السؤال يسأل عن "الذين شملهم التعديل"، أي الوزراء المتأثرين بالتعديل بشكل عام (يشمل الجدد، والذين تم تعديل مناصبهم بسبب دمج أو فصل وزارات، أو تغييرات أخرى).
+- مصدر موثوق (EgyptToday) يذكر صراحة أن الرئيس شهد أداء اليمين لنائب رئيس الوزراء الجديد إلى جانب 18 وزيراً، ويوضح أن هذا يشمل التعيينات الجديدة والوزراء الحاليين الذين تم دمج وزاراتهم أو تعديلها.
+- هذا يتطابق مع خيار (A)، خاصة أن مصادر أخرى تذكر أرقاماً قريبة مثل 17 وزيراً مشمولين في التعديل.
+- الخيارات الأخرى: (B) 10 غير مدعوم، (C) 14 يشير غالباً إلى الجدد فقط، (D) 4 يتعلق بعدد النساء (وهناك ذكر لـ2-4 نساء جدد أو إجمالي، لكنه ليس محور السؤال)، (E) 30 قريب من العدد الإجمالي للوزراء في الحكومة (28 حسب بعض المصادر).
+
+الإجابة النهائية مبنية على أدق التطابق مع السؤال.
+
+<final_answer>
+(A)
+</final_answer>
+
+الاستشهادات:
+- [EgyptToday](https://www.egypttoday.com/Article/1/145023/Madbouly-Honors-Outgoing-Ministers-After-Egypt%E2%80%99s-Cabinet-Reshuffle)
+- [DailyNewsEgypt](https://www.dailynewsegypt.com/2026/02/10/egypts-parliament-approves-cabinet-reshuffle-including-new-investment-and-economy-leads)
+- [Ahram Online](https://english.ahram.org.eg/NewsContent/50/1201/562198/AlAhram-Weekly/Egypt/Meet-the-new-ministers.aspx)
+- [SIS.gov.eg](https://sis.gov.eg/en/media-center/news/egypts-house-of-representatives-approves-cabinet-reshuffle)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: arabic, date: february_14, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال أن نحو 83% من الطلاب ملتحقون بمدارس حكومية، مقابل نحو 17% في مدارس خاصة.
+INPUT:
+
+
+اليوم هو 14 فبراير/ شباط 2026. وفقاً لبيانات وزارة التربية والتعليم المصرية للفترة (2022-2023)، ما هي النسبة المئوية للطلاب الملتحقين بالمدارس الحكومية مقارنة بالمدارس الخاصة؟
+(A) 60% مدارس حكومية و40% مدارس خاصة
+(B) 75% مدارس حكومية و25% مدارس خاصة
+(C) 90% مدارس حكومية و10% مدارس خاصة
+(D) 83% مدارس حكومية و17% مدارس خاصة
+(E) 50% مدارس حكومية و50% مدارس خاصة
+MODEL OUTPUT:
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: arabic, date: february_16, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+أعلنت الشرطة الكندية أن إطلاق النار أدى إلى مقتل تسعة أشخاص وإصابة العشرات، وعُثر على المشتبه بها ميتة في مكان الحادث.
+INPUT:
+
+
+اليوم هو 16 فبراير/ شباط 2026. كم عدد الضحايا الذين سقطوا في حادث إطلاق النار على مدرسة في كولومبيا البريطانية بكندا؟
+(A) 12 قتيلاً
+(B) 4 قتلى
+(C) 9 قتلى
+(D) 20 قتيلاً
+(E) 38 قتيلاً
+MODEL OUTPUT:
+Based on my knowledge of historical events up to my last training data (which precedes 2026), I could not find any record of a school shooting in British Columbia, Canada, on or around February 16, 2026. However, the question seems to reference a specific incident, and the closest well-known school shooting with a matching number of victims is the Columbine High School shooting in 1999 (often reported as 12 students killed, though the total is 13 including a teacher). The location doesn't match perfectly (it's in Colorado, US, not British Columbia, Canada), but the name similarity and the option may indicate that's the intent. Since no tools provided current data for 2026, I'm selecting the option that fits best with known facts.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: arabic, date: february_18, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+ذكر المقال أن دولاً مثل سوريا، تركيا، سنغافورة، مصر، الأردن، ليبيا، والجزائر أعلنت الخميس أول أيام رمضان لتعذر رؤية الهلال أو لأسباب فلكية.
+INPUT:
+
+
+اليوم هو 18 فبراير 2026. بناءً على التقارير الواردة حول رؤية هلال رمضان لعام 1447 هجرية، أي من مجموعات الدول التالية أعلنت أن يوم الخميس هو أول أيام شهر الصيام؟
+(A) السعودية، الإمارات، قطر، والكويت
+(B) اليمن، البحرين، فلسطين، والعراق
+(C) مصر، الأردن، الجزائر، وسوريا
+(D) لبنان، السودان، سلطنة عمان، وإيران
+(E) المغرب، موريتانيا، إندونيسيا، وتركيا
+MODEL OUTPUT:
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: arabic, date: february_19, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+تقول شارلوت: "لقد مارست العلاج الوظيفي... مثل الفن وصناعة الفخار وكتابة الأغاني، وهكذا عدت إلى الموسيقى".
+INPUT:
+
+
+اليوم هو 19 فبراير/شباط 2026. ما هو النشاط الذي مارسته "شارلوت" ضمن العلاج الوظيفي في المستشفى وساعدها على العودة إلى الموسيقى؟
+(A) العزف على البيانو
+(B) الرقص التعبيري
+(C) كتابة الأغاني
+(D) الرسم الزيتي
+(E) التمثيل المسرحي
+MODEL OUTPUT:
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: arabic, date: february_20, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+بحسب النظام الداخلي لحماس، تتألف قيادتها السياسية من 18 عضواً: ستة يمثلون غزة، وستة يمثلون الضفة الغربية والسجناء، وستة يمثلون حماس في الخارج.
+INPUT:
+
+
+اليوم هو 20 فبراير/ شباط 2026. وفقاً للنظام الداخلي لحركة حماس، مما تتألف قيادتها السياسية وكيف يتم توزيع تمثيل أعضائها؟
+(A) 15 عضواً: 5 لغزة، 5 للضفة، 5 للخارج
+(B) 18 عضواً: 6 لغزة، 6 للضفة والسجناء، 6 للخارج
+(C) 21 عضواً: 7 لغزة، 7 للضفة، 7 للخارج
+(D) 12 عضواً: 4 لغزة، 4 للضفة، 4 للخارج
+(E) 24 عضواً: 8 لغزة، 8 للضفة، 8 للخارج
+MODEL OUTPUT:
+### تحليل السؤال ومنطق التفكير
+
+السؤال يتعلق بالنظام الداخلي (اللوائح أو الدستور الداخلي) لحركة حماس، تحديداً تركيبة قيادتها السياسية (المكتب السياسي) وتوزيع تمثيل الأعضاء حسب المناطق. التاريخ المحدد هو 20 فبراير 2026، لذا قمت باستخدام أدوات البحث للتحقق من أي تغييرات حديثة، مع التركيز على المصادر الموثوقة مثل تقارير الكونغرس الأمريكي، ECFR، وويكيبيديا، وغيرها.
+
+#### النتائج الرئيسية من البحث:
+- **العدد الإجمالي للأعضاء**: وفقاً لعدة مصادر (مثل تقرير الكونغرس [web:10] وموقع ECFR [web:30] وPASSIA [web:46])، يتكون المكتب السياسي الرئيسي لحماس من **15 عضواً** يتم انتخابهم كل 4 سنوات من قبل مجلس الشورى.
+- **التوزيع حسب المناطق**: المصادر تشير إلى أن الأعضاء يمثلون مناطق رئيسية: غزة، الضفة الغربية، الشتات (الخارج)، والسجناء في السجون الإسرائيلية. ومع ذلك، التوزيع الدقيق غالباً ما يُوصف بأنه **5 أعضاء من غزة، 5 من الضفة الغربية (بما في ذلك السجناء في بعض السياقات)، و5 من الخارج**. هذا يطابق الوصف في مصادر متعددة حول انتخابات 2017 (التي حددت الهيكل الرسمي)، ولم يتم العثور على تغيير رسمي في اللوائح الداخلية بحلول 2026.
+- **الوضع في 2026**: بعد مقتل قادة مثل إسماعيل هنية ويحيى السنوار في 2024، اعتمدت حماس لجنة مؤقتة من 5 أعضاء للقيادة (كما في [web:11] و[web:12] و[web:32]). هذا وضع استثنائي بسبب الحرب، لكنه **لا يغير النظام الداخلي الرسمي**، الذي يظل 15 عضواً مع التوزيع المذكور.
+- **اللوائح الداخلية**: النظام الداخلي (كما في ميثاق حماس وهيكلها التنظيمي) يحدد الهيكل الرسمي كـ15 عضواً موزعين على المناطق الثلاث الرئيسية (غزة، الضفة، الخارج)، مع اعتبار السجناء جزءاً من تمثيل الضفة أو منفصلين لكن غير مغير للعدد الإجمالي.
+
+#### مقارنة مع الخيارات:
+- (A) 15 عضواً: 5 لغزة، 5 للضفة، 5 للخارج – **يطابق النتائج تماماً**، حيث يُعتبر هذا التوزيع الرسمي وفقاً للوائح.
+- (B) 18 عضواً: 6 لغزة، 6 للضفة والسجناء، 6 للخارج – لا يطابق، حيث العدد 18 غير مذكور في أي مصدر.
+- (C) 21 عضواً: 7 لغزة، 7 للضفة، 7 للخارج – لا يطابق.
+- (D) 12 عضواً: 4 لغزة، 4 للضفة، 4 للخارج – لا يطابق.
+- (E) 24 عضواً: 8 لغزة، 8 للضفة، 8 للخارج – لا يطابق.
+
+الإجابة الأكثر دقة هي (A)، بناءً على النظام الداخلي الرسمي دون النظر في الوضع المؤقت.
+
+#### الاستشهادات:
+- [Congress.gov Report on Hamas](https://www.congress.gov/crs-product/IF12549) ([web:10])
+- [ECFR Mapping Palestinian Politics](https://ecfr.eu/special/mapping_palestinian_politics/politburo) ([web:30])
+- [PASSIA Hamas Backgrounder](https://passia.org/hamas-a-backgrounder) ([web:46])
+- [Wikipedia List of Hamas Leaders](https://en.wikipedia.org/wiki/List_of_leaders_of_Hamas) ([web:47])
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: arabic, date: february_21, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال أن وكالة الأنباء العُمانية أصدرت بياناً يوم 12 فبراير/شباط الماضي أكدت فيه أن الخميس هو غرة رمضان بناءً على الحسابات الفلكية.
+INPUT:
+
+
+اليوم هو 21 فبراير/ شباط 2026. متى أصدرت سلطنة عُمان بيانها الذي أعلنت فيه مسبقاً أن غرة شهر رمضان ستكون يوم الخميس؟
+(A) 18 فبراير
+(B) 17 فبراير
+(C) 15 فبراير
+(D) 10 فبراير
+(E) 12 فبراير
+MODEL OUTPUT:
+Based on the search results, Oman issued an advance announcement on February 10, 2026, stating that the first day of Ramadan would be Thursday, February 19, 2026. This was based on astronomical calculations indicating that moon sighting would be impossible on February 17, making the announcement exactly a week before the planned sighting date.
+
+<final_answer>
+(D)
+</final_answer>
+
+الاستشهادات:
+- [BBC] (https://www.bbc.com/arabic/articles/cvgk1zxk35eo)
+- [Instagram] (https://www.instagram.com/reel/DUqwqZYiBtd)
+- [Alkhaleej] (https://www.alkhaleej.ae/2026-02-15/%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A3%D8%B9%D9%84%D9%86%D8%AA-%D9%85%D9%88%D8%B9%D8%AF-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-2026-%D9%81%D9%84%D9%83%D9%8A%D8%A7%D9%8B-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%A2%D9%86-6314861/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: arabic, date: february_22, model: grok-4-0709
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+يذكر المقال: "ونُقل موقع إطلاق المدفع إلى قمة جبل المقطم، حيث يُطلق من هذا الموقع حالياً".
+INPUT:
+
+
+اليوم هو 22 فبراير/ شباط 2026. توقف إطلاق مدفع رمضان من قلعة صلاح الدين في القاهرة في تسعينيات القرن العشرين. أين هو الموقع الحالي الذي يُطلق منه المدفع في العاصمة المصرية؟
+(A) ساحة جامع محمد علي داخل القلعة بعد ترميمها.
+(B) قمة جبل المقطم.
+(C) حديقة الأزهر المطلة على القاهرة التاريخية.
+(D) دار سكن المحافظ في منطقة مصر القديمة.
+(E) أمام مبنى الإذاعة والتلفزيون (ماسبيرو) على النيل.
+MODEL OUTPUT:
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

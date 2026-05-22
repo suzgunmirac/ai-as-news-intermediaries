@@ -1,0 +1,302 @@
+METADATA [4]: index: 4, language: turkce, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Kate Hall, zencefilin hızlıca yıkanıp dondurulabileceğini ve soymaya bile gerek olmadığını belirtmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. "The Full Freezer" olarak bilinen Kate Hall'un önerilerine göre, zencefil dondurucuda saklanmak üzere nasıl hazırlanmalıdır?
+(A) Kabukları soyulmalı ve ince halkalar halinde dilimlenmelidir.
+(B) Rendelenmeli ve suyla birlikte buz kalıplarına konmalıdır.
+(C) Soyulduktan sonra vakumlu poşetlerde saklanmalıdır.
+(D) Yıkanıp kurulandıktan sonra 2 gün buzdolabında bekletilip dondurulmalıdır.
+(E) Sadece yıkanmalı ve dondurulmalıdır; soymaya gerek yoktur.
+MODEL OUTPUT:
+Bu seçeneklerden **(B) Rendelenmeli ve suyla birlikte buz kalıplarına konmalıdır.** Kate Hall’un “The Full Freezer” sistemi, zencefiri dondurmak için önce rendelemeyi, ardından küçük porsiyonlarda (örneğin buz kalıplarında) suyla birlikte dondurmayı önerir ki bu sayede istendiği kadar kullanmak kolay olsun ve israf olmasın.
+
+<final_answer>
+B
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: turkce, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede geminin kule yüksekliğinden dolayı Süveyş Kanalı'na giremediği belirtilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Türkiye'nin Somali'ye gönderdiği "Çağrı Bey" sondaj gemisinin Süveyş Kanalı yerine Ümit Burnu rotasını kullanmasının temel sebebi nedir?
+(A) Kızıldeniz'deki güvenlik risklerinden kaçınmak istenmesi
+(B) Kule yüksekliğinden dolayı kanala girememesi
+(C) Yol boyunca Atlantik Okyanusu'nda testler yapacak olması
+(D) Süveyş Kanalı'nın bakım çalışmaları nedeniyle kapalı olması
+(E) Somali ordusu için ağır askeri teçhizat taşıması
+MODEL OUTPUT:
+“Çağrı Bey” sondaj gemisinin Süveyş Kanalı yerine Ümit Burnu rotasını tercih etmesinin temel sebebi, Kızıldeniz ve Süveyş Kanalı çevresindeki yüksek güvenlik riskleridir. Bu rota değişikliği, bölgedeki çatışmalar, korsanlık olayları ve ayrıca sigorta şirketlerinin bu güzergâhı tehdit bölgesi olarak görmesi gibi faktörler göz önünde tutularak alınan bir güvenlik ve risk yönetimi kararına dayanmaktadır. ([worldshipping.org](https://www.worldshipping.org/red-sea-security?utm_source=openai))
+
+Ayrıca, Süveyş Kanalı’nın fiziksel sınırlamaları (“Suezmax” boyutları gibi kıstaslar) geminin geçişine engel teşkil edecek kadar kritik değildir; bu tip kısıtlama haberlerine rastlanmamaktadır. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Suezmax?utm_source=openai))
+
+Bu bilgiler ışığında doğru seçenek:
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: turkce, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, ABD medyasının 18 Şubat Çarşamba günü Trump'ın danışmanlarıyla saldırı seçeneklerini görüştüğünü ve ABD'nin 21 Şubat Cumartesi günü erken saatlerde bir saldırı düzenleyebileceğini bildirdiği yazmaktadır.
+INPUT:
+
+
+Bugün 21 Şubat 2026. ABD Başkanı Trump'ın İran'a yönelik "sınırlı saldırı" seçeneklerini değerlendirdiği bilinmektedir. ABD medyasında 18 Şubat'ta çıkan haberlere göre, bu saldırının ne zaman gerçekleşebileceği öngörülmüştü?
+(A) 15 Mart 2026 tarihinde
+(B) Trump'ın tanıdığı 10-15 günlük sürenin sonunda
+(C) İran'ın taslak metni sunacağı 23 Şubat tarihinde
+(D) 21 Şubat Cumartesi günü erken saatlerde
+(E) Haziran 2025'teki saldırının yıl dönümünde
+MODEL OUTPUT:
+Trump’ın İran’a yönelik “sınırlı saldırı” seçeneği üzerine ABD medyasında 18 Şubat’ta çıkan haberlere göre, bu saldırının ne zaman gerçekleşebileceği öngörüldü?
+
+Seçenekleri tek tek inceleyelim:
+
+- (A) 15 Mart 2026 tarihiyle ilgili hiçbir kaynakta böyle net bir tarih belirtilmemiştir.  
+- (B) Trump’ın 10-15 günlük süre verdiği yönünde birçok haberde geçiyor; bu süre sonunda, eğer İran anlaşma sağlamazsa sınırlı saldırı yapılabileceği ifade edildi. ([theguardian.com](https://www.theguardian.com/world/2026/feb/21/iran-nuclear-counterproposal-us-strikes-threat?utm_source=openai))  
+- (C) 23 Şubat gibi belirli bir tarih İran’ın taslak metni sunacağı konusunda geçmiyor; İran’ın birkaç gün içinde taslak sunacağı belirtiliyor ama “23 Şubat” ifadesi güvenilir kaynaklarda net olarak görülmüyor. ([yahoo.com](https://www.yahoo.com/news/articles/latest-trumps-entourage-stocked-people-135323096.html?utm_source=openai))  
+- (D) 21 Şubat Cumartesi sabahı gibi bir “erken saatlerde” saldırı ihtimali de geçiyor; bazı kaynaklar ABD ordusunun “haftasonu” (weekend) saldırı için hazır olabileceğini söylüyor. ([theguardian.com](https://www.theguardian.com/us-news/2026/feb/18/trump-iran-us-military-reports?utm_source=openai))  
+- (E) Haziran 2025’teki saldırının yıl dönümüyle ilgili bir beklenti görünmüyor; medya o tür bir sembolik zamana işaret etmiyor.
+
+Bu bilgiler ışığında, en uygun seçenek:
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- The Guardian, “Trump hints at the possibility of limited military strikes on Iran and gave a 10- to 15-day deadline …” ([theguardian.com](https://www.theguardian.com/world/2026/feb/21/iran-nuclear-counterproposal-us-strikes-threat?utm_source=openai))  
+- Wall Street Journal / The Guardian / Politico-type haberlerde Trump’ın “over the next, probably 10 days” ifadelerini kullandığı belirtiliyor; ABD ordusu da “haftasonu” saldırı için hazırlıkta olduğundan bahsediliyor. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_military_buildup_in_the_Middle_East?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede, insan bedeninin oruç tuttuğunu son öğünden 8 saat sonra, yani bağırsaklar besinleri tamamen sindirdiğinde kavrayabildiği belirtilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. Ramazan ayının başlamasıyla birlikte oruç tutan bir insanın vücudu, biyolojik olarak oruç tuttuğunu son öğünden ne kadar süre sonra kavramaya başlar?
+(A) 8 saat sonra
+(B) 12 saat sonra
+(C) Karaciğerdeki glikoz tamamen tükendiğinde
+(D) Orucun 3. ve 7. günleri arasında
+(E) Vücut enerji için protein kullanmaya başladığında
+MODEL OUTPUT:
+Oruç tutmaya başlayan biri için biyolojik olarak vücudun “oruç (fasted) haline” geçiş süreci genellikle ilk öğünden sonra **yaklaşık 12 saat içinde** başlar. Bu süre zarfında karaciğerdeki glikojen deposu tükenmeye yaklaşır, insülin seviyesi düşer, vücut enerji için yağ yakımına ve keton üretimine yönelmeye başlar. ([healthline.com](https://www.healthline.com/nutrition/stages-of-fasting?utm_source=openai))
+
+Şıklara bakarsak:
+
+- (A) 8 saat sonra → bu süre bazı erken belirtiler başlaması için olası, fakat çoğu “oruç hali” için yeterince uzun değil.  
+- (B) 12 saat sonra → tam olarak bu sürede vücut karaciğer glikojenini önemli ölçüde kullanmış olur; biyolojik olarak “oruç hali”ne geçiş başlar.  
+- (C) Karaciğerdeki glikoz tamamen tükendiğinde → bu daha geç bir süreçtir, genellikle yaklaşık 24 saat ve sonrasında; yani “biolojik olarak kavrama” sürecinin sonunda. ([ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK534877/?utm_source=openai))  
+- (D) Orucun 3. ve 7. günleri arasında → bu dönemde daha ileri metabolik değişimler olur (tam ketozis, protein kullanımı artışı gibi), ama “kavramaya başlama” bu kadar gecikmez. ([nature.com](https://www.nature.com/articles/s41598-024-80049-2?utm_source=openai))  
+- (E) Vücut enerji için protein kullanmaya başladığında → bu, glikojen ve yağ depoları büyük oranda azaldıktan sonra olur; ilk biyolojik farkındalık bundan önce başlar. ([ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK534877/?utm_source=openai))
+
+Sonuç olarak en uygun seçenek (B)’dir.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: turkce, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede BSSM kılavuzlarının, testosteron seviyesi 12 nmol/L'nin altında olan erkeklerin TRT için değerlendirilmesi gerektiğini öne sürdüğü belirtilmektedir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. İngiliz Cinsel Tıp Derneği (BSSM) tarafından yorumlanan kılavuzlara göre, erkeklerde testosteron seviyesi hangi değerin altındaysa TRT (testosteron replasman tedavisi) için değerlendirme yapılmalıdır?
+(A) 6 nmol/L
+(B) 8 nmol/L
+(C) 12 nmol/L
+(D) 10 nmol/L
+(E) 15 nmol/L
+MODEL OUTPUT:
+BSSM rehberlerine göre, erkeklerde TRT değerlendirmesi yapılması için testosteron seviyesi genellikle aşağıdaki gibidir:
+
+- Total testosteron (TT) < **8 nmol/L**: TRT “usually advised” (étren tedavi genellikle önerilir) ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10307648/?utm_source=openai))  
+- TT seviyesi 8–12 nmol/L arasında ise, belirtiler mevcutsa ve free testosteron (FT) düşükse, 6 aylık TRT deneme terapisi düşünülebilir ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10307648/?utm_source=openai))  
+
+Buna göre, seçenekler içinde TRT değerlendirmesi için sınır olan değer **8 nmol/L altı**dır.
+
+<final_answer>
+(B)
+</final_answer>
+
+ALINTILAR:
+- “Thresholds for T therapy … TT level <12 nmol/L … usually requires T Therapy … TT level lower than 8 nmol/L … usually requires T therapy.” — The British Society for Sexual Medicine Guidelines ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10307648/?utm_source=openai))  
+- “A TT level <8 nmol/L … usually requires TRT. TT levels of 8–12 nmol/L may require a trial of TRT …” — Diabetes on the Net özetine göre ([diabetesonthenet.com](https://diabetesonthenet.com/diabetes-primary-care/testosterone-deficiency-based-bssm-guidelines-2017/?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makaledeki Hamsili Pilav tablosuna göre, 200 gr kuş üzümünün fiyatı 2019'da ₺4,4 iken 2026'da ₺320 olarak kaydedilmiştir.
+INPUT:
+
+
+Bugün 21 Şubat 2026. "Hamsili Pilav" tarifi üzerinden yapılan maliyet analizine göre, hangi malzemenin fiyatı 2019'da ₺4,4 iken 2026'da ₺320'ye yükselmiştir?
+(A) 1 kg hamsi
+(B) 600 gr pirinç
+(C) 200 gr kuş üzümü
+(D) 250 gr yağ
+(E) 300 gr soğan
+MODEL OUTPUT:
+Mantıksal düşünce süreci:
+
+BBC-Diken’in “Evde yemek hazırlamanın maliyeti 2019’dan bu yana nasıl değişti?” analizine göre, dört kişilik hamsili pilav için kullanılan malzemelerin 2019’da toplam maliyeti ₺53,68 iken; 2026’da ₺695,90 olmuş ([diken.com.tr](https://www.diken.com.tr/bbc-hesapladi-evde-yemek-hazirlamanin-maliyeti-2019dan-bu-yana-nasil-degisti?utm_source=openai)).
+
+Analizdeki tarifteki malzemeler şunlar: 
+- 600 gr pirinç  
+- 1 kg hamsi  
+- 300 gr soğan  
+- 50 gr un  
+- yarım demet maydanoz  
+- 200 gr kuş üzümü  
+- 1 çay kaşığı toz şeker  
+- 250 gr yağ  
+- tuz ([diken.com.tr](https://www.diken.com.tr/bbc-hesapladi-evde-yemek-hazirlamanin-maliyeti-2019dan-bu-yana-nasil-degisti?utm_source=openai)).
+
+“Soruya göre” 2019’da ₺4,4 iken 2026’da ₺320’ye yükselen fiyat artışı gösteren malzemeyi arıyoruz.
+
+Arada geçen fiyat artışı oranına ve verilen değerler arasında malzeme kalemi olarak mantıklı olanı düşünelim: 2019’da ₺4,4 gibi düşük bir değer olan; 2026’da ₺320 gibi büyük artış gösteren için en muhtemel “hamsi” olacaktır çünkü balık fiyatları son yıllarda yüksek artış gösterdi ve yine analiz içerisinde “hamsili pilavın maliyeti … yüzde 1196,4 artmış” ibaresi özellikle hamsi ve diğer maliyet kalemlerindeki büyük artışı vurguluyor ([diken.com.tr](https://www.diken.com.tr/bbc-hesapladi-evde-yemek-hazirlamanin-maliyeti-2019dan-bu-yana-nasil-degisti?utm_source=openai)).
+
+Diğer malzemelere göre; pirinç, yağ, soğan, kuş üzümü vs. fiyatları artmış olsa da, 2019’da ₺4,4 gibi çok düşük iken 2026’da ₺320’ye yükselen dramatik değişim daha çok balık gibi ürünlerde olur.
+
+Dolayısıyla soruda sorulan malzeme: **1 kg hamsi**.
+
+<final_answer>
+(A)
+</final_answer>
+
+ALINTILAR:
+- BBC-Diken: “Evde yemek hazırlamanın maliyeti 2019’dan bu yana nasıl değişti?” ([diken.com.tr](https://www.diken.com.tr/bbc-hesapladi-evde-yemek-hazirlamanin-maliyeti-2019dan-bu-yana-nasil-degisti?utm_source=openai))  
+- Gıda enflasyonu ve hamsili pilav maliyet analizleri ([diken.com.tr](https://www.diken.com.tr/bbc-hesapladi-evde-yemek-hazirlamanin-maliyeti-2019dan-bu-yana-nasil-degisti?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: turkce, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede BBC, Medizona ve gönüllü araştırmacıların 2025 yılında 40 bin 201 Rus askerinin öldüğünü doğruladığı (teyit ettiği) belirtilmektedir. 80 bin rakamı ise bir analiz/tahmindir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Rusya'nın Ukrayna'daki kayıplarını analiz eden habere göre, 2025 yılında doğrulanmış (teyit edilmiş) Rus askeri ölü sayısı kaçtır?
+(A) 40.201
+(B) 80.000
+(C) 69.362
+(D) 186.102
+(E) 286.000
+MODEL OUTPUT:
+Doğrulanmış (isimle teyit edilen) Rus askeri ölü sayısı 186.102’dir. ([ukrinform.net](https://www.ukrinform.net/rubric-ato/4093847-journalists-identify-more-than-186000-russian-soldiers-killed-in-ukraine.html?utm_source=openai))
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede OpenAI'ın, saldırıdan (12 Şubat 2026) altı ay önce (Haziran 2025) hesabı engellediği belirtilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Kanada'daki silahlı saldırı şüphelisi Jesse Van Rootselaar ile ilgili olarak OpenAI şirketi, şüphelinin ChatGPT hesabını saldırıdan ne kadar süre önce engellediğini açıklamıştır?
+(A) 6 ay
+(B) 1 yıl
+(C) 2 ay
+(D) 8 ay
+(E) 1 ay
+MODEL OUTPUT:
+OpenAI, Jesse Van Rootselaar’ın ChatGPT hesabını “about eight months ago” — yani saldırıdan yaklaşık sekiz ay önce — engellediğini açıkladı. ([business-standard.com](https://www.business-standard.com/technology/tech-news/openai-flagged-banned-canada-mass-shooting-suspect-months-before-attack-126022100043_1.html?utm_source=openai))
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: turkce, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "meme kanserlerinin yaklaşık yüzde 15'ini bu alt tür oluşturur" ifadesi geçmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Kedilerdeki kanser araştırmalarıyla ilgili habere göre, insanlardaki meme kanseri vakalarının yaklaşık yüzde kaçını "üçlü negatif meme kanseri" alt türü oluşturmaktadır?
+(A) %25
+(B) %15
+(C) %10
+(D) %50
+(E) %20
+MODEL OUTPUT:
+Genel kabul gören istatistiklere göre, insanlardaki meme kanseri vakalarının yaklaşık %10 ila %15’ini üçlü negatif meme kanseri (TNBC) alt türü oluşturmaktadır ([nationalbreastcancer.org](https://www.nationalbreastcancer.org/triple-negative-breast-cancer?utm_source=openai)).  
+
+Bu seçeneklere göre en yakın oran aşağıdaki gibidir:
+
+<final_answer>
+(A) %25  
+(B) %15  
+(C) %10  
+(D) %50  
+(E) %20  
+</final_answer>
+
+Doğru seçenek: **(B) %15**
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "S&P 500 yüzde 0,45, Dow Jones yüzde 0,07 ve Nasdaq yüzde 0,42 oranında artış gösterdi" bilgisi verilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Trump'ın gümrük vergisi açıklamalarının ardından Wall Street'te endeksler yükselirken, Dow Jones endeksi yüzde kaç oranında artış göstermiştir?
+(A) %0,45
+(B) %0,42
+(C) %0,15
+(D) %0,10
+(E) %0,07
+MODEL OUTPUT:
+Bugün 22 Şubat 2026 itibarıyla, Trump’ın gümrük vergisi açıklamalarının ardından Wall Street’te Dow Jones endeksi yaklaşık **%0,5** oranında yükselmiştir. ([apnews.com](https://apnews.com/article/9e92f1913a1b97aa49f674fda96f0b65?utm_source=openai))
+
+Verilen seçenekler arasında en yakın oran **%0,45** olduğundan doğru cevap:
+
+<final_answer>
+A
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------

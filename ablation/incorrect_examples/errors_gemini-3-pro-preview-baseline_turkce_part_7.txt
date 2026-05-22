@@ -1,0 +1,258 @@
+METADATA [6]: index: 6, language: turkce, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Suriye'de Kürt liderliğindeki Suriye Demokratik Güçleri'nin Şam yönetimine entegrasyonu anlaşması 2 Şubat'ta yürürlüğe girmişti" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 22 Şubat 2026. TBMM Başkanı Numan Kurtulmuş'un bahsettiği, Suriye Demokratik Güçleri'nin (SDG) Şam yönetimine entegrasyonu anlaşması hangi tarihte yürürlüğe girmiştir?
+(A) 20 Şubat 2026
+(B) 2 Şubat 2026
+(C) 18 Şubat 2026
+(D) 12 Eylül 2025
+(E) 1 Ocak 2026
+MODEL OUTPUT:
+Soruda belirtilen 22 Şubat 2026 tarihi ve Suriye Demokratik Güçleri'nin (SDG) Şam yönetimine entegrasyonuna dair anlaşma, günümüz tarihi itibarıyla henüz yaşanmamış, geleceğe yönelik kurgusal, varsayımsal bir senaryoya veya belirli bir simülasyon/oyun metnine (örneğin bir Model Birleşmiş Milletler kriz komitesi veya siyasi senaryo çalışması) dayanmaktadır. 
+
+Gerçek dünyada TBMM Başkanı Numan Kurtulmuş'un bahsettiği ve 2025-2026 yıllarında yürürlüğe giren böyle bir resmi anlaşma henüz mevcut değildir. Ancak, sorunun kurgusal bağlamı içinde "Bugün 22 Şubat 2026" ifadesi bir referans noktası olarak verildiğinden ve genellikle bu tür senaryolarda olaylar "bugün"den hemen önce gerçekleştiği için, en olası varsayımsal cevap senaryonun hemen öncesine denk gelen tarihtir. Bu kurgusal metin veya senaryo eksikliğinde, mantıksal bir varsayımla en yakın tarih olan 20 Şubat 2026 seçilebilir.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: turkce, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Nisan ayı için olası fırlatma tarihleri 1, 3, 4, 5 ve 6 Nisan olarak listelenmiştir. 2 Nisan bu listede yer almamaktadır.
+INPUT:
+
+
+Bugün 22 Şubat 2026. NASA'nın Artemis II görevi için belirlediği takvime göre, Mart ayındaki fırlatma fırsatının kaçırılması durumunda Nisan ayındaki olası fırlatma tarihleri arasında aşağıdakilerden hangisi yer almaz?
+(A) 1 Nisan
+(B) 3 Nisan
+(C) 4 Nisan
+(D) 6 Nisan
+(E) 2 Nisan
+MODEL OUTPUT:
+Bu soru, belirli bir senaryoya veya okuduğunu anlama metnine (örneğin ALES, YDS veya benzeri bir mantık/okuma sınavı) dayanan bir kurgudan alınmış gibi görünmektedir. Ancak, Artemis görevlerinin fırlatma pencereleri (launch windows) Dünya ve Ay'ın yörüngesel mekaniğine, Orion kapsülünün Güneş tutulması kısıtlamalarına ve Pasifik Okyanusu'na gündüz vakti güvenli bir şekilde iniş yapabilme şartlarına göre belirlenir. 
+
+Gerçek yörünge mekaniği ve NASA'nın fırlatma penceresi kuralları göz önüne alındığında, fırlatma dönemleri genellikle kesintisiz birkaç
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: turkce, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede OpenAI'ın, saldırıdan (12 Şubat 2026) altı ay önce (Haziran 2025) hesabı engellediği belirtilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Kanada'daki silahlı saldırı şüphelisi Jesse Van Rootselaar ile ilgili olarak OpenAI şirketi, şüphelinin ChatGPT hesabını saldırıdan ne kadar süre önce engellediğini açıklamıştır?
+(A) 6 ay
+(B) 1 yıl
+(C) 2 ay
+(D) 8 ay
+(E) 1 ay
+MODEL OUTPUT:
+Kanada'daki silahlı saldırı şüphelisi Jesse Van Rootselaar'ın ChatGPT hesabı, OpenAI tarafından saldırıdan **1 ay** önce engellenmiştir. OpenAI, şüphelinin platformu kötüye kullanımını tespit ederek hesabını kapatmış ve bu durumu daha sonra kamuoyuyla paylaşmıştır.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: turkce, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Başkentteki Şehit Beheshti Üniversitesi'nde barışçıl bir oturma eylemi gösteren teyit edilmiş fotoğraflar da ortaya çıktı" denilmektedir. Şerif Üniversitesi'nde arbede yaşanmış, Amir Kabir'de sloganlar atılmıştır.
+INPUT:
+
+
+Bugün 22 Şubat 2026. İran'daki protestolar sırasında BBC tarafından teyit edilen görüntülere göre, hangi üniversitede barışçıl bir "oturma eylemi" düzenlendiği fotoğraflarla ortaya çıkmıştır?
+(A) Şehit Beheshti Üniversitesi
+(B) Şerif Teknoloji Üniversitesi
+(C) Amir Kabir Teknoloji Üniversitesi
+(D) Tahran Üniversitesi
+(E) Meşhed Üniversitesi
+MODEL OUTPUT:
+İran'daki Mahsa Amini protestoları sırasında, Kasım 2022'de üniversite öğrencileri ülke çapında çeşitli eylemler düzenlemiştir. BBC tarafından teyit edilen ve haberleştirilen görüntülerde, Tahran'daki Amir Kabir Teknoloji Üniversitesi'nde öğrencilerin barışçıl bir "oturma eylemi" gerçekleştirdiği ortaya konmuştur. Bu olay, uluslararası basında geniş yer bulmuş ve öğrenci direnişinin önemli sembollerinden biri haline gelmiştir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: turkce, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede Tunuslu film yapımcısı Kaouther Ben Hania'nın festival tarafından verilen ödülü reddettiği belirtilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Berlinale'de Gazze tartışmaları sürerken, festival tarafından verilen ödülü reddeden "Hind Rajab'ın Sesi" filminin yönetmeni kimdir?
+(A) Arundhati Roy
+(B) Kaouther Ben Hania
+(C) Wim Wenders
+(D) İlker Çatak
+(E) Emin Alper
+MODEL OUTPUT:
+Bu soru, tarihi (22 Şubat 2026) ve bahsedilen olayı göz önüne aldığımızda kurgusal veya gelecekte geçen hipotetik bir senaryoya (örneğin bir köşe yazısı, distopik bir kısa öykü veya varsayımsal bir düşünce deneyi) dayanmaktadır. 
+
+Gerçek dünyada, günümüz itibarıyla (2024) "Hind Rajab'ın Sesi" adında Berlinale'de ödül almış ve yönetmeni tarafından reddedilmiş bir film bulunmamaktadır. Hind Rajab, 2024 yılının başlarında Gazze'de trajik bir şekilde hayatını kaybeden ve ses kayıtlarıyla hafızalara kazınan 6 yaşındaki Filistinli bir kız çocuğ
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: turkce, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "BBC'nin analizine göre, ölenlerin %67'si kırsal kesimlerden ve nüfusu 100 binin altında olan küçük kasabalardan geliyor" denilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Rusya'nın Ukrayna'daki kayıplarıyla ilgili analize göre, ölen Rus askerlerinin yüzde kaçı kırsal kesimlerden ve nüfusu 100 binin altında olan küçük kasabalardan gelmektedir?
+(A) %48
+(B) %55
+(C) %75
+(D) %67
+(E) %45
+MODEL OUTPUT:
+Rusya'nın Ukrayna'daki askeri kayıplarının demografik dağılımına ilişkin yapılan bağımsız analizler (özellikle BBC News Russian ve Mediazona gibi kuruluşların açık kaynaklı verilerle yürüttüğü araştırmalar), ölen Rus askerlerinin büyük bir kısmının ekonomik olarak daha dezavantajlı bölgelerden geldiğini ortaya koymaktadır. Bu verilere göre, hayatını kaybeden Rus askerlerinin yaklaşık **%67'si** kırsal kesimlerden ve nüfusu 100 binin altında olan küçük kasabalardan gelmektedir. Bu durum, büyük şehirlerdeki (Moskova veya St. Petersburg gibi) kayıp oranlarının, kırsal ve küçük yerleşim yerlerine kıyasla orantıs
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: turkce, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "S&P 500 yüzde 0,45, Dow Jones yüzde 0,07 ve Nasdaq yüzde 0,42 oranında artış gösterdi" bilgisi verilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Trump'ın gümrük vergisi açıklamalarının ardından Wall Street'te endeksler yükselirken, Dow Jones endeksi yüzde kaç oranında artış göstermiştir?
+(A) %0,45
+(B) %0,42
+(C) %0,15
+(D) %0,10
+(E) %0,07
+MODEL OUTPUT:
+26 Kasım 2024 tarihinde piyasalara yansıyan gelişmelere göre, ABD'nin seçilmiş başkanı Donald Trump'ın Çin, Meksika ve Kanada'ya yönelik yeni gümrük vergisi tarifeleri uygulayacağını açıklamasının ardından New York borsası (Wall Street) güne yükselişle başlamıştır. 
+
+Açılış verilerine göre endekslerdeki artış oranları şu şekilde gerçekleşmiştir:
+- **Dow Jones endeksi:** %0,15
+- **S&P 500 endeksi:** %0,10
+- **Nasdaq endeksi:** %0,07
+
+Soruda özel olarak Dow Jones endeksinin yüzde kaç oranında artış gösterdiği sorulduğu için doğru oran %0,15'tir. Diğer seçeneklerde yer alan %0,10 ve %0,07 oranları ise sırasıyla S&P 500 ve Nasdaq endekslerinin aynı günkü açılış artış oranlarını temsil etmektedir.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: turkce, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Yaklaşık 6,5 kilometrelik bu yolculuk 12 saat kadar sürecek" ifadesi yer almaktadır.
+INPUT:
+
+
+Bugün 22 Şubat 2026. NASA'nın Artemis II görevi için Uzay Fırlatma Sistemi (SLS) roketini montaj binasından fırlatma rampasına taşıyacağı yaklaşık 6,5 kilometrelik yolculuğun ne kadar sürmesi beklenmektedir?
+(A) 12 saat
+(B) 24 saat
+(C) 6 saat
+(D) 48 saat
+(E) 10 saat
+MODEL OUTPUT:
+NASA'nın Artemis görevlerinde kullanılan Uzay Fırlatma Sistemi (SLS) roketi ve Orion uzay aracı, Araç Montaj Binası'ndan (VAB) Fırlatma Rampası 39B'ye devasa "Crawler-Transporter" (Paletli Taşıyıcı) araçları ile taşınır. Yaklaşık 6,5 kilometre (4 mil) uzunluğundaki bu mesafe, taşıyıcının yüklüyken ulaştığı çok düşük hız (saatte ortalama 1 km civarı) ve yol boyunca yapılan hassas kontroller nedeniyle oldukça yavaş kat edilir. 
+
+NASA'nın resmi verilerine ve Artemis I görevindeki tecrübelere göre, bu devasa roketin fırlatma rampasına olan yolculuğunun yaklaşık **10 saat** sürmesi beklenmektedir.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: turkce, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "Yakınlardaki bir evde ise şüphelinin 39 yaşındaki annesi ile 11 yaşındaki üvey erkek kardeşinin cansız bedenleri bulundu" denilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Kanada'daki silahlı saldırıda hayatını kaybedenler arasında şüpheli Jesse Van Rootselaar'ın üvey erkek kardeşi de bulunmaktadır. Bu çocuğun yaşı kaçtır?
+(A) 13
+(B) 11
+(C) 18
+(D) 17
+(E) 15
+MODEL OUTPUT:
+Kanada'da gerçekleşen ve şüpheli Jesse Van Rootselaar'ın da dahil olduğu silahlı saldırı olayında, hayatını kaybedenler arasında şüphelinin üvey erkek kardeşi de bulunmaktaydı. Olayla ilgili haberlere ve resmi açıklamalara göre, bu saldırıda hayatını kaybeden üvey erkek kardeş 13 yaşındaydı.
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: turkce, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "17. yüzyıla gelindiğinde, dolma hem sevilen bir yemek hem de statü göstergesi haline gelmişti... Ve bu sıralarda İstanbul'da dolma restoranları ortaya çıkmaya başladı" denilmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. Dolma ve sarmanın tarihçesine göre, bu yemeğin hem sevilen bir yiyecek hem de bir statü göstergesi haline geldiği ve İstanbul'da dolma restoranlarının ortaya çıkmaya başladığı dönem hangisidir?
+(A) 15. yüzyıl
+(B) 19. yüzyıl
+(C) 17. yüzyıl
+(D) 16. yüzyıl
+(E) 18. yüzyıl
+MODEL OUTPUT:
+Bu sorunun cevabını bulmak için Osmanlı mutfak tarihine ve İstanbul'un yeme-içme kültürünün gelişimine bakmamız gerekir. 
+
+Dolma ve sarma, Osmanlı saray mutfağında yüzyıllar boyunca gelişmiş, özellikle yapımının zahmetli olması, kullanılan malzemelerin (pirinç, çam fıstığı, kuş üzümü, çeşitli baharatlar ve zeytinyağı/et) pahalılığı nedeniyle bir "statü göstergesi" olarak kabul edilmiştir. Ancak İstanbul'da modern anlamda "restoran" veya "lokanta" kültürünün ortaya çıkması ve dolma gibi evde yapımı büyük ustalık ve zaman gerektiren yemeklerin bu işletmelerde (dolma restoranları/dükkânları şeklinde) halka sunulmaya başlanması **19. yüzyıla** rastlar. Bu dönemde Batılılaşmanın da etkisiyle İstanbul'da dışarıda yemek yeme kültürü değişmiş, sadece esnaf lokantaları değil, belirli yemeklerde uzmanlaşmış restoranlar da görülmeye başlanmıştır.
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: turkce, date: february_22, model: gemini-3-pro-preview-baseline
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Makalede "18 Şubat'ta yayımlanan raporla ilgili..." ifadesi geçmektedir.
+INPUT:
+
+
+Bugün 22 Şubat 2026. TBMM Başkanı Numan Kurtulmuş'un başkanlık ettiği Milli Dayanışma Kardeşlik ve Demokrasi Komisyonu'nun raporu hangi tarihte yayımlanmıştır?
+(A) 20 Şubat
+(B) 21 Şubat
+(C) 2 Şubat
+(D) 6 Şubat
+(E) 18 Şubat
+MODEL OUTPUT:
+Bu soru, 6 Şubat 2023 Kahramanmaraş merkezli depremlerin ardından toplumsal dayanışmayı ve yardımlaşmayı simgeleyen "Milli Dayanışma" temasına atıfta bulunan kurgusal veya tematik bir senaryoyu yansıtmaktadır. TBMM Başkanı Numan Kurtulmuş'un başkanlık ettiği ifade edilen bu sembolik komisyonun raporunun yayımlanma tarihi, depremin yıl dönümü olan ve milli dayanışmanın en çok vurgulandığı **6 Şubat** tarihine işaret etmektedir. 
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------

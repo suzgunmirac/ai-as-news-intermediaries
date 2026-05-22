@@ -1,0 +1,159 @@
+METADATA [23]: index: 23, language: hindi, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, साल 2025 की IIRF रैंकिंग के मुताबिक़, प्राइवेट यूनिवर्सिटी के तहत चलने वाले टॉप इंजीनियरिंग संस्थानों में सबसे ऊपर बिरला इंस्टीट्यूट ऑफ़ टेक्नोलॉजी एंड साइंस (BITS PILANI) रहा।
+INPUT:
+
+
+आज 21 फरवरी, 2026 है। साल 2025 की IIRF रैंकिंग के अनुसार, भारत में प्राइवेट यूनिवर्सिटी के तहत चलने वाले टॉप इंजीनियरिंग संस्थानों में कौन सा संस्थान सबसे ऊपर रहा?
+(A) आईआईटी बॉम्बे
+(B) वीआईटी वेल्लोर
+(C) मणिपाल इंस्टीट्यूट
+(D) बिट्स पिलानी (BITS PILANI)
+(E) एमिटी यूनिवर्सिटी
+MODEL OUTPUT:
+आपके द्वारा पूछे गए सवाल का सटीक उत्तर जानने के लिए IIRF की 2025 की रैंकिंग की पुष्टि करने की जरूरत है। मेरी खोजों से यह स्पष्ट नहीं हुआ कि IIRF ने “private university” श्रेणी में कौन सा *engineering संस्थान* सबसे ऊपर रखा है — बल्कि सरकारी और निजी संस्थानों को मिलाकर समग्र इंजीनियरिंग रैंकिंग में IITs का प्रभुत्व दिखता है। इसलिए दिए गए विकल्पों में से कोई भी इस विशेष श्रेणी के लिए पुष्ट रूप से सबसे ऊपर नहीं पाया गया।
+
+इसलिए सही उत्तर है:
+<final_answer>
+(E)
+</final_answer>
+
+अगर चाहें तो मैं इस विषय पर और खोज कर सकता हूँ और एक अधिक विश्वसनीय स्रोत प्राप्त कर सकता हूँ।
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: hindi, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में बताया गया है कि जब 35 साल बाद दोनों भाई दिल्ली में मिले, तो बड़े भाई यूनुस ने याक़ूब को उनके पुराने उपनाम 'नट्टा' कहकर पुकारा था, क्योंकि याक़ूब अपने दोनों भाइयों से छोटे (कद में) थे।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। भारत और पाकिस्तान की तरफ़ से लड़ने वाले दो भाइयों, साहिबज़ादा यूनुस ख़ाँ और साहिबज़ादा याक़ूब ख़ाँ की 35 साल बाद दिल्ली में मुलाक़ात के दौरान, यूनुस ने अपने छोटे भाई को किस पुराने उपनाम (nickname) से पुकारा था?
+(A) जैकब
+(B) नट्टा
+(C) छोटे
+(D) साहब
+(E) मेजर
+MODEL OUTPUT:
+यूनुस ने अपने छोटे भाई याक़ूब को “छोटे” कहकर बुलाया था।
+
+<final_answer>
+(C)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [Brothers who fought against each other in Indo-Pak battlefield | Mpositive.in] (http://www.awazthevoice.in / Awaz, The Voice / Home> Stories) ([mpositive.in](https://www.mpositive.in/brothers-who-fought-against-each-other-in-indo-pak-battlefield/?utm_source=openai))  
+- [Commentary | Pakistanlink] (https://www.pakistanlink.org / Commentary) ([pakistanlink.org](https://www.pakistanlink.org/Commentary/2019/Feb19/08/03.HTM?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: hindi, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में डॉक्टर देवी प्रसाद शेट्टी के हवाले से बताया गया है कि अगर भारत को अमेरिका और यूरोप के मानक तक पहुँचना है तो उसे 'क़रीब 20 लाख और नर्सों' की ज़रूरत होगी।
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। कार्डियक सर्जन डॉक्टर देवी प्रसाद शेट्टी के अनुसार, यदि भारत को अमेरिका और यूरोप के मानकों (एक डॉक्टर पर चार-पांच नर्स) तक पहुँचना है, तो उसे लगभग कितनी और नर्सों की ज़रूरत होगी?
+(A) 10 लाख
+(B) 39 लाख
+(C) 15 लाख
+(D) 20 लाख
+(E) 50 लाख
+MODEL OUTPUT:
+नीचे दिए गए स्रोतों के अनुसार, डॉक्टर देवी प्रसाद शेट्टी ने कहा है कि भारत में डॉक्टरों और नर्सों की भारी कमी है; उदाहरण स्वरूप उन्होंने कहा है कि "भारत में लगभग एक मिलियन डॉक्टर और दो मिलियन नर्सों की ज़रूरत है". ([expresshealthcare.in](https://www.expresshealthcare.in/covid19-updates/we-are-desperately-short-of-a-million-doctors-and-two-million-nurses-dr-devi-shetty/424074/?utm_source=openai))
+
+इसलिए, यदि अमेरिका/यूरोप के मानकों (एक डॉक्टर पर चार-पांच नर्स) तक पहुँचने के लिए आवश्यक अतिरिक्त नर्सों की बात हो, तो उत्तर होगा:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: hindi, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में उल्लेख है कि "साहिबज़ादा याक़ूब ख़ाँ को फ़्रेंच, जर्मन, इटालियन, रूसी, फ़ारसी और अरबी सहित 10 भाषाओं पर महारत हासिल थी।"
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। साहिबज़ादा याक़ूब ख़ाँ को उनकी भाषाई दक्षता के लिए जाना जाता था। लेख के अनुसार उन्हें कुल कितनी भाषाओं पर महारत हासिल थी?
+(A) 5 भाषाएं
+(B) 10 भाषाएं
+(C) 7 भाषाएं
+(D) 12 भाषाएं
+(E) 3 भाषाएं
+MODEL OUTPUT:
+आपके बताए गए लेखों के अनुसार, साहिबज़ादा याक़ूब ख़ाँ को कुल सात (7) भाषाओं में महारत हासिल थी — यानी वे सात भाषाएँ बोलते, पढ़ते और लिखते थे। ([en.bharatpedia.org](https://en.bharatpedia.org/wiki/Sahabzada_Yaqub_Khan?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [18]: index: 18, language: hindi, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "नंगरहार में एक घर पर हमले में 20 लोगों के मारे जाने का दावा किया जा रहा है।"
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। अफ़ग़ानिस्तान के नंगरहार प्रांत में एक घर पर हुए पाकिस्तानी हवाई हमले में कितने लोगों के मारे जाने का दावा किया जा रहा है?
+(A) 10 लोग
+(B) 50 लोग
+(C) 12 लोग
+(D) 20 लोग
+(E) 30 लोग
+MODEL OUTPUT:
+आपके प्रश्न के अनुसार, नंगरहार प्रांत में पाकिस्तानी हवाई हमले में मारे जाने वाले लोगों की संख्या करीब **17 लोग** बताई जा रही है। ([amu.tv](https://amu.tv/227608/?utm_source=openai))
+
+तो सही विकल्प है:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [24]: index: 24, language: hindi, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "भारत में एक एस्ट्रोनॉट को औसतन हर महीने 90 हज़ार के आस-पास सैलरी मिलती है।"
+INPUT:
+
+
+आज 22 फ़रवरी, 2026 है। इकोनॉमिक रिसर्च इंस्टीट्यूट के डेटा के अनुसार, भारत में एक एस्ट्रोनॉट (अंतरिक्ष यात्री) को औसतन हर महीने कितनी सैलरी मिलती है?
+(A) 50 हज़ार रुपये
+(B) 1.5 लाख रुपये
+(C) 2 लाख रुपये
+(D) 75 हज़ार रुपये
+(E) 90 हज़ार रुपये
+MODEL OUTPUT:
+मुझे कोई विश्वसनीय सूचना नहीं मिली कि “Economic Research Institute” ने यह डेटा प्रदान किया हो कि भारत में एक एस्ट्रोनॉट को औसतन हर महीने कितनी सैलरी मिलती है। निम्नलिखित साक्ष्य हैं:
+
+- एक स्रोत में यह लिखा है कि ISRO के एक एस्ट्रोनॉट को वार्षिक रूप से लगभग **₹12 लाख से ₹20 लाख** की सैलरी मिलती है। ([indiatvnews.com](https://www.indiatvnews.com/science/how-much-does-shubhanshu-shukla-earn-isro-astronaut-s-salary-revealed-2025-07-15-998942?utm_source=openai))  
+- अन्य स्रोतों के अनुसार, ISRO एस्ट्रोनॉट्स को सालाना ₹10 लाख से ₹30 लाख तक मिलता है, भूमिका और अनुभव के आधार पर। ([republicworld.com](https://www.republicworld.com/business/axiom-mission-4-what-is-group-captain-shubhanshu-shuklas-salary-here-s-what-astronauts-earn-in-india-and-globally?utm_source=openai))
+
+यदि वार्षिक सैलरी ₹12 लाख से ₹20 लाख है, तो मासिक सैलरी करीब होगी:
+
+   ₹12,00,000 ÷ 12 = ₹1,00,000  
+   ₹20,00,000 ÷ 12 = ₹1,66,667  
+
+इस हिसाब से करीब ₹1–1.7 लाख प्रति माह। यह गणना विकल्पों में कोशिस करने पर **(B) 1.5 लाख रुपये** के करीब होती है।
+
+<final_answer>  
+(B)  
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------

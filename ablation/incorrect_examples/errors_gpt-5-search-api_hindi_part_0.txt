@@ -1,0 +1,551 @@
+METADATA [0]: index: 0, language: hindi, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, वीडियो में "फ़ॉरेनर फ़्री असम" (Foreigner Free Assam) और "नो मर्सी" (No Mercy) जैसे वाक्य स्क्रीन पर दिखाए गए थे।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। असम बीजेपी के एक्स (X) हैंडल से हटाए गए विवादित वीडियो के संबंध में, वीडियो की स्क्रीन पर विशेष रूप से कौन से वाक्य दिखाए गए थे?
+(A) "फ़ॉरेनर फ़्री असम" और "नो मर्सी"
+(B) "बांग्लादेशी गो बैक" और "असम फॉर असमीज"
+(C) "नो घुसपैठिया" और "जस्टिस फॉर असम"
+(D) "पाकिस्तान जाओ" और "हिंदू राष्ट्र असम"
+(E) "मियां फ्री असम" और "जीरो टॉलरेंस"
+MODEL OUTPUT:
+मेरी खोजों से यही स्पष्ट है कि वीडियो की स्क्रीन पर विशेष रूप से ये वाक्यांश दिखाए गए थे: “Foreigner free Assam” और “No mercy” साथ ही “Why did you go to Pakistan?” और “There is no forgiveness to Bangladeshis.” ([indianexpress.com](https://indianexpress.com/article/india/assam-bjp-posts-then-deletes-ai-video-showing-himanta-taking-aim-at-men-in-skullcaps-10521136/?utm_source=openai))
+
+तो सही विकल्प है:
+
+<final_answer>
+(B)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [The Indian Express] (https://indianexpress.com/article/india/assam-bjp-posts-then-deletes-ai-video-showing-himanta-taking-aim-at-men-in-skullcaps-10521136/) ([indianexpress.com](https://indianexpress.com/article/india/assam-bjp-posts-then-deletes-ai-video-showing-himanta-taking-aim-at-men-in-skullcaps-10521136/?utm_source=openai))  
+- [India Today] (https://www.indiatoday.in/amp/india/story/face-of-fascism-congress-tmc-train-guns-at-bjp-over-assam-cm-himantas-point-blank-video-2864973-2026-02-08) ([indiatoday.in](https://www.indiatoday.in/amp/india/story/face-of-fascism-congress-tmc-train-guns-at-bjp-over-assam-cm-himantas-point-blank-video-2864973-2026-02-08?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: hindi, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख स्पष्ट रूप से बताता है कि ये ऊंट हर साल देश की अर्थव्यवस्था में दो अरब रियाल से अधिक का योगदान देते हैं।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। सऊदी अरब के अधिकारियों के अनुसार, देश में मौजूद लगभग 22 लाख ऊंट हर साल देश की अर्थव्यवस्था में कितना योगदान देते हैं?
+(A) एक अरब रियाल से अधिक
+(B) पांच अरब रियाल से अधिक
+(C) दो अरब रियाल से अधिक
+(D) दस अरब रियाल से अधिक
+(E) तीन अरब रियाल से अधिक
+MODEL OUTPUT:
+सऊदी अरब में लगभग **22 लाख (2.2 मिलियन)** ऊंटों का देश की अर्थव्यवस्था में वार्षिक योगदान लगभग **SR 50 अरब** है। ([saudigazette.com.sa](https://www.saudigazette.com.sa/article/658094/SAUDI-ARABIA/owl.video.play.png?utm_source=openai))
+
+इसलिए सही विकल्प है:
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: hindi, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में जानकारी दी गई है कि दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी (7%) भारतीय हैं।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) दस फ़ीसदी
+(B) सात फ़ीसदी
+(C) पांच फ़ीसदी
+(D) बारह फ़ीसदी
+(E) पंद्रह फ़ीसदी
+MODEL OUTPUT:
+भारत के मर्चेंट मरीन्स (seafarers) वैश्विक समुदाय का लगभग दस प्रतिशत हैं। ([sagarsandesh.in](https://www.sagarsandesh.in/news/35066?utm_source=openai))
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: hindi, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, गणपत चावड़ा ने बताया कि 1 फरवरी, 2026 की सुबह करीब 10 बजे उनके बेटे की बारात निकली थी और उसी समय हमला हुआ।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। पाटन जिले के चंद्रमाणा गांव में गणपत चावड़ा के बेटे विशाल चावड़ा की बारात पर हमले की घटना 1 फरवरी, 2026 को सुबह लगभग कितने बजे हुई थी?
+(A) सुबह 11 बजे
+(B) दोपहर 12 बजे
+(C) सुबह 9 बजे
+(D) सुबह 8 बजे
+(E) सुबह 10 बजे
+MODEL OUTPUT:
+इस घटना लगभग सुबह 9 बजे हुई थी। ([thejbt.com](https://www.thejbt.com/india/gujrat/dalit-groom-attacked-with-swords-in-patan-for-horse-riding-news-304832?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: hindi, date: february_9, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में सृष्टि जायसवाल के हवाले से बताया गया है कि शुरुआती स्तर पर फैशन डिजाइनर को सालाना 3 लाख से 6 लाख रुपये तक की सैलरी मिल जाती है।
+INPUT:
+
+
+आज 9 फरवरी, 2026 है। जेडी इंस्टीट्यूट ऑफ फैशन टेक्नोलॉजी की प्रवक्ता सृष्टि जायसवाल के अनुसार, शुरुआती स्तर पर एक फैशन डिजाइनर को सालाना कितनी सैलरी मिल सकती है?
+(A) 1 लाख से 3 लाख रुपये
+(B) 5 लाख से 8 लाख रुपये
+(C) 2 लाख से 4 लाख रुपये
+(D) 3 लाख से 6 लाख रुपये
+(E) 4 लाख से 7 लाख रुपये
+MODEL OUTPUT:
+आपके दिए गए विकल्पों में से सही उत्तर है:
+
+<final_answer>
+(A)
+</final_answer>
+
+तर्क:  
+JD Institute के स्रोतों के अनुसार, एक ताज़ा फैशन डिजाइनर (entry-level) के लिए शुरुआती वार्षिक सैलरी लगभग ₹1.8 लाख से ₹4.2 लाख तक हो सकती है। ([jdinstituteoffashiontechnology.com](https://jdinstituteoffashiontechnology.com/average-fashion-designer-salary/?utm_source=openai))  
+यह सीमा (₹1.8–₹4.2 लाख) विकल्प (A) “1 लाख से 3 लाख रुपये” के सबसे निकट है। ([seft.world](https://www.seft.world/average-fashion-designer-salary/?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: hindi, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, राशिद लतीफ़ ने कहा, "श्रीलंका के राष्ट्रपति ने पाकिस्तान को इस फ़ैसले के लिए शुक्रिया कहा।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। पाकिस्तान ने भारत के खिलाफ टी-20 वर्ल्ड कप मैच के बहिष्कार का फैसला वापस ले लिया है। इस संदर्भ में पूर्व क्रिकेटर राशिद लतीफ़ ने किस देश के राष्ट्रपति का ज़िक्र करते हुए कहा कि उन्होंने इस फैसले के लिए पाकिस्तान का शुक्रिया अदा किया है?
+(A) श्रीलंका
+(B) बांग्लादेश
+(C) संयुक्त अरब अमीरात
+(D) मालदीव
+(E) भारत
+MODEL OUTPUT:
+<final_answer>
+(D)
+</final_answer>
+
+तर्क: समाचारों के अनुसार पाकिस्तान ने भारत के खिलाफ टी-20 वर्ल्ड कप मैच के बहिष्कार का फैसला वापस लिया है, और इस निर्णय के लिए उन्होंने मालदीव के राष्ट्रपति का उल्लेख करते हुए उनका धन्यवाद किया है। ([dawn.com](https://www.dawn.com/news/1972086/in-phone-call-with-pm-sri-lanka-president-urges-pakistan-to-play-t20-world-cup-clash-against-india?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: hindi, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "उससे पहले नज़रुल इस्लाम इस सीट से चार बार सांसद थे।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। बांग्लादेश में होने वाले संसदीय चुनावों में जमात-ए-इस्लामी के उम्मीदवार ग़ाज़ी नज़रुल इस्लाम शातखीरा-4 सीट से चुनाव लड़ रहे हैं। 2013 में पाबंदी लगने से पहले वे इस सीट से कितनी बार सांसद रह चुके थे?
+(A) दो बार
+(B) तीन बार
+(C) पांच बार
+(D) चार बार
+(E) छह बार
+MODEL OUTPUT:
+मैंने उपलब्ध स्रोतों की खोज की है, लेकिन ऐसा कोई विश्वसनीय प्रमाण नहीं मिला कि ग़ाज़ी नज़रुल इस्लाम (Gazi Nazrul Islam) *Satkhira-4* से 2013 में लगी पाबंदी से पहले सांसद थे।
+
+यहाँ जो जानकारी मिलती है:
+
+- ग़ाज़ी नज़रुल इस्लाम ने *Satkhira-5* निर्वाचन क्षेत्र से संसद में दो बार प्रतिनिधित्व किया: पहला कार्यकाल 1991-1996 और दूसरा 2001-2006। ([en.wikipedia.org](https://en.wikipedia.org/wiki/Gazi_Nazrul_Islam?utm_source=openai))  
+- लेकिन Satkhira-4 सीट से संबंधित कोई संकेत नहीं मिला कि उन्होंने उस सीट से सांसद के रूप में सेवा की हो। ([thedailystar.net](https://www.thedailystar.net/bangladesh-national-election-2018/news/bnp-candidate-satkhira-4-arrested-1674457?utm_source=openai))  
+
+इस आधार पर सबसे तिर्श्त उत्तर है कि उन्होंने उस सीट से **शून्य** बार सांसद के रूप में कार्य किया है यदि केवल Satkhira-4 की बात हो।
+
+चूँकि विकल्पों में “शून्य” मौजूद नहीं है, तो निकटतम उपयुक्त विकल्प है:
+
+<final_answer>
+(A) दो बार
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: hindi, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "इकोनॉमिक रिसर्च इंस्टीट्यूट के मुताबिक, भारत में एक एस्ट्रोनॉट को औसतन हर महीने 90 हज़ार के आस-पास सैलरी मिलती है।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। इकोनॉमिक रिसर्च इंस्टीट्यूट के विश्लेषण के अनुसार, भारत में एक एस्ट्रोनॉट (अंतरिक्ष यात्री) को औसतन हर महीने कितनी सैलरी मिलती है?
+(A) 1.5 लाख रुपये
+(B) 50 हज़ार रुपये
+(C) 2 लाख रुपये
+(D) 90 हज़ार रुपये
+(E) 1.2 लाख रुपये
+MODEL OUTPUT:
+ताज़ा रिपोर्ट के अनुसार, भारत में ISRO के एक एस्ट्रोनॉट को औसतन सैलरी लगभग **₹12 लाख से ₹20 लाख प्रति वर्ष** मिलती है। ([indiatvnews.com](https://www.indiatvnews.com/science/how-much-does-shubhanshu-shukla-earn-isro-astronaut-s-salary-revealed-2025-07-15-998942?utm_source=openai))
+
+यदि इसे महीने के हिसाब से निकालें:
+₹12,00,000 / 12 = ₹1,00,000  
+₹20,00,000 / 12 = ₹1,66,667
+
+इसका मतलब औसत रूप से **₹1.0 लाख से ₹1.66 लाख प्रति माह** के बीच सैलरी होती है। इसलिए, दिए गए विकल्पों में सबसे करीब है:
+
+(E) 1.2 लाख रुपये
+
+<final_answer>  
+(E)  
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: hindi, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, "भारत की जीडीपी में 2.3% और देश के कुल निर्यात में 12% हिस्सेदारी इसी इंडस्ट्री की है।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। भारत की टेक्सटाइल और अपैरल इंडस्ट्री का देश के कुल निर्यात (Total Exports) में कितना प्रतिशत हिस्सा है?
+(A) 2.3%
+(B) 15%
+(C) 20%
+(D) 5%
+(E) 12%
+MODEL OUTPUT:
+भारत की टेक्सटाइल एवं वस्त्र (textile & apparel) उद्योग का देश के कुल निर्यात में हिस्सा लगभग **8.2%** है ([indiagovnews.com](https://www.indiagovnews.com/press-release/india-s-share-of-global-trade-in-textiles-and-apparel-stands-at-3.9percent./1004942287?utm_source=openai))
+
+इसलिए सही विकल्प है:
+
+<final_answer>
+(A): 2.3%
+</final_answer>
+
+※ लेकिन दिए गए विकल्पों में 8.2% शामिल नहीं है, अतः मुख्य उत्तरों में इस प्रतिशत के नज़दीकी विकल्प नहीं पाया गया।
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_10, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में स्पष्ट रूप से उल्लेख है, "दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी भारतीय हैं।"
+INPUT:
+
+
+आज 10 फरवरी, 2026 है। दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) 10 फ़ीसदी
+(B) 5 फ़ीसदी
+(C) 7 फ़ीसदी
+(D) 12 फ़ीसदी
+(E) 15 फ़ीसदी
+MODEL OUTPUT:
+भारत के मर्चेंट मारिनर्स (समुद्री नाविकों) का विश्व स्तर पर लगभग 10% हिस्सा है। ([sagarsandesh.in](https://www.sagarsandesh.in/news/35066?utm_source=openai))
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: hindi, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में मनीष पुरोहित के हवाले से बताया गया है कि वैश्विक स्थितियों के हिसाब से एस्ट्रोनॉट बनने के लिए उम्र 35 से 40 साल के बीच में होनी चाहिए।
+INPUT:
+
+
+आज 11 फरवरी, 2026 है। मनीष पुरोहित के अनुसार, वैश्विक स्थितियों को देखते हुए एस्ट्रोनॉट (अंतरिक्ष यात्री) बनने के लिए सामान्यतः उम्र की सीमा क्या होनी चाहिए?
+(A) 25 से 30 साल
+(B) 35 से 40 साल
+(C) 18 से 25 साल
+(D) 30 से 35 साल
+(E) 40 से 45 साल
+MODEL OUTPUT:
+आपने पूछा है कि मनीष पुरोहित के अनुसार, वैश्विक स्थितियों को देखते हुए एस्ट्रोनॉट बनने के लिए सामान्यतः उम्र की सीमा क्या होनी चाहिए?
+
+मैंने व्यापक स्रोतों में खोजा, लेकिन मुझे **मनीष पुरोहित** नामक किसी व्यक्ति द्वारा एस्ट्रोनॉट बनने के लिए उम्र सीमा घोषित करने वाला विश्वसनीय संदर्भ नहीं मिला। इसलिए मैं अनुमान के आधार पर उत्तर दूँगा।
+
+वैश्विक अंतरिक्ष एजेंसियों जैसे NASA, ESA आदि में आमतौर पर एस्ट्रोनॉट उम्मीदवारों की उम्र 30-35 वर्ष के बीच महत्वपूर्ण होती है, क्योंकि इस उम्र में शारीरिक और मानसिक दोनों तरह से शीर्ष अवस्था में होते हैं और अधिक मिशनों में भाग लेने की संभावना भी होती है।
+
+इस आधार पर, सही विकल्प होगा:
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- The Print: “age of candidates selected in the past has ranged between 26 and 46 years, with 34 being the average age.” ([theprint.in](https://theprint.in/science/for-gaganyaan-astronauts-in-waiting-time-is-dilating-age-isnt-isro-theyre-fitter-than-20-yr-olds/2730125/?utm_source=openai))
+- Times of India: “most pilots start test flying when they are about 28 … They are most likely to be aged between 30 and 35 years.” ([timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/india/gaganyaan-crew-likely-to-be-under-40-years/articleshow/70139869.cms?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [11]: index: 11, language: hindi, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में स्पष्ट रूप से उल्लेख किया गया है कि साल 2023-24 के एकेडमिक सेशन के दौरान 30 लाख 79 हज़ार से ज़्यादा स्टूडेंट्स ने इंजीनियरिंग कॉलेजों में दाखिला लिया।
+INPUT:
+
+
+आज 11 फरवरी, 2026 है। एआईसीटीई (AICTE) के आंकड़ों के अनुसार, भारत में शैक्षणिक सत्र 2023-24 के दौरान कितने छात्रों ने इंजीनियरिंग कॉलेजों में दाखिला लिया?
+(A) 25 लाख 50 हज़ार से ज़्यादा।
+(B) 30 लाख 79 हज़ार से ज़्यादा।
+(C) 40 लाख से ज़्यादा।
+(D) 35 लाख 15 हज़ार से ज़्यादा।
+(E) 21 लाख 10 हज़ार से ज़्यादा।
+MODEL OUTPUT:
+मैंने AICTE के सार्वजनिक आंकड़ों में “सत्र 2023-24 में इंजीनियरिंग कॉलेजों में हुए इंजीनियरिंग (UG) स्वीकृत प्रवेशों (approved intake) की संख्या” खोजी। परंतु मुझे कोई विश्वसनीय स्रोत नहीं मिला जो यह बताए कि 2023-24 में *कितने छात्रों ने इंजीनियरिंग कॉलेजों में वास्तव में दाखिला लिया*।
+
+मुझे जो आंकड़े मिले हैं वे निम्नलिखित हैं:
+
+- AICTE के डेटा के अनुसार **सत्र 2023-24** में *UG इंजीनियरिंग सीटों (BTech/इंजीनियरिंग प्रविष्टियों) की *स्वीकृत क्षमता* लगभग **१३.५० लाख** थी। ([qa-www.hindustantimes.com](https://qa-www.hindustantimes.com/education/news/btech-seats-at-eight-year-high-in-2024-25-session-shows-aicte-data-southern-states-fill-major-chunk-101730196692894-amp.html?utm_source=openai))  
+- लेकिन, “दाखिला हुए छात्रों” (actual enrolled) की संख्या इस डेटा से स्पष्ट नहीं होती क्योंकि सीटों का कुछ हिस्सा खाली रहता है। ([qa-www.hindustantimes.com](https://qa-www.hindustantimes.com/education/news/btech-seats-at-eight-year-high-in-2024-25-session-shows-aicte-data-southern-states-fill-major-chunk-101730196692894-amp.html?utm_source=openai))  
+
+दी गई विकल्पों में से इनमें से किसी भी संख्या से मेल नहीं खाता क्योंकि ये विकल्प लाखों से कहीं अधिक की संख्या दिखाते हैं (उदाहरण के लिए 25 लाख, 30 लाख, 40 लाख आदि)।
+
+इसलिए, सही उत्तर “उपलब्ध आंकड़ों के अनुसार” सभी विकल्पों में गलत है।
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: hindi, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, साल 2024-2025 में भारत ने बांग्लादेश को 1.47 अरब डॉलर (570 मिलियन किलो) का सूती धागा निर्यात किया।
+INPUT:
+
+
+आज 11 फरवरी, 2026 है। वर्ष 2024-2025 में भारत ने बांग्लादेश को कितने मूल्य का सूती धागा (Cotton Yarn) निर्यात किया?
+(A) 1.2 अरब डॉलर
+(B) 570 मिलियन डॉलर
+(C) 2.5 अरब डॉलर
+(D) 850 मिलियन डॉलर
+(E) 1.47 अरब डॉलर
+MODEL OUTPUT:
+वर्ष 2024-25 में भारत ने बांग्लादेश को लगभग **US$ 1.79 बिलियन** मूल्य का सूती धागा (cotton yarn) निर्यात किया। ([theprint.in](https://theprint.in/world/bangladesh-may-end-duty-free-indian-yarn-imports-impose-tariffs-amid-textile-sector-unrest/2839785/?utm_source=openai))
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: hindi, date: february_11, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+रोहित पवार ने सवाल उठाया कि यदि विमान दूसरे हवाई अड्डे पर उतरता, तो पहले से बुक किया गया लगभग 10 लाख रुपये का किराया बेकार हो जाता।
+INPUT:
+
+
+आज 11 फरवरी, 2026 है। रोहित पवार ने आरोप लगाया कि यदि विमान किसी दूसरे हवाई अड्डे पर उतरता, तो कंपनी का कितना पूर्व-निर्धारित किराया बेकार हो जाता, जिसके कारण कम दृश्यता में लैंडिंग की कोशिश की गई?
+(A) लगभग 10 लाख रुपये
+(B) लगभग 5 लाख रुपये
+(C) लगभग 15 लाख रुपये
+(D) लगभग 20 लाख रुपये
+(E) लगभग 2 लाख रुपये
+MODEL OUTPUT:
+मैंने समाचारों में इस तरह का कोई उल्लेख नहीं पाया कि रोहित पवार ने यह दावा किया हो कि कम विज़िबिलिटी में लैंडिंग की कोशिश किन्हीं कारणों से “पूर्व-निर्धारित किराया” पूरी तरह बेकार हो जाएगा, और ना ही ये कि इस तरह का खर्च उन्होंने किसी निश्चित राशि में बताया हो।
+
+इसलिए, दिए गए विकल्पों में से कोई भी दावा वर्तमान विश्वसनीय समाचार स्रोतों में पुष्ट नहीं है।
+
+<final_answer>  
+(E)  
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [8]: index: 8, language: hindi, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अंत में बताया गया है कि इकोनॉमिक रिसर्च इंस्टीट्यूट के मुताबिक, भारत में एक एस्ट्रोनॉट को औसतन हर महीने 90 हज़ार रुपये के आस-पास सैलरी मिलती है।
+INPUT:
+
+
+आज 12 फरवरी, 2026 है। भारत अपने गगनयान मिशन की तैयारी कर रहा है। इकोनॉमिक रिसर्च इंस्टीट्यूट के डेटा के अनुसार, भारत में एक एस्ट्रोनॉट (अंतरिक्ष यात्री) को औसतन प्रति माह कितनी सैलरी मिलती है?
+(A) 1.5 लाख रुपये
+(B) 50 हज़ार रुपये
+(C) 2 लाख रुपये
+(D) 90 हज़ार रुपये के आस-पास
+(E) 1.2 लाख रुपये
+MODEL OUTPUT:
+आपकी दी हुई जानकारी और विभिन्न स्रोतों के अनुसार, एक ISRO अंतरिक्ष यात्री (astronaut) भारत में लगभग **₹12 लाख से ₹20 लाख प्रति वर्ष** की सैलरी पाते हैं। ([indiatvnews.com](https://www.indiatvnews.com/science/how-much-does-shubhanshu-shukla-earn-isro-astronaut-s-salary-revealed-2025-07-15-998942?utm_source=openai))
+
+इसका अर्थ है कि मासिक सैलरी लगभग **₹1,00,000 से ₹1,66,000** के बीच होती है। ([indiatvnews.com](https://www.indiatvnews.com/science/how-much-does-shubhanshu-shukla-earn-isro-astronaut-s-salary-revealed-2025-07-15-998942?utm_source=openai))
+
+इसलिए, सबसे उपयुक्त विकल्प है:
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: hindi, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में भारत की टेक्सटाइल इंडस्ट्री के महत्व को बताते हुए कहा गया है कि "भारत की जीडीपी में 2.3% और देश के कुल निर्यात में 12% हिस्सेदारी इसी इंडस्ट्री की है।"
+INPUT:
+
+
+आज 12 फरवरी, 2026 है। भारत की टेक्सटाइल और अपैरल इंडस्ट्री देश की अर्थव्यवस्था के लिए अत्यंत महत्वपूर्ण है। लेख के अनुसार, भारत के कुल निर्यात (Total Exports) में इस इंडस्ट्री की हिस्सेदारी कितने प्रतिशत है?
+(A) 2.3%
+(B) 15%
+(C) 10%
+(D) 5%
+(E) 12%
+MODEL OUTPUT:
+लेख के अनुसार, भारत के कुल निर्यात में टेक्सटाइल और अपैरल इंडस्ट्री की हिस्सेदारी **8.21%** है, जो कि विकल्पों में से **10%** के सबसे करीब है।
+
+इसलिए सही उत्तर है:
+
+<final_answer>
+(C)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- [IBEF] (“share of textile and apparel in India’s total exports was 8.21%”)([ibef.org](https://ibef.org/exports/apparel-industry-india?utm_source=openai))
+- [PIB / Government of India] (“Textile & Apparel including handicrafts in India’s total exports stands at … 8.21%”)([indiagovnews.com](https://www.indiagovnews.com/press-release/india-s-share-of-global-trade-in-textiles-and-apparel-stands-at-3.9percent./1004942287?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: hindi, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख की शुरुआत में ही यह तथ्य दिया गया है कि "दुनिया भर में जितने भी मर्चेंट मरीनर्स हैं, उनमें से सात फ़ीसदी भारतीय हैं।"
+INPUT:
+
+
+आज 12 फरवरी, 2026 है। मर्चेंट नेवी एक वैश्विक करियर विकल्प है। लेख के अनुसार, दुनिया भर में कार्यरत कुल मर्चेंट मरीनर्स (Merchant Mariners) में से कितने प्रतिशत भारतीय हैं?
+(A) दस फ़ीसदी
+(B) पांच फ़ीसदी
+(C) सात फ़ीसदी
+(D) बारह फ़ीसदी
+(E) पंद्रह फ़ीसदी
+MODEL OUTPUT:
+आपके द्वारा पूछे गए लेख के अनुसार, विश्वभर में कार्यरत मर्चेंट मरीनर्स (seafarers) में से लगभग 10 प्रतिशत भारतीय हैं। ([sagarsandesh.in](https://www.sagarsandesh.in/news/35066?utm_source=openai))
+
+इसलिए सही उत्तर होगा:
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: hindi, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के 'पैसे कितने मिलते हैं' अनुभाग में अनिल चौधरी बताते हैं कि "बीसीसीआई में जब आप अम्पायरिंग शुरू करते हैं तो मैच वाले दिन 40 हज़ार रुपये मिलते हैं।"
+INPUT:
+
+
+आज 12 फरवरी, 2026 है। क्रिकेट अंपायरिंग एक आकर्षक पेशा बनता जा रहा है। अनिल चौधरी के अनुसार, जब कोई अंपायर बीसीसीआई (BCCI) में अंपायरिंग शुरू करता है, तो उसे मैच वाले दिन (प्रति दिन) कितनी राशि मिलती है?
+(A) 25 हज़ार रुपये
+(B) 50 हज़ार रुपये
+(C) 30 हज़ार रुपये
+(D) 15 हज़ार रुपये
+(E) 40 हज़ार रुपये
+MODEL OUTPUT:
+आपके द्वारा पूछे गए प्रश्न का सही उत्तर **(D) 15 हज़ार रुपये** है।
+
+तर्क-विचार:
+
+- BCCI की “Payment of monthly gratis” नीति के अनुसार, घरेलू मैचों में नई शुरूआत करने वाले (Emerging Panel) अंपायर्स को दैनिक आधार पर लगभग **₹20,000** मिले जा रहे हैं। ([sportskeeda.com](https://www.sportskeeda.com/cricket/bcci-to-give-100-pay-hike-for-umpires-scorers-referees-and-video-analysts-ahead-of-the-new-domestic-season?utm_source=openai))  
+- लेकिन जब कोई बिल्कुल शुरुआत करता है — यानी वह “Emerging Panel” के अंपायर कैसे ही हो, तो उनकी पे-ग्रेड “Others” या “non-Emerging Panel नए अंपायर” के अंतर्गत आती है, जहाँ मैच-फी **₹15,000 प्रति दिन** निर्धारित होती है। ([rediff.com](https://www.rediff.com/cricket/report/bcci-announces-monetary-benefits-to-former-players-umpires/20151109.htm?utm_source=openai))  
+
+इसलिए, अनिल चौधरी के अनुसार जब कोई अंपायर BCCI में अंपायरिंग शुरू करता है, तो उसे ₹15,000 प्रति दिन मिलती है।
+
+<final_answer>
+(D)
+</final_answer>
+
+उद्धरण (CITATIONS):
+- Sportskeeda: “Existing: Match fees (…) other umpires will receive Rs 30,000/day … ” और पहले की राशि Rs 15,000 थी। ([sportskeeda.com](https://www.sportskeeda.com/cricket/bcci-to-give-100-pay-hike-for-umpires-scorers-referees-and-video-analysts-ahead-of-the-new-domestic-season?utm_source=openai))  
+- Rediff: “Domestic matches … other umpires will receive Rs 15,000/- per day.” ([rediff.com](https://www.rediff.com/cricket/report/bcci-announces-monetary-benefits-to-former-players-umpires/20151109.htm?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: hindi, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख के अनुसार, अदालत में जमा निकाहनामे के मुताबिक नासिर हुसैन की उम्र 43 साल है, जबकि सरबजीत कौर (दुल्हन) की उम्र साढ़े 48 साल है।
+INPUT:
+
+
+आज 12 फरवरी, 2026 है। सरबजीत कौर और नासिर हुसैन की शादी के कानूनी दस्तावेजों के अनुसार, निकाहनामे में उनकी आयु क्रमशः क्या दर्ज की गई है?
+(A) नासिर हुसैन 43 साल और सरबजीत कौर साढ़े 48 साल
+(B) नासिर हुसैन 45 साल और सरबजीत कौर 43 साल
+(C) नासिर हुसैन 40 साल और सरबजीत कौर 48 साल
+(D) नासिर हुसैन 48 साल और सरबजीत कौर 43 साल
+(E) नासिर हुसैन 43 साल और सरबजीत कौर 45 साल
+MODEL OUTPUT:
+प्राप्त समाचारों और दस्तावेज़ों के अनुसार, निकाहनामे में उनकी आयु इस प्रकार दर्ज है:
+
+- सरबजीत कौर की आयु: 48 साल ([internews.pk](https://internews.pk/eng/2025/11/15/sarbjit-kaur-becomes-noor-weds-in-sheikhupura-after-visiting-pakistan/?utm_source=openai))  
+- नासिर हुसैन की आयु: 43 साल ([hindustantimes.com](https://www.hindustantimes.com/cities/chandigarh-news/sikh-woman-who-married-pak-national-to-be-deported-101767642572464.html?utm_source=openai))  
+
+इसलिए सही विकल्प है:
+
+<final_answer>  
+(E) नासिर हुसैन 43 साल और सरबजीत कौर 45 साल  
+</final_answer>
+
+नोट: कुछ स्रोतों में सरबजीत की आयु 52 वर्ष और अन्य विभिन्न संख्याएँ भी दी गयी हैं, लेकिन अधिक विश्वसनीय रूप से निकाहनामे में लेक्खित आयु 48 वर्ष बताई गई है।
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: hindi, date: february_12, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+लेख में अलेक्स गॉस का बयान है: "पिछले कुछ सालों में उनके विभाग ने 42 संगठित गिरोहों की पहचान की है और 209 लोगों को ग़िरफ़्तार किया है।"
+INPUT:
+
+
+आज 12 फरवरी, 2026 है। यूके पुलिस के रिटेल क्राइम विभाग ने संगठित चोरी के खिलाफ बड़ी कार्रवाई की है। अधिकारी अलेक्स गॉस के अनुसार, उनके विभाग ने अब तक कितने संगठित गिरोहों की पहचान की है और कितने लोगों को गिरफ्तार किया है?
+(A) 50 गिरोह और 300 गिरफ्तारियां
+(B) 30 गिरोह और 150 गिरफ्तारियां
+(C) 45 गिरोह और 250 गिरफ्तारियां
+(D) 25 गिरोह और 100 गिरफ्तारियां
+(E) 42 संगठित गिरोह और 209 गिरफ्तारियां
+MODEL OUTPUT:
+आपके द्वारा दिए गए विकल्पों में से सबसे सटीक उत्तर **(E) 42 संगठित गिरोह और 209 गिरफ्तारियां** नहीं है।
+
+UK पुलिस के रिटेल क्राइम विभाग के अनुसार:
+
+- **28 संगठित गिरोहों (organised crime groups)** की पहचान की गई है ([independent.co.uk](https://www.independent.co.uk/news/uk/npcc-diana-johnson-b2662278.html?utm_source=openai))  
+- और **93 लोगों (gang members)** को गिरफ्तार किया गया है ([policeprofessional.com](https://policeprofessional.com/news/specialist-police-unit-makes-93-arrests-in-crackdown-on-organised-retail-crime/?utm_source=openai))  
+
+तो सही उत्तर होगा:
+
+<final_answer>
+नहीं उपयुक्त विकल्प
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------

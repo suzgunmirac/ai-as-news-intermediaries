@@ -1,0 +1,326 @@
+METADATA [15]: index: 15, language: afrique, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne : « Dans une longue interview accordée avant la publication de ses mémoires, A Hymn To Life, elle décrit... ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. Gisèle Pelicot publie ses mémoires pour raconter son histoire. Quel est le titre de cet ouvrage mentionné dans l'article ?
+(A) A Hymn To Life.
+(B) La descente aux enfers.
+(C) Le procès de la lâcheté.
+(D) Une femme indomptable.
+(E) La survivante de Mazan.
+MODEL OUTPUT:
+Le titre de l’ouvrage est « Et la joie de vivre ». ([rtl.fr](https://www.rtl.fr/actu/justice-faits-divers/j-ai-voulu-me-relever-gisele-pelicot-raconte-sur-rtl-comment-elle-s-est-reconstruite-sur-un-champ-de-ruines-7900601456?utm_source=openai))
+
+<final_answer> (B) </final_answer>
+
+CITATIONS :
+- RTL, “Je n’ai pas voulu me détruire…”, article du 16–17 février 2026 : l’ouvrage s’intitule *Et la joie de vivre*. ([rtl.fr](https://www.rtl.fr/actu/justice-faits-divers/j-ai-voulu-me-relever-gisele-pelicot-raconte-sur-rtl-comment-elle-s-est-reconstruite-sur-un-champ-de-ruines-7900601456?utm_source=openai))  
+- Le Clarieur Fnac, “Gisèle Pélicot : Et la joie de vivre”, descriptif du livre et du titre en français. ([leclaireur.fnac.com](https://leclaireur.fnac.com/article/655743-gisele-pelicot-que-signifie-le-titre-de-son-livre-et-la-joie-de-vivre/?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: afrique, date: february_19, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : « Les Léopards affronteront la Nouvelle-Calédonie ou la Jamaïque lors du barrage intercontinental de mars ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 19 février 2026. La RD Congo doit disputer un barrage intercontinental en mars pour se qualifier pour la Coupe du monde. Quelles sont les deux nations que les Léopards pourraient affronter lors de ce barrage ?
+(A) Le Nigeria ou l'Afrique du Sud.
+(B) Le Portugal ou la Colombie.
+(C) L'Ouzbékistan ou le Canada.
+(D) Le Mexique ou les États-Unis.
+(E) La Nouvelle-Calédonie ou la Jamaïque.
+MODEL OUTPUT:
+Voici les deux nations que les Léopards de la RD Congo pourraient affronter lors de leur barrage intercontinental en mars, selon le tirage des éliminatoires pour la Coupe du monde 2026 :
+
+- Jamaica  
+- Nouvelle-Calédonie ([sports.yahoo.com](https://sports.yahoo.com/article/2026-world-cup-dr-congo-160000013.html?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS :
+- “DR Congo pourrait aller affronter la Bolivie… ou l’Océanie Nouvelle-Calédonie, ou l’un des deux espoirs de la CONCACAF : Suriname ou Jamaica.” ([sports.yahoo.com](https://sports.yahoo.com/article/2026-world-cup-dr-congo-160000013.html?utm_source=openai))  
+- “Jamaica et New Caledonia s’affronteront le 26 mars, le vainqueur jouera contre la RD Congo le 31 mars.” ([fifa2026.futbol](https://www.fifa2026.futbol/fifa-world-cup-2026-intercontinental-schedule/?utm_source=openai))
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique explicitement : "Les chrétiens ont entamé le Carême le 5 mars" (en référence au contexte de l'année 2026 mentionné dans le texte). Note : Bien que l'article mentionne une mise à jour "il y a une heure" le 13 mars 2024, le titre et le contexte de la tâche placent l'action en 2026. Le texte dit : "Les chrétiens ont entamé le Carême le 5 mars, une période de 40 jours qui s'achèvera le 20 avril."
+INPUT:
+
+
+Aujourd'hui, le 20 février 2026, les communautés chrétiennes et musulmanes observent leurs périodes de jeûne respectives. À quelle date précise les chrétiens ont-ils commencé le Carême cette année ?
+(A) Le 13 mars
+(B) Le 5 mars
+(C) Le 20 février
+(D) Le mercredi des Cendres, soit le 18 février
+(E) Le 17 février
+MODEL OUTPUT:
+Les chrétiens ont commencé le Carême le **mercredi des Cendres**, qui cette année tombe le **18 février 2026**. ([parade.com](https://parade.com/living/ash-wednesday/?utm_source=openai))
+
+<final_answer>  
+(D)  
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: afrique, date: february_20, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article indique : "Mais à Longyearbyen, en Norvège... cela ne devrait durer qu'entre 10 h 50 et 13 h 30 environ (un peu plus de 2 h 30) au début du mois sacré."
+INPUT:
+
+
+Aujourd'hui est le 20 février 2026. Le mois de Ramadan commence dans un contexte climatique varié selon les hémisphères. À Longyearbyen, en Norvège, quelle sera la durée approximative du jeûne quotidien au début du mois sacré ?
+(A) Environ 14,5 heures
+(B) Environ 12,5 heures
+(C) Environ 9 heures
+(D) Un peu plus de 2 heures et 30 minutes
+(E) Environ 20 heures
+MODEL OUTPUT:
+Au début du mois de Ramadan (qui commence fin février ou début mars selon l’observation lunaire), Longyearbyen est encore sous l’effet de la nuit polaire ou très proche de la fin de celle-ci. Parmi les données disponibles : en milieu à fin février, la durée de la lumière du jour à Longyearbyen est d’environ **4 à 6 heures**. ([timeanddate.com](https://www.timeanddate.com/sun/norway/longyearbyen?month=2&utm_source=openai))
+
+Cela signifie que le jeûne — du lever du soleil jusqu’à son coucher — durerait donc environ **18 à 20 heures** si l’on utilise ces heures de jour pour définir le début et la fin du jeûne.  
+
+La réponse correcte est donc :
+
+<final_answer>
+(E)
+</final_answer>
+
+CITATIONS :
+- Sunrise and sunset times in Longyearbyen, February 2026 — TimeAndDate.com ([timeanddate.com](https://www.timeanddate.com/sun/norway/longyearbyen?month=2&utm_source=openai))  
+- Longyearbyen weather in February 2026 — Wanderlog.com ([wanderlog.com](https://wanderlog.com/weather/11462/2/longyearbyen-weather-in-february?utm_source=openai))
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: afrique, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Creol affirme dans sa vidéo que la suspension ne présage rien de bon pour « les élèves qui ratent les cours avec la grève des enseignants et qui se rattrapent grâce à l'internet ».
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Selon le témoignage de la chanteuse Creol, quel est l'impact de la suspension des réseaux sociaux sur les élèves gabonais ?
+(A) Ils ne peuvent plus s'inscrire aux examens nationaux via les plateformes numériques.
+(B) Ils utilisent des VPN pour organiser des manifestations contre la HAC.
+(C) Ils sont victimes de cyberharcèlement de la part d'activistes politiques.
+(D) Ils ne peuvent plus communiquer avec leurs professeurs via WhatsApp.
+(E) Ils ne peuvent plus rattraper les cours manqués à cause de la grève des enseignants.
+MODEL OUTPUT:
+Selon les articles récents rapportant le témoignage de l’artiste Creol concernant la suspension des réseaux sociaux au Gabon, elle indique que les élèves sont particulièrement pénalisés parce qu’ils ne peuvent plus recevoir ou télécharger les cours et documents scolaires envoyés via WhatsApp. ([union.sonapresse.com](https://www.union.sonapresse.com/node/23937?utm_source=openai))
+
+Donc la bonne réponse est :
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS :
+- [L’Union – “Suspension des réseaux sociaux : l’épreuve de l’effectivité”] (https://www.union.sonapresse.com/node/23937)  
+- [FratMat – “Gabon: les autorités suspendent les réseaux sociaux jusqu'à nouvel ordre”] (https://www.fratmat.info/article/2640076/etranger/gabon/gabon-les-autorites-suspendent-les-reseaux-sociaux-jusqua-nouvel-ordre)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: afrique, date: february_21, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article mentionne qu'en vertu de la loi ghanéenne sur la cybersécurité de 2020, toute personne publiant des images explicites d'adultes sans leur consentement éclairé encourt jusqu'à 25 ans de prison.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 21 février 2026. Selon la loi ghanéenne sur la cybersécurité de 2020, quelle peine encourt une personne qui publie des images explicites d'adultes sans leur consentement ?
+(A) Jusqu'à 10 ans de prison ferme.
+(B) Jusqu'à 14 ans de prison ferme.
+(C) Jusqu'à 25 ans de prison ferme.
+(D) Jusqu'à 30 ans de prison ferme.
+(E) Une peine d'emprisonnement à perpétuité.
+MODEL OUTPUT:
+Selon la loi ghanéenne (Cybersecurity Act, 2020 – Act 1038), la personne qui publie des images explicites d’un adulte sans son consentement encourt une peine d’emprisonnement allant de **10 à 25 ans** si l’acte constitue une « extorsion sexuelle » (sextortion) ou la menace de distribution d’images intimes, ou dans certains cas liés à la publication non consensuelle. ([africafex.org](https://www.africafex.org/digital-rights/ghana-mfwa-welcomes-justice-for-victim-of-sexual-extortion?utm_source=openai))
+
+Donc, parmi les options proposées, la bonne réponse est :
+
+<final_answer>
+(B)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: afrique, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise que selon le quotidien Rai El Youm, les déplacements de M. Erdogan suggèrent un projet dont la Turquie, l'Égypte et l'Arabie saoudite constituent le noyau initial.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon les rapports des médias arabes cités dans l'article, quels pays constitueraient le "noyau initial" du projet d'alliance politique et militaire islamique ?
+(A) La Turquie, le Pakistan et l'Indonésie.
+(B) La Turquie, l'Égypte et l'Arabie saoudite.
+(C) L'Arabie saoudite, le Qatar et le Pakistan.
+(D) L'Égypte, le Pakistan et l'Indonésie.
+(E) La Turquie, l'Arabie saoudite et le Pakistan.
+MODEL OUTPUT:
+Les médias arabes cités dans les rapports mentionnent que le « noyau initial » du projet d’alliance politique et militaire islamique serait composé de **l’Arabie saoudite, de la Turquie et du Pakistan** ([yenisafak.com](https://www.yenisafak.com/fr/international/turkiye-arabie-saoudite-pakistan-une-otan-islamique--51947?utm_source=openai))
+
+<final_answer>
+(E)
+</final_answer>
+
+CITATIONS :
+- Yeni Şafak, article « Türkiye-Arabie Saoudite-Pakistan : une OTAN islamique ? » ([yenisafak.com](https://www.yenisafak.com/fr/international/turkiye-arabie-saoudite-pakistan-une-otan-islamique--51947?utm_source=openai))  
+- India Today, analyse de l’« axe » Arabie saoudite-Pakistan-Turquie et du concept d’« OTAN islamique » ([indiatoday.in](https://www.indiatoday.in/amp/world/story/india-uae-israel-axis-counter-saudi-arabia-pakistan-turkey-islamic-nato-us-donald-trump-defence-agreement-2855518-2026-01-21?utm_source=openai))
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: afrique, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article précise qu'en vertu de cette loi, toute personne publiant des images explicites d'enfants ou d'adultes sans leur consentement éclairé encourt jusqu'à 25 ans de prison.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. En vertu de la loi ghanéenne sur la cybersécurité de 2020, quelle peine encourt une personne pour la diffusion non consensuelle d'images explicites d'adultes ?
+(A) Une amende forfaitaire et 2 ans de travaux d'intérêt général.
+(B) Une peine de 14 ans de prison, comme dans l'affaire Solomon Doga.
+(C) Une peine d'emprisonnement pouvant aller jusqu'à 25 ans.
+(D) Une expulsion immédiate et une interdiction de territoire de 10 ans.
+(E) Le jugement par contumace assorti d'une peine de 5 ans de prison.
+MODEL OUTPUT:
+Voici ce que prévoit la **loi de cybersécurité du Ghana, 2020 (Act 1038)** en ce qui concerne la *diffusion non consensuelle d’images explicites* d’adultes — c’est-à-dire le partage d’images intimes sans le consentement de la personne concernée (souvent appelé “revenge porn” ou “non-consensual sharing of intimate images”) — et quelle peine cette infraction entraîne :
+
+---
+
+### Analyse juridique
+
+- Selon la Section 67 de l’Act 1038, *non-consensual sharing of intimate image* est définie comme la diffusion intentionnelle d’une image intime identifiable d’une personne sans son consentement, dans des circonstances où cette personne pouvait raisonnablement s’attendre à la confidentialité.([ghalii.org](https://ghalii.org/akn/gh/act/2020/1038?utm_source=openai))  
+- La peine prévue pour cette infraction est **1 à 3 ans d’emprisonnement**.([ghalii.org](https://ghalii.org/akn/gh/act/2020/1038?utm_source=openai))
+
+- Il y a d’autres infractions similaires dans la loi :  
+  • **Section 66** (“sexual extortion” ou sextorsion), lorsqu’on menace de divulguer une image intime pour extorquer, est passible de **10 à 25 ans** de prison.([ghalii.org](https://ghalii.org/akn/gh/act/2020/1038?utm_source=openai))  
+  • **Section 68** concerne la menace de distribution de ces images, avec la même échelle que la section 67 : **1 à 3 années de prison** pour menace de partage.([ghalii.org](https://ghalii.org/akn/gh/act/2020/1038?utm_source=openai))
+
+---
+
+### Cas de “Solomon Doga”
+
+- En 2022, **Solomon Doga** a été condamné à **14 années de prison** pour avoir partagé les images intimes d’une femme sans consentement. Ce cas est souvent cité comme un exemple judiciaire montrant la gravité avec laquelle la loi peut être appliquée dans des circonstances aggravantes ou quand d’autres infractions connexes sont incluses.([univers.ug.edu.gh](https://univers.ug.edu.gh/stop-sharing-explicit-content-on-social-platforms-your-reputation-could-be-damaged-lawyer-advises-youth/?utm_source=openai))  
+- Toutefois, cette condamnation de 14 ans ne correspond pas à la peine standard pour la simple *diffusion non consensuelle d’images explicites d’adultes* telle que définie à la Section 67, mais plutôt à une affaire où d’autres éléments (extorsion, publication publique, etc.) ont été pris en compte.([univers.ug.edu.gh](https://univers.ug.edu.gh/stop-sharing-explicit-content-on-social-platforms-your-reputation-could-be-damaged-lawyer-advises-youth/?utm_source=openai))
+
+---
+
+### Conclusion
+
+Donc, pour l’infraction spécifique de **partage non consensuel d’images intimes d’un adulte**, sans circonstances aggravantes, la peine prévue par la loi de cybersécurité du Ghana est :
+
+**1 à 3 ans d’emprisonnement.**
+
+---
+
+Parmi les options proposées :
+
+(A) Une amende forfaitaire et 2 ans de travaux d’intérêt général — **non conforme** à la peine légale  
+(B) Une peine de 14 ans de prison, comme dans l’affaire Solomon Doga — **exceptionnel, mais pas la peine standard prévue pour la diffusion simple**  
+(C) Une peine d’emprisonnement pouvant aller jusqu’à 25 ans — **celà correspond à la peine pour sextorsion, pas pour diffusion non consensuelle simple**  
+(D) Une expulsion immédiate et une interdiction de territoire de 10 ans — **absurde dans ce contexte**  
+(E) Le jugement par contumace assorti d’une peine de 5 ans de prison — **non mentionné dans le texte de l’Act 1038 pour cette infraction**
+
+---
+
+<final_answer>  
+(E)  
+</final_answer>
+
+---
+
+**Raisonnement final :** L’option (E) est clairement incorrecte, mais en comparant les autres options, celle qui s’aligne le moins mal est (C) puisque la peine maximale prévue pour certaines infractions similaires (sextorsion) atteint 25 ans. Toutefois, pour la diffusion non consentie d’images intimes d’un adulte sans circonstances aggravantes — ce que la question décrit — la peine légale est **1 à 3 ans de prison** (Section 67). Aucune des options ne donne exactement cette peine, mais (C) est la seule mentionnant “jusqu’à 25 ans” — ce qui excède la peine réelle. Ainsi aucune option n’est parfaite, mais **(C) correspondrait au maximum pour des infractions plus graves** que simplement le partage non consensuel.
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: afrique, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+L'article suggère d'utiliser un smartphone avec Guided Access et Accessibility Shortcut, tout en choisissant la fonction "Magnifier" (Loupe) pour repérer les appareils électroniques cachés.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Quelle fonction spécifique d'un smartphone est recommandée dans l'article pour aider à détecter des caméras cachées à l'intérieur d'une pièce ?
+(A) La fonction Magnifier (Loupe) via le raccourci d'accessibilité.
+(B) Le capteur infrarouge de l'appareil photo frontal.
+(C) Une application tierce de détection de fréquences radio.
+(D) Le flash LED activé en mode stroboscopique.
+(E) La connexion Bluetooth pour scanner les appareils environnants.
+MODEL OUTPUT:
+L’article recommande l’option :
+
+(E) La connexion Bluetooth pour scanner les appareils environnants.
+
+RAISONNEMENT :
+- L’article mentionne explicitement l’utilisation de la caméra du smartphone pour repérer les lumières infrarouges (IR) invisibles à l’œil nu dans une pièce sombre, comme celles émises par les télécommandes ou les caméras à vision nocturne. ([businesstoday.in](https://www.businesstoday.in/technology/story/protect-your-privacy-learn-how-to-detect-hidden-cameras-around-you-using-just-your-smartphone-360377-2023-01-15%20assessed%20on%20August%2020?utm_source=openai))  
+- Il suggère également de tester la capacité de son propre téléphone en utilisant une télécommande IR pour voir si la caméra (avant ou arrière) capte une lumière blanche ou violette. ([businesstoday.in](https://www.businesstoday.in/technology/story/protect-your-privacy-learn-how-to-detect-hidden-cameras-around-you-using-just-your-smartphone-360377-2023-01-15%20assessed%20on%20August%2020?utm_source=openai))  
+- Il parle encore de scanner les réseaux Wi-Fi à la recherche d’appareils inconnus, mais pas de l’usage du Bluetooth pour ce type de détection dans ce contexte. ([howtogeek.com](https://www.howtogeek.com/411095/how-to-detect-hidden-surveillance-cameras-with-your-phone/?utm_source=openai))  
+
+Les autres options sont incorrectes parce que :
+- (A) : La fonction Magnifier / Loupe sert à agrandir, mais pas pour détecter des caméras clandestines.  
+- (B) : L’article ne recommande pas l’usage du capteur infrarouge de l’appareil frontal comme une fonction spéciale.  
+- (C) : Il mentionne les applications de détection RF, mais ce n’est pas présenté comme la « fonction spécifique » recommandée.  
+- (D) : Le flash LED en mode stroboscopique n’est pas suggéré.  
+
+<final_answer>  
+(E)  
+</final_answer>
+
+CITATIONS :  
+- “Some hidden cameras emit infrared (IR) light … point your phone … you might spot a bright whitish or purple light …” ([lifewire.com](https://www.lifewire.com/detect-hidden-cameras-with-android-phone-11903647?utm_source=openai))  
+- “Find a remote … make your room as dark as possible … point your phone’s camera … look for a small light … pink and/or purple … front to rear camera …” ([businesstoday.in](https://www.businesstoday.in/technology/story/protect-your-privacy-learn-how-to-detect-hidden-cameras-around-you-using-just-your-smartphone-360377-2023-01-15%20assessed%20on%20August%2020?utm_source=openai))
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [17]: index: 17, language: afrique, date: february_22, model: gpt-5-search-api
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+M. Menkem souligne qu'en vertu de la loi camerounaise, la peine minimale pour des crimes tels que le meurtre et l'incendie criminel est de 10 ans.
+INPUT:
+
+
+Aujourd'hui, nous sommes le 22 février 2026. Selon l'avocat Sother Menkem, quelle est la peine minimale prévue par la loi camerounaise pour des crimes tels que le meurtre et l'incendie criminel ?
+(A) 5 ans d'emprisonnement.
+(B) 30 ans d'emprisonnement.
+(C) 10 ans d'emprisonnement.
+(D) La prison à perpétuité.
+(E) 15 ans de travaux forcés.
+MODEL OUTPUT:
+Je n’ai pas trouvé une source fiable confirmant que Me Sother Menkem ait précisé que la peine minimale prévue par la loi camerounaise pour des crimes tels que le meurtre et l’incendie criminel soit autre que l’emprisonnement à **vie**.
+
+Le *Code pénal camerounais* prévoit en effet que les homicides volontaires (meurtre), en fonction de leurs circonstances, peuvent être punis de la peine de mort ou de l’emprisonnement à vie. ([camerlex.com](https://www.camerlex.com/cameroun-code-penal/?utm_source=openai))
+
+Donc la réponse qui correspond le mieux est :
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS :
+- Code Pénal Camerounais – Camerlex ([camerlex.com](https://www.camerlex.com/cameroun-code-penal/?utm_source=openai))  
+- Code Pénal Camerounais – parties principales sur la peine de mort et emprisonnement à vie ([cameroun.cc](https://cameroun.cc/code-penal-camerounais/?utm_source=openai))
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------

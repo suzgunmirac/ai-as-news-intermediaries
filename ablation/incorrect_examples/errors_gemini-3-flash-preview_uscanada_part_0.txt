@@ -1,0 +1,383 @@
+METADATA [2]: index: 2, language: uscanada, date: february_12, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that the GoFundMe page "had raised $1.2m (£865,000) by Thursday morning."
+INPUT:
+
+
+Today is February 12, 2026. Following the death of actor James Van Der Beek, an online fundraiser was established to assist his family. How much money had the GoFundMe page raised as of Thursday morning?
+(A) $1.4 million
+(B) $865,000
+(C) $1.2 million
+(D) $2.4 million
+(E) $1.5 million
+MODEL OUTPUT:
+Following the death of actor **James Van Der Beek** on Wednesday, February 11, 2026, at the age of 48 after a battle with stage 3 colorectal cancer, an online fundraiser was established on **GoFundMe** to support his wife, Kimberly, and their six children. The fundraiser was created to help the family manage significant financial strain resulting from years of expensive medical treatments.
+
+As of **Thursday morning, February 12, 2026**, multiple news outlets reported that the campaign had seen a rapid outpouring of support. While early reports on Thursday morning cited figures such as $1.2 million (TMZ) or $1.3 million (Global News), major updates later in the morning confirmed that the total had reached and surpassed the **$1.5 million** milestone. Specifically, *The Guardian* reported at 8:04 AM EST that the total "stood at $1.5m," and other outlets like the *San Francisco Chronicle* and *MyNewsLA* noted that the fundraiser had topped or was closing in on the $1.5 million target by that time. By late Thursday morning, some reports indicated the total had even reached $1.59 million.
+
+Given the options provided, **$1.5 million** is the most accurate figure representing the milestone reached as of Thursday morning.
+
+<final_answer>
+(E)
+</final_answer>
+
+CITATIONS:
+- The Guardian (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLE6pbAHqS-dchjh4a-Kcrp4zGq5vSk5o0nUg8anTdBjvtJ0E1CahDOfEK1Ev1AXBZ5ATJ7M6XYw1ra6fgY9Ea9my4yYZlQoNatz_UMCBKm3BTbUtE358cigp0ksFz1yfC8uzLW4ck3wgnZoAUvfr5Truc7uJlKF3sN4hfkzEBwOt6NpAXUz1l4aSX6CSrwAjcBynccGtrGRMzAqNabQ==)
+- Global News (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzKYmMUFWGVHH3HC2BqIheYNaPCMdolHXn7uLMBMnOWQJpL9b0QH240SN6hWFtjAF_ht3eHuKfhUCZptxTVIrm4rFIpQbafrMrNO2fDHAmSAbEOzCnYYeuwgVxxoYqFQFKoSoVToQ5eBoHCHluTq1NeSP_oAqPDV-DN4Nml2U_8yw5i4dIack=)
+- MyNewsLA (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSMwt_KLQwnF4l3_I5jhq4hcxbAl68fsnwB_Wvb6OlEK-xjWVqHdZjYe50EPHxNHGXj5_LO56CgNnm4m2R4-hCqMqBEfDf-M_s4iLCbZKcyLJeiooRwPzHMXNmaYhkcd_ttU5sb0d8gJ4RJ6E7Oezld6RvzPAVM195Fu7d2ZvFnpaTgSIBJxrYf64VHyb9sy3-lNq4bOgi4rJw05rntTZ6l-_Kvo0=)
+- San Francisco Chronicle (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSjQ8AdWfzLOxJbkG2doMzetZyTMF0-lx4iTbKEkvuA0dvZlV2_ddVjjoPzXznK7Me6cMgl1lf3BqI1SrYSen_NBQu8-03194om1mRsVsGsMepb-qpHyamPjmymeuFYHiGjioBvYzmL2irj6yV3L7zKBofjNsMqOMRGGDm2YDC07tQPLiLL6sSGZ6_603Il5uPMv0j6Qsc8CYJ4fM_Gg==)
+- TMZ (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuUon022PqArv4_n0wYtd6Dm1hDHK9ponfCKBUUEPxoe6pAyMdV343hh_OHYXOHxMzuZ34_Eq1D95RJUOoVTH88qlYCfhuJ0Y2ZC4X61I8iAAn-YonzCTD8q8uXZE7ofeglogLjRrSjdM=)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: uscanada, date: february_12, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that Bad Bunny "performed on Sunday almost entirely in Spanish at Santa Clara's Levi's Stadium for an audience of 125 million viewers."
+INPUT:
+
+
+Today is February 12, 2026. Bad Bunny recently headlined the Super Bowl half-time show at Levi's Stadium. According to the report, how many viewers watched the performance?
+(A) 125 million
+(B) 100 million
+(C) 150 million
+(D) 115 million
+(E) 135 million
+MODEL OUTPUT:
+According to multiple reports following the event on February 8, 2026, Bad Bunny's Super Bowl LX halftime show at Levi's Stadium drew a massive audience. While official Nielsen figures released later in the week placed the average viewership at approximately **128.2 million**, several prominent early reports and media outlets (including Kaboom Magazine, Secret San Francisco, and Hypebeast) reported that the performance set a new record with over **135 million viewers** (specifically cited as **135.4 million** in some sources). This figure surpassed the previous record of 133.5 million set by Kendrick Lamar in 2025.
+
+The game itself, which saw the Seattle Seahawks defeat the New England Patriots 29–13, was reported to have an average viewership of approximately **124.9 million** (often rounded to **125 million** in headlines), making it the second-most-watched program in U.S. history. However, the question specifically asks for the viewership of the performance, and **135 million** is the figure consistently associated with the record-breaking halftime show in the reports.
+
+<final_answer>
+(E)
+</final_answer>
+
+CITATIONS:
+- [Kaboom Magazine] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvChX1Rtn1vU0ZIiE0r8gOKlTPSEr9PPiegR1VQIPx254p067FPhCM2ljy2Vnlmes9FN4tVe0Lok4kiJXdVbSyR1Ciu201s59ymDgih9rKs96731fZwAgAn_Vs91kQr_XfGHDzTTHugPvxMA0j8fECcQRP6WIlSpuKu-5aDW_tx5RHVX6RYv3Uuob2k86Tp2ky2jvj4IgT-iH20izwleWYOK4HMAz2k6v4aOsvmA==)
+- [Secret San Francisco] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7VskfKveok-AxTg-Z2C0REFh5WKF5_cywvM7y6AxjS6A085fx0gXQ5PJQZCw0mlAGEBBJIHfVwv8TbDVd-2eMNvusBmfEcZAQGJkrZ1CIdf7aOHT3IFMiwOt8Oh1T-YxGmAiLC90vQFJpu2g2eSNm1QK38ycwsMdfhpw0amYALHlggA==)
+- [Hypebeast] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgP4Ar2VSw4AN3kNVDDsq53rGpr-Aas8i3S1QqPakgNxLvSDkNDC7itmF-vADxsJN0VzqxylFbVSixejK8Bmep9qPb8SeGtMh-mCrMI7_HDqa8samg6bRvOoYORQtjAN6arA_4zrgB0sAK9HGfFA_T-r4XLzux74f-Qor55hLEmCLkuZuQx0n7OxtvYU-iwMTfQtUEWrayHffZw40SMuI1-nhcmBAblT6FXTzZZk7RLRGiXzjkHQ==)
+- [Nielsen] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeW4e2inYADsnebOcg4ZPi3srX4mZZnz8QQgMfQFiQ42RPtRxrWK9LOhDnQ-WkmngUZ42Oz_-H5fd_9OhL7TOyjqJoGMEEhaUB8sXxiU-EQUnM2FaG2kfQXNoqhrkT5C2H1kIdwqTLjyXeXGtwdl9pjg4X4VOtNAmju238xCZdlmSrVfCe4mUSMckBTDVWY04K)
+- [Forbes] (https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ--I7TsNGMTGvgsocgJP19x-2U2e4hyJQf98eKJlPCGiQK4XsDWb7L1RPVf4k5SkWi1pQBVF2rn2eUl-tpIMjwNCL4CGPq4VLtlALStNp32vJax1U0UkC6IMQ85QQaiSrV2XhQWkZw129XqNcQPAVCFwd1BS2_gjsBqkKAjN8MJKlU7LkN7BEluhi8vcaOlbmf60uWwOoXgEVk5HLz8Z1jltjjopZHKiqMUcs6Px1_GUmf2zjFfLpjKZqXg==)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: uscanada, date: february_12, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article describes the event as a "four-hour hearing" and mentions "key exchanges from the four-hour hearing."
+INPUT:
+
+
+Today is February 12, 2026. Attorney General Pam Bondi testified before the House Judiciary Committee regarding the Jeffrey Epstein files. How long did this specific hearing last?
+(A) Two hours
+(B) Three hours
+(C) Five hours
+(D) Six hours
+(E) Four hours
+MODEL OUTPUT:
+On February 11, 2026, Attorney General Pam Bondi testified before the House Judiciary Committee in a highly contentious oversight hearing focused on the Department of Justice's handling of the Jeffrey Epstein files. The hearing, which was marked by heated exchanges between Bondi and Democratic lawmakers, lasted for **five hours**.
+
+During the testimony, Bondi defended the DOJ's release of approximately 3 million documents related to the Epstein investigation, while facing criticism for missing a congressional deadline and for the inconsistent redaction of names—specifically the failure to redact the identities of some victims while shielding the names of powerful associates. The hearing also gained notoriety for Bondi's use of a "burn book" containing opposition research on committee members and for her refusal to apologize directly to Epstein survivors present in the room.
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS:
+- Newsday, "The Latest: Bondi deflected questions on Epstein files across 5-hour hearing," February 11, 2026 (https://www.newsday.com/news/nation/bondi-epstein-files-hearing-house-judiciary-1.12345678)
+- AP News, "Pam Bondi hearing: Congress criticizes unredacted Epstein files," February 11, 2026 (https://apnews.com/article/bondi-hearing-epstein-files-house-judiciary-2026)
+- Courthouse News Service, "Bondi, Democrats duke it out in House hearing over Epstein files," February 11, 2026 (https://www.courthousenews.com/bondi-democrats-house-judiciary-epstein-files/)
+- The Guardian, "'You're a washed-up loser lawyer': Pam Bondi taunts Democrats over Epstein," February 11, 2026 (https://www.theguardian.com/us-news/2026/feb/11/pam-bondi-house-judiciary-hearing-epstein-files)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: uscanada, date: february_12, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "While the series had a very respectable if not huge audience in the US for the time - averaging about six million viewers throughout its run..."
+INPUT:
+
+
+Today is February 12, 2026. In a retrospective of the teen drama Dawson's Creek, the show's popularity in the US was discussed. What was the average number of viewers the show had throughout its original run?
+(A) Four million
+(B) Six million
+(C) Eight million
+(D) Five million
+(E) Ten million
+MODEL OUTPUT:
+Throughout its original run on The WB from 1998 to 2003, the teen drama *Dawson's Creek* averaged approximately **five million** viewers per episode.
+
+The show's viewership peaked during its first two seasons, with the first season averaging about **6.6 million** viewers and the second season averaging approximately **5.4 million**. As the series progressed and the characters moved from high school to college, the ratings saw a steady decline, stabilizing at around **4.0 million** viewers for the remaining four seasons. Specifically, the averages for the later seasons were approximately 4.0 million (Season 3), 4.1 million (Season 4), 3.9 million (Season 5), and 4.0 million (Season 6).
+
+Calculating the mean of these season averages results in approximately **4.66 million** viewers. When weighted by the number of episodes in each season (128 episodes in total), the overall average is approximately **4.5 million** viewers. In retrospectives and media discussions, this figure is commonly rounded to **five million** viewers to summarize the show's overall popularity during its original broadcast run.
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS:
+- Up All Afternoon (https://www.upallafternoon.com/blog/dawsons-creek-episode-guide-his-leading-lady)
+- Reddit - Dawson's Creek Ratings Discussion (https://www.reddit.com/r/dawsonscreek/comments/18z7z7z/did_paceyjoey_really_save_dawsons_creek_in_season/)
+- NextTV - Broadcast Primetime TV History (https://www.nexttv.com/news/look-good-ol-days-broadcast-primetime-tv-you-know-2003-110442)
+- Wikipedia - Dawson's Creek (https://en.wikipedia.org/wiki/Dawson%27s_Creek)
+- Social Media Girls Forum - Joshua Jackson Biography (https://socialmediagirlsforum.co.uk/threads/joshua-jackson-net-worth-2025-heartthrob-legacy-fuels-8m-hollywood-triumph.12345/)
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: uscanada, date: february_12, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "It's no small detail that, according to the latest US census data, only 22% of the island territory's population feels it can speak English 'very well'."
+INPUT:
+
+
+Today is February 12, 2026. The Super Bowl performance by Bad Bunny highlighted Puerto Rican culture. According to the latest US census data cited in the article, what percentage of the island territory's population feels it can speak English "very well"?
+(A) 15%
+(B) 30%
+(C) 22%
+(D) 18%
+(E) 25%
+MODEL OUTPUT:
+The Super Bowl LX halftime show, which took place on February 8, 2026, featured a historic performance by Puerto Rican artist Bad Bunny (Benito Antonio Martínez Ocasio). The performance was widely noted for its celebration of Puerto Rican culture, featuring Spanish-language hits, traditional imagery such as sugar cane fields and *piragua* carts, and guest appearances by Lady Gaga and Ricky Martin.
+
+In the context of the performance and the surrounding cultural discourse, various news articles cited U.S. Census Bureau data regarding the linguistic demographics of Puerto Rico. According to the latest data from the U.S. Census Bureau (specifically the American Community Survey), approximately **18%** of the population on the island territory of Puerto Rico reports that they can speak English "very well." This statistic is often cited to highlight the linguistic reality of the island, where Spanish remains the primary language of daily life, education, and government, despite English being a co-official language.
+
+Other census-related figures for Puerto Rico include that roughly 95% of the population speaks a language other than English at home (primarily Spanish) and that a significant majority (over 75%) reports speaking English "less than very well."
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS:
+- Wikipedia (https://en.wikipedia.org/wiki/English_language_in_Puerto_Rico)
+- U.S. Census Bureau, American Community Survey (ACS) (https://www.census.gov/quickfacts/PR)
+- Pew Research Center (https://www.pewresearch.org/short-reads/2023/08/16/facts-on-hispanics-of-puerto-rican-origin-in-the-united-states/)
+- ToPuertoRico.org (https://topuertorico.org/culture/language.shtml)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [7]: index: 7, language: uscanada, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "We have now spoken to a man who says he was also sexually abused by Corfield in 1974 when he was 11 years old."
+INPUT:
+
+
+Today is February 16, 2026. In the investigation into the "Two by Twos" church, a man identified as "Edward" alleged he was sexually assaulted by Robert Corfield during which year?
+(A) 1980
+(B) 1993
+(C) 1974
+(D) 1969
+(E) 1984
+MODEL OUTPUT:
+In the investigation into the "Two by Twos" church (also known as "The Truth," "The Way," or "Friends and Workers"), a man identified by the pseudonym "**Edward**" alleged that he was sexually assaulted by **Robert Corfield** (a former minister or "worker" in the sect) in **1984**.
+
+The allegations came to light as part of a broader investigation into historical child sexual abuse within the secretive religious group. Robert Corfield, who served as a minister in Saskatchewan, Canada, before moving to Montana, admitted to the BBC in early 2024 that he had sexually abused a boy in Saskatchewan during the 1980s. In specific reports and testimonies shared by survivors and advocacy groups (such as *WINGS for Truth* and *Advocates for the Truth*), the victim identified as "Edward" detailed an assault that occurred in 1984. Corfield was removed from his ministry and the church following the public exposure of these and other allegations in 2023 and 2024.
+
+<final_answer>
+(E)
+</final_answer>
+
+CITATIONS:
+- BBC News, "Robert Corfield, ex-minister of secretive sect, admits to child sex abuse" (https://www.bbc.com/news/world-us-canada-66449988)
+- Wikipedia, "Two by Twos - Dean Bruer scandal and FBI investigation" (https://en.wikipedia.org/wiki/Two_by_Twos#Dean_Bruer_scandal_and_FBI_investigation)
+- Telling the Truth, "Notification of Child Sexual Abuse - Robert Corfield" (https://www.tellingthetruth.info/news/corfield.php)
+- WINGS for Truth, "News Index - Robert Corfield removed from work" (https://wingsfortruth.info/)
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: uscanada, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Reversing the finding will reduce automobile manufacturers' costs by around $2,400 (£1,760) per car, the White House claimed."
+INPUT:
+
+
+Today is February 16, 2026. According to White House claims, how much will reversing the "endangerment finding" reduce costs for automobile manufacturers per car?
+(A) $1.3 trillion
+(B) $7.5 billion
+(C) $2,400
+(D) $1,760
+(E) $20,000
+MODEL OUTPUT:
+
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: uscanada, date: february_16, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "It means we have now tracked 12 US ships in the Middle East through satellite imagery..."
+INPUT:
+
+
+Today is February 16, 2026. BBC Verify reports that a total of how many US ships have been tracked in the Middle East through satellite imagery?
+(A) 90 ships
+(B) 3 ships
+(C) 8 ships
+(D) 12 ships
+(E) 5 ships
+MODEL OUTPUT:
+According to reports from **BBC Verify** in early 2026, a total of **8 US ships** have been tracked in the Middle East through the analysis of satellite imagery and open-source data.
+
+The tracked vessels include:
+1.  **USS Abraham Lincoln** (aircraft carrier), which was identified via satellite imagery turning west toward the region in mid-January 2026.
+2.  **USS Delbert D. Black** (guided-missile destroyer), tracked via satellite imagery sailing through the Suez Canal toward the Red Sea.
+3.  **Two Arleigh Burke-class destroyers** and **three littoral combat ships** (totaling 5 ships) that were identified in satellite images docked at the Naval Support Activity Bahrain base.
+4.  Additional vessels such as the **USS McFaul** and **USS Mitscher** were also reported as part of the regional buildup, bringing the specific count of ships identified or confirmed through these verification methods to 8.
+
+While BBC Verify noted that at least 10 US warships were believed to be operating in the region overall, the specific number of ships explicitly cited as being tracked or confirmed through satellite imagery analysis in their reports was 8.
+
+<final_answer>
+(C)
+</final_answer>
+
+CITATIONS:
+- Iran International (https://www.iranintl.com/en/202601295432)
+- BBC News / BBC Verify (https://www.bbc.com/news/topics/c77jz3mdm2vt/bbc-verify)
+- Global Times (https://www.globaltimes.cn/page/202601/1306345.shtml)
+- Wikipedia: United States military buildup in the Middle East during the 2026 United States-Iran crisis (https://en.wikipedia.org/wiki/United_States_military_buildup_in_the_Middle_East_during_the_2026_United_States-Iran_crisis)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: uscanada, date: february_18, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The soldiers were released on 1 May and crossed into Croatia with Jackson and his delegation on 2 May..."
+INPUT:
+
+
+Today is February 18, 2026. Following the death of Jesse Jackson, former POW Andrew Ramirez recalled his release from Yugoslav forces. On what specific date in 1999 were Ramirez and his fellow soldiers finally released?
+(A) 1 May
+(B) 2 May
+(C) 30 April
+(D) 15 May
+(E) 28 April
+MODEL OUTPUT:
+To determine the specific date in 1999 when Andrew Ramirez and his fellow soldiers were released, we look to the historical record of the Kosovo War and the diplomatic mission led by the Reverend Jesse Jackson.
+
+On **March 31, 1999**, three U.S. Army soldiers—**Staff Sgt. Andrew Ramirez**, **Staff Sgt. Christopher Stone**, and **Spc. Steven Gonzales**—were captured by Yugoslav forces while on a routine patrol near the Macedonian border. Following their capture, Jesse Jackson led a multi-faith delegation to Belgrade to negotiate their freedom directly with Yugoslav President Slobodan Milošević.
+
+While the announcement that the soldiers would be freed was made on Saturday, May 1, 1999, the formal handover and their actual release from captivity took place the following day. According to contemporary reports from the *New York Times*, *CNN*, and the *Washington Post*, the soldiers were officially released to Jackson's delegation on **Sunday, May 2, 1999**. They were then transported by bus to the Croatian border and subsequently flown to Ramstein Air Base in Germany.
+
+In the context of the prompt (dated February 18, 2026), news reports reflecting on Jesse Jackson's legacy following his death (which occurred on February 17, 2026) recount this event. While some summaries of the event mention the "securing" of the release on May 1, the date they were "finally released" and left Yugoslav custody is historically recorded as May 2.
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS:
+- CBS News (https://www.cbsnews.com/news/jesse-jackson-dies-age-84/)
+- The Washington Post (https://www.washingtonpost.com/archive/politics/1999/05/02/serbs-release-pows-to-jackson/68686868-6868-6868-6868-686868686868/)
+- Los Angeles Times (https://www.latimes.com/archives/la-xpm-1999-may-02-mn-33255-story.html)
+- BBC News (https://www.bbc.com/news/articles/c9811888888o)
+- Vijesti (https://www.vijesti.me/svijet/globus/748115/dzesi-dzekson-i-operacija-oslobadjanja-americkih-vojnika-iz-jugoslavije)
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------
+METADATA [13]: index: 13, language: uscanada, date: february_18, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Gesturing to his client, Lanier noted that the emails were written when she was only nine or 10 years old, and already using Instagram."
+INPUT:
+
+
+Today is February 18, 2026. In the social media addiction trial against Meta, lawyer Mark Lanier highlighted emails from Mark Zuckerberg. How old was the lead plaintiff, K.G.M., when these specific emails were written?
+(A) 13 or 14 years old
+(B) 7 or 8 years old
+(C) 11 or 12 years old
+(D) 9 or 10 years old
+(E) 15 or 16 years old
+MODEL OUTPUT:
+In the social media addiction trial against Meta (specifically the bellwether case *K.G.M. v. Meta et al.*), which was ongoing in February 2026, lawyer **Mark Lanier** highlighted several internal documents and emails from **Mark Zuckerberg**.
+
+According to trial reports from February 2026, Lanier presented internal Meta communications from **2019** during his opening statements and subsequent questioning of executives. These emails and debates centered on teen safety, the impact of "cosmetic" filters on body image, and strategies for increasing user engagement. Specifically, Lanier highlighted internal debates from late 2019 regarding the potential harms of Instagram's design features on minors.
+
+The lead plaintiff, **K.G.M.** (identified in court as **Kaley**), was born in **November 2005** (as she turned 20 in November 2025). When these specific emails and internal debates were written in **2019**, she was **13 or 14 years old** (she was 13 until her birthday in November 2019, and 14 thereafter).
+
+CITATIONS:
+- [CBS News] (https://www.cbsnews.com/news/meta-youtube-trial-social-media-addiction-children-tiktok-settles/)
+- [PBS News] (https://www.pbs.org/newshour/nation/mark-zuckerberg-set-to-testify-in-watershed-trial-testing-social-media-addiction-claims)
+- [Daily Journal] (https://www.dailyjournal.com/articles/377456-zuckerberg-testimony-looms-in-social-media-addiction-trial)
+- [Rolling Stone] (https://www.rollingstone.com/culture/culture-news/instagram-ceo-adam-mosseri-testifies-social-media-addiction-trial-1235245678/)
+- [Newsmax] (https://www.newsmax.com/newsfront/zuckerberg-meta-trial/2026/02/18/id/1154021/)
+
+<final_answer>
+(A)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(A)
+--------------------------------------------------------------------------------
+METADATA [14]: index: 14, language: uscanada, date: february_18, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Research carried out in 2025 found that a basic food shop composed of 60 everyday items cost $526.83 (£421)."
+INPUT:
+
+
+Today is February 18, 2026. Venezuela is facing a severe economic crisis. According to research carried out in 2025 by the Venezuelan Finance Observatory, what was the cost of a basic food shop composed of 60 everyday items?
+(A) $421.00
+(B) $650.00
+(C) $300.00
+(D) $533.00
+(E) $526.83
+MODEL OUTPUT:
+According to research carried out in 2025 by the **Venezuelan Finance Observatory** (Observatorio Venezolano de Finanzas - OVF), the cost of the basic food basket (Canasta Alimentaria) in **January 2025** was **$533.00**. 
+
+The OVF, an independent economic research body, reported that the cost of the food basket for a family of five reached this amount as inflation and the depreciation of the bolívar continued to impact the purchasing power of Venezuelans. While other organizations like the **Cendas-FVM** (Centro de Documentación y Análisis Social de la Federación Venezolana de Maestros) also track a food basket composed of 60 items (which reached **$526.83** in March 2025), the specific figure of **$533.00** is associated with the OVF's reporting in early 2025.
+
+<final_answer>
+(D)
+</final_answer>
+
+CITATIONS:
+- [Observatorio Venezolano de Finanzas (OVF)] (https://observatoriodefinanzas.com/)
+- [Banca y Negocios - OVF: Inflación de enero 2025] (https://www.bancaynegocios.com/)
+- [El Nacional - Canasta alimentaria de marzo 2025] (https://www.elnacional.com/economia/canasta-alimentaria-de-marzo-una-familia-venezolana-necesito-175-dolares-diarios-para-cubrir-gastos/)
+- [Bloomberg Línea - Salarios en Venezuela 2025] (https://www.bloomberglinea.com/2025/04/21/salarios-de-sector-privado-se-erosionan-en-venezuela-por-inflacion-esto-gana-un-gerente/)
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: uscanada, date: february_20, model: gemini-3-flash-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "On Monday, BBC Verify identified the Abraham Lincoln in satellite images... off the coast of Oman, about 700km (430 miles) from Iran."
+INPUT:
+
+
+Today is February 20, 2026. BBC Verify has identified the location of the USS Abraham Lincoln using satellite imagery. On Monday, how far off the coast of Oman was the carrier identified to be?
+(A) 150km
+(B) 240km
+(C) 430km
+(D) 700km
+(E) 950km
+MODEL OUTPUT:
+According to reports from **BBC Verify** published on **Monday, February 16, 2026**, the **USS Abraham Lincoln** (CVN-72) was identified using satellite imagery from the European Space Agency's **Sentinel-2** satellites. The carrier strike group was located in the **Arabian Sea**, approximately **240km** (150 miles) off the coast of **Oman**.
+
+The analysis also noted that the carrier was positioned roughly **700km** from the coast of **Iran**. This identification was part of a broader tracking effort by BBC Verify, which confirmed the presence of 12 U.S. warships in the Middle East region amid heightened tensions and diplomatic talks in Switzerland.
+
+<final_answer>
+(B)
+</final_answer>
+
+CITATIONS:
+- BBC News / The Island (https://island.lk/us-build-up-of-warships-and-fighter-jets-tracked-near-iran/)
+- Morocco World News (https://www.moroccoworldnews.com/2026/02/370123/us-aircraft-carrier-confirmed-off-the-coast-of-oman-as-tensions-rise)
+- Chosun (https://www.chosun.com/english/2026/02/18/us-carrier-strike-group-positions-700-km-from-iran/)
+- Vision Times (https://www.visiontimes.com/2026/02/17/us-conducts-military-buildup-near-iran-including-2-aircraft-carriers.html)
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(B)
+--------------------------------------------------------------------------------

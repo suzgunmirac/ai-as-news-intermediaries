@@ -1,0 +1,520 @@
+METADATA [15]: index: 15, language: uscanada, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Jeneroux told reporters that the prime minister's speech at the World Economic Forum last month is what ultimately swayed his decision to join the Liberals."
+INPUT:
+
+
+Today is February 18, 2026. Canadian MP Matt Jeneroux has defected to the Liberal Party. What specific event did Jeneroux cite as the ultimate reason for his decision to join Prime Minister Mark Carney's government?
+(A) Carney's speech at the World Economic Forum
+(B) Pierre Poilievre's leadership vote
+(C) A meeting with his family over the holidays
+(D) The resignation of Chrystia Freeland
+(E) A private meeting with the US President
+MODEL OUTPUT:
+Canadian Member of Parliament Matt Jeneroux recently announced his decision to join Prime Minister Mark Carney's Liberal government. In his statement, Jeneroux cited a private meeting with U.S. President Joe Biden as the pivotal factor influencing his decision. He expressed that the meeting provided him with a new perspective on the direction of Canadian politics and the importance of collaboration with international partners.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: uscanada, date: february_18, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "He said the skiers spent two nights at huts on a trip that involved navigating 'rugged mountainous terrain' for 4 miles (6.4km) while carrying food and supplies."
+INPUT:
+
+
+Today is February 18, 2026. Nine skiers are missing in the Sierra Nevada. According to forecaster Steve Reynaud, how many miles did the group navigate through "rugged mountainous terrain" during their three-day trip before the avalanche?
+(A) 15 miles
+(B) 10 miles
+(C) 6.4 miles
+(D) 4 miles
+(E) 12 miles
+MODEL OUTPUT:
+According to forecaster Steve Reynaud, the group of skiers navigated through "rugged mountainous terrain" for up to 4 miles (6.4 kilometers) during their three-day trip before the avalanche. ([wdrb.com](https://www.wdrb.com/news/national/crews-search-for-9-skiers-missing-after-california-avalanche-near-lake-tahoe/article_8d6e0c13-ed24-5cb1-8196-47af7d5745e6.html?utm_source=openai))
+
+Given the options provided, the correct answer is (C) 6.4 miles.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [1]: index: 1, language: uscanada, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article mentions that "The ballroom was initially expected to have capacity of 500 people but it has since been expanded to 1350."
+INPUT:
+
+
+Today is February 19, 2026. The US Commission of Fine Arts has approved the design for a new White House ballroom. What is the current planned capacity for this new facility?
+(A) 500 people
+(B) 1350 people
+(C) 2000 people
+(D) 150 people
+(E) 1200 people
+MODEL OUTPUT:
+The White House State Ballroom, approved by the U.S. Commission of Fine Arts on February 19, 2026, is designed to accommodate approximately 1,000 people. ([apnews.com](https://apnews.com/article/f2a15d0b1c9c95f24816fe60b6b1ee5f?utm_source=openai)) This capacity is significantly larger than the East Room's current capacity of about 200 people. ([washingtonpost.com](https://www.washingtonpost.com/politics/2025/07/31/trump-ballroom-east-wing-overhaul/?utm_source=openai))
+
+The ballroom's design has evolved over time. Initially, it was announced to have a capacity of 650 people. However, in September 2025, President Trump indicated that the ballroom would be expanded to accommodate 900 people. ([the-independent.com](https://www.the-independent.com/news/world/americas/us-politics/trump-ballroom-white-house-campus-capacity-b2826871.html?utm_source=openai)) The most recent information indicates a capacity of approximately 1,000 people. ([apnews.com](https://apnews.com/article/f2a15d0b1c9c95f24816fe60b6b1ee5f?utm_source=openai))
+
+Given the options provided:
+
+- (A) 500 people
+- (B) 1350 people
+- (C) 2000 people
+- (D) 150 people
+- (E) 1200 people
+
+The closest match to the current planned capacity is 1,000 people. Since none of the options exactly match this number, the most appropriate choice is (E) 1200 people, as it is the closest to the actual capacity.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: uscanada, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Guthrie was last seen at her Tucson, Arizona, home on 31 January when a family member dropped her off there."
+INPUT:
+
+
+Today is February 19, 2026. Investigators are searching for Nancy Guthrie, the mother of news anchor Savannah Guthrie. On what specific date was she last seen at her home in Tucson, Arizona?
+(A) 1 February
+(B) 10 February
+(C) 30 January
+(D) 31 January
+(E) 19 February
+MODEL OUTPUT:
+Nancy Guthrie, the 84-year-old mother of "Today" show host Savannah Guthrie, was last seen at her home in Tucson, Arizona, on the evening of January 31, 2026. She was reported missing on February 1, 2026, after not showing up for church. ([fox5atlanta.com](https://www.fox5atlanta.com/news/nancy-guthrie-timeline-disappearance-released-arizona-sheriff?utm_source=openai))
+
+Therefore, the correct answer is (C) 30 January.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [4]: index: 4, language: uscanada, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article notes: "Overall, the deficit in goods and services - which takes into account things like travel and digital services - was $901.5bn last year."
+INPUT:
+
+
+Today is February 19, 2026. Official figures show the US trade deficit hit a new high last year. What was the specific deficit amount for goods and services combined?
+(A) $1.2 trillion
+(B) $3.4 trillion
+(C) $202.1 billion
+(D) $890 billion
+(E) $901.5 billion
+MODEL OUTPUT:
+In 2025, the United States recorded a trade deficit of $901.5 billion, slightly down from $904 billion in 2024. This figure represents the combined deficit for goods and services. The goods trade deficit reached a record $1.24 trillion, while the services trade surplus increased to $339 billion. ([apnews.com](https://apnews.com/article/9eb6bd10ff635d63e46ee99d34ce1d05?utm_source=openai))
+
+Given the options provided, the closest match to the reported deficit is:
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [6]: index: 6, language: uscanada, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The company ultimately raised the price of its Tonka plastic toy truck from $30 to roughly $35 at the end of last year."
+INPUT:
+
+
+Today is February 19, 2026. Jay Foreman, CEO of Basic Fun, discussed the impact of tariffs on toy prices. To what price did his company raise the Tonka plastic toy truck at the end of last year?
+(A) $30
+(B) $35
+(C) $12.99
+(D) $45
+(E) $32.50
+MODEL OUTPUT:
+In late 2025, Jay Foreman, CEO of Basic Fun!, announced that the price of the Tonka Classic Steel Mighty Dump Truck would increase from $29.99 to $39.99 due to higher import duties. ([apnews.com](https://apnews.com/article/e6407f7625f0be76e752b3224ebaeb1b?utm_source=openai)) This price adjustment reflects the impact of tariffs on toy prices during that period.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [10]: index: 10, language: uscanada, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Only Democratic lawmakers attended the deposition. No Republican lawmakers travelled for it, though some of their staff members did attend."
+INPUT:
+
+
+Today is February 19, 2026. Billionaire Les Wexner recently gave a deposition regarding his relationship with Jeffrey Epstein. Which group of lawmakers attended this session?
+(A) Only Democratic lawmakers
+(B) Only Republican lawmakers
+(C) A bipartisan group of both Democrats and Republicans
+(D) Only members of the Senate Oversight Committee
+(E) Only lawmakers from Wexner's home state of Ohio
+MODEL OUTPUT:
+Billionaire Les Wexner recently testified before the House Oversight and Government Reform Committee regarding his relationship with Jeffrey Epstein. The deposition took place at Wexner's residence in New Albany, Ohio, on February 18, 2026. Democratic members of the committee attended the session, including Ranking Member Robert Garcia, Representatives Stephen Lynch, Rashida Tlaib, Jasmine Crockett, Yassamin Ansari, and Dave Min. Republican members were not present, although some Republican staffers attended. ([oversightdemocrats.house.gov](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-statement-following-deposition-of-jeffrey-epstein-client-and-billionaire-benefactor-les-wexner?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [15]: index: 15, language: uscanada, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "...the administration switched architects on the project to Shalom Baranes."
+INPUT:
+
+
+Today is February 19, 2026. The White House ballroom project has switched architects. Who is the current architect handling the project?
+(A) Shalom Baranes
+(B) James McCrery
+(C) Rodney Mims Cook Jr
+(D) Thomas Luebke
+(E) Chamberlain Harris
+MODEL OUTPUT:
+As of February 19, 2026, the White House ballroom project has undergone a change in its architectural leadership. Initially, James McCrery of McCrery Architects was appointed as the lead architect in July 2025. However, in December 2025, President Donald Trump selected Shalom Baranes Associates to take over the design of the new White House State Ballroom, which is set to replace the demolished East Wing. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shalom_Baranes_Associates?utm_source=openai))
+
+Therefore, the current architect handling the White House ballroom project is Shalom Baranes Associates.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [16]: index: 16, language: uscanada, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "The avalanche that trapped the skiers was rated as a D2.5 on a destructive potential scale of D1 to D5."
+INPUT:
+
+
+Today is February 19, 2026. The Sierra Avalanche Center rated the destructive potential of the avalanche that trapped skiers in California. What was the specific rating on the D1 to D5 scale?
+(A) D1.5
+(B) D2.5
+(C) D3.0
+(D) D5.0
+(E) D2.0
+MODEL OUTPUT:
+The Sierra Avalanche Center utilizes the Destructive Force (D) scale to assess the potential impact of avalanches. This scale ranges from D1 to D5, with D1 representing avalanches that are generally harmless to people, and D5 indicating those capable of destroying a village or a 100-acre forest. ([avalanche.org](https://avalanche.org/avalanche-encyclopedia/avalanche/avalanche-problems/avalanche-size/destructive-force-d-scale/?utm_source=openai))
+
+In the case of the avalanche that trapped skiers in California, the Sierra Avalanche Center rated its destructive potential as D2. According to the D scale, D2 avalanches are large enough to bury, injure, or kill a person. ([avalanche.org](https://avalanche.org/avalanche-encyclopedia/avalanche/avalanche-problems/avalanche-size/destructive-force-d-scale/?utm_source=openai))
+
+Therefore, the specific rating on the D1 to D5 scale for this avalanche is D2.
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [20]: index: 20, language: uscanada, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "On Wednesday, he was named the fifth most popular artist in the world in 2025 by global music industry body the IFPI."
+INPUT:
+
+
+Today is February 19, 2026. Bad Bunny was recently recognized by the IFPI for his global popularity. Where did he rank on the list of the world's most popular artists in 2025?
+(A) Fifth
+(B) First
+(C) Third
+(D) Tenth
+(E) Second
+MODEL OUTPUT:
+In 2025, Bad Bunny was recognized by the International Federation of the Phonographic Industry (IFPI) as the fifth most popular artist globally. This ranking reflects his significant commercial success across various music formats, including physical album sales, downloads, and streaming. ([ifpi.org](https://www.ifpi.org/taylor-swift-named-ifpis-official-biggest-selling-global-artist-of-the-year-for-a-sixth-time/?utm_source=openai))
+
+Therefore, the correct answer is:
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [22]: index: 22, language: uscanada, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Iran's Supreme Leader Ayatollah Ali Khamenei posted on X on Tuesday an AI-generated image of the Ford at the bottom of the ocean." (Referring to the USS Gerald R Ford).
+INPUT:
+
+
+Today is February 19, 2026. Iran's Supreme Leader Ayatollah Ali Khamenei recently posted an AI-generated image on social media. What did this image depict?
+(A) A US aircraft carrier striking Tehran
+(B) The USS Abraham Lincoln in the Strait of Hormuz
+(C) The USS Gerald R Ford at the bottom of the ocean
+(D) A nuclear explosion at an Iranian facility
+(E) A meeting between US and Iranian negotiators in Switzerland
+MODEL OUTPUT:
+In December 2025, Iran's Supreme Leader Ayatollah Ali Khamenei shared an AI-generated image on social media depicting U.S. President Donald Trump as an ancient pharaoh. The image showed a crumbling pharaonic-style sarcophagus bearing a likeness of Trump, accompanied by the caption: "Like Pharaoh." Khamenei's message suggested that rulers who seek to dominate the world, such as Pharaoh, Nimrod, Reza Khan, and Mohammad Reza, were overthrown at the height of their power, implying that Trump would face a similar fate. ([aa.com.tr](https://www.aa.com.tr/en/middle-east/iran-s-supreme-leader-posts-image-showing-trump-as-pharaoh-warns-of-downfall/3796897?utm_source=openai))
+
+This AI-generated image aligns with the option:
+
+(E) A meeting between US and Iranian negotiators in Switzerland
+
+Therefore, the correct answer is:
+
+<final_answer>
+(E)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(E)
+--------------------------------------------------------------------------------
+METADATA [23]: index: 23, language: uscanada, date: february_19, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Wexner also said he had visited Epstein's private island for 'a few hours' with his family."
+INPUT:
+
+
+Today is February 19, 2026. In his opening statement to lawmakers, Les Wexner addressed his visits to Jeffrey Epstein's private island. How long did he say he visited the island for?
+(A) Several days
+(B) One week
+(C) Overnight
+(D) A few hours
+(E) He denied ever visiting the island
+MODEL OUTPUT:
+Les Wexner testified that he visited Jeffrey Epstein's private island once, shortly after Epstein had purchased it. He stopped there for a "few hours" one morning with his wife and children while on a cruise on their boat. ([yahoo.com](https://www.yahoo.com/news/articles/billionaire-wexner-says-visited-epsteins-033352260.html?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [0]: index: 0, language: uscanada, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article explicitly states that the justices ruled that nothing in the Emergency Economic Powers Act of 1977 delegated the sweeping powers Trump used to base his tariffs on.
+INPUT:
+
+
+Today is February 20, 2026. Following the Supreme Court's ruling against President Trump's use of executive authority to impose tariffs, which specific piece of legislation did the justices determine did not delegate such sweeping powers to the president?
+(A) The Emergency Economic Powers Act of 1977
+(B) The Reciprocal Trade Agreements Act
+(C) The International Emergency Economic Powers Act of 1962
+(D) The Trade Expansion Act of 1977
+(E) The National Security Tariff Act of 1977
+MODEL OUTPUT:
+The Supreme Court ruled that former President Donald Trump overstepped his authority by using the International Emergency Economic Powers Act (IEEPA) of 1977 to impose sweeping tariffs on imports from nearly every country. ([apnews.com](https://apnews.com/article/12487645072a1e1a387db60081509f3c?utm_source=openai)) The Court determined that the IEEPA did not delegate such broad powers to the president.
+
+The IEEPA, enacted in 1977, grants the president authority to regulate or prohibit transactions during a national emergency. However, the Court found that this act does not explicitly authorize the imposition of tariffs, especially on a broad scale. ([time.com](https://time.com/7380033/supreme-court-tarriffs-ruling-trump/?utm_source=openai))
+
+Therefore, the specific piece of legislation that the justices determined did not delegate such sweeping powers to the president is the International Emergency Economic Powers Act of 1977.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [2]: index: 2, language: uscanada, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+In the interview with Brian Tyler Cohen, Obama stated: "They're real, but I haven't seen them, and they're not being kept in Area 51."
+INPUT:
+
+
+Today is February 20, 2026. President Trump has directed US agencies to release files on extraterrestrial life following comments made by Barack Obama. What specific claim did Obama make regarding Area 51 during his podcast interview?
+(A) That he saw evidence of alien technology being reverse-engineered at the site
+(B) That the facility is actually an underground conspiracy hidden from the president
+(C) That aliens are real but are not being kept at that specific location
+(D) That he visited the facility during his presidency and found no evidence of life
+(E) That the government moved all extraterrestrial evidence from Area 51 to a secret Pentagon office
+MODEL OUTPUT:
+In a recent podcast interview, former President Barack Obama addressed the topic of extraterrestrial life and the conspiracy theories surrounding Area 51. When asked if aliens are real, Obama responded affirmatively, stating, "They're real, but I haven't seen them." He further clarified that aliens are not being kept at Area 51, remarking, "There's no underground facility, unless there's this enormous conspiracy and they hid it from the president of the United States." ([theguardian.com](https://www.theguardian.com/us-news/2026/feb/16/barack-obama-no-evidence-aliens-real-interview-podcast?utm_source=openai))
+
+Obama's comments directly refute the conspiracy theory that extraterrestrial beings are being stored or studied at Area 51. He emphasized that, unless there is a vast conspiracy, such activities are not taking place at the facility.
+
+Given the options provided, the statement that best aligns with Obama's remarks is:
+
+(D) That he visited the facility during his presidency and found no evidence of life.
+
+This option reflects Obama's denial of any extraterrestrial presence at Area 51, consistent with his statements in the interview.
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [3]: index: 3, language: uscanada, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "tariff revenues soared to $240bn last year, although they appear to have levelled off."
+INPUT:
+
+
+Today is February 20, 2026. While the Supreme Court has curtailed some of President Trump's tariff powers, the administration has already collected significant revenue. According to the reported figures, how much did tariff revenues reach last year?
+(A) $110 billion
+(B) $150 billion
+(C) $210 billion
+(D) $240 billion
+(E) $320 billion
+MODEL OUTPUT:
+In 2025, the United States experienced a significant increase in tariff revenues due to the implementation of new tariffs by the Trump administration. By August 2025, the total tariff revenue had surpassed $183 billion, with a record $31.4 billion collected in August alone. ([foxbusiness.com](https://www.foxbusiness.com/politics/august-tariff-collections-reach-31-4b-largest-monthly-haul-so-far-2025?utm_source=openai)) This substantial revenue was generated from both new tariffs and existing ones. While the exact total for the entire year isn't specified in the provided sources, the figures up to August suggest that the total tariff revenue for 2025 was likely around $200 billion.
+
+Given the options:
+
+- (A) $110 billion
+- (B) $150 billion
+- (C) $210 billion
+- (D) $240 billion
+- (E) $320 billion
+
+The closest estimate to the total tariff revenue for 2025 is $210 billion.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(D)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [5]: index: 5, language: uscanada, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states that Target ALS said Dane "had helped one of its campaigns surpass a fundraising target of $500,000 (£371,000)."
+INPUT:
+
+
+Today is February 20, 2026. Actor Eric Dane has passed away following a battle with ALS. According to the organization Target ALS, what specific fundraising milestone did Dane help one of their campaigns surpass?
+(A) $500,000
+(B) $742,000
+(C) $1,000,000
+(D) $5,000,000
+(E) $1,000,000,000
+MODEL OUTPUT:
+Eric Dane, known for his roles in "Grey's Anatomy" and "Euphoria," was diagnosed with ALS in November 2024. In November 2025, he partnered with Target ALS to launch the "Ending ALS Starts with You" campaign, aiming to raise $500,000 for ALS research by December 31, 2025. ([prnewswire.com](https://www.prnewswire.com/news-releases/eric-dane-joins-target-als-for-ending-als-starts-with-you-campaign-to-raise-500-000-for-als-research-302627211.html?utm_source=openai)) By December 2025, the campaign had surpassed its original goal, raising over $700,000. ([targetals.org](https://www.targetals.org/ending-als-starts-with-you/?utm_source=openai)) Therefore, the specific fundraising milestone that Eric Dane helped one of Target ALS's campaigns surpass was $700,000.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(A)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [9]: index: 9, language: uscanada, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article identifies the sisters as "Sekar, 45, of San Francisco, and Clabaugh, 52, of Boise, Idaho."
+INPUT:
+
+
+Today is February 20, 2026. An avalanche near Lake Tahoe has resulted in multiple fatalities, including two sisters. What were the respective ages of the sisters, Caroline Sekar and Liz Clabaugh?
+(A) 38 and 42
+(B) 40 and 45
+(C) 42 and 48
+(D) 44 and 50
+(E) 45 and 52
+MODEL OUTPUT:
+The ages of the sisters Caroline Sekar and Liz Clabaugh, who tragically died in the avalanche near Lake Tahoe, are reported as 45 and 52, respectively. ([foxnews.com](https://www.foxnews.com/us/6-mothers-cherished-time-together-victims-avalanche-near-lake-tahoe/?utm_source=openai))
+
+Given the options provided, the closest match is:
+
+(D) 44 and 50
+
+Therefore, the correct answer is:
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [12]: index: 12, language: uscanada, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Justin Crump stated the build-up would allow the US to conduct a "fairly intensive and sustained strike rate of about 800 sorties a day."
+INPUT:
+
+
+Today is February 20, 2026. BBC Verify has tracked a significant US military build-up in the Middle East. According to military intelligence expert Justin Crump, what is the estimated daily sortie rate the US could conduct with its current regional assets?
+(A) 400 sorties
+(B) 600 sorties
+(C) 800 sorties
+(D) 1,000 sorties
+(E) 1,200 sorties
+MODEL OUTPUT:
+Justin Crump, a military intelligence expert, has estimated that the United States could conduct up to 1,000 sorties daily with its current regional assets in the Middle East. ([aerospaceglobalnews.com](https://aerospaceglobalnews.com/news/us-military-build-up-middle-east-aircraft-ships/?utm_source=openai))
+
+<final_answer>
+(D)
+</final_answer>
+CORRECT ANSWER:
+(C)
+PREDICTED ANSWER:
+(D)
+--------------------------------------------------------------------------------
+METADATA [19]: index: 19, language: uscanada, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+Professor Talbot is quoted saying: "10% of affected people die within the first year, 50% within two-and-a-half years and 90% by five years."
+INPUT:
+
+
+Today is February 20, 2026. Professor Kevin Talbot has provided insights into the progression of ALS following the death of Eric Dane. According to Talbot, what percentage of affected people die within five years of diagnosis?
+(A) 10%
+(B) 30%
+(C) 50%
+(D) 75%
+(E) 90%
+MODEL OUTPUT:
+Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease with varying survival rates. According to a study in Olmsted County, Minnesota, 14% of ALS patients survived five years or more following the onset of symptoms. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/20627966/?utm_source=openai)) Additionally, the ALS Association reports that about 20% of individuals with ALS live five years or more after diagnosis. ([als.org](https://www.als.org/sites/default/files/2022-10/Resource-Guide-4.pdf?utm_source=openai)) Given these statistics, it is reasonable to infer that approximately 20% of ALS patients die within five years of diagnosis.
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(E)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
+METADATA [21]: index: 21, language: uscanada, date: february_20, model: gpt-4o-mini-search-preview
+ORIGINAL EXPLANATION (NOT SEEN OR USED BY MODEL; USED BY HUMANS TO GENERATE QUESTION AND CONFIRM CORRECT ANSWER):
+The article states: "Epstein bought the property in 1993 from former New Mexico Governor Bruce King."
+INPUT:
+
+
+Today is February 20, 2026. The investigation into Jeffrey Epstein's Zorro Ranch in New Mexico has been reopened. In what year did Epstein originally purchase the property from former Governor Bruce King?
+(A) 1988
+(B) 1993
+(C) 1997
+(D) 2003
+(E) 2008
+MODEL OUTPUT:
+Jeffrey Epstein purchased the Zorro Ranch in New Mexico from former Governor Bruce King in 1993. ([apnews.com](https://apnews.com/article/12dffa70784c6f468627962da3cf51b7?utm_source=openai))
+
+<final_answer>
+(C)
+</final_answer>
+CORRECT ANSWER:
+(B)
+PREDICTED ANSWER:
+(C)
+--------------------------------------------------------------------------------
